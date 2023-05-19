@@ -6,10 +6,10 @@
 
 </div>
 
-VNHSGE is dataset for large language models, collected from the Vietnamese National High School Graduation Examination and similar
+VNHSGE is a dataset for large language models, collected from the Vietnamese National High School Graduation Examination and similar
 exams.
 
-> * Evaluate large language models in multitasks such as question answering, text generation, reading comprehension, visual question answering, and more.
+> * Evaluates large language models in multitasks such as question answering, text generation, reading comprehension, visual question answering, and more.
 > * Covers nine subjects including 300 essays on literature and 19,000 multiple-choice questions on other subjects including mathematics, physics, chemistry, biology, English, history, geography, and civic education
 > * Contains both text and images
 > * Vietnamese and English language supports
@@ -85,7 +85,7 @@ JSON format
     }
 
 <!-- LLMs Performance -->
-## ChatGPT and Bing AI Chat Performance
+## ChatGPT and Bing AI Chat Performances
 * Response
 
 JSON format
@@ -101,9 +101,9 @@ JSON format
     cube with a side length of 2a is: V = (2a)^3 = 8a^3", 
     }
 
-* Performances
+* Performance
 
-We evaluated ChatGPT and BingChat on the VNHSGE dataset. 
+We evaluated the performance of ChatGPT and BingChat on the VNHSGE dataset. 
 
 |  | Math ChatGPT | Math BingChat | Lit ChatGPT | Lit BingChat | Eng ChatGPT | Eng BingChat | Phy ChatGPT | Phy BingChat | Che ChatGPT | Che BingChat | Bio ChatGPT | Bio BingChat | His ChatGPT | His BingChat | Geo ChatGPT | Geo BingChat | Civ ChatGPT | Civ BingChat |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -119,8 +119,7 @@ For complex calculation and reasoning subjects like mathematics, physics, chemis
 
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Performance.png?raw=true)
 
-* Comparision of performances among ChatGPT, BingChat and Vietnamese student  in score spectrum: Our objective is to assess whether LLMs have capabilities comparable to human-level performance, despite the challenges posed by different settings. Through this comparison, we can evaluate the potential of LLMs as effective learning support tools for students across various subject areas. 
-
+* Comparison of performances among ChatGPT, BingChat, and Vietnamese students in score spectrum: Our objective is to assess whether LLMs have capabilities comparable to human-level performance, despite the challenges posed by different settings. Through this comparison, we can evaluate the potential of LLMs as effective learning support tools for students across various subject areas.
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Vietnamese_student_score_spectrum.png?raw=true)
 
 <!-- CITATION -->
