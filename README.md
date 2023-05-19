@@ -15,7 +15,7 @@
 
 </div>
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/VNHSGE_other_dataset.png?raw=true)
 
 ## Latest News
 > * We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023].
@@ -107,7 +107,7 @@ JSON format
 
 * Comparision of performances among ChatGPT, BingChat and Vietnamese student  in score spectrum
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Vietnamese_student_score_spectrum.png?raw=true)
 
 <!-- CITATION -->
 ## Citation
