@@ -46,21 +46,24 @@ Civic Education | Multiple choice | 40 | 50 | 2000
 Dataset folder
 
     .
-    ├── ...
-    ├── VNHSGE-V                            # Vietnamse versions
-    │   ├── JSON format                     # JSON folder
-    │   │     ├── Mathematics               # VNHSGE mathematcis dataset
-    │   │     │   ├── MET_Math_IE_2023.json # JSON file     
-    │   │     │   ├── MET_Math_IE_2023      # Image folder
-    │   │     ├── ..........                # 
-    │   │     ├── Civic Education           # VNHSGE civic education dataset
-    │   ├── Word format                     # Word folder
-    │   │     ├── Mathematics               # VNHSGE mathematcis dataset
-    │   │     │   ├── MET_Math_IE_2023.docx # Word file 
-    │   │     ├── ..........                # 
-    │   │     ├── Civic Education           # VNHSGE civic education dataset
-    └── VNHSGE-E                            # English versions
-
+    ├── eval set
+    │    ├── VNHSGE-V                            # Vietnamse versions
+    │    │   ├── JSON format                     # JSON folder
+    │    │   │     ├── Mathematics               # VNHSGE mathematcis dataset
+    │    │   │     │   ├── MET_Math_IE_2023.json # JSON file     
+    │    │   │     │   ├── MET_Math_IE_2023      # Image folder
+    │    │   │     ├── ..........                # 
+    │    │   │     ├── Civic Education           # VNHSGE civic education dataset
+    │    │   ├── Word format                     # Word folder
+    │    │   │     ├── Mathematics               # VNHSGE mathematcis dataset
+    │    │   │     │   ├── MET_Math_IE_2023.docx # Word file 
+    │    │   │     ├── ..........                # 
+    │    │   │     ├── Civic Education           # VNHSGE civic education dataset
+    │    └── VNHSGE-E                            # English versions
+    │        ├── JSON format 
+    │        ├── .............
+    ├── test set
+    ├── train set
 
 
 Word format
