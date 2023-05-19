@@ -105,6 +105,8 @@ JSON format
 | 2023 | 54 | 62 | 64.8 | 49.75 | 78 | 94 | 57.5 | 72.5 | 47.5 | 52.5 | 60 | 65 | 77.5 | 92.5 | 67.5 | 85 | 77.5 | 82.5 |
 | AVG | 58.8 | 60 | 68 | 56.8 | 79.2 | 92.4 | 61 | 66 | 48 | 52.8 | 58 | 69 | 56.5 | 88.5 | 61.5 | 79.5 | 70.5 | 85.5 | 
 
+![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Performance.png?raw=true)
+
 * Comparision of performances among ChatGPT, BingChat and Vietnamese student  in score spectrum
 
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Vietnamese_student_score_spectrum.png?raw=true)
