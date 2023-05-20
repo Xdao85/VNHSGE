@@ -130,7 +130,7 @@ If you find this work useful for your research, please feel free to use them (do
 ```bibtex
 @article{dao2023vnhsge,
   title={VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models},
-  author={Xuan-Quy Dao, Ngoc-Bich Le, The-Duy Vo, Xuan-Dung Phan, Bac-Bien Ngo, Van-Tien Nguyen, Thi-My-Thanh Nguyen},
+  author={Xuan-Quy Dao and Ngoc-Bich Le and The-Duy Vo and Xuan-Dung Phan and Bac-Bien Ngo and Van-Tien Nguyen and Thi-My-Thanh Nguyen and Hong-Phuoc Nguyen},
   year={2023}
 }
 ```
