@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- TITLE -->
-# VNHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models
+# VNHSGE: VietNamese High School Graduation Examination Dataset for Large Language Models
 
 </div>
 
@@ -24,9 +24,9 @@ the [GPT-4 Report](https://openai.com/research/gpt-4)
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/VNHSGE_other_dataset.png?raw=true)
 
 ## Latest News
-> * We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023].
-> * Full dataset will be upload soon!
+> * Dataset will be upload soon!
 
+<!--- We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023] -->
 <!-- SETUP -->
 ## Dataset structure
 VNHSGE dataset covers nice subjects including 300 essays on Literature and 19,000 multiple choice questions on other subjects. 
@@ -70,7 +70,7 @@ Word format
 
 | ID | IQ | Q | C | IA | E |
 |---|---|---|---|---|---|
-| 1 |  | The volume of a cube with edge 2a is:  A. $8a^3$  B. $2a^3$  C. $a^3$  D. $6a^3$ | A |  | The volume of a cube with edge 2a is:   $V=(2a)^3=8a^3$ |
+| 1 |  | The volume of a cube with edge 2a is:  A. 8a^3  B. 2a^3  C. a^3  D. 6a^3 | A |  | The volume of a cube with edge 2a is:   V=(2a)^3=8a^3 |
 
 ID refers to the ID of the question; IQ refers to the images of the question; Q refers to the question content; C refers to the choice options; IE refers to the images of the explanation; and E refers to the explanation content.
 
