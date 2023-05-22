@@ -119,9 +119,10 @@ For complex calculation and reasoning subjects like mathematics, physics, chemis
 
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Performance.png?raw=true)
 
-* Comparison of performances among ChatGPT, BingChat, and Vietnamese students in score spectrum: Our objective is to assess whether LLMs have capabilities comparable to human-level performance, despite the challenges posed by different settings. Through this comparison, we can evaluate the potential of LLMs as effective learning support tools for students across various subject areas.
+* Comparison of performances among ChatGPT, BingChat, and Vietnamese students in score spectrum: Our objective is to assess whether LLMs have capabilities comparable to human-level performance, despite the challenges posed by different settings. Through this comparison, we can evaluate the potential of LLMs as effective learning support tools for students across various subject areas. 
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/Vietnamese_student_score_spectrum.png?raw=true)
-
+  (Mathematics score spectrum of Vietnamese students in 2021).
+  
 <!-- CITATION -->
 ## Citation
 
