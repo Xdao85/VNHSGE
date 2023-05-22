@@ -9,10 +9,10 @@
 VNHSGE is a dataset for large language models, collected from the Vietnamese National High School Graduation Examination and similar
 exams.
 
-> * Evaluates large language models in multitasks such as question answering, text generation, reading comprehension, visual question answering, and more.
-> * Covers nine subjects including 300 essays on literature and 19,000 multiple-choice questions on other subjects including mathematics, physics, chemistry, biology, English, history, geography, and civic education
-> * Contains both text and images
-> * Vietnamese and English language supports
+> * Evaluate large language models in multitasks such as question answering, text generation, reading comprehension, visual question answering, and more.
+> * Cover nine subjects including 300 essays on literature and 19,000 multiple-choice questions on other subjects including mathematics, physics, chemistry, biology, English, history, geography, and civic education
+> * Contain both text and images
+> * Support Vietnamese and English languages 
 
 [![arXiv](https://img.shields.io/badge/cs.LG-arXiv:1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
 
@@ -45,7 +45,7 @@ Civic Education | Multiple choice | 40 | 50 | 2000
 
 Dataset folder
 
-    .
+    VNHSGE
     ├── eval set
     │    ├── VNHSGE-V                            # Vietnamse versions
     │    │   ├── JSON format                     # JSON folder
