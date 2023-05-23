@@ -14,7 +14,7 @@ exams.
 > * Contain both text and images
 > * Support Vietnamese and English languages 
 
-[![arXiv](https://img.shields.io/badge/cs.LG-arXiv:1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
+[![arXiv](https://img.shields.io/badge/cs.LG-arXiv:2305.12199-b31b1b.svg)](https://arxiv.org/abs/2305.12199)
 
 
 VNHSGE dataset and other datasets:  the performance of ChatGPT and BingChat on the VNHSGE dataset is compared to other datasets in
@@ -129,10 +129,13 @@ For complex calculation and reasoning subjects like mathematics, physics, chemis
 If you find this work useful for your research, please feel free to use them (don't forget to cite our paper):
 
 ```bibtex
-@article{dao2023vnhsge,
-  title={VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models},
-  author={Xuan-Quy Dao and Ngoc-Bich Le and The-Duy Vo and Xuan-Dung Phan and Bac-Bien Ngo and Van-Tien Nguyen and Thi-My-Thanh Nguyen and Hong-Phuoc Nguyen},
-  year={2023}
+@misc{xuanquy2023vnhsge,
+      title={VNHSGE: VietNamese High School Graduation Examination Dataset for Large Language Models}, 
+      author={Dao Xuan-Quy and Le Ngoc-Bich and Vo The-Duy and Phan Xuan-Dung and Ngo Bac-Bien and Nguyen Van-Tien and Nguyen Thi-My-Thanh and Nguyen Hong-Phuoc},
+      year={2023},
+      eprint={2305.12199},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
