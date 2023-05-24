@@ -129,11 +129,11 @@ For complex calculation and reasoning subjects like mathematics, physics, chemis
 If you find this work useful for your research, please feel free to use them (don't forget to cite our paper):
 
 ```bibtex
-@article{xuanquy2023vnhsge,
-      title={VNHSGE: VietNamese High School Graduation Examination Dataset for Large Language Models}, 
-      author={Dao Xuan-Quy and Le Ngoc-Bich and Vo The-Duy and Phan Xuan-Dung and Ngo Bac-Bien and Nguyen Van-Tien and Nguyen Thi-My-Thanh and Nguyen Hong-Phuoc},
-      journal={arXiv preprint arXiv:2305.12199},
-      year={2023},
+@article{xuan2023vnhsge,
+  title={VNHSGE: VietNamese High School Graduation Examination Dataset for Large Language Models},
+  author={Xuan-Quy, Dao and Ngoc-Bich, Le and The-Duy, Vo and Xuan-Dung, Phan and Bac-Bien, Ngo and Van-Tien, Nguyen and Thi-My-Thanh, Nguyen and Hong-Phuoc, Nguyen},
+  journal={arXiv preprint arXiv:2305.12199},
+  year={2023}
 }
 ```
 
