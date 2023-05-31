@@ -24,8 +24,8 @@ the [GPT-4 Report](https://openai.com/research/gpt-4)
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/VNHSGE_other_dataset.png?raw=true)
 
 ## Latest News
-> * We uploaded eval test: 30 eassays on literature and 1700 multiple-choice questions on other subjects
-> * Dataset will be upload soon!
+> * Eval test was uploaded: 30 eassays on literature and 1700 multiple-choice questions on other subjects
+> * Full dataset will be upload soon!
 > 
 <!--- We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023] -->
 <!-- SETUP -->
