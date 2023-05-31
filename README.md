@@ -15,7 +15,7 @@ exams.
 > * Support Vietnamese and English languages 
 
 [![arXiv](https://img.shields.io/badge/cs.LG-arXiv:2305.12199-b31b1b.svg)](https://arxiv.org/abs/2305.12199)
-
+[![PWC](https://img.shields.io/badge/paperwithcode-VNHSGE_dataset-b31bb.svg)](https://paperswithcode.com/dataset/vnhsge)
 
 VNHSGE dataset and other datasets:  the performance of ChatGPT and BingChat on the VNHSGE dataset is compared to other datasets in
 the [GPT-4 Report](https://openai.com/research/gpt-4)
