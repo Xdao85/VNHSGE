@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "MET_Bio_IE_2020_1",
+        "Image_Question": "",
+        "Question": "Câu 1 : Rễ cây có thể hấp thụ nitơ ở dạng nào sau đây? \nA. N2 \t\nB. N2O \t\nC. NO \t\nD. NH4+",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Rễ cây có thể hấp thụ nitơ ở dạng NH4+ (dạng khử) và NO3"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_2",
+        "Image_Question": "",
+        "Question": "Câu 2 : Động vật nào sau đây có tim 2 ngăn? \nA. Ếch đồng. \t\nB. Cá chép. \t\nC. Mèo. \t\nC. Thỏ",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cá có tim 2 ngăn (1 tâm thất, 1 tâm nhĩ)\nẾch đồng có tim 3 ngăn (1 tâm thất, 2 tâm nhĩ)\nMèo và thỏ có tim 4 ngăn (2 tâm thất, 2 tâm nhĩ)"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_3",
+        "Image_Question": "",
+        "Question": "Câu 3 : Phân tử nào sau đây được dùng làm khuôn cho quá trình dịch mã? \nA. ADN. \t\nB. tARN. \t\nC. mARN. \t\nD. tARN.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "mARN là khuôn cho quá trình dịch mã"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_4",
+        "Image_Question": "",
+        "Question": "Câu 4 : Một loài thực vật, xét 2 cặp NST kí hiệu là D, d và E, e. Cơ thể có bộ NST nào sau đây là thể một? \nA. DEE. \t\nB. DDdEe. \t\nC. Ddeee. \t\nD. DdEe.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thể một có dạng 2n –1  = 3 NST\nVậy kiểu gen thể một là DEE."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_5",
+        "Image_Question": "",
+        "Question": "Câu 5 : Dạng đột biến nào sau đây làm thay đổi trình tự phân bố các gen nhưng không làm thay đổi chiều dài của NST? \nA. Đảo đoạn NST. \t\t\nB. Mất đoạn NST. \nC. Thêm 1 cặp nuclêôtit. \t\t\nD. Mất 1 cặp nuclêôtit.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Dạng đột biến đảo đoạn NST làm thay đổi trình tự phân bố các gen nhưng không làm thay đổi chiều dài của NST.\nCác dạng đột biến còn lại đều làm thay đổi chiều dài của NST.\nMất đoạn: Là đột biến mất một đoạn nào đó của NST\nĐảo đoạn: Là đột biến làm cho một đoạn nào đó của NST đứt ra, đảo ngược 180° và nối lại."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_6",
+        "Image_Question": "",
+        "Question": "Câu 6 : Ở tế bào động vật, bào quan nào sau đây chứa gen di truyền theo dòng mẹ? \nA. Ti thể \t\nB. Ribôxôm \t\nC. Không bào \t\nD. Lưới nội chất.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ở tế bào động vật, ti thể chứa gen di truyền theo dòng mẹ."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_7",
+        "Image_Question": "",
+        "Question": "Câu 7 : Cho biết alen B quy định thân cao trội hoàn toàn so với alen b quy định thân thấp. Theo lí thuyết, phép lai nào sau đây cho đời con có tỉ lệ kiểu hình 3:1? \nA. Bb \\times × Bb. \nB. Bb \\times bb. \t\nC. BB \\times Bb. \t\nD. BB \\times bb.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phép lai Bb \\times Bb \\to  1BB:2Bb:1bb cho đời con có tỉ lệ kiểu hình 3:1"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_8",
+        "Image_Question": "",
+        "Question": "Câu 8 : Cơ thể có kiểu gen nào sau đây gọi là thể dị hợp 2 cặp gen? \nA. aaBb. \t\nB. AaBb. \t\nC. Aabb. \t\nD. AAbb.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể dị hợp 2 cặp gen có kiểu gen là AaBb."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_9",
+        "Image_Question": "",
+        "Question": "Câu 9 : Một loài thực vật có 12 nhóm gen liên kết. Theo lí thuyết, bộ NST lưỡng bội của loài này là \nA. 2n = 12 \nB. 2n = 24 \t\nC. 2n = 36 \nD. 2n = 6",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Số nhóm gen liên kết bằng số NST trong bộ NST đơn bội của loài, hay n = 12\nVậy thể lưỡng bội: 2n = 24."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_10",
+        "Image_Question": "",
+        "Question": "Câu 10 : Theo lí thuyết, quá trình giảm phân ở cơ thể có kiểu gen nào sau đây tạo ra giao tử ab? \nA. AaBB. \t\nB. Aabb. \t\nC. AAbb. \nD. aaBB.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong các kiểu gen A. AaBB, B. Aabb,C. AAbb,D. aaBB thì chỉ có kiểu gen Aabb giảm phân cho giao tử ab."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_11",
+        "Image_Question": "",
+        "Question": "Câu 11 : Một quần thể thực vật gồm 400 cây có kiểu gen AA, 400 cây có kiểu gen Aa và 200 cây có kiểu gen aa. Tần số kiểu gen Aa của quần thể này là \nA. 0,4 \nB. 0,5 \t\nC. 0,6 \t\nC. 0,2",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tần số kiểu gen \nAa = \\frac{400Aa}{400AA + 400Aa + 200aa} = 0,4"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_12",
+        "Image_Question": "",
+        "Question": "Câu 12 : Từ cây có kiểu gen aaBbDD, bằng phương pháp nuôi cấy hạt phấn trong ống nghiệm có thể tạo ra dòng cây đơn bội có kiểu gen nào sau đây? \nA. aBD. \nB. aBd. \t\nC. Abd. \nD. ABD.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Cây có kiểu gen aBbDD sẽ hình thành hạt phấn có kiểu gen aBD hoặc abD.\nKhi nuôi cấy hạt phấn sẽ được dòng đơn bội có kiểu gen aBD hoặc abD."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_13",
+        "Image_Question": "",
+        "Question": "Câu 13 : Theo thuyết tiến hóa hiện đại, nhân tố nào sau đây có thể tạo ra các alen mới cho quần thể? \nA. Chọn lọc tự nhiên. \t\t\nB. Giao phối không ngẫu nhiên. \nC. Các yếu tố ngẫu nhiên. \t\t\nD. Đột biến.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Theo thuyết tiến hóa hiện đại, nhân tố đột biến có thể tạo ra các alen mới cho quần thể"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_14",
+        "Image_Question": "",
+        "Question": "Câu 14 : Theo thuyết tiến hóa hiện đại, nhân tố nào sau đây làm thay đổi tần số alen của quần thể theo hướng xác định? \nA. Đột biến. \nB. Di – nhập gen. \t\nC. Các yếu tố ngẫu nhiên. \t\nD. Chọn lọc tự nhiên.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Theo thuyết tiến hóa hiện đại, chọn lọc tự nhiên làm thay đổi tần số alen của quần thể theo hướng xác định."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_15",
+        "Image_Question": "",
+        "Question": "Câu 15 : Trong lịch sử phát triển của sinh giới qua các đại địa chất, thực vật có hạt xuất hiện ở đại nào? \nA. Đại Tân sinh. \t\nB. Đại Trung sinh. \t\nC. Đại Cổ sinh. \t\nD. Đại Nguyên sinh.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong lịch sử phát triển của sinh giới qua các đại địa chất, thực vật có hạt xuất hiện ở đại Cổ sinh"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_16",
+        "Image_Question": "",
+        "Question": "Câu 16 : Quần thể sinh vật không có đặc trưng nào sau đây? \nA. Thành phần loài. \t\nB. Kích thước quần thể. \nC. Mật độ cá thể. \t\t\nD. Nhóm tuổi (còn gọi là cấu trúc tuổi).",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Quần thể không có đặc trưng về thành phần loài, đây là đặc trưng của quần xã."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_17",
+        "Image_Question": "",
+        "Question": "Câu 17 : Ví dụ nào sau đây là quần thể sinh vật? \nA. Tập hợp voọc mông trắng ở khu bảo tồn đất ngập nước Vân Long.\nB. Tập hợp cây cỏ trên đồng cỏ. \nC. Tập hợp chim trong vườn bách thảo. \nD. Tập hợp cá trong Hồ Tây.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Quần thể sinh vật là tập hợp những cá thể cùng loài, sinh sống trong một khoảng không gian nhất định, ở một thời điểm nhất định. Những cá thể trong quần thể có khả năng sinh sản tạo thành những thế hệ mới."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_18",
+        "Image_Question": "",
+        "Question": "Câu 18 : Trong hệ sinh thái, nhóm sinh vật nào sau đây là sinh vật tự dưỡng? \nA. Thực vật. \t\nB. Nấm hoại sinh. \t\nC. Vi khuẩn phân giải. \t\nD. Giun đất.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong hệ sinh thái, thực vật là sinh vật tự dưỡng.\nB, C, D là sinh vật phân giải."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_19",
+        "Image_Question": "",
+        "Question": "Câu 19 : Sự phân tầng của thực vật trong quần xã rừng mưa nhiệt đới chủ yếu là do sự khác nhau về nhu cầu \nA. ánh sáng. \t\t\nB. nước. \nC. các nguyên tố khoáng. \t\nD. không khí.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Sự phân tầng của thực vật trong quần xã rừng mưa nhiệt đới chủ yếu là do sự khác nhau về nhu cầu ánh sáng"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_20",
+        "Image_Question": "",
+        "Question": "Câu 20 : Trong một chuỗi thức ăn mở đầu bằng sinh vật sản xuất, sinh vật nào sau đây thuộc bậc dinh dưỡng cấp 2? \nA. Sinh vật tiêu thụ bậc 1 \t\nB. Sinh vật tiêu thụ bậc 2. \nC. Sinh vật sản xuất. \t\t\nD. Sinh vật tiêu thụ bậc 3.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong một chuỗi thức ăn mở đầu bằng sinh vật sản xuất, sinh vật tiêu thụ bậc 1 thuộc bậc dinh dưỡng cấp 2"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_21",
+        "Image_Question": "",
+        "Question": "Câu 21 : Ôxi được giải phóng trong quá trình quang hợp ở thực vật có nguồn gốc từ phân tử nào sau đây? \nA. C6H12O6. \t\nB. H2O. \t\nC. CO2. \t\nD. C5H10O5.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ôxi được giải phóng trong quá trình quang hợp ở thực vật có nguồn gốc từ phân tử nước (H2O) thông quá quá trình quang phân li nước trong pha sáng."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_22",
+        "Image_Question": "",
+        "Question": "Câu 22 : Thói quen nào sau đây có lợi cho người bị huyết áp cao? \nA. Thường xuyên tập thể dục một cách khoa học. \nB. Thường xuyên ăn thức ăn có nồng độ NaCl cao.\nC. Thường xuyên ăn thức ăn có nhiều dầu mỡ. \nD. Thường xuyên thức khuya và làm việc căng thẳng.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thói quen tập thể dục một cách khoa học có lợi cho người bị huyết áp cao.\nCác thói quen còn lại đều có hại đối với hệ tuần hoàn."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_23",
+        "Image_Question": "",
+        "Question": "Câu 23 : Trong quá trình nhân đôi ADN, nuclêôtit loại A trên mạch khuôn liên kết với loại nuclêôtit nào ở môi trường nội bào? \nA. G \t\nB. T \t\nC. X \t\nD. A",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong quá trình nhân đôi ADN, nuclêôtit loại A trên mạch khuôn liên kết với nuclêôtit T ở môi trường nội bào"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_24",
+        "Image_Question": "",
+        "Question": "Câu 24 : Ở thực vật, thể ba mang bộ NST nào sau đây? \nA. 2n - 1 \t\nB. n \t\nC. 2n + 1 \t\nD. 3n",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ở thực vật, thể ba mang bộ NST 2n + 1"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_25",
+        "Image_Question": "",
+        "Question": "Câu 25 : Cho biết mỗi gen quy định 1 tính trạng, các alen trội là trội hoàn toàn. Theo lí thuyết, phép lai nào sau đây cho đời con có tỉ lệ kiểu hình 1:1:1:1? \nA. AaBb \\times AaBb. \nB. Aabb \\times AaBb. \t\nC. Aabb \\times aaBb. \t\nD. AaBb \\times aaBb.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Aabb \\times aaBb cho đời con có tỉ lệ kiểu hình 1:1:1: 1"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_26",
+        "Image_Question": "",
+        "Question": "Câu 26 : Hiện tượng nào sau đây chắc chắn không làm thay đổi tần số alen của 1 quần thể? \nA. Có sự giao phối ngẫu nhiên giữa các cá thể trong quần thể.\nB. Có sự trao đổi các cá thể giữa quần thể đang xét với 1 quần thể lân cận cùng loài. \nC. Có sự đào thải những cá thể kém thích nghi trong quần thể. \nD. Có sự tấn công của 1 loài vi sinh vật gây bệnh dẫn đến giảm kích thước quần thể.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Sự giao phối ngẫu nhiên giữa các cá thể trong quần thể không làm thay đổi tần số alen của quần thể."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_27",
+        "Image_Question": "",
+        "Question": "Câu 27 : Một loài cá chỉ sống được trong khoảng nhiệt độ từ 5°C đến 42°C. Đối với loài cá này, khoảng nhiệt độ từ 5^0 C đến 42^0 C được gọi là \nA. giới hạn sinh thái về nhiệt độ. \t\nB. khoảng thuận lợi.\nC. khoảng chống chịu.\t \t\nD. giới hạn dưới về nhiệt độ.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đối với loài cá này, khoảng nhiệt độ từ 5^0 C đến 42^0 C được gọi là giới hạn sinh thái về nhiệt độ."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_28",
+        "Image_Question": "",
+        "Question": "Câu 28 : Cho chuỗi thức ăn: Cây ngô → Sâu ăn lá ngô → Nhái → Rắn hổ mang → Diều hâu.\nTrong chuỗi thức ăn này, loài nào là sinh vật tiêu thụ bậc 3? \nA. Cây ngô \t\nB. Sâu ăn lá ngô \t\nC. Nhái \t\nD. Rắn hổ mang",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Rắn hổ mang là sinh vật tiêu thụ bậc 3."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_29",
+        "Image_Question": "",
+        "Question": "Câu 29 : Phép lai P: cây tứ bội Aaaa cây tứ bội Aaaa, thu được F1. Cho biết cây tứ bội giảm phân chỉ cho giao tử lưỡng bội có khả năng thụ tinh. Theo lí thuyết, ở F1 kiểu gen AAaa chiếm tỉ lệ \nA. 1/2 \t\nB. 3/4 \t\nC. 2/3 \t\nD. 1/4",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể Aaaa giảm phân tạo\n \\frac{1}{2}Aa:\\frac{1}{2}aa\nP:Aaaa \\times Aaaa\nG:\\left( {\\frac{1}{2}Aa:\\frac{1}{2}aa}\n\\right) \\times \\left( {\\frac{1}{2}Aa:\\frac{1}{2}aa} \\right)\nF_1:AAaa = \\frac{1}{2}\\times \\frac{1}{2} = \\frac{1}{4}"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_30",
+        "Image_Question": "",
+        "Question": "Câu 30 : Một loài thực vật giao phấn ngẫu nhiên, alen A bị đột biến thành alen a, alen B bị đột biến thành alen b. Cho biết mỗi gen quy định 1 tính trạng, các alen trội là trội hoàn toàn. Cơ thể có kiểu gen nào sau đây là thể đột biến? \nA. aaBB. \t\nB. AaBB. \t\nC. AABb. \t\nD. AaBb.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thể đột biến là cơ thể mang gen đột biến đã biểu hiện ra kiểu hình.\nAlen A bị đột biến thành alen a \\to thể đột biến mang: aa\nAlen B bị đột biến thành alen b \\to thể đột biến mang: bb.\nThể đột biến có kiểu gen: aaBB. Biểu hiện đột biến ở tính trạng do cặp Aa quy định"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_31",
+        "Image_Question": "",
+        "Question": "Câu 31 : Alen M bị đột biến điểm thành alen m. Theo lí thuyết, alen M và alen m \nA. chắc chắn có số nuclêôtit bằng nhau. \nB. luôn có số liên kết hiđrô bằng nhau. \nC. có thể có tỉ lệ (A + T)/(G+X) bằng nhau. \nD. luôn có chiều dài bằng nhau.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đột biến điểm là dạng đột biến gen liên quan tới 1 cặp nucleotit.\nCó thể xảy ra: thêm, mất hoặc thay thế 1 cặp nucleotit.\nA sai, nếu đột biến là thêm hoặc mất 1 cặp nucleotit thì số nucleotit của gen sẽ thay đổi.\nB sai, số liên kết hidro của gen có thể bị thay đổi.\nC đúng, nếu xảy ra dạng đột biến: thay A–T bằng T–A hoặc thay G–X bằng X–G\nD sai, nếu đột biến là thêm hoặc mất 1 cặp nucleotit thì chiều dài của 2 gen là khác nhau."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_32",
+        "Image_Question": "",
+        "Question": "Câu 32 : Phép lai P : \na\\frac{BD}{bd}\\times Aa\\frac{Bd}{bd} thu được F1. Cho biết mỗi gen quy định 1 tính trạng, các alen trội là trội hoàn toàn và xảy ra hoán vị gen với tần số 40%. Theo lí thuyết, ở F1 số cá thể dị hợp 3 cặp gen chiếm tỉ lệ \nA. 37,5% \t\nB. 25,0% \t\nC. 12,5% \t\nD. 17,5%",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Giao tử liên kết = (1–f)/2; giao tử hoán vị = f/2\n\\frac{{BD}}{{bd}}; f =40%\\to G:\\left( {\\frac{{1 - f}}{2} =\n0,3BD:\\frac{{1 - f}}{2} = 0,3bd:\\frac{f}{2} = 0,2Bd:\\frac{f}{2} = 0,2bD}\n\\right)\n\\frac{Bd}{bd} \\to G:0,5Bd:0,5bd\nAa\\frac{BD}{bd}\\times Aa\\frac{Bd}{bd};\nf = 40%\\to Aa\\left( {\\frac{BD}{bd} + \\frac{Bd}{bD}} \\right) = 0,5Aa\\left( {0,3BD \\times 0,5bd + 0,5Bd \\times 0,2bD} \\right) = 12,5%"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_33",
+        "Image_Question": "",
+        "Question": "Câu 33 : Một loài thực vật, xét 1 gen có 3 alen: alen A quy định hoa đỏ, alen A2 quy định hoa vàng, alen A3 quy định hoa trắng. Phép lai P: cây hoa đỏ 1 cây hoa vàng, thu được F1 có 50% cây hoa đỏ : 25% cây hoa vàng : 25% cây hoa trắng. F1 giao phấn ngẫu nhiên, thu được F2. Theo lí thuyết, ở F2 số cây hoa vàng chiếm tỉ lệ \nA. 5/16 \t\nB. 3/4 \t\nC. 1/2 \t\nD. 3/16",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phương pháp giải: \nBước 1: Xác định quan hệ trội, lặn giữa các alen.\nBước 2: Xác định kiểu gen của 2 cây đem lai\nBước 3: Tính tỉ lệ giao tử ở F1.\nBước 4: Cho F1 ngẫu phối rồi tính tỉ lệ hoa vàng.\nCây hoa đỏ × cây hoa vàng \\to cây hoa trắng \\to đỏ; vàng >> trắng; hai cây này dị hợp tử.\nDo tỉ lệ đỏ > vàng \\to A1>>A2\nThứ tự trội lặn: A1>>A2>>A3\nP: A1A3 \\times A2A3  \\to F1:A1A2:A1A3:A2A3:A3A3 \n\\to Tần số alen: 1A1:1A2:2A3\nCho F1 giao phấn ngẫu nhiên, tỉ lệ cây hoa vàng là:\n{\\left( {\\frac{1}{4}{A_2} + \\frac{2}{4}{A_4}}\n\\right)^2} - {\\left( {\\frac{2}{4}{A_4}} \\right)^2} = {\\left( {\\frac{3}{4}}\\right)^2} - {\\left( {\\frac{2}{4}} \\right)^2} = \\frac{5}{16}"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_34",
+        "Image_Question": "",
+        "Question": "Câu 34 : Một loài thực vật, xét 2 cặp gen (A, a và B, b), mỗi gen quy định 1 tính trạng, các alen trội là trội hoàn toàn. Phép lai P: 2 cây có kiểu hình trội về 2 tính trạng và đều dị hợp 1 cặp gen giao phấn với nhau, thu được F1 chỉ có 1 loại kiểu hình. Theo lí thuyết, ở F1 số cây có 3 alen trội chiếm tỉ lệ \nA. 1/2 \t\nB. 1/4 \t\nC. 3/4 \t\nD. 1/8",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có P đều dị hợp về 1 cặp gen, mang 2 tính trạng trội, F1 chỉ có 1 loại kiểu hình \\to P có kiểu gen khác nhau (hay dị hợp về các cặp gen khác nhau) \\to P: AaBB \\times AABb \\to F1: AABb:AaBb:AABb:AABB\nVậy cây có 3 alen trội chiếm 1/2."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_35",
+        "Image_Question": "",
+        "Question": "Câu 35 : Ở ruồi giấm, mỗi gen quy định một tính trạng, các alen trội là trội hoàn toàn. Cho phép lai P: \\frac{Ab}{aB}X^{D}X^{d}\\times \\frac{AB}{ab}X^{D}Y thu được F1 có số cá thể mang kiểu hình lặn về 3 tính trạng chiếm 1,25%. Theo lí thuyết, ở F1 số cá thể có kiểu hình trội về 3 tính trạng chiếm tỉ lệ \nA. 37,50% \t\nB. 41,25% \t\nC. 25,00% \t\nD. 52,50%",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Bước 1: Xác định tỉ lệ A–B–;\nBước 2: Tỉnh tỉ lệ A–B–D–\nỞ ruồi giấm, con đực không có HVG.\nGiải chi tiết:\nP:\\frac{Ab}{aB}X^DX^d\\times \\frac{{AB}}{{ab}}{X^D}Y\n\\to \\frac{{ab}}{{ab}}{X^d}Y = 0,0125\n\\to \\frac{ab}{ab} = \\frac{{0,0125}}{{0,25}} = 0,05 \\to A - B -\n= 0,5 + 0,05 = 0,55\nPhép lai \nX^DX^d\\times X^DY \\to X^DX^D:X^DX^d:X^DY:X^dY\n\\to  X^D- = 0,75\nVậy tỉ lệ kiểu hình trội về 3 cặp tính trạng là: \n0,55 \\times 0,75 = 41,25%"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_36",
+        "Image_Question": "",
+        "Question": "Câu 36 : Ở gà, màu lông do 1 gen có 2 alen quy định, alen trội là trội hoàn toàn. Phép lai P: gà trống lông đen x gà mái lông vằn, thu được F1 có tỉ lệ 1 gà trống lông vằn : 1 gà mái lông đen. F1 giao phối ngẫu nhiên, thu được F2, F2 giao phối ngẫu nhiên, thu được F3. Theo lí thuyết, trong tổng số gà trống lông vằn ở F3, số gà có kiểu gen đồng hợp chiếm tỉ lệ \nA. 25% \t\nB. 50% \t\nC. 20% \nD. 75%",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ở gà XX là con trống, XY là con mái.\n♂ lông đen × ♀ lông vằn \\rightarrow  ♂ lông vằn: ♀ lông đen \\rightarrow  Phân li kiểu hình ở 2 giới khác nhau \\rightarrow  tính trạng do gen nằm trên NST giới tính X quy định.\nQuy ước A– lông vằn; a– lông đen.\nP: ♂X^aX^a \\times ♀X^AY \\rightarrow  F1: ♂X^AX^a \\times ♀X^aY \\rightarrow  F2: ♂ (X^AX^a:X^aX^a) \\times ♀ (X^AY:X^aY)\nTỉ lệ giao tử: (1X^A:3X^a) \\times (1X^A:1X^a:2Y)\n\\rightarrow  Gà trống lông vằn: X^AX^A: 4X^AX^a\nVậy trong tổng số gà trống lông vằn ở F1 thì gà có kiểu gen đồng hợp chiếm tỉ lệ: 1/5 = 20%."
+    },
+    {
+        "ID": "MET_Bio_IE_2020_37",
+        "Image_Question": "",
+        "Question": "Câu 37 : Một loài thực vật có bộ NST 2n = 6. Xét 3 cặp gen (A, a; B, b và D, d) phân li độc lập. Cho các phát biểu sau:\nCác thể lưỡng bội của loài này có thể có tối đa 27 loại kiểu gen.\nCác thể ba của loài này có thể có các kiểu gen: AaaBbDd, AABBbDd, aaBBDdd.\nCác thể tam bội phát sinh từ loài này có tối đa 125 loại kiểu gen.\nCác thể một của loài này có tối đa 108 loại kiểu gen.\nTheo lí thuyết, có bao nhiêu phát biểu đúng trong các phát biểu trên? \nA. 3 \t\nB. 4 \t\nC. 1 \t\nD. 2",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Loài có 2n = 6 \\rightarrow có 3 cặp NST\nI đúng. Mỗi cặp gen cho 3 kiểu gen \\rightarrow 3 cặp gen cho 33 = 27 kiểu gen\nII đúng. Các kiểu gen: AaaBbDd, AABBbDd, aaBBDdd đều là thể 3 của loài, do thừa 1 alen ở 1 cặp\nIII sai. Thể tam bội có bộ NST 3n\nỞ 1 cặp NST có 3 chiếc thì có số kiểu gen là 4: ví dụ AAA, Aaa, Aaa, aaa\n\\rightarrow 3 cặp NST có số kiểu gen là: 43 = 64 kiểu gen\nIV sai. Các thể 1 mất đi 1 NST ở 1 cặp. mỗi cặp NST đột biến có 2 kiểu gen, các cặp con lại có 3 kiểu gen.\nSố kiểu gen là: \\[C_3^1 \\times 2 \\times 3 \\times 3 = 54\\] kiểu gen (3C1 là đột biến thể một có thể ở 1 trong 3 cặp NST, 2 là số kiểu gen thể một ở cặp NST đó, 3 là số kiểu gen ở NST còn lại)"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_38",
+        "Image_Question": "",
+        "Question": "Câu 38 : Một quần thể thực vật giao phấn ngẫu nhiên, alen A quy định thân cao trội hoàn toàn so với alen a quy định thân thấp; alen B quy định hoa đỏ trội hoàn toàn so với alen b quy định hoa trắng. Thế hệ P của quần thể này có thành phần kiểu gen là 0,4 AaBb : 0,6 aaBb. Cho biết các giao tử có 2 alen lặn không có khả năng thụ tinh và quần thể không chịu tác động của các nhân tố tiến hóa khác. Theo lí thuyết, ở F1 số cây thân cao, hoa đỏ chiếm tỉ lệ \nA. 17/36 \t\nB. 2/3 \t\nC. 9/16 \t\nD. 19/36",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "P: 0,4 AaBb : 0,6 aaBb\nGp: 0,1AB : 0,1Ab : 0,4aB : 0,4ab (loại ab vì không có khả năng thụ tinh)\n\\rightarrow Gp\nSố thân cao hoa đỏ ở F1 là: A–B– = [\\frac{1}{6}AB \\times 1 + \\frac{1}{6}Ab \\times \\frac{5}{6}\\left( {1 - Ab} \\right) + \\frac{4}{6}aB \\times \\frac{2}{6}\\left( {1 - aB} \\right) = \\frac{{19}}{{36}}\\]"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_39",
+        "Image_Question": "",
+        "Question": "Câu 39 : Một loài thực vật, màu hoa do 1 gen có 2 alen quy định; hình dạng quả do 2 cặp gen phân li độc lập cùng quy định. Phép lai P: hai cây giao phấn với nhau, thu được F1 có 40,5% cây hoa đỏ, quả tròn: 34,5% cây hoa đỏ, quả dài: 15,75% cây hoa trắng, quả tròn: 9,25% cây hoa trắng, quả dài. Cho biết hoán vị gen xảy ra ở cả quá trình phát sinh giao tử đực và giao tử cái với tần số bằng nhau. Theo lí thuyết, phát biểu nào sau đây sai? \nA. F1 có thể có 3% số cây hoa đỏ, quả dài đồng hợp 3 cặp gen \nB. F1 có tối đa 11 loại kiểu gen quy định cây hoa đỏ, quả dài. \nC. F1 có 6 loại kiểu gen quy định cây hoa trắng, quả dài. \nD. Tần số hoán vị gen có thể là 20%.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta xét tỉ lệ phân li của từng tính trạng:\nĐỏ/ trắng = 3/1 \\rightarrow P dị hợp về cặp gen quy định tính trạng này: Dd \\times Dd\nQuả tròn/ quả dài = 9/7 \\rightarrow P dị hợp 2 cặp gen quy định tính trạng này: AaBb \\times AaBb\nNếu các gen PLĐL thì tỉ lệ kiểu hình phải là: (9:7)(3:1) ≠ đề bài \\rightarrow 1 trong 2 gen quy định hình dạng quả liên kết với gen quy định màu hoa.\nGiả sử cặp gen Aa và Dd cùng nằm trên 1 cặp NST.\nTa có tỉ lệ đỏ, tròn: \n\\[A - D - B -  = 0,405 \\to A - D -  = 0,405:0,75B -  = 0,54 \\to \\frac{{ad}}{{ad}} = 0,04 = 0,{2^2} = 0,4 \\times 0,1\\]\n= 0,54 \\rightarrow \\frac{ad}{ad} = 0,04 = 0,2^{2}= 0,4 \\times 0,1\nVậy có thể xảy ra 2 TH:\nTH1: \n\\frac {Ad}{aD}Bb \\times \\frac{Ad}{aD}Bb; \nf = 40% \\to \\frac{AD}{AD}bb + \\frac{aD}{aD}BB + \\frac{aD}{aD}bb\n= {\\left( {\\frac{f}{2}AD}\\right)^2}\\times 0,25bb + 2 \\times {\\left( {\\frac{{1 - f}}{2}aD} \\right)^2} \\times 0,25 BB = 5,5%\nTH2:\n \\frac{Ad}{aD}Bb \\times \\frac{AD}{ad}Bb;\nf = 20% \\to \\frac{AD}{AD}bb + \\frac{aD}{aD}BB + \\frac{aD}{aD}bb = 3\\times\\frac{f}{2}\\times\\frac{1 - f}{2}\\times 0,25 = 3% \nA đúng\nD đúng.\nHoa đỏ quả dài có các kiểu gen: \\left({\\frac{AD}{AD};\\frac{AD}{ad};\\frac{AD}{Ad};\\frac{Ad}{aD};\\frac{AD}{aD}}\\right)bb + \\left( {\\frac{aD}{aD};\\frac{aD}{ad}} \\right)\\left({BB;Bb;bb} \\right) \\to 11KG \\rightarrow B đúng.\nCây hoa trắng quả dài có các kiểu gen: \\left({\\frac{Ad}{Ad};\\frac{Ad}{ad}} \\right)bb + \\frac{ad}{ad}\\left({BB;Bb,bb} \\right) = 5KG \\rightarrow  C sai"
+    },
+    {
+        "ID": "MET_Bio_IE_2020_40",
+        "Image_Question": "MET_Bio_IE_2020/image001.png",
+        "Question": "Câu 40 : Cho phả hệ sau:\n\nCho biết mỗi bệnh đều do 1 trong 2 alen của 1 gen quy định; gen quy định bệnh P nằm trên NST thường; gen quy định bệnh Q nằm ở vùng không tương đồng trên NST giới tính X; người số 7 không mang alen gây bệnh P và không mang alen gây bệnh Q. Cho các phát biểu sau:\nXác định được tối đa kiểu gen của 3 người.\nNgười số 3 và người số 8 có thể có kiểu gen giống nhau.\nXác suất sinh con đầu lòng là con trai chỉ bị bệnh P của cặp 10 - 11 là 1/32.\nXác suất sinh con đầu lòng không mang alen gây bệnh P và không mang alen gây bệnh Q của cặp 10 - 11 là 5/16.\nTheo lí thuyết, có bao nhiêu phát biểu đúng trong các phát biểu trên? \nA. 1 \t\nB. 3 \t\nC. 4 \t\nD. 2",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Xét bệnh P: Bố mẹ bình thường sinh con bị bệnh \\rightarrow Bệnh do gen lặn.\nA– không bị bệnh P; a–không bị bệnh P\nXét bệnh Q: Bố bị bệnh sinh con gái bình thường \\rightarrow  bệnh do gen lặn.\nB– không bị bệnh Q; b– bị bệnh Q\nI đúng. Vậy có thể xác định kiểu gen của 3 người: 2,7,9\nII đúng, người 3: A–X^BX^–; người 8: A–X^BX^b, hai người này có thể có kiểu gen giống nhau.\nIII đúng\nXét bên người 10:\n+ Người (6) có bố mẹ dị hợp: Aa \\times Aa \\rightarrow người (6): 1AA:2Aa\n+ Người (7) không mang alen gây bệnh: AA\n(6) – (7): (1AA:2Aa) \\times AA \\rightarrow (2A:1a) \\times A \\rightarrow Người 10: (2AA:1Aa)X^BY\nNgười 11 có bố bị bệnh P nên có kiểu gen Aa.\nNgười (8) có kiểu gen X^BX^b \\times người 9: X^BY \\rightarrow Người 11: X^BX^B:X^BX^b\nCặp vợ chồng 10 – 11: (2AA:1Aa) X^BY \\times Aa(X^BX^B:X^BX^b) \\rightarrow (5A:1a)(X^B:Y) \\times (1A:1a)(3X^B:1X^b)\nXác suất sinh con đầu lòng là con trai và chỉ bị bệnh P là: \\frac{1}{6}a\\times \\frac{1}{2}a \\times \\frac{1}{2}Y \\times \\frac{3}{4}{X^B} = \\frac{1}{32} \\rightarrow III đúng.\nIV đúng, xác suất sinh con đầu lòng không mang alen gây bệnh P và Q là: \\frac{5}{6}A\\times \\frac{1}{2}A \\times \\frac{3}{4}{X^B} \\times 1 = \\frac{5}{16}"
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "MET_Chem_IE_2021_1",
+        "Image_Question": "",
+        "Question": "Câu 1: Kim loại nào sau đây có nhiệt độ nóng chảy cao nhất?\n\nA. Na.\n\nB. K.\n\nC. Cu.\n\nD. W.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nKim loại có nhiệt độ nóng chảy cao nhất là W"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_2",
+        "Image_Question": "",
+        "Question": "Câu 2: Kim loại nào sau đây tác dụng với nước thu được dung dịch kiểm?\n\nA. Al.\n\nB. K.\n\nC. Ag.\n\nD. Fe.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\n$2 {K} + 2 {H}_2 {O} \\rightarrow 2 {KOH}+{H}_2 $"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_3",
+        "Image_Question": "",
+        "Question": "Câu 3: Nguyên tắc điều chế kim loại là\n\nA. khử ion kim loại thành nguyên tử.\n\nB. oxi hóa ion kim loại thành nguyên tử.\n\nC. khử nguyên tử kim loại thành ion.\n\nD. oxi hóa nguyên tử kim loại thành ion.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nNguyên tắc điều chế kim loại là khử ion kim loại thành nguyên tử kim loại."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_4",
+        "Image_Question": "",
+        "Question": "Câu 4: Ion nào sau đây có tính oxi hóa mạnh nhất?\n\nA. $Al^{3+}$\n\nB. $Mg^{2+}$.\n\nC. $Ag^{+}$.\n\nD. $Na^{+}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nGhi nhớ: Kim loại có tính khử càng mạnh thì tính oxi hóa càng yếu.\n\nTính oxi hóa: ${Na}^{+} < {Mg}^{2+} < {Al}^{3+} < {Ag}^{+}$.\n\nVậy ${Ag}^{+}$có tính oxi hóa mạnh nhất."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_5",
+        "Image_Question": "",
+        "Question": "Câu 5: Trong công nghiệp, kim loại nào sau đây được điều chế bằng phương pháp điện phân nóng chảy?\n\nA. Na.\n\nB. Cu.\n\nC. Ag.\n\nD. Fe.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nTrong công nghiệp, kim loại Na được điều chế bằng phương pháp điện phân nóng chảy."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_6",
+        "Image_Question": "",
+        "Question": "Câu 6: Kim loại nào sau đây tác dụng được với dung dịch ${HCl}$ sinh ra khí ${H}_2$ ?\n\nA. Mg.\n\nB. Cu.\n\nC. Ag.\n\nD. Au.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\n${HCl}$ tác dụng với các kim loại đứng trước ${H}$ trong dãy điện hóa.\n\n${Mg} + 2 {HCl} \\rightarrow {MgCl}_2+{H}_2$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_7",
+        "Image_Question": "",
+        "Question": "Câu 7: Sản phẩm của phản ứng giữa kim loại nhôm với khí oxi là\n\nA. ${AlCl}_3$.\n\nB. ${Al}_2 {O}_3$.\n\nC. ${Al}({OH})_2$.\n\nD. ${Al}\\left({NO}_3\\right)_3$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\n$4 {Al}+3 {O}_2 \\stackrel{{t}^{0}}{\\rightarrow} 2 {Al}_2 {O}_3$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_8",
+        "Image_Question": "",
+        "Question": "Câu 8: Nung ${CaCO}_3$ ở nhiệt độ cao, thu được chất khí ${X}$. Chất ${X}$ là\n\nA. ${CaO}$.\n\nB. ${H}_2$.\n\nC. ${CO}$.\n\nD. ${CO}_2$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\n${CaCO}_3 \\stackrel{t^{0}}{\\rightarrow} {CaO}+{CO}_2$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_9",
+        "Image_Question": "",
+        "Question": "Câu 9: Trong công nghiệp, quặng boxit dùng để sản xuất kim loại nhôm. Thành phần chính của quặng boxit là\n\nA. ${Al}_2 {O}_3 . 2 {H}_2 {O}$.\n\nB. ${Al}({OH})_3 . 2 {H}_2 {O}$.\n\nC. ${Al}({OH})_3 . {H}_2 {O}$.\n\nD. ${Al}\\left({SO}_4\\right)_3 . {H}_2 {O}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nThành phần chính của quặng boxit là ${Al}_2 {O}_3 . 2 {H}_2 {O}$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_10",
+        "Image_Question": "",
+        "Question": "Câu 10: Công thức của sắt(II) sunfat là\n\nA. ${FeS}$.\n\nB. ${FeSO}_4$.\n\nC. ${Fe}_2\\left({SO}_4\\right)_3$.\n\nD. ${FeS}_2$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\nCông thức của sắt (II) sunfat là ${FeSO}_4$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_11",
+        "Image_Question": "",
+        "Question": "Câu 11: Trong hợp chất ${CrO}_3$, crom có số oxi hóa là\n\nA. +2.\n\nB. +3.\n\nC. +5.\n\nD. +6.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nGọi ${x}$ là số oxi hóa của Cr, ta có ${x} + (-2) \\times 3 = 0 \\Rightarrow {x}=+6$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_12",
+        "Image_Question": "",
+        "Question": "Câu 12: Khí $X$ tạo ra trong quá trình đốt cháy nhiên liệu hóa thạch, gây hiệu ứng nhà kính. Trồng nhiều cây xanh sẽ làm giảm nồng độ khí ${X}$ trong không khí. Khí ${X}$ là\n\nA. ${N}_2$.\n\nB. ${H}_2$.\n\nC. ${CO}_2$.\n\nD. ${O}_2$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nKhí ${X}$ là ${CO}_2$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_13",
+        "Image_Question": "",
+        "Question": "Câu 13: Cho chất ${X}$ tác dụng với dung dịch ${NaOH}$, thu được ${CH}_3 {COONa}$ và ${C}_2 {H}_5 {OH}$. Chất ${X}$ là\n\nA. ${C}_2 {H}_5 {COOCH}_3$.\n\nB. ${CH}_3 {COOC}_2 {H}_5$.\n\nC. ${C}_2 {H}_5 {COOH}$.\n\nD. ${CH}_3 {COOH}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\n${CH}_3 {COOC}_2 {H}_5+{NaOH} \\stackrel{{t}^{0}}{\\rightarrow} {CH}_3 {COONa}+{C}_2 {H}_5 {OH}$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_14",
+        "Image_Question": "",
+        "Question": "Câu 14: Chất nào sau đây là axit béo?\n\nA. Axit panmitic.\n\nB. Axit axetic.\n\nC. Axit fomic.\n\nD. Axit propionic.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nAxit panmitic là axit béo."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_15",
+        "Image_Question": "",
+        "Question": "Câu 15: Chất nào sau đây là đisaccarit?\n\nA. Glucozơ.\n\nB. Saccarozơ.\n\nC. Tinh bột.\n\nD. Xenlulozơ.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\nSaccarozơ là đisaccarit."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_16",
+        "Image_Question": "",
+        "Question": "Câu 16: Dung dịch chất nào sau đây làm quỳ tím chuyển sang màu xanh?\n\nA. Glyxin.\n\nB. Metylamin.\n\nC. Anilin.\n\nD. Glucozơ.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\nDung dịch metylamin làm quỳ tím chuyển xanh."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_17",
+        "Image_Question": "",
+        "Question": "Câu 17: Số nguyên tử oxi trong phân tử axit glutamic là\n\nA. 1.\n\nB. 2.\n\nC. 3.\n\nD. 4.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nAxit glutamic có 2 nhóm ${COOH}$ nên chứa 4 nguyên tử ${O}$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_18",
+        "Image_Question": "",
+        "Question": "Câu 18: Phân tử polime nào sau đây có chứa nitơ?\n\nA. Polietilen.\n\nB. Poli (vinyl clorua).\n\nC. Poli (metyl metacrylat).\n\nD. Poliacrilonitrin.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nA. Polietilen: $\\left(-{CH}_2-{CH}_2-\\right)_n$.\n\nB. Poli(vinyl clorua): $\\left(-{CH}_2-{CHCl}-\\right)_n$.\n\nC. Poli(metyl metacrylat): $\\left[-{CH}_2-{C}\\left({CH}_3\\right)\\left({COOCH}_3\\right)-\\right]_{{n}}$.\n\nD. Poliacrilonitrin: $\\left(-{CH}_2-{CHCN}-\\right)_n$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_19",
+        "Image_Question": "",
+        "Question": "Câu 19: Độ dinh dưỡng của phân đạm được đánh giá theo tỉ lệ phần trăm về khối lượng của nguyên tố nào sau đây?\n\nA. Nitơ.\n\nB. Photpho.\n\nC. Kali.\n\nD. Cacbon.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nĐộ dinh dưỡng của phân đạm được đánh giá theo tỉ lệ phần trăm về khối lượng của nguyên tố nitơ."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_20",
+        "Image_Question": "",
+        "Question": "Câu 20: Cặp chất nào sau đây cùng dãy đồng đẳng?\n\nA. ${CH}_4$ và ${C}_2 {H}_4$.\n\nB. ${CH}_4$ và ${C}_2 {H}_6$.\n\nC. ${C}_2 {H}_4$ và ${C}_2 {H}_6$. \n\nD. ${C}_2 {H}_2$ và ${C}_4 {H}_4$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\n${CH}_4$ và ${C}_2 {H}_6$ cùng thuộc dãy đồng đẳng của ankan."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_21",
+        "Image_Question": "",
+        "Question": "Câu 21: Cho từ từ đến dư kim loại ${X}$ vào dung dịch ${FeCl}_3$, sau khi phản ứng xảy ra hoàn toàn thu được dung dịch ${Y}$ chứa hai muối. X là kim loại nào sau đây?\n\nA. ${Mg}$.\n\nB. ${Zn}$.\n\nC. ${Cu}$.\n\nD. ${Na}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nA. $3 {Mg} \\text{ dư}+2 {FeCl}_3 \\rightarrow 2 {Fe}+3 {MgCl}_2$\n\n$\\Rightarrow$ chỉ thu được 1 muối ${MgCl}_2$.\n\nB. $3 {Zn} \\text{ dư}+2 {FeCl}_3 \\rightarrow 2 {Fe}+3 {ZnCl}_2$\n\n$\\Rightarrow$ chỉ thu được 1 muối ${ZnCl}_2$.\n\nC. ${Cu} \\text{ dư}+2 {FeCl}_3 \\rightarrow {CuCl}_2+2 {FeCl}_2$\n\n$\\Rightarrow$ thu được 2 muối ${CuCl}_2$ và ${FeCl}_2$.\n\nD. $2 {Na} \\text{ dư}+2 {H}_2 {O} \\rightarrow 2 {NaOH}+{H}_2$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_22",
+        "Image_Question": "",
+        "Question": "Câu 22: Cho các este sau: etyl axetat, propyl axetat, metyl propionat, metyl metacrylat. Có bao nhiêu este tham gia phản ứng trùng hợp tạo thành polime?\n\nA. 4.\n\nB. 3.\n\nC. 2.\n\nD. 1.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nĐiều kiện cần về cấu tạo của monome tham gia phản ứng trùng hợp là trong phân tử phải có liên kết bội kém bền hoặc là vòng kém bền có thể mở.\n\nEtyl axetat: ${CH}_3 {COOC}_2 {H}_5$: không thỏa mãn.\n\nPropyl axetat: ${CH}_3 {COOC}_3 {H}_7$: không thỏa mãn.\n\nMetyl propionat: ${C}_2 {H}_5 {COOCH}_3$: không thỏa mãn.\n\nMetyl metacrylat: ${CH}_2={C}\\left({CH}_3\\right)-{COOCH}_3$: thỏa mãn.\n\nVậy chỉ có 1 este tham gia trùng hợp."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_23",
+        "Image_Question": "",
+        "Question": "Câu 23: Cho ${m}$ gam ${Al}$ phản ứng hoàn toàn với khí ${Cl}_2$ dư, thu được 26.7 gam muối. Giá trị của ${m}$ là\n\nA. 2.7.\n\nB. 7.4.\n\nC. 3.0.\n\nD. 5.4.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\n${n}_{{Al}}={n}_{{AlCl}_3}=26.7 / 133.5=0.2 \\Rightarrow {m}_{{Al}}=0.2 \\times 27=5.4$ gam"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_24",
+        "Image_Question": "",
+        "Question": "Câu 24: Chất nào sau đây tác dụng với dung dịch ${HNO}_3$ loãng, dư sinh ra khí ${NO}$ ?\n\nA. ${Fe}_2 {O}_3$.\n\nB. ${FeO}$.\n\nC. ${Fe}({OH})_3$.\n\nD. ${Fe}_2\\left({SO}_4\\right)_3$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\nSinh ra khí NO nên có xảy ra phản ứng oxi hóa - khử $\\Rightarrow$ Hợp chất của sắt có khả năng nhường e (chưa đạt mức oxi hóa cao nhất) $\\Rightarrow {FeO}$ thỏa mãn."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_25",
+        "Image_Question": "",
+        "Question": "Câu 25: Hòa tan hoàn toàn 3.9 gam hỗn hợp ${Al}$ và ${Mg}$ trong dung dịch ${HCl}$ dư, thu được 4.48 lít khí ${H}_2$ và dung dịch chứa ${m}$ gam muối. Giá trị của ${m}$ là\n\nA. 11.6.\n\nB. 17.7.\n\nC. 18.1.\n\nD. 18.5.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nBảo toàn H: ${n}_{{HCl}} = 2 {n}_{{H}_2} = 0.4 ={n}_{{Cl}}$\n\n${m}_{\\text{muối}} = {m}_{{KL}} + {m}_{{Cl}}=3.9+0.4 \\times 35.5=18.1 {gam}$."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_26",
+        "Image_Question": "",
+        "Question": "Câu 26: Thủy phân hoàn toàn hỗn hợp etyl propionat và etyl fomat trong dung dịch ${NaOH}$, thu được sản phẩm gồm\n\nA. 1 muối và 1 ancol. \n\nB. 2 muối và 2 ancol. \n\nC. 1 muối và 2 ancol. \n\nD. 2 muối và 1 ancol.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nEtyl propionat: ${C}_2 {H}_5 {COOC}_2 {H}_5+{NaOH} \\stackrel{{t}^{0}}{\\rightarrow} {C}_2 {H}_5 {COONa}+{C}_2 {H}_5 {OH}$\n\nEtyl fomat: ${HCOOC}_2 {H}_5+{NaOH} \\stackrel{{t}^{\\circ}}{\\rightarrow} {HCOONa}+{C}_2 {H}_5 {OH}$\n\nVậy sau phản ứng thu được 2 muối và 1 ancol."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_27",
+        "Image_Question": "",
+        "Question": "Câu 27: Chất rắn ${X}$ dạng sợi, màu trắng, không tan trong nước ngay cả khi đun nóng. Thủy phân hoàn toàn ${X}$ nhờ xúc tác axit hoặc enzim thu được chất ${Y}$. Hai chất ${X}$ và ${Y}$ lần lượt là\n\nA. xenlulozơ và glucozơ.\n\nB. xenlulozơ và saccarozơ.\n\nC. tinh bột và saccarozơ.\n\nD. tinh bột và glucozơ.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nChất rắn ${X}$ dạng sợi, màu trắng, không tan trong nước ngay cả khi đun nóng $\\Rightarrow {X}$ là xenlulozơ. \n\nThủy phân hoàn toàn ${X}$ nhờ xúc tác axit hoặc enzim thu được chất ${Y} \\Rightarrow {Y}$ là glucozơ."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_28",
+        "Image_Question": "",
+        "Question": "Câu 28: Thủy phân 1.71 gam saccarozơ với hiệu suất $75 \\%$, thu được hỗn hợp X. Cho toàn bộ X vào lượng dư dung dịch ${AgNO}_3$ trong ${NH}_3$, đun nóng, sau khi các phản ứng xảy ra hoàn toàn, thu được ${m}$ gam ${Ag}$. Giá trị của ${m}$ là\n\nA. 0.81.\n\nB. 1.08.\n\nC. 1.62.\n\nD. 2.16.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\n${n}_{{C}_{12} {H}_{22} {O}_{11}(\\text{ban đầu})}=1.71 / 342=0.005 $ mol\n\n${n}_{{C}_{12} {H}_{22} {O}_{11}(\\text{phản ứng})}=0.005 \\times 75 \\%=0.00375$ mol\n\nTóm tắt nhanh:\n\nSaccarozo $\\rightarrow 4 {Ag}$\n\n$0.00375 \\rightarrow 0.015$\n\n$\\Rightarrow {m}_{{Ag}}=0.015 \\times 108=1.62$ (gam)"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_29",
+        "Image_Question": "",
+        "Question": "Câu 29: Đốt cháy hoàn toàn $m$ gam amin ${X}$ (no, đơn chức, mạch hở) thu được ${CO}_2, {H}_2 {O}$ và 2.24 lít khí ${N}_2$. Cho ${m}$ gam ${X}$ tác dụng hết với dung dịch ${HCl}$ dư, số mol ${HCl}$ đã phản ứng là\n\nA. 0.1 mol.\n\nB. 0.2 mol.\n\nC. 0.3 mol.\n\nD. 0.4 mol.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\n${n}_{{N}_2} = 2.24 / 22.4=0.1 $ mol\n\nBảo toàn N: ${n}_{\\text{amin}} = 2 {n}_{{N}_2} = 0.2 $\n\nMà amin đơn chức nên khi phản ứng với ${HCl}$ ta có: ${n}_{{HCl} (\\text{pư})}={n}_{\\text{amin}}=0.2 $ mol."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_30",
+        "Image_Question": "",
+        "Question": "Câu 30: Phát biểu nào sau đây đúng?\n\nA. Tơ nitron được điều chế bằng phản ứng trùng ngưng.\n\nB. Sợi bông, tơ tằm đều thuộc loại tơ thiên nhiên.\n\nC. Cao su lưu hóa có cấu trúc mạch không phân nhánh.\n\nD. Tơ nilon-6,6 được điều chế bẳng phản ứng trùng hợp.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\nA sai, tơ nitron điều chế bằng phản ứng trùng hợp ${CH}_2={CH}-{CN}$.\n\nB đúng.\n\nC sai, cao su lưu hóa có cấu trúc mạch không gian.\n\nD sai, tơ nilon-6,6 được điều chế bằng phản ứng trùng ngưng."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_31",
+        "Image_Question": "",
+        "Question": "Câu 31: Hấp thụ hoàn toàn ${V}$ lít khí ${CO}_2$ vào dung dịch chứa a mol ${NaOH}$ và $1.5 {a}$ mol ${Na}_2 {CO}_3$, thu được dung dịch ${X}$. Chia ${X}$ thành hai phần bằng nhau. Cho từ từ phần một vào 120 ml dung dịch ${HCl}$ 1M, thu được 2.016 lít khí ${CO}_2$. Cho phần hai phản ứng hết với dung dịch ${Ba}({OH})_2$ dư, thu được 29.55 gam kết tủa. Giá trị của ${V}$ là\n\nA. 1.12.\n\nB. 1.68.\n\nC. 2.24.\n\nD. 3.36.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nGiả sử mỗi phần dung dịch ${X}$ gồm $x$ mol ${Na}_2 {CO}_3$ và $y$ mol ${Na} {HCO}_3$\n\nKhi cho ${X}$ vào ${Ba}({OH})_2$ dư thì nguyên tố ${C}$ sẽ nằm hết trong ${BaCO}_3$. Nên $x + y = 0.15$ (1)\n\nKhi cho từ từ ${X}$ vào ${HCl}$ thì 2 muối sẽ tác dụng đồng thời với ${HCl}$ tạo khí theo đúng tỉ lệ mol của chúng\n\n${Na}_2 {CO}_3 + 2 {HCl} \\rightarrow 2 {NaCl} + {H}_2 {O} + {CO}_2$\n\n${NaHCO}_3 + {HCl} \\rightarrow {NaCl} + {H}_2 {O} + {CO}_2$\n\nTrong 2 phương trình trên, giả sử ${n}_{{Na}_2 {CO}_3} = u$, ${n}_{{NaHCO}_3} = v$\n\nThế thì ${n}_{{HCl}} = 2u + v = 0.12$ và ${n}_{{CO}_2} = u + v = 2.016 / 22.4 = 0.09$. Suy ra $u = 0.03$ và $v = 0.06$\n\nNên tỉ lệ ${n}_{{Na}_2 {CO}_3} : {n}_{{NaHCO}_3} = 0.03 : 0.06 = 0.5$\n\nSuy ra $x / y = 0.5$ (2)\n\nTừ (1) và (2) suy ra $x = 0.05; y = 0.1$\n\nDo đó, khi cho ${CO}_2$ vào dung dịch chứa a mol ${NaOH}$ và $1.5 {a}$ mol ${Na}_2 {CO}_3$, ta thu được 0.05 mol ${Na}_2 {CO}_3$ và 0.1 mol ${NaHCO}_3$\n\nBảo toàn Na: $a + 2 \\times 1.5 a = 2 \\times 0.05 + 0.1$. Suy ra $a = 0.05$\n\nBảo toàn C: ${n}_{{CO}_2} = 0.05 + 0.1 - 1.5a = 0.075$\n\nDo chia thành 2 phần bằng nhau, nên $V = 0.075 \\times 22.4 \\times 2 = 3.36$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_32",
+        "Image_Question": "",
+        "Question": "Câu 32: Thực hiện 5 thí nghiệm sau:\n\n(a) Cho dung dịch ${KHSO}_4$ vào dung dịch ${Ba}\\left({HCO}_3\\right)_2$.\n\n(b) Cho dung dịch ${NH}_4 {HCO}_3$ vào dung dịch ${Ba}({OH})_2$.\n\n(c) Đun nóng nước cứng tạm thời.\n\n(d) Cho kim loại ${Al}$ vào dung dịch ${NaOH}$ dư.\n\n(đ) Cho kim loại ${Na}$ vào dung dịch ${CuSO}_4$. \n\nSau khi các phản ứng kết thúc, số thí nghiệm thu được cả kết tủa và chất khí là\n\nA. 2.\n\nB. 3.\n\nC. 4.\n\nD. 5.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\n(a) $2 {KHSO}_4+{Ba}\\left({HCO}_3\\right)_2 \\rightarrow {BaSO}_4 \\downarrow+{K}_2 {SO}_4+2 {CO}_2 \\uparrow+2 {H}_2 {O}$\n\n(b) $2 {NH}_4 {HCO}_3+{Ba}({OH})_2 \\rightarrow {BaCO}_3 \\downarrow+2 {NH}_3 \\uparrow+2 {H}_2 {O}$\n\n(c) ${R}\\left({HCO}_3\\right)_2 \\stackrel{{t}^{0}}{\\longrightarrow} {RCO}_3 \\downarrow+{CO}_2 \\uparrow+{H}_2 {O}$\n\n(d) $2 {Al}+2 {NaOH} \\text{dư}+2 {H}_2 {O} \\rightarrow 2 {NaAlO}_2+3 {H}_2 \\uparrow$\n\n(đ) $2 {Na}+2 {H}_2 {O} \\rightarrow 2 {NaOH}+{H}_2 \\uparrow$\n\n$2 {NaOH}+{CuSO}_4 \\rightarrow {Cu}({OH})_2 \\downarrow+{Na}_2 {SO}_4$\n\nVậy có 4 thí nghiệm thu được cả kết tủa và khí là (a), (b), (c), (đ)."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_33",
+        "Image_Question": "",
+        "Question": "Câu 33: Xà phòng hóa hoàn toàn $m$ gam hỗn hợp ${E}$ gồm các triglixerit bằng dung dịch ${NaOH}$, thu được glixerol và hỗn hợp ${X}$ gồm ba muối ${C}_{17} {H}_{{x}} {COONa}, {C}_{15} {H}_{31} {COONa}, {C}_{17} {H}_{{y}} {COONa}$ với tỉ lệ mol tương ứng là $3: 4: 5$. Mặt khác, hiđro hóa hoàn toàn ${m}$ gam ${E}$ thu được 68.96 gam hỗn hợp ${Y}$. Nếu đốt cháy hoàn toàn ${m}$ gam ${E}$ cần vừa đủ 6.09 mol ${O}_2$. Giá trị của ${m}$ là\n\nA. 60.32.\n\nB. 60.84.\n\nC. 68.20.\n\nD. 68.36.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nTừ tỉ lệ các muối đề bài cho, ta thấy tỉ lệ mol của muối $C_{18}: C_{16} = (3+5): 4=2$\n\nQuy đổi hỗn hợp ${E}$ thành $\\left({C}_{17} {H}_{35} {COO}\\right)_2 \\left({C}_{15} {H}_{31} {COO}\\right) {C}_3 {H}_5$ (0.08 mol) và ${H}_2$ (lưu ý ${n}_{{H}_2} < 0$).\n\n${Y}$ có công thức là $\\left({C}_{17} {H}_{35} {COO}\\right)_2\\left({C}_{15} {H}_{31} {COO}\\right) {C}_3 {H}_5$. Suy ra ${n}_{{Y}} = 68.96 / 862 = 0.08 = {n}_{{E}}$\n\nE gồm 0.08 mol $\\left({C}_{17} {H}_{35} {COO}\\right)_2\\left({C}_{15} {H}_{31} {COO}\\right) {C}_3 {H}_5$ và $a$ mol ${H}_2$ tác dụng với 6.09 mol ${O}_2$:\n\nBảo toàn C: ${n}_{{CO}_2} = 4.4$\n\nBảo toàn H: ${n}_{{H}_2 {O}} = a + 4.24$\n\nDo đó, từ bảo toàn O: $6 \\times 0.08 + 2 \\times 6.09 = 2 \\times 4.4 + (a + 4.24)$. Suy ra $a = -0.38$\n\nVậy ${m}_{{E}} = 68.96 - 2 \\times 0.38 = 68.2$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_34",
+        "Image_Question": "",
+        "Question": "Câu 34: Cho các phát biểu sau:\n\n(a) Ỏ điều kiện thường, glucozơ và alanin đều là chất rắn và dễ tan trong nước.\n\n(b) Khi tham gia phản ứng tráng bạc, glucozơ bị khử thành amoni gluconat.\n\n(c) Amilopectin trong tinh bột có cấu trúc mạch không phân nhánh.\n\n(d) Thành phần chính của cồn $70^{0}$ thường dùng trong y tế để sát trùng là metanol.\n\n(đ) Gạch cua nổi lên trên khi nấu riêu cua là hiện tượng đông tụ chất béo. \n\nSố phát biểu đúng là\n\nA. 1.\n\nB. 2.\n\nC. 3.\n\nD. 4.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\n(a) đúng.\n\n(b) sai, glucozơ bị oxi hóa thành amoni gluconat.\n\n(c) sai, amilopectin có mạch phân nhánh.\n\n(d) sai, cồn y tế có thành phần chính là etanol.\n\n(d) sai, hiện tượng đông tụ protein.\n\nVậy có 1 phát biểu đúng."
+    },
+    {
+        "ID": "MET_Chem_IE_2021_35",
+        "Image_Question": "",
+        "Question": "Câu 35: Cho ${m}$ gam hỗn hợp gồm ${Na}, {Na}_2 {O}, {K}_2 {O}$ vào ${H}_{2}{O}$ dư, thu được 50 ml dung dịch ${X}$ và 0.02 mol $ {H}_2$. Cho 50 ml dung dịch ${HCl}$ 3M vào ${X}$, thu được $100 {ml}$ dung dịch ${Y}$ có pH = 1. Cô cạn $Y$ thu được 9.15 gam chất rắn khan. Giá trị của ${m}$ gần nhất với giá trị nào sau đây?\n\nA. 4.0.\n\nB. 4.6.\n\nC. 5.0.\n\nD. 5.5.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nQuy đổi hỗn hợp thành Na (a), K (b), O (c).\n\nBảo toàn e: ${n}_{{Na}}+{n}_{{K}}=2 {n}_{{O}}+2 {n}_{{H}_2} \\Rightarrow {a}+{b}=2 {c} + 2 \\times 0.02$ (1)\n\n${n}_{{OH}^{-}} = {n}_{{NaOH}} + {n}_{{KOH}} = {a}+{b}$ \n\n$\\Rightarrow {n}_{{H}^{+} \\text{dư}} ={n}_{{H}^{+} \\text{bđ}} - {n}_{{OH}^{-}}$\n\n$\\Rightarrow 0.1 \\times 10^{-1}=0.05 \\times 3 - ({a}+{b})$ (2)\n\nChất rắn sau cô cạn gồm: ${NaCl}$ (a) và ${KCl}$ (b)\n\n$\\Rightarrow 58.5 {a} + 74.5 {b}=9.15 $ (3)\n\nGiải (1), (2), (3) được ${a}=0.08 ; {b}=0.06 ; {c}=0.05$.\n\n$\\Rightarrow {m}=0.08 \\times 23 + 0.06 \\times 39 + 0.05 \\times 16=4.98$ gần nhất với 5 gam"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_36",
+        "Image_Question": "",
+        "Question": "Câu 36: Đốt cháy hoàn toàn 0.26 mol hỗn hợp $X$ (gồm etyl axetat, metyl acrylat và hai hiđrocacbon mạch hở) cần vừa đủ 0.79 mol $ {O}_2$, tạo ra ${CO}_2$ và 10.44 gam ${H}_2 {O}$. Nếu cho 0.26 mol ${X}$ vào dung dịch ${Br}_2$ dư thì số mol ${Br}_2$ phản ứng tối đa là\n\nA. 0.16 mol.\n\nB. 0.18 mol.\n\nC. 0.21 mol.\n\nD. 0.19 mol.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B\n\nAnkan hóa X thu được este no (${CH}_4$ + ${CH}_2$ + ${COO}$), ankan (${CH}_4$ + ${CH}_2$) và ${H}_2$. Tóm lại các thành phần thu được là ${CH}_4, {CH}_2, {COO}, {H}_2$.\n\nTa thấy mỗi chất tách 1 ${CH}_4$. Suy ra ${n}_{{CH}_4} = {n}_{{X}} = 0.26$\n\nGiả sử ${n}_{{CH}_2} = x$, ${n}_{{COO}} = y$, ${n}_{{H}_2} = z$\n\nCho 0.26 mol ${CH}_4$, $x$ mol ${CH}_2$, $y$ mol ${COO}$, $z$ mol ${H}_2$ tác dụng với 0.79 mol ${O}_2$, thu được ${CO}_2$ và 0.58 mol ${H}_2 {O}$\n\nBảo toàn C: ${n}_{{CO}_2} = x + y + 0.26$\n\nBảo toàn O: $2y + 2 \\times 0.79 = 2(x + y + 0.26) + 0.58$. Suy ra $x = 0.24$\n\nBảo toàn H: $4 \\times 0.26 + 2x + 2z = 2 \\times 0.58$. Suy ra $z = -0.18$\n\nBản chất của việc ankan hóa giống như cho tác dụng với ${Br}_2$ vì đều phá vỡ liên kết $\\pi$. Vậy ${n}_{{Br}_2} = 0.18$ mol"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_37",
+        "Image_Question": "",
+        "Question": "Câu 37: Hòa tan hết 23.18 gam hỗn hợp ${X}$ gồm ${Fe}, {Mg}$ và ${Fe}\\left({NO}_3\\right)_3$ vào dung dịch chứa 0.46 mol ${H}_2 {SO}_4$ loãng và 0.01 mol ${NaNO}_3$, thu được dung dịch ${Y}$ (chứa 58.45 gam chất tan gồm hỗn hợp muối trung hòa) và 2.92 gam hỗn hợp khí ${Z}$. Cho ${Y}$ phản ứng vừa đủ với dung dịch chứa 0.91 mol $ {NaOH}$, thu được 29.18 gam kết tủa. Biết các phản ứng xảy ra hoàn toàn. Phần trăm khối lượng ${Fe}\\left({NO}_3\\right)_3$ trong ${X}$ là\n\nA. $46.98 \\%$.\n\nB. $41.76 \\%$.\n\nC. $52.20 \\%$.\n\nD. $38.83 \\%$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nTa thấy $2 {n}_{{Fe}^{2+}} + 3 {n}_{{Fe}^{3+}} + 2 {n}_{{Mg}^{2+}} + 2 {n}_{{NH}_4{}^{+}} = {n}_{{OH}^{-}} = 0.91$\n\nKiểm tra điện tích: $2 {n}_{{Fe}^{2+}} + 3 {n}_{{Fe}^{3+}} + 2 {n}_{{Mg}^{2+}} + {n}_{{NH}_4{}^{+}} + {n}_{{Na}^{+}} = 2 {n}_{{SO}_4{}^{2-}}$. Suy ra dung dịch Y không chứa ${NO}_3{}^{-}$\n\nĐặt ${m}_{{Fe} + {Mg}} = a$ và ${n}_{{NH}_4{}^{+}} = b$\n\nGiải hệ ${m}_{\\text{muối}} = a + 18b + 0.01 \\times 23 + 0.46 \\times 96 = 58.45$ và ${m}_{\\text{kết tủa}} = a + 17(0.91 - b) = 29.18$. Ta được $a = 13.88$ và $b = 0.01$.\n\nSuy ra ${m}_{{NO}_3 ({X})} = {m}_{{X}} - {m}_{{Fe} + {Mg}} = 9.3$. Suy ra ${n}_{{NO}_3 ({X})} = 0.15$. Suy ra ${n}_{{Fe}\\left({NO}_3\\right)_3} = 0.05$\n\nVậy $\\% {m}_{{Fe}\\left({NO}_3\\right)_3} = 52.2 \\%$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_38",
+        "Image_Question": "",
+        "Question": "Câu 38: Hỗn hợp ${E}$ gồm amin ${X}$ (no, mạch hở) và ankan ${Y}$, số mol ${X}$ lớn hơn số mol ${Y}$. Đốt cháy hoàn toàn 0.09 mol ${E}$ cần dùng vừa đủ 0.67 mol ${O}_2$, thu được ${N}_2, {CO}_2$ và 0.54 mol ${H}_2 {O}$. Khối lượng của ${X}$ trong 14.56 gam hỗn hợp ${E}$ là\n\nA. 7.04 gam.\n\nB. 7.20 gam.\n\nC. 8.80 gam.\n\nD. 10.56 gam.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C\n\nBảo toàn O: ${n}_{{CO}_2} = \\left(2 {n}_{{O}_2} - {n}_{{H}_2 {O}}\\right) / 2 = 0.4$\n\nAmin no X: ${CH}_4 + x{CH}_2 + y{NH}$\n\nAnkan Y: ${CH}_4 + n{CH}_2$\n\nQuy đổi E thành ${CH}_4, {CH}_2, {NH}$\n\nGiả sử E gồm 0.09 mol ${CH}_4$, a mol ${CH}_2$, b mol ${NH}$ tác dụng 0.67 mol ${O}_2$ thu được 0.4 mol ${CO}_2$, 0.54 mol ${H}_2 {O}$ và ${N}_2$\n\nBảo toàn C: $0.09 + a = 0.4$. Nên $a = 0.31$\n\nBảo toàn H: $4 \\times 0.09 + 2a + b = 2 \\times 0.54$. Nên $b = 0.1$\n\nHỗn hợp gồm\n\n(X) ${C}_{{n}} {H}_{2 {n}+2+{x}} {N}_{{x}}$: $\\frac{0.1}{{x}}$\n\n(Y) ${C}_{{m}} {H}_{2 {m}+2}$: $0.09 - \\frac{0.1}{{x}}$\n\n${n}_X > {n}_Y \\Rightarrow \\frac{0.1}{x}>0.09 - \\frac{0.1}{x} \\rightarrow x < 2.22$ Suy ra $x=1$ hoặc $x=2$.\n\nMặt khác, số N trung bình là $0.1/0.09=1.11>1$ nên amin không thể là đơn chức. Do đó $x=2$.\n\n(X) ${C}_{{n}} {H}_{2 {n}+2+{x}} {N}_{{x}}$: 0.05\n\n(Y) ${C}_{{m}} {H}_{2 {m}+2}$: 0.04\n\nBảo toàn C: $0.05 {n} + 0.04 {m} = 0.4$. Suy ra $n=4$ và $m=5$\n\nVậy hỗn hợp E gồm ${C}_4 {H}_{12} {N}_2$ (0.05) và ${C}_5 {H}_{12}$ (0.04) nặng 7.28 gam.\n\nSuy ra 14.56 gam hỗn hợp E chứa 0.1 mol ${C}_4 {H}_{12} {N}_2$\n\nVậy ${m}_{{C}_4 {H}_{12} {N}_2} = 8.8$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_39",
+        "Image_Question": "",
+        "Question": "Câu 39: Hỗn hợp E gồm ba este mạch hở, đều được tạo bởi axit cacboxylic với ancol và đều có phân tử khối nhỏ hơn 146. Đốt cháy hoàn toàn a mol ${E}$, thu được 0.96 mol ${CO}_2$ và 0.78 mol ${H}_2 {O}$. Mặt khác, thủy phân hoàn toàn 42.66 gam ${E}$ cần vừa đủ 360 ml dung dịch ${NaOH}$ 2M, thu được hỗn hợp ancol và 48.87 gam hỗn hợp muối. Phần trăm khối lượng của este có số mol lớn nhất trong E là\n\nA. $12.45 \\%$.\n\nB. $25.32 \\%$.\n\nC. $49.79 \\%$.\n\nD. $62.24 \\%$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chọn D\n\nTừ phản ứng cháy dễ dàng tính được tị lệ ${n}_{{C}} : {n}_{{H}} = 8 : 13$\n\nXét phản ứng thủy phân 42.66 gam E\n\n${n}_{{COO}} = {n}_{{NaOH}} = 0.72$. Suy ra ${n}_{{O} \\text{ (E)}} = 1.44$\n\nGiả sử 42.66 g E gồm x mol C, y mol H, 1.44 mol O tác dụng với 0.72 mol NaOH thu được 48.87 g muối và ancol\n\nTa có hệ phương trình\n\n${n}_{{C}} : {n}_{{H}} = x : y = 8 : 13$\n\n${m}_{{E}} = 12x + y + 1.44 \\times 16 = 42.66$.\n\nSuy ra $x = 1.44, y = 2.34$\n\nNhận thấy điểm đặc biệt ${n}_{{C}} = {n}_{{O}}$ mà các este đều có $M < 146$ nên chỉ có thể là\n\n${HCOOCH}_3$: a\n\n$\\left({COOCH}_3\\right)_2$: b\n\n$({HCOO})_2 {C}_2 {H}_4$: c\n\nMuối gồm HCOONa $({a}+2 {c})$ và $({COONa})_2$ (b)\n\nGiải hệ\n\n${m}_{{E}} = 60 {a} + 118 {b} + 118 {c} = 42.66$\n\n${n}_{{NaOH}} = {a} + 2 {b} + 2 {c} = 0.72$\n\n${m}_{\\text{muối}} = 68({a} + 2 {c}) + 134 {b} = 48.87$\n\nTa được a = 0.18, b = 0.045, c = 0.225\n\nChất có số mol lớn nhất là $({HCOO})_2 {C}_2 {H}_4$\n\nVậy $\\% {m}_{({HCOO})_2 {C}_2 {H}_4} = 62.24 \\%$"
+    },
+    {
+        "ID": "MET_Chem_IE_2021_40",
+        "Image_Question": "",
+        "Question": "Câu 40: Tiến hành thí nghiệm theo các bước sau:\n\nBước 1: Cho vào cốc thủy tinh chịu nhiệt khoảng 5 gam dầu dừa và 10 ml dung dịch ${NaOH} 40 \\%$. \n\nBước 2: Đun sôi nhẹ hỗn hợp, liên tục khuấy đều bằng đũa thủy tinh khoảng 30 phút và thỉnh thoảng thêm nước cất để giữ cho thể tích hỗn hợp không đổi. Để nguội hỗn hợp.\n\nBước 3: Rót vào hỗn hợp 15 - 20 ml dung dịch ${NaCl}$ bão hòa, nóng, khuấy nhẹ rồi để yên. \n\nPhát biểu nào sau đây về thí nghiệm trên sai?\n\nA. Sau bước 3, thấy có lớp chất rắn màu trắng nổi lên là glixerol.\n\nB. Ở bước 3, thêm dung dịch ${NaCl}$ bão hòa là để tách muối của axit béo ra khỏi hỗn hợp.\n\nC. Ở bước 2, việc thêm nước cất để đảm bảo phản ứng thủy phân xảy ra.\n\nD. Trong thí nghiệm trên, có xảy ra phản ứng xà phòng hóa chất béo.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A\n\nA sai, vì sau bước 3 lớp chất rắn nổi lên là muối natri của axit béo"
+    }
+]
