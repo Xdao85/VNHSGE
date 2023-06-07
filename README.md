@@ -24,8 +24,8 @@ the [GPT-4 Report](https://openai.com/research/gpt-4)
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/VNHSGE_other_dataset.png?raw=true)
 
 ## Latest News
-> * Eval test was uploaded: 30 eassays on literature and 1700 multiple-choice questions on other subjects
-> * Full dataset will be upload soon!
+> * Full dataset will be uploaded soon!
+> * [5/31/2023] Eval test was uploaded: 30 essays on literature and 1700 multiple-choice questions on other subjects.
 > 
 <!--- We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023] -->
 <!-- SETUP -->
@@ -47,10 +47,10 @@ Civic Education | Multiple choice | 40 | 50 | 2000
 Dataset folder
 
     VNHSGE
-    ├── VNHSGE-V                                 # Vietnamse versions
+    ├── VNHSGE-V                                 # Vietnamese versions
     │    ├── JSON format                         # JSON folder                            
     │    │   ├── eval                            # eval set
-    │    │   │     ├── Mathematics               # VNHSGE mathematcis dataset
+    │    │   │     ├── Mathematics               # VNHSGE mathematics dataset
     │    │   │     │   ├── MET_Math_IE_2023.json # JSON file     
     │    │   │     │   ├── MET_Math_IE_2023      # Image folder
     │    │   │     ├── ..........                # 
@@ -59,7 +59,7 @@ Dataset folder
     │    │   ├── train                           # train set
     │    └── Word format                         # Word folder                            
     │    │   ├── eval                   
-    │    │   │     ├── Mathematics               # VNHSGE mathematcis dataset
+    │    │   │     ├── Mathematics               # VNHSGE mathematics dataset
     │    │   │     │   ├── MET_Math_IE_2023.docx # Word file 
     │    │   │     ├── ..........                # 
     │    │   │     ├── Civic Education           # VNHSGE civic education dataset
