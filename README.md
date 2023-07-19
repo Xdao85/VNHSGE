@@ -138,5 +138,21 @@ If you find this work useful for your research, please feel free to use them (do
   journal={arXiv preprint arXiv:2305.12199},
   year={2023}
 }
+
+@article{dao2023can,
+  title={Can ChatGPT pass the Vietnamese National High School Graduation Examination?},
+  author={Xuan-Quy, Dao and Ngoc-Bich, Le and Xuan-Dung, Phan and Bac-Bien, Ngo},
+  journal={arXiv preprint arXiv:2306.09170},
+  year={2023}
+}
+
+@article{dao2023chatgpt,
+  title={ChatGPT is Good but Bing Chat is Better for Vietnamese Students},
+  author={Xuan-Quy, Dao and Ngoc-Bich, Le and Xuan-Dung, Phan and Bac-Bien, Ngo},
+  journal={arXiv preprint arXiv:2307.08272},
+  year={2023}
+}
+
+
 ```
 
