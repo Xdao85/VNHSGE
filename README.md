@@ -25,8 +25,8 @@ the [GPT-4 Report](https://openai.com/research/gpt-4)
 
 ## Latest News
 > * Full dataset will be uploaded soon!
-> * [7/19/2023] Full VNHSGE history dataset was uploaded (200, 200, 1600 questions for eval, test, train sets)
-> * [7/19/2023] Full VNHSGE history dataset was uploaded (200, 200, 1600 questions for eval, test, train sets)
+> * [7/19/2023] Full VNHSGE civic education dataset was uploaded (200, 200, 1600 questions for eval, test, train sets);
+> * [7/19/2023] Full VNHSGE history dataset was uploaded (200, 200, 1600 questions for eval, test, train sets);
 > * [5/31/2023] Eval test was uploaded: 30 essays on literature and 1700 multiple-choice questions on other subjects.
 > 
 <!--- We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023] -->
