@@ -315,7 +315,7 @@
         "ID": "MET_Phy_IE_2021_40",
         "Image_Question": "",
         "Question": "Câu 40: Trong thí nghiệm Y-âng về giao thoa ánh sáng, hai khe được chiếu bằng ánh sáng gồm hai bức xạ đơn sắc \\lambda_1 và \\lambda_2 có bước sóng lần lượt là 0,5 \\mu m và 0,7 \\mu m. Trên màn quan sát, hai vân tối trùng nhau gọi là một vạch tối. Trong khoảng giữa vân sáng trung tâm và vạch tối gần vân trung tâm nhất có N_1 vân sáng của \\lambda_1 và N_2 vân sáng của \\lambda_2 (không tính vân sáng trung tâm). Giá trị N_1+N_2 bằng\nA. 5.\t\nB. 8.\t\nC. 6.\t\nD. 3.",
-        "Choice": "",
+        "Choice": "A",
         "Image_Answer": "",
         "Explanation": "Ta có tọa độ vân tối trùng gần với vân trung tâm nhất:\n$x_{i}=\\left(k_{1}-0,5\\right) i_{1}=\\left(k_{2}-0,5\\right) i_{2} \\Rightarrow\\left(k_{1}-0,5\\right) \\lambda_{1}=\\left(k_{2}-0,5\\right) \\lambda_{2}$\n$\\Rightarrow \\frac{k_{1}-0,5}{k_{2}-0,5}=\\frac{\\lambda_{2}}{\\lambda_{1}}=\\frac{7}{5} \\Rightarrow \\frac{2 k_{1}-1}{2 k_{2}-1}=\\frac{7}{5}$\n$\\Rightarrow\\left\\{\\begin{array}{l}2 k_{1}-1=7 \\Rightarrow k_{1}=4 \\\\ 2 k_{2}-1=5 \\Rightarrow k_{2}=3\\end{array}\\right.$\n$\\rightarrow$ tại vân tối trùng là vân tối thứ 4 của bức xạ $\\lambda_{1}$ và vân tối thứ 3 của bức xạ $\\lambda_{2}$\n$\\rightarrow$ trong khoảng giữa vân trung tâm và vân tối trùng có $N_{1}=3$ vân sáng của bức xạ $\\lambda_{1}$ và $N_{2}=2$ vân sáng của bức xạ $\\lambda_{2}$. $\\Rightarrow N_{1}+N_{2}=5$\nChọn A"
     }
