@@ -1,0 +1,242 @@
+[
+    {
+        "ID": "Bio_1_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Ở tế bào động vật, loại bào quan nào sau đây chứa các enzim thủy phân giúp ngăn chặn sự phá hủy các thành phần của tế bào?\nA. Lục lạp\nB. Lizoxom\nC. Không bào trung tâm\nD. Thể Golgi",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ở tế bào động vật, lizoxom chứa các enzim thủy phân giúp ngăn chặn sự phá hủy các thành phần của tế bào.\nChọn B"
+    },
+    {
+        "ID": "Bio_1_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Khi nói về sự khác nhau giữa cấu tạo tế bào nhân sơ và tế bào nhân thực, phát biểu nào sau đây là đúng?\nA. Tế bào nhân sơ có kích thước lớn hơn tế bào nhân thực.\nB. Tế bào nhân sơ có hệ thống nội màng, tế bào nhân thực không có hệ thống nội màng.\nC. Tế bào nhân sơ có vùng nhân, tế bào nhân thực có nhân.\nD. Tế bào nhân sơ chứa các bào quan có màng, tế bào nhân thực chỉ có ribôxôm.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Sự khác nhau giữa cấu tạo tế bào nhân sơ và tế bào nhân thực: Tế bào nhân sơ có vùng nhân, tế bào nhân thực có nhân.\nA sai, tế bào nhân sơ nhỏ hơn tế bào nhân thực.\nB sai, tế bào nhân sơ không có hệ thống nội màng.\nD sai, tế bào nhân sơ không có các bào quan có màng như tế bào nhân thực mà chỉ có riboxom.\nChọn C"
+    },
+    {
+        "ID": "Bio_1_3",
+        "Image_Question": "Bio_1/Bio_1_3.jpeg",
+        "Question": "Câu 3:  Quan sát hình vẽ tế bào đang thực hiện quá trình nguyên phân và cho biết nhận định nào sau đây là đúng?\nA. Tế bào đang ở kì sau của nguyên phân và tế bào đang có 4 tâm động.\nB. Tế bào này có bộ NST $2 n=4$ và tế bào đang có 8 cromatit.\nC. Tế bào đang ở kì giữa của nguyên phân và tế bào đang có 4 cromatit.\nD. Tế bào này có bộ NST $2 n=8$ và tế bào đang có 8 cromatit.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tế bào có 1 hàng NST kép ở mặt phẳng xích đạo $\\rightarrow$ đang ở kì giữa của nguyên phân.\nXét các phát biểu:\nA: Sai, tế bào đang ở kì giữa\nB: đúng.\nC: sai, tế bào có 4 NST kép, mỗi NST kép có 2 cromatit $\\rightarrow$ có tất cả 8 cromatit.\nD: sai, $2 n=4$\nChọn B"
+    },
+    {
+        "ID": "Bio_1_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Khi nói về miễn dịch, phát biểu nào sau đây đúng?\nA. Miễn dịch là khả năng của cơ thể chống lại các tác nhân gây bệnh.\nB. Da và niêm mạc thuộc hệ thống miễn dịch đặc hiệu.\nC. Đại thực bào và bạch cầu trung tính giết chết vi sinh vật theo cơ chế kháng thể.\nD. Miễn dịch thể dịch thuộc hệ thống miễn dịch không đặc hiệu.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A đúng.\n$\\mathrm{B}$ sai, da và niêm mạch thuộc miễn dịch không đặc hiệu.\n$\\mathrm{C}$ sai, đại thực bào và bạch cầu trung tính giết chết vi sinh vật theo cơ chế thực bào.\nD sai, miễn dịch dịch thể thuộc hệ thống miễn dịch đặc hiệu.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Khi trời mưa nhiều ngày làm cho mặt đất bị úng nước. Sau đó, mưa tạnh và nắng xuất hiện, những cây cà tím trồng trên ruộng bị héo. Để cứu sống những cây cà tím, người trồng cà có thể thực hiện những giải pháp sau:\n\\begin{enumerate}\n\\item Bón thêm phân\n\\item Tạo đường thoát nước cho đồng ruộng\n\\end{enumerate}\nTổ hợp trả lời nào sau đây là đúng?\nA. 1, 2, 3\nB. $2,3,4$\nC. $1,2,4$\nD. $1,3,4$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Mưa nhiều ngày làm mặt đất bị úng $\\rightarrow$ đây là môi trường thiếu oxi làm cho lông hút ở rễ bị tiêu biến, khi nắng lên cây thiếu nước sẽ bị héo.\nĐể cứu sống cà tím cần:\n\\begin{enumerate}\n\\setcounter{enumi}{1}\n\\item Xới đất\n\\item Tạo đường thoát nước cho đồng ruộng\n\\item Vun luống\n\\end{enumerate}\nChọn B"
+    },
+    {
+        "ID": "Bio_1_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Hãy cho biết nồng độ chất tan nào dưới đây đóng góp vai trò nhiều nhất tạo ra áp suất thẩm thấu của máu?\nA. Protein\nB. Glucose\nC. $\\mathrm{NaCl}$\nD. Ure",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{NaCl}$ là thành phần chủ yếu tạo ra áp suất thẩm thấu của máu.\nChọn C"
+    },
+    {
+        "ID": "Bio_1_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Trật tự nào dưới đây là đúng khi mô tả sự phân bố các mạch máu trong hệ tuần hoàn theo chiều máu chảy từ tâm thất trái về tâm nhĩ phải của tim?\nA. Động mạch $\\rightarrow$ Tiểu động mạch $\\rightarrow$ Mao mạch $\\rightarrow$ Tiểu tĩnh mạch $\\rightarrow$ Tĩnh mạch.\nB. Tĩnh mạch $\\rightarrow$ Tiểu tĩnh mạch $\\rightarrow$ Mao mạch $\\rightarrow$ Tiểu động mạch $\\rightarrow$ Động mạch.\nC. Động mạch $\\rightarrow$ Mao mạch $\\rightarrow$ Tiểu động mạch $\\rightarrow$ Tĩnh mạch $\\rightarrow$ Tiểu tĩnh mạch.\nD. Tiểu tĩnh mạch $\\rightarrow$ Tĩnh mạch $\\rightarrow$ Mao mạch $\\rightarrow$ Động mạch $\\rightarrow$ Tiểu động mạch.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đường đi của máu từ tâm thất trái về tâm nhĩ phải của tim:\nĐộng mạch $\\rightarrow$ Tiểu động mạch $\\rightarrow$ Mao mạch $\\rightarrow$ Tiểu tĩnh mạch $\\rightarrow$ Tĩnh mạch.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  pH máu là một chỉ số nội môi quan trọng ảnh hưởng đến hoạt động bình thường của tế bào cơ thể. Giá trị $\\mathrm{pH}$ máu phụ thuộc vào nồng độ $\\mathrm{H}^{+}$trong máu, $\\mathrm{pH}$ giảm khi $\\mathrm{H}^{+}$máu tăng và ngược lại. $\\mathrm{H}^{+}$máu chủ yếu bắt nguồn từ $\\mathrm{CO}_{2}$ máu phản ứng:\n$$\n\\mathrm{CO}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow \\mathrm{H} 2 \\mathrm{CO} 3 \\rightarrow \\mathrm{H}^{+}+\\mathrm{HCO}^{3-}\n$$\n.Hãy cho biết trường hợp nào sau đây làm cho giá trị $\\mathrm{pH}$ máu tăng lên trong máu?\nA. Người bị nôn ói liên tục.\nB. Người đang vận động thể thao.\nC. Người đang sử dụng thuốc có tính axit nhiều ngày.\nD. Người đang bị tắc nghẽn đường dẫn khí.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A: người bị nôn ói liên tục $\\rightarrow$ Mất nước. Cơ thể bị mất nước có thể làm tăng độ $\\mathrm{pH}$ của máu. Nguyên nhân là vì khi mất nước, bạn đồng thời cũng bị mất các chất điện giải (như muối và các khoáng chất như natri, kali).\n$\\mathrm{B}$ : vận động thể thao $\\rightarrow$ cơ sản sinh ra axit lactic, $\\mathrm{CO}_{2} \\rightarrow$ giảm $\\mathrm{pH}$ máu.\nC: thuốc có tính axit $\\rightarrow$ giảm $\\mathrm{pH}$ máu.\nD: Tắc nghẽn đường dẫn khí $\\rightarrow$ Tồn dư $\\mathrm{CO}_{2} \\rightarrow$ giảm pH máu.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Khi nói về quá trình nhân đôi ADN có những phát biểu sau:\n\\begin{enumerate}\n\\item Nhờ tác dụng của enzim, hai mạch đơn của phân tử ADN tách nhau dần để lộ ra 2 mạch khuôn.\n\\item Enzim ADN-polimeraza chỉ sử dụng một mạch của ADN làm khuôn để tổng hợp mạch mới theo nguyên tắc bổ sung.\n\\item Trên mạch khuôn có chiều $5^{\\prime} \\rightarrow 3^{\\prime}$, mạch bổ sung được tổng hợp ngắt quãng tạo các đoạn okazaki.\n\\item Trong mỗi phân tử ADN được tạo thành có 1 mạch mới được tổng hợp còn mạch kia là của ADN ban đầu. Tổ hợp trả lời nào sau đây là đúng?\nA. 1,3\nB. 1,4\nC. 2,3\nD. 2,4\n\\end{enumerate}",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Xét các phát biểu:\n(1) đúng, nhờ các enzyme tháo xoắn, hai mạch đơn của phân tử $A D N$ tách nhau dần tạo nên chạc chữ $Y$ và để lộ ra 2 mạch khuôn.\n(2) sai, nhân đôi $A D N$ diễn ra trên cả 2 mạch của $\\mathrm{ADN}$.\n(3) đúng, do enzyme ADN polimeraza chỉ tổng hợp mạch mới theo chiều 5' - 3' nên trên mạch khuôn có chiều $5^{\\prime} \\rightarrow 3^{\\prime}$, mạch bổ sung được tổng hợp ngắt quãng tạo các đoạn okazaki.\n(4) đúng, đây là nguyên tắc bán bảo tồn.\nChọn B"
+    },
+    {
+        "ID": "Bio_1_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Trong các điều kiện sau đây, điều kiện nào là quan trọng nhất đảm bảo cho các tính trạng di truyền theo quy luật phân li độc lập?\nA. Mỗi tính trạng do một cặp gen quy định và tính trội, lặn hoàn toàn.\nB. Các cặp gen quy định các tính trạng tồn tại trên các cặp NST tương đồng khác nhau.\nC. Không xảy ra đột biến trong quá trình giảm phân của cơ thể bố và mẹ.\nD. Không có tác động của chọn lọc tự nhiên trong quá trình giảm phân, thụ tinh và phát triển cá thể.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Các cặp gen quy định các tính trạng tồn tại trên các cặp NST tương đồng khác nhau là điều kiện quan trọng nhất đảm bảo cho các tính trạng di truyền theo quy luật phân li độc lập.\nChọn B"
+    },
+    {
+        "ID": "Bio_1_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Khi nói về sự di truyền của những tính trạng do gen nằm trên vùng tương đồng giữa hai NST X và Y quy định, sự di truyền các tính trạng có thể tuân theo các quy luật di truyền sau:\n\\begin{enumerate}\n\\item Liên kết gen\n\\item Hoán vị gen\n\\item Di truyền liên kết giới tính\n\\item Phân li độc lập\n\\end{enumerate}\nTổ hợp trả lời nào sau đây là đúng?\nA. $1,2,4$.\nB. 2, 3, 4 .\nC. $1,2,3$.\nD. $1,3,4$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Sự di truyền của những tính trạng do gen nằm trên vùng tương đồng giữa hai NST $\\mathrm{X}$ và $\\mathrm{Y}$ quy định, sự di truyền các tính trạng có thể tuân theo các quy luật di truyền sau:\n\\begin{enumerate}\n\\item Liên kết gen\n\\item Hoán vị gen\n\\item Di truyền liên kết giới tính\n\\end{enumerate}\nChọn C"
+    },
+    {
+        "ID": "Bio_1_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Để có thể lựa chọn các cây đậu Hà Lan thuần chủng dùng làm bố mẹ trong các thí nghiệm của mình, Menđen đã tiến hành phương pháp nào sau đây?\nA. Lai thuận nghịch giữa các cây bố mẹ liên tiếp qua nhiều thế hệ và phân tích kết quả lai.\nB. Giao phấn liên tiếp qua nhiều thế hệ, cây thuần chủng sẽ biểu hiện tính trạng ổn định.\nC. Lai phân tích các cây có kiểu hình trội với các cây có kiểu hình lặn liên tiếp qua nhiều thế hệ.\nD. Tự thụ phấn cho cây đậu Hà Lan qua nhiều thế hệ và lựa chọn những cây đậu có tính trạng ổn định.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đậu Hà lan là loại cây tự thụ phấn nghiêm ngặt, Menđen đã cho cây đậu Hà Lan tự thụ qua nhiều thế hệ và lựa chọn những cây đậu có tính trạng ổn định.\nChọn D"
+    },
+    {
+        "ID": "Bio_1_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Kiểu giao phối nào dưới đây đảm bảo tần số alen và tần số kiểu gen của quần thể giao phối\nA. Tự thụ phấn.\nB. Giao phối gần.\nC. Giao phối ngẫu nhiên.\nD. Giao phối có chọn lọc.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ở quần thể giao phấn ngẫu nhiên thì tần số alen và tần số kiểu gen của quần thể giao phối không thay đổi qua các thế hệ.\nChọn C"
+    },
+    {
+        "ID": "Bio_1_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Khi nói về bệnh ung thư, có những phát biểu sau:\n\\begin{enumerate}\n\\item Do đột biến trội ở gen tiền ung thư làm cơ thể không kiểm soát được quá trình phân bào.\n\\item Do đột biến lặn ở gen ức chế khối u dẫn đến cơ thể mất khả năng kiểm soát khối u.\n\\item Đột biến gen làm phá hủy cơ chế điều hòa quá trình phân bào dẫn đến ung thur.\n\\item Bệnh ung thư không di truyền do các đột biến chỉ xuất hiện ở tế bào xôma.\n\\end{enumerate}\nTổ hợp trả lời nào sau đây là đúng?\nA. 1, 2, 3 .\nB. 2, 3, 4 .\nC. 1, 3, 4 .\nD. 1, 2, 4.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "(1) đúng, gen tiền ung thư là gen lặn nếu đột biến thành gen trội sẽ gây ra bệnh ung thư.\n(2) đúng, gen ức chế khối u là gen trội nếu đột biến thành gen lặn sẽ gây ra bệnh ung thư.\n(3) sai, đột biến gen tế bào tăng sinh không kiểm soát được của một số loại tế bào dẫn đến hình thành các khối u có thể gây bệnh ung thư .\n(4) đúng.\nChọn D"
+    },
+    {
+        "ID": "Bio_1_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Phát biểu nào sau đây SAI khi nói về tạo giống bằng công nghệ tế bào thực vật?\nA. Công nghệ tế bào thực vật giúp nhân nhanh giống cây từ một cây quý hiếm.\nB. Lai tế bào sinh dưỡng giúp tạo giống cây trồng song nhị bội hữu thụ.\nC. Nuôi cấy hạt phấn tạo ra cây lưỡng bội có kiểu gen dị hợp tử về tất cả các gen.\nD. Công nghệ tế bào thực vật giúp tái tạo cây hoàn chỉnh từ các tế bào của nó.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "A đúng, người ta nuôi cấy mô thực vật để nhân nhanh 1 giống cây quý hiếm.\nB đúng, lai sinh dưỡng tạo tế bào lai mang bộ NST lưỡng bội của 2 loài $\\rightarrow$ thể song nhị bội.\nC sai, lưỡng bội hóa sẽ thu được dòng thuần.\n$\\mathrm{D}$ đúng, dựa vào tính toàn năng của tế bào thực vật.\nChọn C"
+    },
+    {
+        "ID": "Bio_1_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Ý nào sau đây là đặc điểm chung của kĩ thuật lai tế bào xôma và kĩ thuật tạo ADN tái tổ hợp trong công nghệ gen?\nA. Tạo sinh vật mang gen từ hai loài khác nhau.\nB. Tạo được thể song nhị bội hữu thụ.\nC. Tạo được dòng đột biến tam bội.\nD. Tạo được nguồn biến dị tổ hợp.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đặc điểm chúng của kĩ thuật lai tế bào xôma và kĩ thuật tạo $\\mathrm{ADN}$ tái tổ hợp trong công nghệ gen là tạo sinh vật mang gen từ hai loài khác nhau.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Khi nói về vai trò của di - nhập gen đối với sự tiến hoá của quần thể, phát biểu nào sau đây là đúng?\nA. Nhập cư có thể làm xuất hiện những alen mới trong quần thể.\nB. Kết quả di - nhập gen luôn dẫn đến làm nghèo vốn gen của quần thể.\nC. Tần số kiểu gen của quần thể không thay đổi nếu số cá thể nhập cư bằng số cá thể xuất cu.\nD. Xuất cư chỉ làm thay đổi tần số alen, không làm thay đổi tần số kiểu gen của quần thể.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A đúng, các cá thể nhập cư có thể mang tới các alen mới cho quần thể.\nB sai, di nhập gen có thể làm phong phú hoặc làm nghèo vốn gen.\nC sai, do thành phần kiểu gen của nhóm nhập cư và xuất cư là khác nhau.\nD sai, xuất cư làm thay đổi cả tần số alen và tần số kiểu gen của quần thể.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Khi nói về vai trò của đột biến đối với quá trình tiến hoá, có những phát biểu sau:\n\\begin{enumerate}\n\\item Làm xuất hiện alen mới\n\\item Làm thay đổi tần số các alen ban đầu\n\\item Định hướng cho quá trình tiến hoá\n\\item Cung cấp nguồn nguyên liệu sơ cấp cho tiến hoá\n\\end{enumerate}\nTổ hợp trả lời nào sau đây là đúng?\nA. 1,2 và 3 .\nB. 1,2 và 4.\nC. 2, 3 và 4 .\nD. 1,3 và 4 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tổ hợp trả lời đúng là: $1,2,4$\nChọn B"
+    },
+    {
+        "ID": "Bio_1_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Loại đột biến làm thay đổi trình tự gen trước đột biến $\\mathrm{ABCDE*FGH} \\mathrm{thành} \\mathrm{trình} \\mathrm{tự} \\mathrm{gen}$ sau đột biến $\\mathrm{ABCDCDE}^{*} F G H$ thường gây ra hậu quả nào dưới đây? (Dấu * thể hiện vị trí của tâm động)\nA. Gây chết cho thể đột biến.\nB. Tăng hoặc giảm cường độ biểu hiện của tính trạng.\nC. Giảm khả năng sinh sản cho thể đột biến.\nD. Gây chết hoặc giảm khả năng sinh sản cho thể đột biến.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trước đột biến: $\\mathrm{ABCDE*FGH}$\nSau đột biến: ABCDCDE*FGH\n$\\rightarrow$ đột biến lặp đoạn CD.\nĐột biến lặp đoạn làm tăng hoặc giảm cường độ biểu hiện của tính trạng.\nChọn B"
+    },
+    {
+        "ID": "Bio_1_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Cho biết mỗi gen quy định 1 tính trạng, alen trội là trội hoàn toàn. Theo lí thuyết, có bao nhiêu phép lai dưới đây tạo ra đời con có số loại kiểu gen nhiều hơn số loại kiểu hình?\nI. Aabb x Aabb\nII. Aabb x aaBb\nIII. aabb x Aabb\nIV. AaBb x Aabb\nA. 1 .\nB. 2.\nC. 3 .\nD. 4 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{Aa} x \\mathrm{Aa} \\rightarrow 3 \\mathrm{KG}, 2 \\mathrm{KH}$\n$\\mathrm{bb} \\mathrm{x} \\mathrm{bb} \\rightarrow 1 \\mathrm{KG}, 1 \\mathrm{KH}$\n$\\rightarrow$ Phép lai I đúng\nAa $\\mathrm{x}$ aa $\\rightarrow 2 \\mathrm{KG}, 2 \\mathrm{KH}$\n$\\mathrm{bb} \\times \\mathrm{Bb} \\rightarrow 2 \\mathrm{KH}, 2 \\mathrm{KG}$\n$\\rightarrow$ Phép lai II sai\naabb x $\\mathrm{AAbb} \\rightarrow 1 \\mathrm{KG}, 1 \\mathrm{KH}$ $\\rightarrow$ Phép lai 3 sai\n$\\mathrm{Aa} \\times \\mathrm{Aa} \\rightarrow 3 \\mathrm{KG}, 2 \\mathrm{KH}$\nbb $\\mathrm{x} \\mathrm{Bb} \\rightarrow 2 \\mathrm{KH}, 2 \\mathrm{KG}$\n$\\rightarrow$ Phép lai 4 đúng\nChọn B"
+    },
+    {
+        "ID": "Bio_1_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Ở một loài hoa, tính trạng màu sắc hoa do một cặp gen quy định, alen quy định hoa đỏ trội hoàn toàn so với alen quy định hoa trắng. Cho cây hoa đỏ lai với cây hoa trắng thu được $\\mathrm{F} 1$ phân ly theo tỷ lệ 1 hoa đỏ : 1 hoa trắng. Cho những cây F1 hoa đỏ giao phấn với nhau, theo lí thuyết F2 có tỉ lệ phân li kiểu hình nào sau đây?\nA. 3 đỏ : 1 trắng.\nB. 1 đỏ : 1 trắng.\nC. $100 \\%$ đỏ.\nD. 3 trắng : 1 đỏ.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A- đỏ; $\\mathrm{a}$ - trắng.\nĐỏ $\\times$ trắng $\\rightarrow$ 1:1 $\\rightarrow \\mathrm{P}: \\mathrm{Aa} \\times$ aa $\\rightarrow \\mathrm{F} 1: 1 \\mathrm{Aa}: 1 \\mathrm{aa}$\nCho các cây hoa đỏ $\\mathrm{F} 1$ giao phấn: $\\mathrm{Aa} \\times \\mathrm{Aa} \\rightarrow 1 \\mathrm{AA}$ :2Aa:1aa\nKiểu hình: 3 đỏ: 1 trắng.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Cấu trúc di truyền của một quần thể là 0,2AA: 0,3Aa: 0,5aa bị biến đổi thành 100\\%aa sau một thế hệ. Quần thể này có thể đã chịu tác động của nhân tố tiến hóa nào sau đây?\nA. Đột biến.\nB. Các yếu tố ngẫu nhiên.\nC. Chọn lọc tự nhiên.\nD. Giao phối không ngẫu nhiên.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta thấy cấu trúc di truyền bị biến đổi mạnh, tất cả các cá thể có kiểu hình trội đều bị loại bỏ $\\rightarrow$ Chọn lọc tự nhiên chống lại alen trội.\nChọn C"
+    },
+    {
+        "ID": "Bio_1_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Khi nói về ổ sinh thái, phát biểu nào sau đây là đúng?\nA. Giới hạn sinh thái ánh sáng là ổ sinh thái chung của một loài.\nB. Ô sinh thái của loài là khoảng thuận lợi của loài đó với một nhân tố sinh thái.\nC. Tổ hợp các giới hạn sinh thái của các nhân tố sinh thái là ổ sinh thái chung của loài.\nD. Chim ăn sâu và chim ăn hạt cùng ở một nơi nên chúng có cùng ổ sinh thái chung.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "A sai, giới hạn sinh thái của một nhân tố sinh thái là ổ sinh thái của loài về nhân tố sinh thái đó.\nB sai, ổ sinh thái gồm giới hạn sinh thái về tất cả các nhân tố sinh thái (gồm cả khoảng thuận lợi, chống chịu). C đúng.\nD sai, chim ăn sâu và chim ăn hạt cùng nơi ở.\nChọn C"
+    },
+    {
+        "ID": "Bio_1_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Khi nói về trạng thái cân bằng của quần thể, phát biểu nào sau đây là đúng?\nA. Trạng thái cân bằng của quần thể xảy ra khi quần thể có số lượng cá thể không đổi.\nB. Quần thể luôn có xu hướng điều chỉnh về trạng thái cân bằng khi nguồn sống từ môi trường rất dồi dào.\nC. Trạng thái cân bằng quần thể xảy ra khi quần thể có tỉ lệ nhập cư bằng tỉ lệ xuất cur.\nD. Trạng thái cân bằng của quần thể xảy ra khi quần thể sử dụng hết một lượng nguồn sống cân bằng với khả năng cung cấp nguồn sống từ môi trường.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trạng thái cân bằng của quần thể xảy ra khi quần thể sử dụng hết một lượng nguồn sống cân bằng với khả năng cung cấp nguồn sống từ môi trường.\nChọn D"
+    },
+    {
+        "ID": "Bio_1_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Kiến đen là loài động vật thường sống trong các vuờn cây. Kiến giúp rệp di chuyển từ các lá già lên các lá non và chồi ngọn. Kiến sử dụng đường do rệp bài tiết làm thức ăn. Mối quan hệ giữa kiến và rệp là gì?\nA. Hợp tác.\nB. Hội sinh.\nC. Cạnh tranh.\nD. Ức chế cảm nhiễm.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Mối quan hệ giữa kiến và rệp là hợp tác, cả 2 cùng có lợi.\nChọn A"
+    },
+    {
+        "ID": "Bio_1_26",
+        "Image_Question": "Bio_1/Bio_1_26.png",
+        "Question": "Câu 26:  Sơ đồ dưới đây thể hiện lưới thức ăn giả định. Các mũi tên thể hiện sự truyền năng lượng qua các bậc dinh dưỡng khác nhau.\nNhững loài nào vừa là sinh vật tiêu thụ bậc 1 vừa là sinh vật tiêu thụ bậc 2 ?\nA. Loài I và II.\nB. Loài I và III.\nC. Loài I và IV.\nD. Loài I và V.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Các loài vừa là sinh vật tiêu thụ bậc 1 vừa là sinh vật tiêu thụ bậc 2 gồm: $I, I V$\n\\begin{center}\n\\begin{tabular}{|l|l|l|}\n\\hline\nSVSX & SVTT 1 & SVTT 2 \\\\\n\\hline\nII & IV & I \\\\\n\\hline\nII & I &  \\\\\n\\hline\nII & III & IV \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nChọn C"
+    },
+    {
+        "ID": "Bio_1_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Khi nói về sự tăng trưởng của quần thể tăng trưởng theo tiềm năng sinh học, có những phát biểu sau đây:\n\\begin{enumerate}\n\\item Nguồn sống từ môi trường rất dồi dào\n\\item Không gian cư trú của quần thể không hạn chế\n\\item Có sự cạnh tranh gay gắt giữa các cá thể trong quần thể\n\\item Tiềm năng sinh học là hoàn toàn thuận lợi cho mức độ sinh sản cao của loài.\n\\end{enumerate}\nTổ hợp trả lời nào sau đây là đúng?\nA. $1,2,3$.\nB. $1,3,4$.\nC. 2, 3, 4 .\nD. 1, 2, 4.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tổ hợp trả lời đúng là: $1,2,4$\nChọn D"
+    },
+    {
+        "ID": "Bio_1_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Khi nói về đặc điểm của cây ưa sáng, phát biểu nào sau đây là đúng?\n\\begin{enumerate}\n\\item Lá nhỏ và dày\n\\item Lá màu nhạt và mặt lá sáng bóng\n\\item Lá có tầng cuticun mỏng và ít khí khổng\n\\item Lá thường xếp nghiêng so với mặt đất\n\\end{enumerate}\nTổ hợp trả lời nào sau đây là đúng?\nA. $1,2,4$.\nB. $2,3,4$.\nC. $1,2,3$.\nD. $1,3,4$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Các phát biểu đúng là: $1,2,4$\nChọn A"
+    },
+    {
+        "ID": "Bio_1_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Trình tự của các anticodon trên tARN lần lượt tham gia vào quá trình dịch mã cho 9 codon của một mARN ở một loài sinh vật theo thứ tự sau:\n3'-UAX-UGA-GXA-UXA-XGX-GXU-XXA-XXX-*-5' (Trong đó, dấu * thể hiện vị trí của codon kết thúc)\na) Hãy xác định:\n\\begin{itemize}\n\\item Trình tự các nuclêôtit của phân tử mARN được dùng làm khuôn cho quá trình dịch mã nói trên. - Trình tự các nucleotit trên hai mạch của gen đó.\n\\end{itemize}\nb) Một gen đột biến thay thế một cặp nuclêôtit tạo ra từ gen trên quy định chuỗi polipeptit đột biến ngắn hơn so với chuỗi pôlipeptit kiểu dại. Hãy xác định:\n\\begin{itemize}\n\\item Loại đột biến đã xảy ra, vị trí xảy ra đột biến đó.\n\\item Trình tự axit amin của chuỗi polipeptit kiểu dại và đột biến.\n\\end{itemize}\nCho biết các mã di truyền tương ứng với các axit amin sau: AUG - Met, XGU/XGA - Arg, GXG - Ala, UAG - bộ ba kết thúc, AGU - Ser, AXU - Thr, GGU/ GGA - Gly.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\section{a)}\nTrình tự nucleotit $\\mathrm{mARN}$ làm khuôn:\ntARN: 3'-UAX-UGA-GXA-UXA-XGX-GXU-XXA-XXX-*-5'\nmARN: 5'-AUG-AXU-XGU-AGU-GXG-XGA-GGU-GGG-*3'\nTrình tự trên $\\mathrm{ADN}$ :\nMạch gốc: 3'-TAX-TGA-GXA-TXA-XGX-GXT-XXA-XXX-*-5'\nMạch bổ sung: 5'-ATG-AXT-XGT-AGT-GXG-XGA-GGT-GGG-*3'\nb)\nĐột biến làm số axit amin trong chuỗi polipeptit ít đi $\\rightarrow$ đột biến làm xuất hiện codon kết thúc sớm.\nTrên mARN: 5'-AUG-AXU-XGU-AGU-GXG-XGA-GGU-GGG-*3'\nĐột biến có thể xảy ra ở codon XGA $\\rightarrow$ UGA (mã kết thúc).\nTrình tự axit amin:\nChuỗi pôlipeptit kiểu dại: Met - Thr - Arg - Ser - Ala - Arg - Gly - Gly\nChuỗi polipeptit đột biến: Met - Thr - Arg - Ser - Ala"
+    },
+    {
+        "ID": "Bio_1_30",
+        "Image_Question": "Bio_1/Bio_1_30.png",
+        "Question": "Câu 30:  Một nghiên cứu được thực hiện ở huyện Sông Mã, tỉnh Sơn La đánh giá vai trò của thực vật với hàm lượng nitơ có trong đất. Thí nghiệm được tiến hành ở nơi cây rừng đã bị chặt hết, bỏ hoang trong thời gian 2 năm, rừng cây chưa phục hồi. Kết quả nghiên cứu được so sánh với đối chứng là nơi còn rừng và được thể hiện trong biểu đồ sau:\nDựa vào biểu đồ và các thông tin trên, hãy trả lời các câu hỏi sau:\na) So sánh lượng nitơ trong đất giữa nơi có rừng và nơi mất rừng theo thời gian.\nb) Nêu ít nhất 3 nguyên nhân dẫn đến sự thay đổi hàm lượg nitơ trong đất ở nơi mất rừng.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\section{a)}\nLương nitơ ở nơi có rừng cao hơn nơi mất rừng, cụ thể là:\nTrong khoảng thời gian 24 tháng\nNơi mất rừng: lượng nitơ giảm dần từ: $30 \\mathrm{~kg} / \\mathrm{ha} \\rightarrow \\mathrm{khoảng} 10 \\mathrm{~kg} / \\mathrm{ha}$.\nNơi có rừng: lượng nitơ được duy trì ổn định ở mức $30 \\mathrm{~kg} / \\mathrm{ha}$.\nb. 3 nguyên nhân dẫn đến sự thay đổi hàm lượng nitơ trong đất ở nơi mất rừng:\n\\begin{itemize}\n\\item Mất rừng làm tốc độ chảy của nước mưa lớn $\\rightarrow$ rửa trôi các chất khoáng trong đất, trong đó có nitơ.\n\\item Nguồn nitơ trong đất một phần là do xác động, thực vật cung cấp, ở nơi không có rừng thì lượng xác động thực vật thấp $\\rightarrow$ nitơ trong đất cũng giảm.\n\\item Một phần nitơ trong không khí được vi khuẩn cố định nitơ trong đất cố định. Các vi khuẩn cố định nitơ có thể sống tự do hoặc cộng sinh với thực vật. Ở nơi mất rừng thì môi trường sống của vi khuẩn cố định nitơ cũng bị giảm $\\rightarrow$ giảm lượng nitơ trong đất.\n\\end{itemize}"
+    }
+]

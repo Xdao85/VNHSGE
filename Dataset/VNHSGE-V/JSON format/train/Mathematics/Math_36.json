@@ -1,0 +1,402 @@
+[
+    {
+        "ID": "Math_36_1",
+        "Image_Question": "Math_36/image001.png",
+        "Question": "Câu 1. Cho hàm số $y=f(x)$ có bảng biến thiên như hình bên. Hàm số nghịch biến trên khoảng nào dưới đây?\nA. $(1 ;-3)$.\nB. $(-\\infty ;-2)$.\nC. $(-2 ; 0)$.\nD. $(-3 ; 1)$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Từ bảng biến thiên dễ thấy hàm số nghịch biến trên khoảng $(-2 ; 0)$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_2",
+        "Image_Question": "Math_36/image002.png",
+        "Question": "Câu 2. Cho hàm số $y=f(x)$ có đồ thị là đường cong trong hình bên. Hàm số $y=f(x)$ đồng biến trên khoảng\nA. $(0 ; 2)$.\nB. $(1 ; 2)$.\nC. $(-\\infty ; 1)$.\nD. $(2 ;+\\infty)$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào đồ thị, ta thấy hàm số $y=f(x)$ đồng biến trên khoảng $(2 ;+\\infty)$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_3",
+        "Image_Question": "",
+        "Question": "Câu 3. Cho hàm số $y=\\frac{x+3}{x+1}$. Mệnh đề nào sau đây là mệnh đề đúng?\nA. Hàm số đồng biến trên khoảng $(-\\infty ;-1)$.\nB. Hàm số đồng biến trên $\\mathbb{R}$.\nC. Hàm số nghịch biến trên $\\mathbb{R}$.\nD. Hàm số nghịch biến trên khoảng $(-\\infty ;-1)$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện xác định $x \\in(-\\infty ;-1) \\cup(-1 ;+\\infty)$.\n$y^{\\prime}=-\\frac{2}{(x+1)^{2}}<0$ với mọi $x \\in(-\\infty ;-1) \\cup(-1 ;+\\infty)$.\nVậy hàm số nghịch biến trên khoảng $(-\\infty ;-1)$."
+    },
+    {
+        "ID": "Math_36_4",
+        "Image_Question": "",
+        "Question": "Câu 4. Hàm số nào sau đây đồng biến trên khoảng $(-\\infty ;+\\infty)$ ?\nA. $y=-x^{3}-3 x$.\nB. $y=\\frac{x+1}{x+3}$.\nC. $y=\\frac{x-1}{x-2}$.\nD. $y=x^{3}+x$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Hàm số $y=\\frac{x-1}{x-2}$ có tập xác định $\\mathscr{D}=\\mathbb{R} \\backslash\\{2\\}$ nên hàm số không thể đồng biến trên khoảng $(-\\infty ;+\\infty)$.\n\\item Hàm số $y=-x^{3}-3 x$ có $y^{\\prime}=-3 x^{2}-3<0, \\forall x \\in \\mathbb{R}$ nên hàm số nghịch biến trên khoảng $(-\\infty ;+\\infty)$ - Hàm số $y=\\frac{x+1}{x+3}$ có tập xác định $\\mathscr{D}=\\mathbb{R} \\backslash\\{-3\\}$ nên hàm số không thể đồng biến trên khoảng $(-\\infty ;+\\infty)$\n\\item Hàm số $y=x^{3}+x$ có $y^{\\prime}=3 x^{2}+1>0, \\forall x \\in \\mathbb{R}$ nên hàm số đồng biến trên khoảng $(-\\infty ;+\\infty)$.\n\\end{itemize}\nVậy đáp án đúng là $y=x^{3}+x$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_5",
+        "Image_Question": "",
+        "Question": "Câu 5. Hàm số $y=x^{4}+x^{2}-2$ nghịch biến trên khoảng nào trong các khoảng sau?\nA. $(-\\infty ; 0)$.\nB. $(-2 ; 1)$.\nC. $(0 ;+\\infty)$.\nD. $(0 ; 2)$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định $\\mathscr{D}=\\mathbb{R}$. Ta có $y^{\\prime}=4 x^{3}+2 x=2 x\\left(2 x^{2}+1\\right)$.\nTa có $y^{\\prime}>0, \\forall x>0$ và $y^{\\prime}<0, \\forall x<0$. Suy ra hàm số nghịch biến trên khoảng $(-\\infty ; 0)$.\nChọn A"
+    },
+    {
+        "ID": "Math_36_6",
+        "Image_Question": "",
+        "Question": "Câu 6. Cho hàm số $y=f(x)$ có bảng xét dấu của hàm số $f^{\\prime}(x)$ như hình dưới đây.\n\\begin{center}\n\\begin{tabular}{|c|ccccccc|}\n\\hline\n$x$ & $-\\infty$ &  & -2 & 5 &  & $+\\infty$ &  \\\\\n\\hline\n$f^{\\prime}(x)$ &  & + & 0 & - & 0 & + &  \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nSố điểm cực trị của hàm số $y=f(x)$ bằng\nA. 2 .\nB. 5 .\nC. 1 .\nD. 0 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Hàm số có đạo hàm đổi dấu khi qua $x=-2$ và $x=5$ nên hàm số có 2 điểm cực trị.\nChọn A"
+    },
+    {
+        "ID": "Math_36_7",
+        "Image_Question": "",
+        "Question": "Câu 7. Có bao nhiêu cách chọn hai học sinh từ một nhóm gồm 34 học sinh?\nA. $2^{3}$.\nB. $A_{34}^{2}$.\nC. $34^{2}$.\nD. ${C}_{34}^{2}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Số cách chọn hai học sinh từ một nhóm gồm 34 học sinh là ${C}_{34}^{2}$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_8",
+        "Image_Question": "",
+        "Question": "Câu 8. Cho hàm số $y=\\frac{2 x+1}{x-1}$. Điểm nào sau đây thuộc đồ thị hàm số?\nA. $(0 ; 1)$.\nB. $(2 ;-5)$.\nC. $(0 ;-1)$.\nD. $(1 ; 3)$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chọn C"
+    },
+    {
+        "ID": "Math_36_9",
+        "Image_Question": "",
+        "Question": "Câu 9. Cho cấp số nhân $\\left(u_{n}\\right)$ có $u_{1}=5$ và công bội $q=2$. Giá trị $u_{2}$ bằng\nA. 25 .\nB. 10 .\nC. $\\frac{5}{2}$.\nD. 32 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $u_{1}=5, q=2$. Áp dụng công thức số hạng tổng quát của cấp số nhân $u_{n}=u_{1} \\cdot q^{n-1}$, . $u_{2}=u_{1} \\cdot q=5.2=10$.\nChọn B"
+    },
+    {
+        "ID": "Math_36_10",
+        "Image_Question": "Math_36/image003.png",
+        "Question": "Câu 10. Cho hàm số $y=f(x)$ có đồ thị như hình bên. Hàm số đã cho có bao nhiêu điểm cực trị?\nA. 1 .\nB. 0 .\nC. 2 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào đồ thị suy ra hàm số có 2 cực trị.\nChọn C"
+    },
+    {
+        "ID": "Math_36_11",
+        "Image_Question": "",
+        "Question": "Câu 11. Điểm nào sau đây là điểm cực tiểu của đồ thị hàm số $y=x^{3}-3 x+1$ ?\nA. $(-1 ; 1)$.\nB. $(-1 ; 3)$.\nC. $(1 ; 3)$.\nD. $(1 ;-1)$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=3 x^{2}-3, y^{\\prime}=0 \\Leftrightarrow\\left[\\begin{array}{l}x=1 \\\\ x=-1\\end{array}\\right.$\n$y^{\\prime \\prime}=6 x, y^{\\prime \\prime}(1)=6>0, y^{\\prime \\prime}(-1)=-6<0$.\nTừ đó suy ra hàm số đạt cực tiểu tại $x=1$ và điểm cực tiểu của đồ thị hàm số là $(1 ;-1)$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_12",
+        "Image_Question": "",
+        "Question": "Câu 12. Hàm số $y=x^{3}+2$ có bao nhiêu điểm cực trị??\nA. 1 .\nB. 0 .\nC. 2\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Hàm số $y=x^{3}+2$ xác định với mọi $x \\in \\mathbb{R}$ và $y^{\\prime}=3 x^{2} \\geq 0, \\forall x \\in \\mathbb{R}$ nên hàm số đồng biến trên $\\mathbb{R}$. Do đó hàm số $y=x^{3}+2$ không có cực trị.\nChọn B"
+    },
+    {
+        "ID": "Math_36_13",
+        "Image_Question": "",
+        "Question": "Câu 13. Giá trị lớn nhất của hàm số $f(x)=x^{3}-3 x$ trên đoạn $[-3 ; 3]$ bằng\nA. -18 .\nB. 18 .\nC. 2\nD. -2 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=3 x^{2}-3=0 \\Leftrightarrow x= \\pm 1 \\in(-3 ; 3)$\n$f(-3)=-18 ; f(-1)=2 ; f(1)=-2 ; f(3)=18$.\nVậy giá trị lớn nhất của hàm số đã cho trên $[-3 ; 3]$ là 18 .\nChọn B"
+    },
+    {
+        "ID": "Math_36_14",
+        "Image_Question": "",
+        "Question": "Câu 14. Tiệm cận đứng của đồ thị hàm số $y=\\frac{x+1}{x+3}$ là\nA. $x=-3$.\nB. $x=-1$.\nC. $x=1$.\nD. $x=3$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định của hàm số đã cho $\\mathscr{D}=\\mathbb{R} \\backslash\\{-3\\}$.\nTa có $\\lim _{x \\rightarrow-3^{-}} y=\\lim _{x \\rightarrow-3^{-}} \\frac{x+1}{x+3}=+\\infty$ và $\\lim _{x \\rightarrow-3^{+}} y=\\lim _{x \\rightarrow-3^{+}} \\frac{x+1}{x+3}=-\\infty$.\nKhi đó đường tiệm cận đứng của đồ thị hàm số đã cho là $x=-3$.\nChọn A"
+    },
+    {
+        "ID": "Math_36_15",
+        "Image_Question": "Math_36/image004.png",
+        "Question": "Câu 15. Cho hàm số $y=f(x)$ có tập xác định $\\mathbb{R} \\backslash\\{-1\\}$, có bảng biến thiên như hình vẽ. Đồ thị hàm số có tất cả bao nhiêu tiệm cận đứng và tiệm cận ngang?\nA. 4.\nB. 1 .\nC. 2 .\nD. 3 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Từ bảng biến thiên của hàm số, ta có\n$\\lim _{x \\rightarrow \\pm \\infty} f(x)=-2$ và $\\lim _{x \\rightarrow \\pm \\infty} f(x)=3$ nên đồ thị hàm số có hai đường tiệm cận ngang $y=-2$ và $y=3$.\nMặt khác, không tồn tại $x_{0}$ sao cho $\\lim _{x \\rightarrow x_{0}^{ \\pm}} f(x)= \\pm \\infty$ nên đồ thị hàm số không có tiệm cận đứng.\nChọn C"
+    },
+    {
+        "ID": "Math_36_16",
+        "Image_Question": "",
+        "Question": "Câu 16. Đồ thị hàm số $y=\\frac{x^{2}-5 x+4}{x-2}$ cắt trục hoành tại bao nhiêu điểm?\nA. 1.\nB. 2 .\nC. 3 .\nD. 0 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phương trình hoành độ giao điểm $\\frac{x^{2}-5 x+4}{x-2}=0 \\Leftrightarrow\\left[\\begin{array}{l}x=1 \\\\ x=4\\end{array}\\right.$.\nChọn B"
+    },
+    {
+        "ID": "Math_36_17",
+        "Image_Question": "",
+        "Question": "Câu 17. Thể tích của khối lăng trụ có chiều cao bằng $h$ và diện tích đáy bằng $B$ là\nA. $V=B h$.\nB. $V=\\frac{1}{3} B h$\nC. $V=\\frac{1}{6} B h$.\nD. $V=\\frac{1}{2} B h$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn A"
+    },
+    {
+        "ID": "Math_36_18",
+        "Image_Question": "",
+        "Question": "Câu 18. Một hình chóp có chiều cao bằng $10 {~cm}$ và diện tích đáy $30 {~cm}^{2}$ thì có thể tích bằng\nA. $300 {~cm}^{3}$.\nB. $1000 \\sqrt{2} {~cm}^{3}$.\nC. $100 {~cm}^{3}$.\nD. $900 {~cm}^{3}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Thể tích khối chóp $V=\\frac{1}{3} h S_{\\text {dáy }}=\\frac{1}{3} \\cdot 10 \\cdot 30=100 {~cm}^{3}$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_19",
+        "Image_Question": "",
+        "Question": "Câu 19. Giá trị nhỏ nhất của hàm số $y=\\frac{3 x+1}{x-2}$ trên $[-1 ; 1]$ bằng\nA. -4\nB. $\\frac{2}{3}$.\nC. 4 .\nD. $-\\frac{2}{3}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Vì $y^{\\prime}=\\frac{-7}{(x-2)^{2}}<0, \\forall x \\in[-1 ; 1]$ nên $\\min _{[-1 ; 1]} y=y(1)=-4$.\nChọn A"
+    },
+    {
+        "ID": "Math_36_20",
+        "Image_Question": "",
+        "Question": "Câu 20. Cho khối chóp $S . A B C D$ có đáy $A B C D$ là hình vuông cạnh bằng $a$, cạnh bên $S A$ vuông góc với mặt đáy và $S A=3 a$. Thể tích của khối chóp $S . A B C D$ bằngA. $\\frac{1}{3} a^{3}$.\nB. $3 a^{3}$.\nC. $a^{3}$.\nD. $9 a^{3}$.",
+        "Choice": "C",
+        "Image_Answer": "Math_36/image005.png",
+        "Explanation": "Khối chóp đã cho có\n\\begin{itemize}\n\\item chiều cao $h=S A=3 a$,\n\\item diện tích mặt đáy $S_{A B C D}=a^{2}$.\n\\end{itemize}\nVậy $V_{S . A B C D}=\\frac{1}{3} \\cdot 3 a \\cdot a^{2}=a^{3}$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_21",
+        "Image_Question": "",
+        "Question": "Câu 21. Hình đa diện bên có tất cả bao nhiêu mặt?\nA. 11.\nB. 20 .\nC. 12 .\nD. 10 .",
+        "Choice": "A",
+        "Image_Answer": "Math_36/image006.png",
+        "Explanation": "Hình đa diện đã cho có 5 mặt là hình tam giác, 5 mặt hình tứ giác và 1 mặt là ngũ giác. Nó có tất cả 11 mặt.\nChọn A"
+    },
+    {
+        "ID": "Math_36_22",
+        "Image_Question": "Math_36/image007.png",
+        "Question": "Câu 22. Cho hàm số $f(x)$ có bảng biến thiên như hình vẽ bên. Đặt $\\min _{x \\in[-2 ; 2]} f(x)=m, \\max _{x \\in[-2 ; 2]} f(x)=M$. Khẳng định nào dưới đây đúng?\nA. $m=-2 ; M=-1$.\nB. $m=3 ; M=4$.\nC. $m=-2 ; M=2$.\nD. $m=3 ; M=11$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng biến thiên ta có $\\min _{x \\in[-2 ; 2]} f(x)=3 ; \\max _{x \\in[-2 ; 2]} f(x)=11$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_23",
+        "Image_Question": "",
+        "Question": "Câu 23. Cho hàm số $y=f(x)$ có $\\lim _{x \\rightarrow+\\infty} y=1$ và $\\lim _{x \\rightarrow-\\infty} y=-1$. Khẳng định nào sau đây là khẳng định đúng?\nA. Đồ thị hàm số đã cho có hai tiệm cận ngang là các đường thẳng $x=1$ và $x=-1$.\nB. Đồ thị hàm số đã cho có hai tiệm cận ngang là các đường thẳng $y=1$ và $y=-1$.\nC. Đồ thị hàm số đã cho không có tiệm cận ngang.\nD. Đồ thị hàm số đã cho có đúng một tiệm cận ngang.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo định nghĩa đường tiệm cận, ta có:\n\\begin{itemize}\n\\item $\\lim _{x \\rightarrow+\\infty}=1$ suy ra $y=1$ là đường tiệm cận ngang.\n\\item $\\lim _{x \\rightarrow-\\infty}=-1$ suy ra $y=-1$ là đường tiệm cận ngang.\n\\end{itemize}\nChọn B"
+    },
+    {
+        "ID": "Math_36_24",
+        "Image_Question": "Math_36/image008.png",
+        "Question": "Câu 24. Cho hàm số $y=f(x)$ có bảng biến thiên như sau. Mệnh đề nào sau đây $\\mathbf{S A I}$ ?\nA. Hàm số đồng biến các khoảng $(-1 ; 0)$ và $(1 ;+\\infty)$.\nB. Hàm số đạt cực đại tại $x=0$.\nC. Hàm số có giá trị nhỏ nhất bằng -4 .\nD. hàm số có giá trị lớn nhất bằng -3 ..",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đáp án $x=1, x=-1$ là các điểm cực tiểu và $x=0$ là điểm cực đại của hàm số đã cho: đúng.\nĐáp án hàm số nghịch biến trên các khoảng $(-\\infty ;-1)$ và $(0 ; 1)$ : đúng.\nĐáp án trên $\\mathbb{R}$ hàm số có ${GTLN}$ bằng -3 và ${GTNN}$ bằng -4 : sai.\nĐáp án hàm số đồng biến các khoảng $(-1 ; 0)$ và $(1 ;+\\infty)$ : đúng.\nChọn D"
+    },
+    {
+        "ID": "Math_36_25",
+        "Image_Question": "Math_36/image009.png",
+        "Question": "Câu 25. Đường cong trong hình vẽ bên là đồ thị của hàm số nào sau đây?\nA. $y=x^{4}-2 x+1$.\nC. $y=x^{4}-2 x^{2}-1$.\nB. $y=-x^{4}+2 x^{2}+1$.\nD. $y=x^{4}-2 x^{2}+1$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đồ thị đã cho là đồ thị của hàm số bậc bốn trùng phương có hệ số của $x^{4}$ dương và đi qua điểm $(0 ; 1)$. Do đó đây là đồ thị của hàm số hàm số $y=x^{4}-2 x^{2}+1$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_26",
+        "Image_Question": "Math_36/image010.png",
+        "Question": "Câu 26. Cho hàm số bậc ba $y=f(x)$ có đồ thị trong hình bên.Số nghiệm của phương trình $f(x)=1$ là\nA. 0 .\nB. 2\nC. 3 .\nD. 1 .",
+        "Choice": "C",
+        "Image_Answer": "Math_36/image011.png",
+        "Explanation": "Ta thấy đường thẳng $y=1$ cắt đồ thị hàm số $y=f(x)$ tại ba điểm phân biệt.\nVậy phương trình đã cho có ba nghiệm phân biệt.\nChọn C"
+    },
+    {
+        "ID": "Math_36_27",
+        "Image_Question": "",
+        "Question": "Câu 27. Giá trị cực tiểu của hàm số $y=x^{3}-3 x^{2}-9 x+2$ làA. 3 .\nB. -25 .\nC. 7 .\nD. -20 .",
+        "Choice": "B",
+        "Image_Answer": "Math_36/image012.png",
+        "Explanation": "Tập xác định $\\mathscr{D}=\\mathbb{R}$. Ta có\n$$\ny^{\\prime}=3 x^{2}-6 x-9, y^{\\prime}=0 \\Leftrightarrow\\left[\\begin{array}{l}\nx=-1 \\\\\nx=3\n\\end{array}\\right.\n$$\nBảng biến thiên\nVậy $y_{{CT}}=y(3)=-25$.\nChọn B"
+    },
+    {
+        "ID": "Math_36_28",
+        "Image_Question": "",
+        "Question": "Câu 28. Đường thẳng $y=2 x+1$ cắt đồ thị hàm số $y=x^{3}+3 x^{2}+4 x-5$ tại\nA. bốn điểm.\nB. hai điểm.\nC. một điểm.\nD. ba điểm.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Xét phương trình hoành độ giao điểm\n$$\n\\begin{aligned}\n& x^{3}+3 x^{2}+4 x-5=2 x+1 \\\\\n\\Leftrightarrow & x^{3}+3 x^{2}+2 x-6=0 \\\\\n\\Leftrightarrow & (x-1)\\left(x^{2}+4 x+6\\right)=0 \\\\\n\\Leftrightarrow & x=1 .\n\\end{aligned}\n$$\nPhương trình có 1 nghiệm duy nhất nên số giao điểm cần tìm là 1 .\nChọn C"
+    },
+    {
+        "ID": "Math_36_29",
+        "Image_Question": "",
+        "Question": "Câu 29. Diện tích ba mặt của hình hộp chữ nhật lần lượt là $15 {~cm}^{2}, 24 {~cm}^{2}, 40 {~cm}^{2}$. Thể tích của khối hộp đó là\nA. $150 {~cm}^{3}$.\nB. $140 {~cm}^{3}$.\nC. $100 {~cm}^{3}$.\nD. $120 {~cm}^{3}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Thể tích của khối hộp $V=\\sqrt{15 \\cdot 24 \\cdot 40}=120 {~cm}^{3}$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_30",
+        "Image_Question": "",
+        "Question": "Câu 30. Cho hàm số $y=-2 x^{3}+6 x^{2}-5$ có đồ thị $(C)$. Phương trình tiếp tuyến của $(C)$ tại điểm $M$ có hoành độ bằng 3 là\nA. $y=18 x+49$.\nB. $y=-18 x-49$.\nC. $y=-18 x+49$.\nD. $y=18 x-49$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$y^{\\prime}=-6 x^{2}+12 x$.\nTa có $y^{\\prime}(3)=-18$ và $y(3)=-5$ nên phương trình tiếp tuyến là $y=-18 x+49$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_31",
+        "Image_Question": "",
+        "Question": "Câu 31. Cho hàm số $f(x)=\\left\\{\\begin{array}{l}-x^{2}+2 x \\text { với } x<1 \\\\ -2 x+3 \\text { với } x \\geq 1\\end{array}\\right.$. Tìm giá trị nhỏ nhất $m$ của hàm số trên đoạn $[-1 ; 2]$\nA. $m=-1$.\nB. $m=-3$.\nC. $m=1$.\nD. $m=-2$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trường hợp x \\in [-1;1], x_{min} = -3\nTrường hợp x \\in [1;2], x_{min} = -1\nChọn B"
+    },
+    {
+        "ID": "Math_36_32",
+        "Image_Question": "",
+        "Question": "Câu 32. Tính thể tích $V$ của khối lăng trụ tam giác đều có tất cả các cạnh bằng $a$.\nA. $V=\\frac{\\sqrt{2} a^{3}}{3}$\nB. $V=\\frac{\\sqrt{3} a^{3}}{4}$.\nC. $V=\\frac{\\sqrt{2} a^{3}}{4}$.\nD. $V=\\frac{\\sqrt{3} a^{3}}{2}$.",
+        "Choice": "B",
+        "Image_Answer": "Math_36/image013.png",
+        "Explanation": "Khối lăng trụ đã cho là lăng trụ đứng có cạnh bên bằng $a$, đáy là tam giác đều cạnh $a$.\nGọi $V$ là thể tích khối lăng trụ tam giác đều có tất cả các cạnh bằng $a$, khi đó\n$V=a \\cdot \\frac{a^{2} \\sqrt{3}}{4}=\\frac{a^{3} \\sqrt{3}}{4}$\nChọn B"
+    },
+    {
+        "ID": "Math_36_33",
+        "Image_Question": "",
+        "Question": "Câu 33. Cho khối chóp $S . A B C$. Gọi $M, N$ lần lượt là trung điểm $S A$ và $S B$. Tính tỉ số thể tích của hai khối chóp $S . M N C$ và $S . A B C$.\nA. $\\frac{1}{4}$.\nB. $\\frac{1}{2}$.\nC. $\\frac{1}{3}$.\nD. $\\frac{1}{8}$.",
+        "Choice": "A",
+        "Image_Answer": "Math_36/image014.png",
+        "Explanation": "Ta có $\\frac{V_{S . M N C}}{V_{S . A B C}}=\\frac{S M}{S A} \\cdot \\frac{S N}{S B}=\\frac{1}{4}$.\nChọn A"
+    },
+    {
+        "ID": "Math_36_34",
+        "Image_Question": "",
+        "Question": "Câu 34. Cho hình chóp $S . A B C$ có đáy là tam giác đều cạnh bằng $2 a$, mặt bên $S A B$ vuông góc với mặt đáy. Tính khoảng cách từ điểm $C$ đến mặt phẳng $(S A B)$.\nA. $a \\sqrt{3}$.\nB. $\\frac{a \\sqrt{3}}{2}$.\nC. $2 a \\sqrt{3}$.\nD. $a$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tính khoảng cách từ điểm $C$ đến mặt phẳng $(S A B)$ là khoảng cách từ C đến AB, tức là đường cao của tâm giác đều.\nChọn A"
+    },
+    {
+        "ID": "Math_36_35",
+        "Image_Question": "Math_36/image015.png",
+        "Question": "Câu 35. Cho lăng trụ đứng $A B C \\cdot A^{\\prime} B^{\\prime} C^{\\prime}$ có đáy $A B C$ là tam giác vuông cân tại $A$ và mặt bên $A B B^{\\prime} A^{\\prime}$ là hình vuông cạnh bằng $a$ (tham khảo hình vẽ bên). Tính tang của góc giữa đường thẳng $B C^{\\prime}$ và mặt phẳng $\\left(A B B^{\\prime} A^{\\prime}\\right)$.\n$\\frac{\\sqrt{2}}{2}$.\nB. $\\frac{\\sqrt{6}}{3}$.\nC. $\\frac{\\sqrt{3}}{3}$.\nD. $\\sqrt{2}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$\\triangle A B C$ vuông cân tại $A$ nên $\\Rightarrow A B=A C=a$.\n$\\triangle A B A^{\\prime}$ vuông tại $A$ nên $\\Rightarrow A^{\\prime} B=a \\sqrt{2}$.\nTa có $\\left\\{\\begin{array}{l}C^{\\prime} A^{\\prime} \\perp \\dot{A}^{\\prime} B^{\\prime} \\\\ C^{\\prime} A^{\\prime} \\perp A A^{\\prime}\\end{array} \\Rightarrow C^{\\prime} A^{\\prime} \\perp\\left(A B B^{\\prime} A^{\\prime}\\right)\\right.$.\n$\\Rightarrow B A^{\\prime}$ là hình chiếu của $B C^{\\prime}$ lên mặt phẳng $\\left(A B B^{\\prime} A^{\\prime}\\right)$.\n$\\Rightarrow\\left(B C^{\\prime},\\left(A B B^{\\prime} A^{\\prime}\\right)\\right)=\\left(B C^{\\prime}, B A^{\\prime}\\right)$\n$\\triangle A^{\\prime} B C^{\\prime}$ vuông tại $A^{\\prime} \\Rightarrow \\tan \\widehat{A^{\\prime} B C^{\\prime}}=\\frac{A^{\\prime} C^{\\prime}}{A^{\\prime} B}=\\frac{a}{a \\sqrt{2}}=\\frac{\\sqrt{2}}{2}$.\nChọn A"
+    },
+    {
+        "ID": "Math_36_36",
+        "Image_Question": "",
+        "Question": "Côu 36. Cho hàm số $y=x^{3}-m x^{2}+2 x+1$ với $m$ là tham số thực. Có bao nhiêu giá trị nguyên của $m$ để hàm số đồng biến trên tập số thực $\\mathbb{R}$ ?\nA. 7 .\nB. 6 .\nC. 5 .\nD. 4 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=3 x^{2}-2 m x+2$. Do $y^{\\prime}$ là tam thức bậc hai có hệ số $a=3>0$ nên hàm số đồng biến trên $\\mathbb{R}$ khi và chỉ khi\n$$\ny^{\\prime} \\geq 0 \\quad \\forall x \\Leftrightarrow \\Delta=m^{2}-6 m \\leq 0 \\Leftrightarrow m \\in[0 ; 6]\n$$\nVì $m$ nguyên nên có 7 giá trị của $m$ thoả mãn bài toán.\nChọn A"
+    },
+    {
+        "ID": "Math_36_37",
+        "Image_Question": "",
+        "Question": "Câu 37. Cho khối chóp $S . A B C D$ có đáy $A B C D$ là hình bình hành và có thể tích bằng 48. Gọi $M$ là trung điểm của cạnh $A B$. Tính thể tích $V$ của khối tứ diện $S M C D$.\nA. $V=24$\nB. $V=12$\nC. $V=16$.\nD. $V=36$.",
+        "Choice": "A",
+        "Image_Answer": "Math_36/image016.png",
+        "Explanation": "Ta có\n$$\nS_{\\triangle M C D}=S_{\\triangle B C D}=\\frac{1}{2} S_{A B C D}\n$$\nVì hai hình chóp $S . M C D$ và $S . A B C D$ có cùng chiều cao nên ta có\n$$\n\\frac{V_{S . M C D}}{V_{S . A B C D}}=\\frac{S_{M C D}}{S_{A B C D}}=\\frac{1}{2}\n$$\nVậy thể tích của khối chóp $S . A M C D$ bằng\n$$\n\\frac{1}{2} \\cdot 48=24\n$$\nChọn A"
+    },
+    {
+        "ID": "Math_36_38",
+        "Image_Question": "",
+        "Question": "Câu 38. Cho hàm số $y=\\frac{x+1}{x-m}$, với $m$ là tham số thực. Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số đã cho nghịch biến trên khoảng $(2 ;+\\infty)$ ?\nA. 3 .\nB. 4 .\nC. 1 .\nD. 2 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định của hàm số đã cho là $\\mathscr{D}=\\mathbb{R} \\backslash\\{m\\}$.\nTa có $y^{\\prime}=\\frac{-m-1}{(x-m)^{2}}, \\quad \\forall x \\in \\mathscr{D}$.\nHàm số nghịch biến trên $(2 ;+\\infty) \\Leftrightarrow\\left\\{\\begin{array}{l}y^{\\prime}<0 \\quad \\forall x \\in(2 ;+\\infty) \\\\ (2 ;+\\infty) \\subset \\mathscr{D}\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}-m-1<0 \\\\ m \\leq 2\\end{array} \\Leftrightarrow-1<m \\leq 2\\right.\\right.$\nVậy có 3 trị nguyên của $m$ thỏa mãn yêu cầu.\nChọn A"
+    },
+    {
+        "ID": "Math_36_39",
+        "Image_Question": "",
+        "Question": "Câu 39. Cho hình chóp $S . A B C$ có đáy là tam giác $A B C$ vuông tại $C, A B=a \\sqrt{3}, A C=a, S C=a \\sqrt{5}$. Hai mặt phẳng $(S A B)$ và $(S A C)$ cùng vuông góc với mặt phẳng $(A B C)$. Thể tích của khối chóp $S . A B C$ bằng\nA. $\\frac{2 \\sqrt{2} a^{3}}{3}$\nB. $\\frac{\\sqrt{6} a^{3}}{4}$.\nC. $\\frac{\\sqrt{2} a^{3}}{3}$.\nD. $\\frac{\\sqrt{10} a^{3}}{6}$.",
+        "Choice": "C",
+        "Image_Answer": "Math_36/image017.png",
+        "Explanation": "Ta có\n\\begin{itemize}\n\\item $B C=\\sqrt{A B^{2}-A C^{2}}=a \\sqrt{2}$ và $S A=\\sqrt{S C^{2}-A C^{2}}=2 a$.\n\\item $S_{A B C}=\\frac{1}{2} A C \\cdot B C=\\frac{1}{2} a^{2} \\sqrt{2}$\n\\end{itemize}\nNên $V_{S . A B C}=\\frac{1}{3} S A . S_{A B C}=\\frac{a^{3} \\sqrt{2}}{3}$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_40",
+        "Image_Question": "",
+        "Question": "Câu 40. Một hộp chứa 7 viên bi đỏ, 8 viên bi trắng, 6 viên bi vàng. Lấy ngã̃u nhiên trong hộp ra 4 viên bi. Tính xác suất để chọn được 4 viên bi trong đó có nhiều nhất 2 viên bi vàng.\nA. $\\frac{13}{14}$\nB. $\\frac{12}{13}$\nC. $\\frac{18}{19}$.\nD. $\\frac{15}{16}$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Số phần tử của không gian mẫu: $n(\\Omega)={C}_{21}^{4}=5985$\nChọn được 0 bi vàng và 4 viên bi khác có: ${C}_{6}^{0} \\cdot {C}_{15}^{4}$ cách.\nChọn được 1 bi vàng và 3 viên bi khác có: ${C}_{6}^{1} \\cdot {C}_{15}^{3}$ cách.\nChọn được 2 bi vàng và 2 bi khác có: ${C}_{6}^{2} \\cdot {C}_{15}^{2}$ cách.\nGọi $A$ là biến cố: \"Chọn được 4 viên bi trong đó có nhiều nhất 2 viên bi vàng\".\n$\\Rightarrow n(A)={C}_{6}^{0} \\cdot {C}_{15}^{4}+{C}_{6}^{1} \\cdot {C}_{15}^{3}+{C}_{6}^{2} \\cdot {C}_{15}^{2}=5670$.\n$P(A)=\\frac{n(A)}{n(\\Omega)}=\\frac{5670}{5985}=\\frac{18}{19}$\nChọn C"
+    },
+    {
+        "ID": "Math_36_41",
+        "Image_Question": "",
+        "Question": "Câu 41. Cho hàm số $y=a x^{4}+b x^{2}+c$ có đồ thị như hình vẽ. Xét dấu của$a, b, c$.\nA. $a<0, b<0, c<0$.\nC. $a<0, b>0, c<0$.\nB. $a>0, b<0, c<0$.\nD. $a<0, b<0, c>0$.",
+        "Choice": "C",
+        "Image_Answer": "Math_36/image018.png",
+        "Explanation": "Khi $x \\rightarrow+\\infty$ thì $y \\rightarrow-\\infty$ suy ra $a<0$.\nHàm số có 3 diểm cực trị $\\Leftrightarrow a b<0 \\Rightarrow b>0$. Lại có $y(0)=c<0$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_42",
+        "Image_Question": "",
+        "Question": "Câu 42. Biết rằng giá trị nhỏ nhất của hàm số $y=m x+\\frac{36}{x+1}$ trên $[0 ; 3]$ bằng 20 . Mệnh đề nào sau đây đúng?\nA. $4<m \\leqslant 8$.\nB. $0<m \\leqslant 2$.\nC. $2<m \\leqslant 4$.\nD. $m>8$.",
+        "Choice": "C",
+        "Image_Answer": "Math_36/image019.png, Math_36/image020.png",
+        "Explanation": "Ta có $y^{\\prime}=m-\\frac{36}{(x+1)^{2}}$\n\\begin{itemize}\n\\item Với $m \\leq 0$, hàm số nghịch biến trên $[0 ; 3]$ nên $\\min _{x \\in[0 ; 3]} y=y(3)=3 m+9$.\n\\end{itemize}\nSuy ra $3 m+9=20 \\Leftrightarrow m=\\frac{11}{3}$ (không thỏa mãn).\n\\begin{itemize}\n\\item Với $m>0$, ta có: $y^{\\prime}=\\frac{m(x+1)^{2}-36}{(x+1)^{2}}$.\n\\end{itemize}\n$$\ny^{\\prime}=0 \\Leftrightarrow x+1= \\pm \\frac{6}{\\sqrt{m}} \\Leftrightarrow\\left[\\begin{array}{l}\nx=-1+\\frac{6}{\\sqrt{m}} \\\\\nx=-1-\\frac{6}{\\sqrt{m}} \\text { (loại) }\n\\end{array}\\right.\n$$\n\\begin{itemize}\n\\item Khi $0 \\leq-1+\\frac{6}{\\sqrt{m}} \\leq 3 \\Leftrightarrow \\frac{9}{4} \\leq m \\leq 36$, ta có bảng biến thiên của hàm số:\n\\end{itemize}\n\\begin{center}\n\\begin{tabular}{|c|cccc|}\n\\hline\n$x$ & 0 & $-1+\\frac{6}{\\sqrt{m}}$ & 3 &  \\\\\n\\hline\n$y^{\\prime}$ &  & - & 0 & + \\\\\n\\hline\n$y$ & 36 & $-m+12 \\sqrt{m}$ &  &  \\\\\n\\hline\n&  &  &  &  \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nDựa vào bảng biến thiên ta suy ra\n$$\n\\min _{x \\in[0 ; 3]} y=y\\left(-1+\\frac{6}{\\sqrt{m}}\\right)=-m+12 \\sqrt{m}=20 \\Leftrightarrow\\left[\\begin{array}{l}\nm=4 \\\\\nm=100 \\text { (loại) }\n\\end{array}\\right.\n$$\n\\begin{itemize}\n\\item Khi $-1+\\frac{6}{\\sqrt{m}}>3 \\Leftrightarrow m<\\frac{9}{4}$, ta có bảng biến thiên của hàm số:\n\\end{itemize}\nDựa vào bảng biến thiên ta suy ra $\\min _{x \\in[0 ; 3]} y=y(3)=3 m+9=20 \\Leftrightarrow m=\\frac{11}{9}$ (loại).\nVậy giá trị nhỏ nhất bằng 20 khi $m=4$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_43",
+        "Image_Question": "Math_36/image021.png",
+        "Question": "Câu 43. Cho hàm bậc ba $f(x)$ có bảng biến thiên như hình vẽ. Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $g(x)=\\frac{1}{f(x)-2}$ là\nA. 2 .\nB. 4 .\nC. 1 .\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng biến thiên, ta thấy phương trình $2 f(x)-3=0 \\Leftrightarrow f(x)=\\frac{3}{2}$ có 3 nghiệm $x_{1} ; x_{2} ; x_{3}$ và hàm số $y=f(x)$ là hàm số bậc ba $y=a x^{3}+b x^{2}+c x+d$ có $a>0$.\n\\begin{itemize}\n\\item Ta có $\\lim _{x \\rightarrow x_{1}^{+}} g(x)=+\\infty$ và $\\lim _{x \\rightarrow x_{1}^{-}} g(x)=-\\infty$.\n\\item Ta có $\\lim _{x \\rightarrow x_{2}^{+}} g(x)=+\\infty$ và $\\lim _{x \\rightarrow x_{2}^{-}} g(x)=-\\infty$.\n\\item Ta có $\\lim _{x \\rightarrow x_{3}^{+}} g(x)=+\\infty$ và $\\lim _{x \\rightarrow x_{3}^{-}} g(x)=-\\infty$.\n\\end{itemize}\nsuy ra hàm số $y=g(x)$ có ba tiệm cận đứng.\nTa có $\\lim _{x \\rightarrow \\pm \\infty} g(x)=0$, suy ra hàm số $y=g(x)$ có TCN là $y=0$.\nVậy hàm số có 4 tiệm cận.\nChọn B"
+    },
+    {
+        "ID": "Math_36_44",
+        "Image_Question": "",
+        "Question": "Câu 44. Người ta muốn xây một bể chứa nước dạng hình hộp chữ nhật không nắp có thể tích bằng $200 {~m}^{3}$ đáy bể là hình chữ nhật có chiều dài gấp đôi chiều rộng. Giá thuê nhân công xây bể là 300.000 đồng $/ {m}^{2}$. Chi phí xây dựng thấp nhất là\nA. 51 triệu đồng.\nB. 75 triệu đồng.\nC. 46 triệu đồng.\nD. 36 triệu đồng.",
+        "Choice": "A",
+        "Image_Answer": "Math_36/image022.png",
+        "Explanation": "Gọi chiều rộng của đáy bể là $A B=x(x>0)$, khi đó chiều dài của đáy bể là $A D=2 x$.\nDiện tích đáy bể là $2 x^{2}$. Suy ra chiều cao của bể là $A A^{\\prime}=\\frac{200}{2 x^{2}}=\\frac{100}{x^{2}}$. Diện tích cần xây dựng là\n$$\nS=2 x^{2}+2 \\cdot x \\cdot \\frac{100}{x^{2}}+2 \\cdot 2 x \\cdot \\frac{100}{x^{2}}=2 x^{2}+\\frac{600}{x}=2 x^{2}+\\frac{300}{x}+\\frac{300}{x} \\geq 3 \\sqrt[3]{\\left(2 x^{2}\\right) \\cdot \\frac{300}{x} \\cdot \\frac{300}{x}}\n$$\nDo đó $S \\geq 30 \\sqrt[3]{180}$. Diện tích nhỏ nhất là $30 \\sqrt[3]{180}$ xảy ra khi $2 x^{2}=\\frac{300}{x} \\Leftrightarrow x^{3}=150 \\Leftrightarrow x=\\sqrt[3]{150}$. Chi phí xây dựng thấp nhất khi diện tích xây dựng thấp nhất.\nVậy chi phí xây dựng thấp nhất là $30 \\sqrt[3]{180} \\cdot 300.000 \\approx 51.000 .000$ dồng.\nChọn A"
+    },
+    {
+        "ID": "Math_36_45",
+        "Image_Question": "",
+        "Question": "Câu 45. Một chất điểm chuyển động theo quy luật $s(t)=t^{2}-\\frac{1}{6} t^{3}({~m})$. Tìm thời điểm $t$ (giây) mà tại đó vận tốc $v({~m} / {s})$ của chuyển động đạt giá trị lớn nhất.\nA. $t=2$.\nB. $t=0,5$.\nC. $t=2,5$.\nD. $t=1$.",
+        "Choice": "A",
+        "Image_Answer": "Math_36/image023.png",
+        "Explanation": "Ta có $v(t)=s^{\\prime}(t)=2 t-\\frac{1}{2} t^{2}$. Suy ra $v^{\\prime}(t)=2-t$ và $v^{\\prime}(t)=0 \\Leftrightarrow t=2$.\nBảng biến thiên\nVậy chất điểm đạt vận tốc lớn nhất tại thời điểm $t=2$ (giây).\nChọn A"
+    },
+    {
+        "ID": "Math_36_46",
+        "Image_Question": "Math_36/image024.png",
+        "Question": "Câu 46. Cho hàm số $y=f(x)$. Hàm số $y=f^{\\prime}(x)$ có đồ thị như hình vẽ. Hàm số $g(x)=f\\left(x^{3}+1\\right)$ nghịch biến trên khoảng\nA. $(-\\infty ;-2)$.\nB. $(-\\infty ; \\sqrt[3]{3})$.\nC. $(-\\infty ;-1)$.\nD. $\\left(0 ; \\frac{3}{2}\\right)$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $g^{\\prime}(x)=3 x^{2} f^{\\prime}\\left(x^{3}+1\\right)$. Ta có\n$$\n\\begin{aligned}\n& g^{\\prime}(x)<0 \\Leftrightarrow 3 x^{2} f^{\\prime}\\left(x^{3}+1\\right)<0 \\Leftrightarrow f^{\\prime}\\left(x^{3}+1\\right)<0 \\\\\n\\Leftrightarrow & {\\left[\\begin{array} { l }\n{ x ^ { 3 } + 1 < - 1 } \\\\\n{ 1 < x ^ { 3 } + 1 < 4 }\n\\end{array} \\Leftrightarrow \\left[\\begin{array}{l}\nx<-\\sqrt[3]{2} \\\\\n0<x<\\sqrt[3]{3} .\n\\end{array}\\right.\\right.}\n\\end{aligned}\n$$\nTừ đó suy ra hàm số $g(x)$ nghịch biến trên $(-\\infty ;-2)$.\nChọn A"
+    },
+    {
+        "ID": "Math_36_47",
+        "Image_Question": "",
+        "Question": "Câu 47. Cho lăng trụ tứ giác đều $A B C D \\cdot A^{\\prime} B^{\\prime} C^{\\prime} D^{\\prime}$ có $A C=4 a$. Gọi $O$ là tâm của mặt $A^{\\prime} B^{\\prime} C^{\\prime} D^{\\prime}$. Biết rằng hai mặt phẳng $(O A B)$ và $(O C D)$ vuông góc với nhau. Thể tích khối lăng trụ $A B C D \\cdot A^{\\prime} B^{\\prime} C^{\\prime} D^{\\prime}$ bằng\nA. $\\frac{16 a^{3} \\sqrt{2}}{3}$.\nB. $\\frac{8 a^{3} \\sqrt{2}}{3}$.\nC. $16 a^{3}$.\nD. $8 a^{3} \\sqrt{2}$.",
+        "Choice": "D",
+        "Image_Answer": "Math_36/image025.png",
+        "Explanation": "Gọi $O$ là tâm hình vuông suy ra $S O \\perp(A B C D)$\nTa có $(S A B) \\cap(S C D)=S x / / A B / / C D$\nGọi $I$ là trung điểm của $A B$, suy ra $S I \\perp A B \\Rightarrow S I \\perp S x \\Rightarrow S I \\perp(S C D) \\Rightarrow S I \\perp S D$ $A C=4 a \\Rightarrow A D=2 \\sqrt{2} a \\Rightarrow D I=a \\sqrt{10}$\nĐặt $S D=x \\Rightarrow S I=\\sqrt{x^{2}-2 a^{2}}$. Ta có hệ thức $x^{2}-2 a^{2}+x^{2}=10 a^{2} \\Rightarrow x^{2}=6 a^{2} \\Rightarrow x=a \\sqrt{6}$\nTừ đó ta tính được $S O=a \\sqrt{2}$.\nVậy $V_{A B C D \\cdot A^{\\prime} B^{\\prime} C^{\\prime} D^{\\prime}}=a \\sqrt{2} \\cdot(2 \\sqrt{2} a)^{2}=8 a^{3} \\sqrt{2}$.\nChọn D"
+    },
+    {
+        "ID": "Math_36_48",
+        "Image_Question": "",
+        "Question": "Câu 48. Cho khối chóp $S . A B C$ có $A B \\perp B C, B C \\perp S C, S C \\perp S A, B C=a, S C=\\sqrt{15} a$ và góc giữa $A B, S C$ bằng $30^{\\circ}$. Thể tích khối chóp $S . A B C$ bằng\nA. $\\frac{5 \\sqrt{3} a^{3}}{2}$.\nB. $\\frac{5}{6} a^{3}$.\nC. $\\frac{5 a^{3}}{2}$.\nD. $\\frac{5 \\sqrt{3} a^{3}}{6}$.",
+        "Choice": "C",
+        "Image_Answer": "Math_36/image026.png",
+        "Explanation": "Gọi $H$ là hình chiếu của $A$ lên mặt phẳng $(S B C)$.\nSuy ra $H S C B$ hình chữ nhật.\nTa có $S C \\| H B$ nên $(A B, S C)=(A B, H B)=\\widehat{A B H}=30^{\\circ}$.\nTa có $\\left\\{\\begin{array}{l}A H=H B \\tan =30^{\\circ}=a \\sqrt{15} \\\\ S_{\\triangle S B C}=\\frac{1}{2} B C \\cdot S C=\\frac{\\sqrt{15}}{2} a^{2}\\end{array}\\right.$.\nSuy ra $V=\\frac{1}{3} A H \\cdot S_{\\triangle S B C}=\\frac{5 a^{3}}{2}$.\nChọn C"
+    },
+    {
+        "ID": "Math_36_49",
+        "Image_Question": "",
+        "Question": "Câu 49. Có bao nhiêu giá trị nguyên của tham số $m$ để phương trình $f(\\sqrt[3]{f(x)+m})=x^{3}-m$ có nghiệm $x \\in[1 ; 2]$ biết $f(x)=x^{5}+3 x^{3}-4 m$.\nA. 24.\nB. 64 .\nC. 15 .\nD. 16 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đặt $t=\\sqrt[3]{f(x)+m}$ ta có $\\left\\{\\begin{array}{l}f(t)=x^{3}-m \\\\ f(x)=t^{3}-m\\end{array}\\right.$. Từ đó suy ra $f(t)+t^{3}=f(x)+x^{3}$,\nĐặt $g(x)=f(x)+x^{3}=x^{5}+4 x^{3}-4 m$ thì $g^{\\prime}(x)=5 x^{4}+12 x^{2} \\geq 0, \\forall x \\in \\mathbb{R}$. Do đó $g(x)$ dồng biến trên $\\mathbb{R}$. Kết hợp với (1) ta suy ra $t=x$ hay $f(x)+m=x^{3} \\Leftrightarrow x^{5}+2 x^{3}=3 m$.\nXét hàm $h(x)=x^{5}+2 x^{3}$ trên $[1 ; 2]$ ta có $h^{\\prime}(x)=5 x^{4}+6 x^{2} \\geq 0$. Nên GTNN và GTLN của $h(x)$ lần lượt là $h(1)=3$ và $h(2)=48$.\nPhương trình có nghiệm trên [1;2] khi và chỉ khi $3 \\leq 3 m \\leq 48 \\Leftrightarrow 1 \\leq m \\leq 16$. Vậy có 16 giá trị nguyên của $m$ thỏa mãn.\nChọn D"
+    },
+    {
+        "ID": "Math_36_50",
+        "Image_Question": "Math_36/image027.png",
+        "Question": "Câu 50. Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$, có bảng biến thiên như hình vẽ. Có bao nhiêu giá trị nguyên của tham số $m$ sao cho hàm số $$\ng(x)=|f(|6 x-5|)+2021+m|\n$$có 3 điểm cực đại?\nA. 5 .\nB. 6 .\nC. 7 .\nD. 8 .",
+        "Choice": "B",
+        "Image_Answer": "Math_36/image028.png",
+        "Explanation": "Đặt $u(x)=|6 x-5|, h(x)=f(u)+2021+m$. Ta có\n$$\nu=\\sqrt{(x-1)^{2}} \\Rightarrow u^{\\prime}=\\frac{6(6 x-5)}{\\sqrt{(6 x-5)^{2}}}=\\frac{6(6 x-5)}{|6 x-5|} .\n$$\nBảng biến thiên của $u(x)$ :\nTa có $h^{\\prime}(x)=f^{\\prime}(u) \\cdot u^{\\prime}(x)$,\n$$\nh^{\\prime}(x)=0 \\Leftrightarrow\\left[\\begin{array} { l }\n{ u = - 1 } \\\\\n{ u = 0 } \\\\\n{ u = 2 } \\\\\n{ x = \\frac { 5 } { 6 } }\n\\end{array} \\Leftrightarrow \\left[\\begin{array}{l}\nx=\\frac{1}{2} \\\\\nx=\\frac{5}{6} \\\\\nx=\\frac{7}{6} .\n\\end{array}\\right.\\right.\n$$\nBảng biến thiên của $h(x)$ :\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_05_31_6d1dd0c7363fc9e148c4g-14(1)}\n\\end{center}\nTừ bảng biến thiên của $h(x)$ ta thấy hàm số $g(x)=|h(x)|$ có 3 điểm cực đại khi và chỉ khi\n$$\nm+2017<m<2024 \\Leftrightarrow-2024<m<-2017 .\n$$\nVì $m$ nguyên nên $m \\in\\{-2023 ;-2022 ;-2021 ;-2020 ;-2019 ;-2018\\}$ : có 6 giá trị.\nChọn B"
+    }
+]

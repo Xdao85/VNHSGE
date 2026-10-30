@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_19_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Tính đặc hiệu của mã di truyền được thể hiện như thế nào?\nA. Mọi loài sinh vật đều có chung một bộ mã di truyền\nB. Mỗi axit amin thường được mã hóa bởi nhiều bộ ba\nC. Mỗi bộ ba chỉ mã hóa cho một loại axit amin\nD. Mã di truyền được đọc theo cụm nối tiếp, không gối nhau.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Tính đặc hiệu của mã di truyền được thể hiện: mỗi bộ ba chỉ mã hóa cho một loại axit amin\nChọn C"
+    },
+    {
+        "ID": "Bio_19_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Ở một loài thực vật, tính trạng chiều cao cây do 3 cặp gen không alen là $A, a ; B, b$ và $D$, d cùng quy định theo kiểu tương tác cộng gộp. Trong kiểu gen nếu cứ có một alen trội thì chiều cao cây tăng $5 \\mathrm{~cm}$. Khi trưởng thành, cây thấp nhất có chiều cao $150 \\mathrm{~cm}$. Theo lí thuyết, phép lai AaBbDd x AaBbDd cho đời con có số cây cao $170 \\mathrm{~cm}$ chiếm tỉ lệ\nA. $5 / 16$\nB. $1 / 64$\nC. $3 / 32$\nD. $15 / 64$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cây cao 170 cm có: $(170-150): 4=4$ alen trội $\\frac{7}{32} \\times 6304=1379$\n$\\rightarrow$ Số cây cao $170 \\mathrm{~cm}$ ở đời con chiếm tỉ lệ: $C_{6}^{4} \\times\\left(\\frac{1}{2}\\right)^{6}=\\frac{15}{64}$.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Khi nói về quá trình nhân đôi ADN, phát biểu nào sau đây sai?\nA. Enzim ADN polimeraza tổng hợp và kéo dài mạch mới theo chiều $3 ' \\rightarrow 5^{\\prime}$,\nB. Enzim ligaza (enzim nối) nối các đoạn Okazaki thành mạch đơn hoàn chỉnh\nC. Quá trình nhân đôi $\\mathrm{ADN}$ diễn ra theo nguyên tắc bổ sung và nguyên tắc bán bảo tồn\nD. Nhờ các enzim tháo xoắn, hai mạch đơn của $\\mathrm{ADN}$ tách nhau dần tạo nên chạc chữ $\\mathrm{Y}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Enzim $\\mathrm{ADN}$ polimeraza tổng hợp và kéo dài mạch mới theo chiều 3' $\\rightarrow$ '’ là ý đúng\nChọn A"
+    },
+    {
+        "ID": "Bio_19_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Trong quá trình giảm phân ở cơ thể có kiểu gen $\\frac{A D}{a d}$ đã xảy ra hoán vị gen giữa alen $D$ và $\\mathrm{d}$ với tần số $16 \\%$. Tính theo lí thuyết cứ 1000 tế bào sinh tinh của cơ thể này giảm phân thì số tế bào không xảy ra hoán vị gen giữa $\\mathrm{D}$ và $\\mathrm{d}$ là\nA. 160\nB. 320\nC. 840\nD. 680",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Mỗi tế bào sinh tinh thực hiện giảm phân có hoán vị gen tạo ra $50 \\%$ số loại giao tử hoán vị, $50 \\%$ giao tử bình thường\n$\\rightarrow$ Số tế bào sinh tinh xảy ra hoán vị gen $=2 \\mathrm{f}=32 \\%$.\n$\\rightarrow$ Số tế bào sinh tinh không xảy ra hoán vị gen $=68 \\% \\times 1000=680$.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Sự nhân đôi ADN ở sinh vật nhân thực khác với sự nhân đôi của ADN ở E. coli về\n(1) Chiều tổng hợp.\n(2) Các enzim tham gia.\n(3) Thành phần tham gia.\n(4) Số lượng các đơn vị nhân đôi.\n(5) Nguyên tắc nhân đôi. Phương án đúng là :\nA. (1) và (2)\nB. (2), (3) và (4)\nC. (2) và (4)\nD. (2), (3) và (5)",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Sự nhân đôi $A D N$ ở sinh vật nhân thực khác với sự nhân đôi của $A D N$ ở E. coli về các enzyme tham gia và số đơn vị nhân đôi\nChọn C"
+    },
+    {
+        "ID": "Bio_19_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Cho lai 2 cây bí quả tròn với nhau, đời con thu được 272 cây bí quả tròn, 183 cây bí quả bầu dục và 31 cây bí quả dài. Sự di truyền tính trạng hình dạng quả bí tuân theo quy luật\nA. Phân li độc lập của Menđen\nB. Liên kết gen hoàn toàn\nC. Tương tác cộng gộp\nD. Tương tác bổ sung",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{P}:$ tròn $\\times$ tròn\nF1 9 tròn : 6 bầu : 1 dài\nF1 có 16 tổ hợp lai $=4 \\times 4$\n$\\rightarrow \\mathrm{P}$ mỗi bên cho 4 tổ hợp giao tử\n$\\rightarrow \\mathrm{P}: \\mathrm{AaBb}$\n$\\rightarrow$ F1: 9A-B- : 3A-bb : 3aaB- : 1aabb\nVậy A-B- = tròn\n$A-b b=3 a a B-=b a \\hat{u}$\naabb = dài\nVậy tính trạng di truyền theo quy luật tương tác bổ sung.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Theo lí thuyết, cơ thể có kiểu gen aaBB giảm phân tạo ra loại giao tử aB chiếm tỉ lệ\nA. $50 \\%$\nB. $15 \\%$\nC. $25 \\%$\nD. $100 \\%$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Vì cơ thể $\\mathrm{aaBB}$ là cơ thể thuần chủng.Vậy, khi giảm phân chỉ cho 1 loại giao tử là $\\mathrm{aB}$ nên giao tử này chiếm $100 \\%$.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Khi lai 2 giống bí ngô thuần chủng quả dẹt và quả dài với nhau được F1đều có quả dẹt. Cho F1 lai với quả bí tròn được F2: 152 bí quả tròn : 114 bí quả dẹt : 38 bí quả dài. Tính theo lí thuyết, trong số bí quả tròn thu được ở $\\mathrm{F} 2$ thì số bí quả tròn dị hợp chiếm tỉ lệ\nA. $1 / 4$\nB. $3 / 4$\nC. $1 / 3$\nD. $2 / 3$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "\\section{Phương pháp:}\nTỉ lệ phân li $\\mathrm{KH} \\rightarrow$ số tổ hợp, giao tử của bố mẹ $\\rightarrow$ xác định quy luật di truyền $\\rightarrow$ Viết $\\mathrm{SĐL} \\rightarrow$ Tính tỉ lệ\n$\\mathrm{Pt} / \\mathrm{c}:$ dài $\\times$ dẹt\nF1 : 100\\% dẹt\n$\\mathrm{F} 1 \\times$ tròn\n$\\rightarrow \\mathrm{F} 2: 4$ tròn : 3 dẹt : 1 dài\nDo F2 có 8 tổ hợp lai $=4 \\times 2$\n$\\mathrm{P}$ thuần chủng $\\rightarrow \\mathrm{F} 1$ dị hợp các cặp gen, cho 4 loại giao tử\nVậy tính trạng do 2 gen tương tác bổ sung kiểu $9: 6: 1$ quy định\nQuy ước gen: A-B-: dẹt; A-bb/aaB-: quả tròn; aabb quả dài\nF1 dẹt $\\times$ tròn $: \\mathrm{AaBb} \\times \\mathrm{Aabb}($ hoặc aaBb)\nF2 : 3A-Bb : 3A-bb : 1aaBb : 1aabb\nTròn đồng hợp ở F2 (AAbb) chiếm tỉ lệ là $\\frac{1}{4} \\times \\frac{1}{2}=\\frac{1}{8}$\nVậy trong số cây tròn $\\mathrm{F} 2$, tỉ lệ cây tròn dị hợp là: $1-\\left(\\frac{1}{8}: \\frac{4}{8}\\right)=\\frac{3}{4}$\nChọn B"
+    },
+    {
+        "ID": "Bio_19_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Một phân tử mARN có 1200 đơn phân và tỷ lệ $\\mathrm{A}: \\mathrm{U}: \\mathrm{G}: \\mathrm{X}=1:$ 3: 2: 4. Số nuclêôtit loại G của mARN này là\nA. 120\nB. 600\nC. 240\nD. 480",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ đơn phân $G$ là: $2:(1+2+4+3)=1 / 5$\n1200 đơn phân, trong đó $G=\\frac{1}{5} \\rightarrow G=1200 \\times \\frac{1}{5}=240$\nChọn C"
+    },
+    {
+        "ID": "Bio_19_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Sự điều hòa hoạt động của gen tổng hợp enzim phân giải lactose của vi khuẩn E. coli diễn ra ở cấp độ nào?\nA. Diễn ra hoàn toàn ở cấp độ sau dịch mã\nB. Diễn ra hoàn toàn ở cấp độ dịch mã\nC. Diễn ra chủ yếu ở cấp độ phiên mã.\nD. Diễn ra hoàn toàn ở cấp độ sau phiên mã",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Sự điều hòa hoạt động của gen tổng hợp enzim phân giải lactose của vi khuẩn E. coli diễn ra ở cấp độ phiên mã.\nChọn C"
+    },
+    {
+        "ID": "Bio_19_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Ở một loài thực vật biết rằng: $\\mathrm{A}-:$ thân cao, aa: thân thấp; $\\mathrm{BB}$. hoa đỏ, Bb: hoa hồng, bb: hoa trắng Hai tính trạng, chiều cao của thân vào màu hoa di truyền độc lập với nhau. Con lai có tỉ lệ kiểu hình $75 \\%$ thân cao, hoa hồng : $25 \\%$ thân thấp, hoa hồng được tạo ra từ phép lai nào sau đây?\nA. $\\mathrm{AaBb} \\times \\mathrm{AaBb}$\nB. $A A B b \\times a a B b$\nC. $A a B B \\times A a b b$\nD. $A A B B \\times a a b b$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "A-thân cao, a-thân thấp, BB-hoa đỏ,Bb-hoa hồng, bb-hoa trắng.\nCho lại tỉ lệ kiểu hình $75 \\%$ thân cao, hoa hồng : $25 \\%$ thân thấp, hoa hồng $\\rightarrow 3: 1$. Tỷ lệ thân cao: thân thấp = $3: 1 \\rightarrow \\mathrm{Aa} \\times \\mathrm{Aa}$. Không tạo hoa đỏ và hoa trắng $\\rightarrow \\mathrm{BB} \\times \\mathrm{bb}$.\nChọn C"
+    },
+    {
+        "ID": "Bio_19_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Ở vi khuẩn E. coli, khi nói về hoạt động của các gen cấu trúc trong operon Lac, kết luận nào sau đây đúng?\nA. Các gen này có số lần nhân đôi bằng nhau nhưng số lần phiên mã khác nhau.\nB. Các gen này có số lần nhân đôi bằng nhau và số lần phiên mã bằng nhau\nC. Các gen này có số lần nhân đôi khác nhau nhưng số lần phiên mã bằng nhau\nD. Các gen này có số lần nhân đôi khác nhau và số lần phiên mã khác nhau",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Do các gen nằm trong cùng một operon thì cùng chung một cơ thể điều hòa nên khi nhân đôi được thực hiện với số lần như nhau, hay khi phiên mã thì phiên mã cả cụm gen đó nên số lần phiên mã cũng bằng nhau.\nChọn B"
+    },
+    {
+        "ID": "Bio_19_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Trong cơ chế điều hòa hoạt động của operon Lac của vi khuẩn E. coli, giả sử gen Z nhân đôi 1 lần và phiên mã 20 lần. Theo lí thuyết, phát biểu nào sau đây đúng?\nA. Môi trường sống không có lactôzơ\nB. Gen A phiên mã 10 lần.\nC. Gen điều hòa nhân đôi 2 lần.\nD. Gen Y phiên mã 20 lần",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Các gen cấu trúc $\\mathrm{Z}, \\mathrm{Y}, \\mathrm{A}$ có chung một vùng điều hòa nên số lần phiên mã của các gen này bằng nhau. Vậy gen $\\mathrm{Z}$ phiên mã 20 lần thì gen $\\mathrm{Y}$ và gen $\\mathrm{A}$ cũng phiên mã 20 lần $\\rightarrow \\mathrm{B}$ sai, $\\mathrm{D}$ đúng.\nGen $\\mathrm{Z}$ và gen điều hòa cùng thuộc 1 NST nên số lần nhân đôi của các gen $\\mathrm{Z}, \\mathrm{Y}, \\mathrm{A}$ và gen điều hòa là giống nhau $\\rightarrow$ C sai.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Đột biến điểm là những biến đổi trong cấu trúc của gen xảy ra tại\nA. một điểm nào đó trên phân tử axit nucleic, liên quan tới một hoặc một vài cặp nucleotide\nB. một điểm nào đó trên phân tử axit nucleic, liên quan tới một hoặc một vài nucleotide\nC. nhiều điểm trên phân tử axit nucleic, liên quan tới một số cặp nucleotit\nD. một điểm nào đó trên phân tử $\\mathrm{ADN}$, liên quan tới một cặp nucleotide",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đột biến điểm là những biến đổi trong cấu trúc của gen xảy ra tại một điểm nào đó trên phân tử $A D N$, liên quan đến một cặp nuclêôtit.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Một quần thể sinh vật có alen $\\mathrm{A}$ bị đột biến thành alen a, alen B bị đột biến thành alen b. Biết các cặp gen tác động riêng rẽ và alen trội là trội hoàn toàn. Các kiểu gen nào sau đây là của thể đột biến?\nA. $a \\mathrm{aBb}$ và $\\mathrm{Aabb}$\nB. $\\mathrm{AABB}$ và $\\mathrm{AABb}$\nC. $\\mathrm{AABb}$ và $\\mathrm{AaBb}$\nD. $\\mathrm{AaBb}$ và $\\mathrm{AABb}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thể đột biến là cơ thể mang kiểu gen và kiểu hình đột biến\nCặp gen Aa : thể đột biến có kiểu gen aa\nCặp gen $\\mathrm{Bb}$ : thể đột biến có kiểu gen bb\nChọn A"
+    },
+    {
+        "ID": "Bio_19_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Sự biểu hiện kiểu hình của đột biến gen trong đời cá thể xảy ra như thế nào?\nA. Đột biến gen trội chỉ biểu hiện khi ở trạng thái đồng hợp tử.\nB. Đột biến gen lặn không được biểu hiện\nC. Đột biến gen lặn chỉ biểu hiện khi ở trạng thái dị hợp.\nD. Đột biến gen trội biểu hiện cả khi ở trạng thái đồng hợp tử và dị hợp tử.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đột biến gen trội biểu hiện cả khi ở trạng thái đồng hợp tử và dị hợp tử.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Hóa chất gây đột biến 5-BU thường gây đột biến gen dạng\nA. thay thế cặp $\\mathrm{G}-\\mathrm{X}$ bằng $\\mathrm{T}-\\mathrm{A}$\nB. thay thế cặp $\\mathrm{G}-\\mathrm{X}$ bằng cặp $\\mathrm{X}-\\mathrm{G}$\nC. thay thế cặp $\\mathrm{G}-\\mathrm{X}$ bằng cặp $\\mathrm{X}-\\mathrm{G}$\nD. thay thế cặp $\\mathrm{A}-\\mathrm{T}$ bằng $\\mathrm{G}-\\mathrm{X}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Hóa chất $5 B U$ gây đột biến: $A-T \\rightarrow A-5 B U \\rightarrow 5 B U-G \\rightarrow G-X$.\nSau 3 lần nhân đôi $\\rightarrow$ đột biến thay thế cặp $A-T$ bằng cặp G-X.\nChọn D"
+    },
+    {
+        "ID": "Bio_19_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Một đột biến làm giảm chiều dài của gen đi 10,2A và mất 8 liên kết hidro. Khi gen ban đầu và gen đột biến đồng thời nhân đôi 3 lần liên tiếp thì số nucleotit mỗi loại môi trường nội bào cung cấp cho gen đột biến giảm đi so với gen ban đầu là:\nA. $A=T=8 ; G=X=16$\nB. $\\mathrm{A}=\\mathrm{T}=16 ; \\mathrm{G}=\\mathrm{X}=8$\nC. $\\mathrm{A}=\\mathrm{T}=7 ; \\mathrm{G}=\\mathrm{X}=14$\nD. $\\mathrm{A}=\\mathrm{T}=14 ; \\mathrm{G}=\\mathrm{X}=7$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chiều dài gen giảm 10,2A tương ứng với mất đi : $10,2: 3,4$ = 3 cặp nu Mất 8 liên kết $H, 3$ cặp nu tương ứng với mất đi 2 cặp G-X, 1 cặp A-T 2 gen đồng thời nhân đôi 3 lần liên tiếp cho $=8$ gen mới\nSố nu mà môi trường nội bào cung cấp ít đi so với gen ban đầu là :\n$\\mathrm{A}=\\mathrm{T}=(8-1) \\times 1=7$\n$\\mathrm{G}=\\mathrm{X}=(8-1) \\times 2=14$\nChọn C"
+    },
+    {
+        "ID": "Bio_19_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Có bao nhiêu kết luận sau đây là không đúng khi nói về sự biểu hiện của đột biến gen?\n(1) Đột biến gen xảy ra trong những lần nguyên phân đầu tiên của hợp tử có thể di truyền cho thế hệ sau bằng con đường sinh sản vô tính hoặc hữu tính.\n(2) Đột biến trội phát sinh trong quá trình giảm phân tạo giao tử sẽ luôn biểu hiện ngay ở thế hệ sau và di truyền được sinh sản hữu tính.\n(3) Đột biến gen lặn xảy ra trong tế bào chất của tế bào xôma sẽ không bao giờ được biểu hiện ra kiểu hình và không có khả năng di truyền qua sinh sản hữu tính.\n(4) Chỉ có các đột biến gen phát sinh trong quá trình nguyên phân mới có khả năng biểu hiện ra kiểu hình của cơ thể bị xảy ra đột biến.\n(5) Thể đột biến phải mang ít nhất là một alen đột biến.\nA. 1\nB. 2\nC. 3\nD. 4",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "(1) Đột biến gen xảy ra trong những lần nguyên phân đầu tiên của hợp tử có thể di truyền cho thế hệ sau bằng con đường sinh sản vô tính hoặc hữu tính. $\\rightarrow$ sai, di truyền qua sinh sản hữu tính.\n(2) Đột biến trội phát sinh trong quá trình giảm phân tạo giao tử sẽ luôn biểu hiện ngay ở thế hệ sau và di truyền được $\\sinh$ sản hữu tính. $\\rightarrow$ đúng\n(3) Đột biến gen lặn xảy ra trong tế bào chất của tế bào xôma sẽ không bao giờ được biểu hiện ra kiểu hình và không có khả năng di truyền qua sinh sản hữu tính. $\\rightarrow$ sai, đột biến gen lặn có thể biểu hiện ở trạng thái đồng hợp lặn.\n(4) Chỉ có các đột biến gen phát sinh trong quá trình nguyên phân mới có khả năng biểu hiện ra kiểu hình của cơ thể bị xảy ra đột biến. $\\rightarrow$ sai.\n(5) Thể đột biến phải mang ít nhất là một alen đột biến. $\\rightarrow$ đúng\nChọn B"
+    },
+    {
+        "ID": "Bio_19_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Một gen có hiệu số phần trăm nuclêôtit loại adenin với một loại nuclêôtit khác là 5\\% và có số nucleotit loại adenin là 660. Sau khi gen xảy ra đột biến điểm, gen đột biến có chiều dài $408 \\mathrm{~nm}$ và có tỉ lệ $\\frac{G}{A}=82,1 \\%$. Dạng đột biến điểm xảy ra với nói gen nói trên là\nA. thay thế một cặp $\\mathrm{A}-\\mathrm{T}$ bằng một cặp $\\mathrm{G}-\\mathrm{X}$\nB. mất một cặp nucleotit loại A-T\nC. thêm một cặp nucleotit loại G-X\nD. thay thế một cặp G-X bằng một cặp A-T",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$A-G=5 \\%$ và $A+G=50 \\% \\rightarrow A=27,5 \\% ; G=22,5 \\%$.\nSố nuclêôtit loại $\\mathrm{A}=660 \\rightarrow \\mathrm{N}=(660 \\times 100): 27,5=2400$ nuclêôtit $\\rightarrow \\mathrm{G}=540$\n$L=\\frac{N}{2} \\times 3,4=4080 \\AA$\nKhi bị đột biến gen vẫn giữ chiều dài $4080 \\AA ̊ \\rightarrow$ tổng số nuclêôtit không đổi $\\rightarrow$ Đây là đột biến dạng thay thế.\nGen đột biến có $\\frac{G}{A}=82,1 \\%$; Gen bình thường: $\\frac{G}{A}=81,82 \\%$\nTỷ lệ $\\frac{G}{A}$ tăng $\\rightarrow G$ tăng, A giảm $\\rightarrow$ Dạng đột biến thay thế cặp A-T bằng cặp G-X\nChọn A"
+    },
+    {
+        "ID": "Bio_19_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Cấu trúc của một nucleoxom gồm\nA. một đoạn phân tử ADN quấn 11/4 vòng quanh khối cầu gồm 8 phân tử histon\nB. phân tử $\\mathrm{ADN}$ quấn $7 / 4$ vòng quanh khối cầu gồm 8 phân tử histon\nC. phân tử histon được quấn quanh bởi 1 đoạn $\\mathrm{ADN}$ dài 146 nucleotit\nD. 8 phân tử histon được quấn quanh bởi 7/4vòng xoắn ADN dài 146 cặp nucleotide",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Nucleoxom là đơn vị cấu trúc của NST. Mỗi nucleoxom gồm 8 phân tử histon được quấn quanh bởi 7/4 vòng xoắn ADN (khoảng 146 cặp nuclêôtit).\nChọn D"
+    },
+    {
+        "ID": "Bio_19_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Trong cấu trúc siêu hiển vi của NST nhân thực, sợi cơ bản có đường kính bằng\nA. $2 \\mathrm{~nm}$\nB. $11 \\mathrm{~nm}$\nC. $20 \\mathrm{~nm}$\nD. $30 \\mathrm{~nm}$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong cấu trúc siêu hiển vi của NST nhân thực, sợi cơ bản có đường kính bằng $11 \\mathrm{~nm}$\nChọn B"
+    },
+    {
+        "ID": "Bio_19_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Phát biểu nào sau đây không đúng khi nói về NST trong tế bào sinh dưỡng của các loài?\nA. Mỗi loài có bộ NST đặc trưng về số lượng, hình thái và cấu trúc\nB. NST thường bao giờ cũng tồn tạo thành từng cặp tương đồng và có số lượng nhiều hơn NST giới tính.\nC. NST giới tính chỉ có một cặp có thể tương đồng hoặc không tương đồng, ở một số loài NST giới tính chỉ có một chiếc.\nD. Cặp NST giới tính ở giới cái bao giờ cũng gồm 2 chiếc có thể tương đồng hoặc không tương đồng",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai: Cặp NST giới tính ở giới cái bao giờ cũng gồm 2 chiếc có thể tương đồng hoặc không tương đồng\nChọn D"
+    },
+    {
+        "ID": "Bio_19_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Phát biểu nào sau đây không đúng khi nói về NST trong tế bào sinh dưỡng của các loài?\nA. Mỗi loài có bộ NST đặc trưng về số lượng, hình thái và cấu trúc\nB. NST thường bao giờ cũng tồn tạo thành từng cặp tương đồng và có số lượng nhiều hơn NST giới tính\nC. NST giới tính chỉ có một cặp có thể tương đồng hoặc không tương đồng, ở một số loài NST giới tính chỉ có một chiếc\nD. Cặp NST giới tính ở giới cái bao giờ cũng gồm 2 chiếc có thể tương đồng hoặc không tương đồng.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai: Cặp NST giới tính ở giới cái bao giờ cũng gồm 2 chiếc có thể tương đồng hoặc không tương đồng\nChọn D"
+    },
+    {
+        "ID": "Bio_19_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Trong đột biến cấu trúc NST, dạng đột biến nào không làm thay đổi số lượng gen trên NST?\nA. Mất đoạn\nB. Lặp đoạn\nC. Đảo đoạn\nD. Chuyển đoạn",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Đảo đoạn chỉ làm thay đổi vị trí, không làm thay đổi số lượng gen trên NST\nChọn B"
+    },
+    {
+        "ID": "Bio_19_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Tế bào sinh dưỡng của một loài $\\mathrm{A}$ có bộ NST $2 \\mathrm{n}=$ 20. Trong tế bào sinh dưỡng ở một cá thể của loài này có tổng số NST là 19 và hàm lượng ADN không đổi. Tế bào đó đã xảy ra hiện tượng\nA. Mất NST\nB. Dung hợp 2 NST với nhau\nC. Chuyển đoạn NST\nD. Lặp đoạn NST",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Loại trừ $\\mathrm{A}$ vì mất đoạn làm giảm số lượng gen nên giảm hàm lượng $\\mathrm{ADN}$, mặt khác không làm thay đổi số lượng NST.\nLoại trừ $\\mathrm{C}$ vì chuyển đoạn NST không làm thay đổi số lượng NST.\nLoại trừ $\\mathrm{D}$ vì lặp đoạn làm tăng số lượng gen nên hàm lượng $\\mathrm{ADN}$ tăng, mặt khác không làm thay đồi số lượng NST.\nChọn B"
+    },
+    {
+        "ID": "Bio_19_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Ở một loài thực vật, alen A quy định thân cao trội hoàn toàn so với alen a quy định thân thấp; alen $\\mathrm{B}$ quy định quả tròn trội hoàn toàn so với alen $\\mathrm{b}$ quy định quả dài. Cho hai cây (P) giao phấn với nhau, thu được F1gồm 448 cây, trong đó có 112 cây thân thấp, quả dài. Biết rằng không xảy ra đột biến. Trong các phép lai sau đây, có bao nhiêu phép lai phù hợp với kết quả trên?\nI. $\\mathrm{AaBb} \\times \\mathrm{aabb}$.\nII. Aabb $\\times$ Aabb.\nIII. $\\mathrm{AaBb} \\times \\mathrm{AaBb}$.\nIV. $\\mathrm{aaBb} \\times \\mathrm{aaBb}$.\nA. 3\nB. 4\nC. 5\nD. 6",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ cây thân thấp quả dài (aabb) là: $112 / 448=1 / 4 \\rightarrow$ Các phép lai thỏa mãn là: (I), (II), (IV)\nChọn A"
+    },
+    {
+        "ID": "Bio_19_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Tìm số phát biểu đúng\nI. Đột biến cấu trúc nhiễm sắc thể về bản chất có sự sắp xếp lại trong khối gen chỉ trong một nhiễm sắc thể\nII. Đột biến thêm một cặp nucleotit là dễ xảy ra nhất.\nIII. Hóa chất 5 Brom Uraxin có cấu trúc tương tự nucleotit loại T dẫn tới dạng đột biến thay thế 1 cặp A-T bằng 1 cặp $\\mathrm{G}-X$.\nIV. Xét ở cấp độ phân tử phần lớn các đột biến điểm là có hại.\nA. 1\nB. 3\nC. 4\nD. 2",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "(1) Đột biến cấu trúc nhiễm sắc thể về bản chất có sự sắp xếp lại trong khối gen chỉ trong một nhiễm sắc thể: sai, đột biến chuyển đoạn NST gây ra sự sắp xếp lại gen trên 2 NST khác nhau.\n(2) Đột biến thêm một cặp nucleotit là dễ xảy ra nhất: sai.\n(3) Hóa chất 5 Brom Uraxin có cấu trúc tương tự nucleotit loại T dẫn tới dạng đột biến thay thế 1 cặp A-T bằng 1 cặp G-X: đúng. (4) Xét ở cấp độ phân tử phần lớn các đột biến điểm là có hại: sai, xét ở cấp phân tử, phần lớn đột biến gen là trung tính.\nChọn A"
+    },
+    {
+        "ID": "Bio_19_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Ở một loài thực vật, khi trong kiểu gen có cả gen $A$ và gen $B$ thì hoa có màu đỏ. Nếu trong kiểu gen chỉ có $\\mathrm{A}$ hoặc chỉ có $\\mathrm{B}$ thì hoa có màu vàng. Nếu không có gen $\\mathrm{A}$ và $\\mathrm{B}$ thì hoa có màu trắng. Hai cặp gen $\\mathrm{Aa}$ và $\\mathrm{Bb}$ nằm trên 2 cặp NST khác nhau. Cho cây dị hợp về 2 cặp gen nói trên tự thụ phấn được F1. Theo lí thuyết, trong số các cây hoa màu đỏ ở $\\mathrm{F} 1$, tỉ lệ kiểu gen là:\nA. $1: 2: 2: 2$.\nB. $2: 2: 2: 4$.\nC. $1: 2: 1: 2$.\nD. $1: 2: 2: 4$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Khi trong kiểu gen có cả gen $\\mathrm{A}$ và gen $\\mathrm{B}$ thì hoa có màu đỏ $\\rightarrow$ tương tác bổ sung\n$\\mathrm{AaBb} \\times \\mathrm{AaBb}=(\\mathrm{Aa} \\times \\mathrm{Aa})(\\mathrm{Bb} \\times \\mathrm{Bb})$\n$\\mathrm{Aa} \\times \\mathrm{Aa} \\rightarrow 3 \\mathrm{~A}_{-}: 1 \\mathrm{aa}$\n$\\mathrm{Bb} \\times \\mathrm{Bb} \\rightarrow 3 \\mathrm{~B}_{-}: 1 \\mathrm{bb}$\n$\\mathrm{AaBb} \\times \\mathrm{AaBb} \\rightarrow 9 \\mathrm{~A}_{-} \\mathrm{B}_{-}(1 \\mathrm{AABB}: 2 \\mathrm{AABb}: 2 \\mathrm{AaBB}: 4 \\mathrm{AaBb})$\nVậy tỉ lệ kiểu gen hoa đỏ là: 1:2:2:4\nChọn D"
+    },
+    {
+        "ID": "Bio_19_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Ở một loài côn trùng, gen qui định tính trạng nằm trên nhiễm sắc thể thường và di truyền theo hiện tượng trội hoàn toàn. Gen $\\mathrm{A}$. thân xám; gen a: thân đen; Gen $\\mathrm{B}$. mắt đỏ; gen b: mắt vàng; Gen D. lông ngắn; gen d: lông dài. Các gen nói trên phân li độc lập và tổ hợp tự do trong giảm phân. Phép lai nào sau đây không tạo ra kiểu hình thân đen, mắt vàng, lông dài ở con lai?\nA. AaBbDd x aaBbdd.\nB. Aabbdd $x$ aaBbDd.\nC. AaBBdd $x$ aabbdd\nD. aabbDd $\\mathrm{x}$ aabbDd.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Kiểu hình thân đen, mắt vàng, lông dài: aabbdd $\\rightarrow \\mathrm{P}$ có dạng:\\_a\\_b\\_d × a a b\\_d\nChỉ có đáp án $\\mathrm{C}$ là kiểu gen của $\\mathrm{P}$ không có dạng\\_a\\_b\\_d × \\_a\\_b\\_d\nChọn C"
+    },
+    {
+        "ID": "Bio_19_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Dạng đột biến số lượng NST gây ra hội chứng Đao là\nA. thể một ở cặp NST 23, có 45 NST\nB. thể ba ở cặp NST 21, có 47 NST\nC. thể một ở cặp NST 21, có 45 NST\nD. thể ba ở cặp NST 23, có 47 NST",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Dạng đột biến số lượng NST gây ra hội chứng Đao là thể ba ở cặp NST 21, có 47 NST\nChọn B"
+    },
+    {
+        "ID": "Bio_19_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Ở cà độc dược có 12 cặp NST tương đồng trong tế bào sinh dưỡng. Có nhiều nhất bao nhiêu trường hợp đột biến dạng thể một đơn?\nA. 12\nB. 24\nC. 15\nD. 13",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ở cà độc dược có 12 cặp NST tương đồng trong tế bào sinh dưỡng. Có nhiều nhất 12 trường hợp đột biến dạng thể một đơn.\nChọn A"
+    },
+    {
+        "ID": "Bio_19_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Trong trường hợp xảy ra rối loạn phân bào giảm phân I, các loại giao tử được tạo ra từ cơ thể mang kiểu gen XY là\nA. $X X, X Y$ và $O$\nB. $\\mathrm{XX}, \\mathrm{Y}$ và $\\mathrm{O}$\nC. $X Y$ và $O$\nD. $\\mathrm{X}, \\mathrm{YY}$ và $\\mathrm{O}$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong trường hợp xảy ra rối loạn phân bào giảm phân I, các loại giao tử được tạo ra từ cơ thể mang kiểu gen $\\mathrm{XY}$ là $\\mathrm{XY}$ và $\\mathrm{O}$\nChọn C"
+    },
+    {
+        "ID": "Bio_19_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Ở một loài thực vật, alen A quy định thân cao, alen a : thân thấp; alen B : quả đỏ, alen $\\mathrm{b}$ : quả trắng. Cho 2 cây có kiểu gen $\\frac{A b}{a B}$ giao phấn với nhau. Biết rằng cấu trúc NST của 2 cây không thay đổi trong giảm phân, tỉ lệ kiểu hình ở F1 là:\nA. 1 cây thân cao, quả đỏ : 1 cây thân thấp, quả trắng\nB. 3 cây thân cao, quả trắng : 1 cây thân thấp, quả đỏ\nC. 1 cây thân cao, quả đỏ : 1 cây thân cao, quả trắng : 1 cây thân thấp, quả đỏ : 1 cây thân thấp, quả trắng\nD. 1 cây thân cao, quả trắng : 2 cây thân cao, quả đỏ : 1 cây thân thấp, quả đỏ",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "SĐL: $\\frac{A b}{a B} \\times \\frac{A b}{a B}$\n$G: \\quad \\underline{A b}, \\underline{a B} \\quad \\underline{A b}, \\underline{a B}$\n$\\mathrm{F} 1: 1 \\frac{A b}{A b}: 2 \\frac{A b}{a B}: 1 \\frac{a B}{a B}$\n$\\mathrm{KH}: 1$ cao, trắng: 2 cao, đỏ: 1 thấp, đỏ\nChọn D"
+    },
+    {
+        "ID": "Bio_19_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Một loài thực vật có $2 \\mathrm{n}=14$. Khi quan sát tế bào của một số cá thể trong quần thể thu được kết quả sau:\n\\begin{center}\n\\begin{tabular}{|l|l|l|l|l|l|l|l|}\n\\hline\nCá thể & \\multicolumn{5}{l}{Cặp nhiễm sắc thể} &  &  \\\\\n\\cline { 2 - 8 }\n& Cặp 1 & Cặp 2 & Cặp 3 & Cặp 4 & Cặp 5 & Cặp 6 & Cặp 7 \\\\\n\\hline\nCá thể 1 & 2 & 2 & 3 & 3 & 2 & 2 & 2 \\\\\n\\hline\nCá thể 2 & 1 & 2 & 2 & 2 & 2 & 2 & 2 \\\\\n\\hline\nCá thể 3 & 2 & 2 & 2 & 2 & 2 & 2 & 2 \\\\\n\\hline\nCá thể 4 & 3 & 3 & 3 & 3 & 3 & 3 & 3 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nTrong các phát biểu sau số nhận định đúng? (1) Cá thể 1 : là thể ba kép $(2 \\mathrm{n}+1+1)$ vì có 2 cặp đều thừa 1 NST.\n(2) Cá thể 2: là thể một $(2 \\mathrm{n}-1)$ vì có 1 cặp thiếu $1 \\mathrm{NST}$.\n(3) Cá thể 3 : là thể lưỡng bội bình thường $(2 n)$\n(4) Cá thể 4: là thể tam bội $(3 n)$\nA. 4\nB. 1\nC. 2\nD. 3",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Từ bảng trên ta dễ dàng nhận thấy\nCá thể 1 ở cặp số 4 có 3 chiếc $\\rightarrow$ cá thể 1 bị đột biến dạng thể ba $(2 n+1)$\nCá thể 2 cặp số 1 có 1 chiếc $\\rightarrow$ cá thể 2 là dạng đột biến thể một $(2 n-1)$\nCá thể 3 ở tất cả các cặp đều có 2 chiếc $\\rightarrow$ cá thể 4 là dạng lưỡng bội bình thường.\nCá thể 4 ở tất cả các cặp đều có 3 chiếc $\\rightarrow$ cá thể 4 là dạng tam bội\nCả 4 phát biểu của đề bài đều đúng\nChọn A"
+    },
+    {
+        "ID": "Bio_19_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Trong tế bào sinh dưỡng bình thường của Cà Độc Dược có 24 NST ở trạng thái chưa nhân đôi. Nếu xảy ra đột biến số lượng NST dạng thể ba thì tối đa có bao nhiêu dạng thể ba ở loài này?\nA. 12\nB. 25\nC. 13\nD. 72",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong tế bào sinh dưỡng bình thường của Cà Độc Dược có 24 NST ở trạng thái chưa nhân đôi là $2 \\mathrm{n}=24$\nNếu xảy ra đột biến số lượng NST dạng thể ba thì tối đa có số dạng thể ba ở loài này $=n=12$\nChọn A"
+    },
+    {
+        "ID": "Bio_19_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Cho cá thể có kiểu gen $\\frac{A B}{a b}$ (các gen liên kết hoàn toàn) tự thụ phấn $\\mathrm{F} 1$ thu được loại kiểu gen này với tỉ lệ\nA. $50 \\%$\nB. $25 \\%$\nC. $75 \\%$\nD. $100 \\%$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{P:} \\quad \\frac{A B}{a b} \\times \\frac{A B}{a b}$\n$\\mathrm{G}: \\quad \\underline{\\mathrm{AB}}, \\underline{\\mathrm{ab}} \\times \\underline{\\mathrm{AB}}, \\underline{\\mathrm{ab}}$\nF1: $1 \\frac{A B}{A B} ; 2 \\frac{A B}{a b}: 1 \\frac{a b}{a b} \\rightarrow$ Tỷ lệ $\\frac{A B}{a b}$ là: $50 \\%$\nChọn A"
+    },
+    {
+        "ID": "Bio_19_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Một cá thể có kiểu gen $\\frac{A B}{a b} \\frac{D E}{d e}$. Nếu các cặp gen liên kết hoàn toàn trong giảm phân thì qua thụ phấn có thể tạo ra tối đa bao nhiêu loại dòng thuần ở thế hệ sau?\nA. 9\nB. 4\nC. 8\nD. 16",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Số dòng thuần tối đa được tạo ra là: $2 \\times 2=4$\nĐó là $\\frac{A B}{A B}, \\frac{a b}{a b}, \\frac{D E}{D E}, \\frac{d e}{d e}$\nChọn B"
+    },
+    {
+        "ID": "Bio_19_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Ở một loài thực vật, bộ NST lưỡng bội $2 \\mathrm{n}=16$. Quá trình nguyên phân liên tiếp 5 lần từ tế bào sinh dục sơ khai đã cần môi trường cung cấp nguyên liệu tương đương $527 \\mathrm{NST}$. Tế bào sinh dục sơ khai có bộ NST như thế nào?\nA. Tế bào có bộ NST là $2 \\mathrm{n}+1$\nB. Tế bào có bộ NST là 2 n\nC. Tế bào có bộ NST là $2 \\mathrm{n}-1$\nD. Tế bào có bộ NST là $2 n+2$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Số lượng NST trong tế bào sinh dục đó là: $527:\\left(2^{5}-1\\right)=17$\nTế bào có bộ NST là $2 \\mathrm{n}+1$\nChọn A"
+    },
+    {
+        "ID": "Bio_19_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Ỏ̉ một loài thực vật, chiều cao cây do 4 cặp gen không alen phân li độc lập, tác động cộng gộp quy định. Sự có mặt mỗi alen trội làm chiều cao tăng thêm $2 \\mathrm{~cm}$. Lai cây cao nhất có chiều cao $26 \\mathrm{~cm}$ với cây thấp nhất, sau đó cho $\\mathrm{F} 1$ giao phấn với nhau đời con thu được 6304 cây. Biết rằng không xảy ra đột biến, theo lí thuyết số cây cao $20 \\mathrm{~cm}$ ở $\\mathrm{F} 2$ là bao nhiêu?\nA. 1411\nB. 1379\nC. 659\nD. 369",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cây cao nhất là $26 \\mathrm{~cm} \\rightarrow$ Cây thấp nhất là $26-2 x 8=10 \\mathrm{~cm}$\nCây cao $20 \\mathrm{~cm}$ là cây có 5 alen trội\n$\\rightarrow$ Tỉ lệ cây cao $20 \\mathrm{~cm}$ là: $C_{8}^{5} \\times\\left(\\frac{1}{2}\\right)^{8}=\\frac{7}{32}$\n$\\rightarrow$ Số cây cao $20 \\mathrm{~cm}$ là: $\\frac{7}{32} \\times 6304=1379$ cây\nChọn B"
+    }
+]

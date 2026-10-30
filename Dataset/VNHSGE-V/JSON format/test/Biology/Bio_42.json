@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_42_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Giống dâu tằm tam bội (3n) là thành tựu của phương pháp nào sau đây?\nA. Chuyển gen.\nB. Lai xa kèm theo đa bội hóa.\nC. Nuôi cấy mô tế bào.\nD. Gây đột biến nhân tạo.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Giống dâu tằm tam bội (3n) là thành tựu của phương pháp gây đột biến nhân tạo.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Thể song nhị bội thuộc dạng đột biến nào sau đây?\nA. Lệch bội.\nB. Đột biến gen.\nC. Dị đa bội.\nD. Tự đa bội.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Thể song nhị bội thuộc dạng đột biến dị đa bội.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Nhóm nhân tố nào sau đây là nhân tố sinh thái hữu sinh?\nA. Yếu tố vật lí, xác sinh vật.\nB. Yếu tố hóa học, thực vật.\nC. Yếu tố vật lí, yếu tố hóa học.\nD. Vật ăn thịt, vật kí sinh.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Vật ăn thịt, vật kí sinh là nhân tố sinh thái hữu sinh.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Trong quá trình dịch mã, thành phần nào sau đây đóng vai trò làm khuôn tổng hợp chuỗi pôlipeptit?\nA. Ribôxôm.\nB. axít amin.\nC. tARN.\nD. $\\mathrm{mARN}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "mARN đóng vai trò làm khuôn tổng hợp chuỗi pôlipeptit.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Cá rô phi nuôi ở Việt Nam có giới hạn sinh thái về nhiệt độ từ $5,6^{\\circ} \\mathrm{C}$ đến $42^{\\circ} \\mathrm{C}$. Nhiệt độ $5,6^{\\circ} \\mathrm{C}$ gọi là\nA. Giới hạn trên.\nB. Khoảng thuận lợi.\nC. Giới hạn dưới.\nD. Khoảng chống chịu.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cá rô phi nuôi ở Việt Nam có giới hạn sinh thái về nhiệt độ từ $5,6^{\\circ} \\mathrm{C}$ đến $42^{\\circ} \\mathrm{C}$. Nhiệt độ $5,6^{\\circ} \\mathrm{C}$ gọi là giới hạn dưới.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Theo quan điểm sinh thái học, đặc trưng nào sau đây là đặc trưng của quần thể?\nA. Thành phần loài.\nB. Tỉ lệ đực/cái.\nC. Số lượng loài.\nD. Phân bố trong không gian",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ đực/cái là đặc trưng của quần thể, các phương án còn lại là đặc trưng của quần xã.\nChọn B"
+    },
+    {
+        "ID": "Bio_42_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Trong quá trình nhân đôi ADN ở vi khuẩn E. coli, loại enzim nào có vai trò tổng hợp mạch ADN mới?\nA. ADN polymeraza.\nB. $\\beta$ - Galactosidaza.\nC. Amylaza.\nD. Lipaza.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong quá trình nhân đôi $\\mathrm{ADN}$ ở vi khuẩn $\\mathrm{E}$. coli, loại enzim $\\mathrm{ADN}$ polymeraza có vai trò tổng hợp mạch $\\mathrm{ADN}$ mới.\nChọn A"
+    },
+    {
+        "ID": "Bio_42_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Ở động vật, gen nằm ở vị trí nào sau đây được coi là gen ngoài nhân?\nA. Gen trên NST giới tính $\\mathrm{X}$ không có alen trên Y.\nB. Gen trên NST giới tính Y không có alen trên X.\nC. Gen trên NST thường.\nD. Gen trong ti thể.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Gen trong ti thể được coi là gen ngoài nhân.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Trong cơ thể thực vật, nguyên tố khoáng nào sau đây được coi là nguyên tố vi lượng?\nA. Mg.\nB. P.\nC. N.\nD. Mo.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trong các nguyên tố trên thì Mo là nguyên tố vi lượng.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Đặc điểm chung của mối quan hệ hợp tác và quan hệ cộng sinh trong quần xã là\nA. tất cả các loài đều bị hại.\nB. ít nhất có một loài bị hại.\nC. cả hai loài đều có lợi.\nD. không có loài nào có lợi.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đặc điểm chung của mối quan hệ hợp tác và quan hệ cộng sinh trong quần xã là cả hai loài đều có lợi.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Đột biến cấu trúc NST gồm những dạng nào?\nA. Thể ba, thể một, thể không, thể bốn.\nB. Tam bội, tứ bội.\nC. Mất đoạn, lặp đoạn, đảo đoạn, chuyển đoạn.\nD. Mất cặp nucleotide, thêm cặp nucleotide, thay thế cặp nucleotide.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đột biến cấu trúc NST gồm những dạng: Mất đoạn, lặp đoạn, đảo đoạn, chuyển đoạn.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Cặp cơ quan nào sau đây là cơ quan tương tự?\nA. Cánh dơi và tay người.\nB. Gai xương rồng và gai hoa hồng.\nC. Gai xương rồng và tua cuốn đậu Hà Lan.\nD. Chi trước của mèo và vây trước của cá voi.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cặp cơ quan tương tự là: Gai xương rồng và gai hoa hồng.\nHai cơ quan này không cùng nguồn, gai xương rồng có nguồn gốc từ lá, gai hoa hồng có nguồn gốc biểu bì.\nCác cặp cơ quan còn lại là cơ quan tương đồng.\nChọn B"
+    },
+    {
+        "ID": "Bio_42_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Trong kĩ thuật chuyển gen, enzim nào được dùng để gắn gen cần chuyển và thể truyền để tạo ADN tái tổ hợp?\nA. ARN polymeraza.\nB. Enzim cắt giới hạn.\nC. Ligaza.\nD. ADN polymeraza.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong kĩ thuật chuyển gen, enzim ligaza được dùng để gắn gen cần chuyển và thể truyền để tạo $\\mathrm{ADN}$ tái tổ hợp.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Trong tế bào, quá trình tổng hợp ARN dựa trên mạch khuôn ADN được gọi là\nA. điều hòa hoạt động gen.\nB. dịch mã.\nC. phiên mã.\nD. nhân đôi ADN.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong tế bào, quá trình tổng hợp $\\mathrm{ARN}$ dựa trên mạch khuôn $\\mathrm{ADN}$ được gọi là phiên mã.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Theo quan điểm học thuyết tiến hóa tổng hợp hiện đại, giai đoạn hình thành nên tế bào sơ khai (protobiont) trong quá trình tiến hoá của sự sống trên Trái Đất là\nA. tiến hoá sinh học.\nB. tiến hoá tiền sinh học.\nC. tiến hoá văn hoá.\nD. tiến hoá hoá học.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo quan điểm học thuyết tiến hóa tổng hợp hiện đại, giai đoạn hình thành nên tế bào sơ khai (protobiont) trong quá trình tiến hoá của sự sống trên Trái Đất là tiến hoá tiền sinh học.\nChọn B"
+    },
+    {
+        "ID": "Bio_42_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Lừa giao phối với ngựa sinh ra con la bất thụ. Đây là ví dụ về cơ chế cách li nào sau đây?\nA. Sau hợp tử\nB. Trước hợp tử\nC. Cơ học.\nD. Tập tính",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Lừa giao phối với ngựa sinh ra con la bất thụ. Đây là ví dụ về cơ chế cách li sau hợp tử.\nChọn A"
+    },
+    {
+        "ID": "Bio_42_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Một loài thực vật có $2 n=24$. Theo lí thuyết, bộ NST của cơ thể bị đột biến thể ba (2n +1) ở loài này gồm bao nhiêu chiếc?\nA. 25.\nB. 26.\nC. 22 .\nD. 24 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$2 \\mathrm{n}=24 \\rightarrow 2 \\mathrm{n}+1=25$ NST .\nChọn A"
+    },
+    {
+        "ID": "Bio_42_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Động vật nào sau đây có hệ tuần hoàn đơn?\nA. Cá sấu.\nB. Cóc.\nC. Chim bồ câu.\nD. Cá rô phi.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cá rô phi hô hấp bằng mang, có hệ tuần hoàn đơn.\nCác loài còn lại có hệ tuần hoàn kép.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Một quần thể có cấu trúc di truyền như sau: $0,2 \\mathrm{~A}_{1} \\mathrm{~A}_{1}: 0,2 \\mathrm{~A}_{1} \\mathrm{~A}_{2}: 0,1 \\mathrm{~A}_{1} \\mathrm{~A}_{3}: 0,1 \\mathrm{~A}_{2} \\mathrm{~A}_{2}$ : $0,2 \\mathrm{~A}_{2} \\mathrm{~A}_{3}: 0,2 \\mathrm{~A}_{3} \\mathrm{~A}_{3}$. Tần số alen $\\mathrm{A}_{1}$ trong quần thể là\nA. 0,20 .\nB. 0,35 .\nC. 0,30 .\nD. 0,10 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Quần thể có cấu trúc di truyền: $0,2 \\mathrm{~A}_{1} \\mathrm{~A}_{1}: 0,2 \\mathrm{~A}_{1} \\mathrm{~A}_{2}: 0,1 \\mathrm{~A}_{1} \\mathrm{~A}_{3}: 0,1 \\mathrm{~A}_{2} \\mathrm{~A}_{2}: 0,2 \\mathrm{~A}_{2} \\mathrm{~A}_{3}: 0,2 \\mathrm{~A}_{3} \\mathrm{~A}_{3}$.\n$\\rightarrow$ Tần số alen $A_{1}=0,2\\left(A_{1} A_{1}\\right)+\\frac{0,2\\left(A_{1} A_{2}\\right)}{2}+\\frac{0,1\\left(A_{1} A_{3}\\right)}{2}=0,35$\nChọn B"
+    },
+    {
+        "ID": "Bio_42_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Việc sử dụng ong kí sinh diệt loài bọ dừa là ứng dụng của hiện tượng nào sau đây?\nA. Cân bằng quần thể.\nB. Cân bằng sinh học.\nC. Khống chế sinh học.\nD. Cạnh tranh cùng loài.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Việc sử dụng ong kí sinh diệt loài bọ dừa là ứng dụng của hiện tượng khống chế sinh học.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Các cặp gen $\\mathrm{Aa}, \\mathrm{Bb}, \\mathrm{Cc}$, Dd thuộc cùng một nhóm gen liên kết. Cách viết kiểu gen nào sau đây là đúng?\nA. $\\frac{A B C D}{a b c d}$.\nB. $\\frac{A B C}{a b c} D d$.\nC. $\\frac{A B}{a b} C c D d$.\nD. $\\frac{A a B b}{C c D d}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Các cặp gen $A a, B b, C c, D d$ thuộc cùng một nhóm gen liên kết $\\rightarrow$ cách viết đúng là $\\frac{A B C D}{a b c d}$.\nChọn A"
+    },
+    {
+        "ID": "Bio_42_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Trong một khu vườn trồng cỏ có diện tích $20 \\mathrm{~m}^{2}$, quần thể của loài $\\mathrm{X}$ có mật độ 2 cá thể $/ 1 \\mathrm{~m}^{2}$.\nKích thước của quần thể $\\mathrm{X}$ này là\nA. 20 cá thể.\nB. 400 cá thể.\nC. 40 cá thể.\nD. 10 cá thể.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong một khu vườn trồng cỏ có diện tích $20 \\mathrm{~m}^{2}$, quần thể của loài $\\mathrm{X}$ có mật độ 2 cá thể $/ 1 \\mathrm{~m}^{2}$.\nKích thước của quần thể $X$ này là $2 \\times 20=40$ cá thể.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Ở người, gen lặn a nằm trên NST giới tính X không có alen trên Y, gây bệnh mù màu. Alen $\\mathrm{A}$ quy định không bị bệnh này. Trong một gia đình, người bố không bị mù màu, người mẹ bị mù màu, theo lí thuyết, khi nói về kiểu hình ở đời con, dự đoán nào sau đây đúng?\nA. Tất cả con trai đều bị mù màu, tất cả con gái đều không bị mù màu.\nB. $50 \\%$ số con trai và $50 \\%$ số con gái bị mù màu.\nC. Tất cả con gái đều bị mù màu, tất cả con trai đều không bị mù màu.\nD. Con trai có thể bị mù màu hoặc không, con gái thì không bị mù màu.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Bố bình thường $\\times$ mẹ bị bệnh: $\\mathrm{X}^{\\mathrm{A}} \\mathrm{Y} \\times \\mathrm{X}^{\\mathrm{a}} \\mathrm{X}^{\\mathrm{a}} \\rightarrow \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}: \\mathrm{X}^{\\mathrm{a}} \\mathrm{Y}$\n$\\rightarrow$ Tất cả con trai đều bị mù màu, tất cả con gái đều không bị mù màu.\nChọn A"
+    },
+    {
+        "ID": "Bio_42_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Theo thuyết tiến hóa tổng hợp hiện đại, nhân tố tiến hóa nào sau đây làm thay đổi tần số alen chậm hơn so với những nhân tố còn lại?\nA. Chọn lọc tự nhiên.\nB. Các yếu tố ngẫu nhiên.\nC. Đột biến.\nD. Di - nhập gen.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đột biến làm thay đổi tần số alen rất chậm, chậm hơn so với các nhân tố khác.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Bộ ba mã hóa trên mARN có trình tự là 5'AGG3'. Theo lí thuyết, bộ ba đối mã tương ứng trên tARN có trình tự là\nA. 3'XXT5'.\nB. $5^{\\prime}$ XXT3'.\nC. 3'XXU5'.\nD. 5'XXU3'.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Bộ ba mã hóa trên mARN: 5'AGG3'\nBộ ba đối mã trên tARN: 3'UXX5' hay 5'XXU3'.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Ở người, khi áp suất thẩm thấu của máu tăng cao, loại hoocmôn nào sau đây được tiết ra nhiều làm tăng tốc độ tái hấp thu nước ở ống thận, góp phần cân bằng áp suất thẩm thấu máu?\nA. Testosterone.\nB. ADH.\nC. Glucagôn.\nD. Insulin.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ở người, khi áp suất thẩm thấu của máu tăng cao, hormone ADH được tiết ra nhiều làm tăng tốc độ tái hấp thu nước ở ống thận, góp phần cân bằng áp suất thẩm thấu máu.\nChọn B"
+    },
+    {
+        "ID": "Bio_42_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Khi nói về quang hợp ở thực vật, phát biểu nào sau đây sai?\nA. Quang hợp thải ra khí $\\mathrm{O}_{2}$.\nB. Nguyên liệu của quang hợp là $\\mathrm{CO}_{2}$ và $\\mathrm{H}_{2} \\mathrm{O}$.\nC. Quang hợp gồm 2 pha là pha sáng và pha tối.\nD. Thực vật là nhóm sinh vật duy nhất có khả năng quang hợp.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai về quang hợp là $\\mathrm{D}$, các sinh vật có chất diệp lục trong tế bào có thể quang hợp.\nChọn D"
+    },
+    {
+        "ID": "Bio_42_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Hoạt động nào sau đây không phải là nguyên nhân gây hiệu ứng nhà kính?\nA. Khai thác quá mức, chặt phá rừng bừa bãi.\nB. Trồng rừng, phủ xanh đất trống đồi trọc.\nC. Phát triển mạnh mẽ của sản xuất công nghiệp.\nD. Tăng cuờng sử dụng các nhiên liệu hoá thạch.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trồng rừng, phủ xanh đất trống đồi trọc không phải là nguyên nhân gây hiệu ứng nhà kính vì cây xanh giúp cân bằng lượng $\\mathrm{CO}_{2}, \\mathrm{O}_{2}$ trong khí quyển.\nChọn B"
+    },
+    {
+        "ID": "Bio_42_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Một lưới thức ăn đơn giản được mô tả như sau: cào cào, thỏ và nai ăn thực vật; chim sâu ăn cào cào; báo ăn thỏ và nai; mèo rừng ăn thỏ và chim sâu. Trong lưới thức ăn này, sinh vật sau đây thuộc bậc dinh dưỡng cấp 1 là\nA. mèo rừng.\nB. thỏ.\nC. thực vật.\nD. chim sâu.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong lưới thức ăn trên thì thực vật là sinh vật sản xuất thuộc bậc dinh dưỡng cấp 1 .\nChọn C"
+    },
+    {
+        "ID": "Bio_42_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Ở một loài lưỡng bội, xét một gen nằm trên NST thường có 5 alen. Theo lý thuyết, một cơ thể bình thường có thể có tối đa bao nhiêu loại alen của gen này?\nA. 2 .\nB. 10 .\nC. 5 .\nD. 15 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Quần thể có 5 alen nhưng trong 1 cơ thể lưỡng bội có tối đa 2 alen của gen đó.\nChọn A"
+    },
+    {
+        "ID": "Bio_42_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Trong trường hợp mỗi gen quy định một tính trạng, alen trội lấn át hoàn toàn alen lặn, các gen phân li độc lập, quá trình giảm phân xảy ra bình thường, theo lí thuyết, phép lai $\\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBb}$ sẽ cho đời con có tỉ lệ kiểu hình là:\nA. $9: 3: 3: 1$.\nB. $3: 3: 1: 1$.\nC. $1: 1: 1: 1$.\nD. $2: 2: 1: 1$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBb} \\rightarrow(1 \\mathrm{AA}: 2 \\mathrm{Aa}: 1 \\mathrm{aa})(1 \\mathrm{BB}: 2 \\mathrm{Bb}: 1 \\mathrm{bb})$\n$\\rightarrow$ KH: 9A-B-:3A-bb:3aaB-:1aabb.\nChọn A"
+    },
+    {
+        "ID": "Bio_42_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Xét chuỗi thức ăn sau:\n$$\n\\text { Cỏ } \\rightarrow \\text { sâu } \\rightarrow \\text { chim ăn sâu } \\rightarrow \\text { rắn } \\rightarrow \\text { đại bàng. }\n$$\nGiả sử năng lượng đồng hóa của các loài lần lượt là: cỏ ( $\\left.36.10^{6} \\mathrm{kcal}\\right)$, sâu $\\left(55.10^{5} \\mathrm{kcal}\\right)$, chim ăn sâu $\\left(6,7.10^{5} \\mathrm{kcal}\\right)$, rắn $\\left(7,5.10^{4} \\mathrm{kcal}\\right)$, đại bàng $\\left(7,2 \\cdot 10^{3} \\mathrm{kcal}\\right)$. Hiệu suất sinh thái của bậc dinh dưỡng nào thấp nhât?\nA. Bậc 2 .\nB. Bậc 3\nC. Bậc 5\nD. Bậc 4",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|l|l|l|l|}\n\\hline\nLoài & Bậc dinh dưỡng & Năng lượng & Hiệu suất sinh thái \\\\\n\\hline\nCỏ & 1 & $36.10^{6} \\mathrm{kcal}$ &  \\\\\n\\hline\nSâu & 2 & $55.10^{5} \\mathrm{kcal}$ & $\\frac{55.10^{5}}{36.10^{6}} \\times 100 \\%=15,28 \\%$ \\\\\n\\hline\nChim ăn sâu & 3 & $6,7.10^{5} \\mathrm{kcal}$ & $\\frac{6,7.10^{5}}{55.10^{5}} \\times 100 \\%=12,18 \\%$ \\\\\n\\hline\nRắn & 4 & $7,5.10^{4} \\mathrm{kcal}$ & $\\frac{7,5.10^{4}}{6,7.10^{5}} \\times 100 \\%=11,19 \\%$ \\\\\n\\hline\nĐại bàng & 5 & $7,2.10^{3} \\mathrm{kcal}$ & $\\frac{7,2.10^{3}}{7,5.10^{4}} \\times 100 \\%=9,6 \\%$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nVậy hiệu suất sinh thái của bậc dinh dưỡng cấp 5 là thấp nhất.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Theo quan điểm sinh thái học, có bao nhiêu phát biểu sau đây là đúng?\nI. Trong một chuỗi thức ăn, vật ăn thịt và con mồi không thuộc cùng một bậc dinh dưỡng.\nII. Trong lưới thức ăn, mỗi loài ăn thịt chỉ thuộc một bậc dinh dưỡng nhất định.\nIII. Theo thời gian, con mồi sẽ dần bị vật ăn thịt tiêu diệt hoàn toàn.\nIV. Mỗi loài vật ăn thịt chỉ sử dụng một loại con mồi làm thức ăn.\nA. 1 .\nB. 2.\nC. 3 .\nD. 4 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\section{I đúng.}\nII sai, trong 1 lưới thức ăn thì nhiều loài ăn thịt có thể thuộc 1 hoặc nhiều bậc dinh dưỡng.\nIII sai, số lượng con mồi và vật ăn thịt chi phối nhau, con mồi sẽ không bị vật ăn thịt tiêu diệt hoàn toàn.\nIV sai, mỗi loài vật ăn thịt có thể dùng nhiều loài khác làm thức ăn. VD: Hổ ăn hươu, nai,...\nChọn A"
+    },
+    {
+        "ID": "Bio_42_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Ở người, xét cặp alen $\\mathrm{A}$ và a nằm trên NST số 21. Trong một gia đình, người bố có kiểu gen Aa, người mẹ có kiểu gen AA sinh được một đứa con mắc hội chứng Đao (có 3 NST số 21). Giả sử không xảy ra đột biến gen, theo lý thuyết, phát biểu nào sau đây sai?\nA. Đột biến ở người con là đột biến thể ba nhiễm $(2 n+1)$.\nB. Nguyên nhân gây bệnh Đao ở con là từ mẹ.\nC. Bộ NST của người con có 47 chiếc.\nD. Người con có thể có kiểu gen AAa.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai là $\\mathrm{B}$, không thể kết luận nguyên nhân gây bệnh Đao ở con là từ mẹ.\nCó thể do rối loạn trong phân li NST khi hình thành tinh trùng ở bố.\nChọn B"
+    },
+    {
+        "ID": "Bio_42_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Xét 4 quần thể của cùng một loài sống ở 4 hồ tự nhiên. Tỉ lệ \\% cá thể của mỗi nhóm tuổi ở mỗi quần thể như sau:\n\\begin{center}\n\\begin{tabular}{|cc|c|c|}\n\\hline\n$\\begin{array}{l}\\text { Quần } \\\\ \\text { thể }\\end{array}$ & $\\begin{array}{l}\\text { Tuổi trước } \\\\ \\text { sinh sàn }\\end{array}$ & $\\begin{array}{l}\\text { Tuổi sinh } \\\\ \\text { sàn }\\end{array}$ & $\\begin{array}{l}\\text { Tuổi sau } \\\\ \\text { sinh sàn }\\end{array}$ \\\\\n\\hline\nSố 1 & $40 \\%$ & $40 \\%$ & $20 \\%$ \\\\\nSố 2 & $65 \\%$ & $25 \\%$ & $10 \\%$ \\\\\n\\hline\nSố 3 & $16 \\%$ & $39 \\%$ & $45 \\%$ \\\\\n\\hline\nSố 4 & $25 \\%$ & $50 \\%$ & $25 \\%$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCho rằng không có sự đánh bắt của con người và không có di cư, nhập cur. Theo suy luận lí thuyết, phát biểu nào sau đây đúng?\nA. Quần thể số 1 thuộc dạng quần thể suy thoái.\nB. Quần thể số 3 có mật độ cá thể đang tăng lên.\nC. Quần thể số 4 thuộc dạng quần thể ổn định.\nD. Quần thể số 2 có kích thước đang tăng lên.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\n$\\begin{array}{l}\\text { Quần } \\\\ \\text { thể }\\end{array}$ & $\\begin{array}{l}\\text { Tuổi trước } \\\\ \\text { sinh sản }\\end{array}$ & $\\begin{array}{l}\\text { Tuổi sinh } \\\\ \\text { sản }\\end{array}$ & $\\begin{array}{l}\\text { Tuổi sau } \\\\ \\text { sinh sản }\\end{array}$ & Kết luận \\\\\n\\hline\nSố 1 & $40 \\%$ & $40 \\%$ & $20 \\%$ & Ôn định \\\\\n\\hline\nSố 2 & $65 \\%$ & $25 \\%$ & $10 \\%$ & Phát triển \\\\\n\\hline\nSố 3 & $16 \\%$ & $39 \\%$ & $45 \\%$ & Suy thoái \\\\\n\\hline\nSố 4 & $25 \\%$ & $50 \\%$ & $25 \\%$ & Suy thoái \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nA sai, quần thể 1 thuộc dạng quần thể ổn định.\nB sai, quần thể 3 có số lượng cá thể giảm $\\rightarrow$ mật độ giảm.\nC sai, quần thể 1 thuộc dạng quần thể suy thoái.\nD đúng.\nChọn D."
+    },
+    {
+        "ID": "Bio_42_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Ở ruồi giấm, gen B quy định thân xám, alen b quy định thân đen; gen V quy định cánh dài, alen v quy định cánh ngắn. Các gen nằm trên NST thường. Cho lai giữa dòng thuần chủng thân xám, cánh dài với dòng thuần chủng thân đen, cánh ngắn, $\\mathrm{F}_{1}$ thu được $100 \\%$ cá thể thân xám, cánh dài. Cho các cá thể $F_{1}$ giao phối ngẫu nhiên với nhau, $F_{2}$ thu được tỉ lệ: $70 \\%$ thân xám, cánh dài : $5 \\%$ thân xám, cánh ngắn : $5 \\%$ thân đen, cánh dài : $20 \\%$ thân đen, cánh ngắn. Biết rằng hoán vị gen (nếu có) thì chỉ xảy ra ở giới cái. Theo lý thuyết, phát biểu nào sau đây sai?\nA. Các cá thể $\\mathrm{F}_{1}$ có kiểu gen $\\frac{B V}{b v}$.\nB. Đã xảy ra hoán vị gen với tần số $20 \\%$.\nC. Ở $\\mathrm{F}_{2}$, tỉ lệ kiểu gen dị hợp về 2 gen là $20 \\%$.\nD. Thân xám, cánh dài là các tính trạng trội.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Xét tỉ lệ từng tính trạng ở $\\mathrm{F}_{2}$ :\n\\end{itemize}\nThân xám : Thân đen =3: $1 \\rightarrow$ Thân xám là tính trạng trội.\nCánh dài : Cánh ngắn $=3: 1 \\rightarrow$ Cánh dài là tính trạng trội.\nP: $\\frac{B V}{B V} \\times \\frac{b v}{b v} \\rightarrow F_{1}: \\frac{B V}{b v} \\times \\frac{B V}{b v}$\n$F_{2}: \\frac{b v}{b v}=20 \\%=\\frac{1-f}{2} b v \\times 0,5 b v \\rightarrow f=20 \\%$\nXét các phát biểu:\nA đúng, B đúng.\nC sai, tỉ lệ kiểu gen dị hợp về 2 cặp gen: $\\frac{B V}{b v}=2 \\times 0,5 \\times 0,4=0,4$\nD đúng, vì $\\mathrm{F}_{1}$ đồng hình thân xám, cánh dài.\nChọn C."
+    },
+    {
+        "ID": "Bio_42_37",
+        "Image_Question": "Bio_42/Bio_42_37.jpeg",
+        "Question": "Câu 37:  Phả hệ dưới đây mô tả sự di truyền của bệnh bạch tạng, do một trong hai alen của một gen gen nằm trên NST thường quy định. Cho rằng không phát sinh đột biến mới trong phả hệ.\nTheo lý thuyết, phát biểu nào sau đây sai?\nA. Xác suất cá thể 6 và 7 có kiểu gen giống nhau là $1 / 3$.\nB. Đã xác định được kiểu gen của 10 cá thể trong phả hệ.\nC. Bệnh do gen lặn quy định.\nD. Các cá thể $1,8,10,14$ có kiểu gen giống nhau.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Bố mẹ 3,4 bình thường sinh con 8 bị bệnh $\\rightarrow$ bệnh do gen lặn quy định.\n\\begin{itemize}\n\\item Quy ước A: Không bị bạch tạng, a: Bị bạch tạng $\\rightarrow$ Tất cả các cá thể bị bệnh đều có kiểu gen aa.\n\\end{itemize}\nXét các phát biểu:\nA sai.\nKiểu gen của 6 là Aa; 3 và 4 có kiểu gen $\\mathrm{Aa} \\rightarrow$ Xác suất kiểu gen của 7: 1/3AA :2/3Aa\n$\\rightarrow$ Xác suất cá thể 6 và 7 có kiểu gen giống nhau (đều là $\\mathrm{Aa}$ ) là $2 / 3$.\n\\section{B đúng.}\n\\begin{itemize}\n\\item Các cá thể đã xác định được kiểu gen gồm:\n\\end{itemize}\n\\begin{itemize}\n\\item Cá thể: $1,8,10,14$ có kiểu gen aa\n\\item Các cá thể: 3, 4, 5, 6, 9, 13 đều có kiểu gen Aa do có bố hoặc mẹ hoặc con bị bệnh.\n\\end{itemize}\n$\\rightarrow$ Đã xác định được kiểu gen của 10 cá thể trong phả hệ.\nC đúng.\nD đúng. Các cá thể 1, 8, 10, 14 có kiểu gen giống nhau, đều là aa.\nChọn A."
+    },
+    {
+        "ID": "Bio_42_38",
+        "Image_Question": "Bio_42/Bio_42_38.jpeg",
+        "Question": "Câu 38:  Trong một khu rừng nhiệt đới, một đám cháy nhỏ đã làm chết các cây thân gỗ, tạo ra một khoảng trống có diện tích khoảng $100 \\mathrm{~m}^{2}$. Các nhà khoa học đã khoanh vùng khu vực này không cho động vật xâm nhập và tiến hành nghiên cứu sự thay đổi số lượng loài thực vật trong khu vực theo thời gian, bắt đầu từ sau khi kết thúc cháy rừng. Kết quả nghiên cứu được mô tả trong đồ thị sau:\nHãy cho biết có bao nhiêu phát biểu sau đây đúng?\nI. Số lượng loài thực vật tăng dần theo thời gian nghiên cứu.\nII. Ở giai đoạn 1, ổ sinh thái của các loài thực vật có xu hướng hẹp dần.\nIII. Ở giai đoạn 2, mức độ cạnh tranh giữa các loài ngày càng gay gắt.\nIV. Ở giai đoạn 3 , một vài loài thực vật phát triển quá mạnh làm ức chế sự phát triển của loài khác.\nA. 2 .\nB. 1 .\nC. 3 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I. Sai. Vì từ giai đoạn 1 đến giai đoạn 2, số lượng loài thực vật tăng, nhưng giai đoạn 3 số lượng loài thực vật giảm dần.\nII. Đúng. Vì trong giai đoạn 1, số lượng loài tăng nên ổ sinh thái của các loài thực vật có xu hướng hẹp dần.\nIII. Đúng. Vì trong giai đoạn 2, số lượng loài tăng lên đạt cực đại nên mức độ cạnh tranh giữa các loài ngày càng gay gắt.\nIV. Đúng. Ở giai đoạn 3, số lượng loài thực vật giảm dần, không phải do động vật xâm lấn, do vậy nguyên nhân một vài loài thực vật phát triển quá mạnh làm ức chế sự phát triển của loài khác.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_39",
+        "Image_Question": "Bio_42/Bio_42_39.jpeg",
+        "Question": "Câu 39:  Sự hình thành sắc tố cánh hoa ở một loài thực vật được mô tả trong sơ đồ sinh hóa sau đây:\nPrôtêin $\\mathrm{A}$ ức chế sự biến đổi sắc tố vàng thành sắc tố đỏ. Prôtêin $\\mathrm{B}$ ức chế hoạt động của prôtêin $\\mathrm{A}$. Các gen $\\mathrm{A}$ và $\\mathrm{B}$ nằm trên các NST khác nhau, các alen lặn $\\mathrm{a}$ và $\\mathrm{b}$ đều không tổng hợp được prôtềin.\nCho các cá thể (P) có kiểu gen $\\mathrm{AaBb}$ tự thụ phấn thu được $\\mathrm{F}_{1}$. Theo lý thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Có 5 kiểu gen khác nhau quy định kiểu hình hoa đỏ.\nII. Các cá thể $\\mathrm{P}$ có kiểu hình hoa đỏ.\nIII. Cây hoa vàng có kiểu gen chứa ít nhất 1 alen $\\mathrm{A}$.\nIV. F1 có tỉ lệ kiểu hình là 9 hoa đỏ : 7 hoa vàng\nA. 4.\nB. 1.\nC. 2 .\nD. 3 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Từ sơ đồ sinh hóa ta có kiểu gen quy định các kiểu hình như sau:\nA-B-, aa -- : Hoa đỏ; A- bb: Hoa vàng.\n$\\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBb} \\rightarrow(1 \\mathrm{AA}: 2 \\mathrm{Aa}: 1 \\mathrm{aa})(1 \\mathrm{BB}: 2 \\mathrm{Bb}: 1 \\mathrm{bb})$\nXét các phát biểu\nI sai. Số kiểu gen quy định hoa đỏ là $2(\\mathrm{~A}-) \\times 2(\\mathrm{~B}-)+3 \\mathrm{aa}(\\mathrm{BB}, \\mathrm{Bb}, \\mathrm{bb})=7$ kiểu gen.\nII đúng. Các cá thể $\\mathrm{P}$ có kiểu gen $\\mathrm{AaBb}$ cho kiểu hình hoa đỏ.\nIII đúng. Các cá thể hoa vàng có kiểu gen $\\mathrm{A}-\\mathrm{bb} \\rightarrow$ chứa ít nhất một alen $\\mathrm{A}$.\nIV sai. $F_{1}$ có tỉ lệ kiểu gen: $9 \\mathrm{~A}-\\mathrm{B}-: 3 \\mathrm{~A}-\\mathrm{bb}: 3 a \\mathrm{~B}-: 1$ aabb $\\rightarrow$ tỉ lệ kiểu hình là 13 hoa đỏ : 3 hoa vàng.\nCó 2 phát biểu đúng.\nChọn C"
+    },
+    {
+        "ID": "Bio_42_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Bảng 1 mô tả hàm lượng mARN và prôtềin tương đối của gen $\\mathrm{Z}$ thuộc operon Lac ở các chủng vi khuẩn $\\mathrm{E}$. coli trong môi trường có hoặc không có Lactôzơ. Biết rằng chủng 1 là chủng bình thường, các chủng 2, 3, 4 là các chủng đột biến phát sinh từ chủng 1, mỗi chủng bị đột biến ở một vị trí duy nhất trong operon Lac.\nBảng 1\n\\begin{center}\n\\begin{tabular}{|l|c|c|c|c|}\n\\hline\n& \\multicolumn{2}{|c|}{Có Lactôzo} & \\multicolumn{2}{c|}{Không có Lactôzơ} \\\\\n\\hline\n& Lượng mRNA & Lượng protein & Lượng mRNA & Lượng protein \\\\\n\\hline\nChủng 1 & $100 \\%$ & $100 \\%$ & $0 \\%$ & $0 \\%$ \\\\\n\\hline\nChủng 2 & $100 \\%$ & $0 \\%$ & $0 \\%$ & $0 \\%$ \\\\\n\\hline\nChủng 3 & $0 \\%$ & $0 \\%$ & $0 \\%$ & $0 \\%$ \\\\\n\\hline\nChủng 4 & $100 \\%$ & $100 \\%$ & $100 \\%$ & $100 \\%$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nKhi nói về các chủng 2, 3, 4, có bao nhiêu phát biểu sau đây đúng?\nI. Chủng 2 bị đột biến ở vùng P hoặc vùng O. II. Chủng 3 có thể bị đột biến hỏng vùng P.\nIII. Chủng 4 có thể bị đột biến mất vùng $\\mathrm{O}$.\nIV. Đột biến mất cặp nucleotide ở gen điều hòa R sẽ tạo ra kiểu hình giống như chủng 2.\nA. 2 .\nB. 1.\nC. 4 .\nD. 3 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Có 2 phát biểu đúng, đó là phát biểu II và III.\nI. Sai. Trong điều kiện có Lactôzơ, chủng 2 vẫn tổng hợp được mARN nhưng không tổng hợp được prôtêin\n$\\rightarrow$ Đột biến xảy ra ở các gen cấu trúc, không thể xảy ra ở vùng $\\mathrm{P}$ hoặc vùng $\\mathrm{O}$.\nII. Đúng. Chủng 3 không tổng hợp được mARN ngay cả khi có Lactôzơ và không có Lactôzơ $\\rightarrow$ nhiều khả năng chủng này bị đột biến hỏng vùng $\\mathrm{P}, \\mathrm{ARN}$ polymeraza không bám vào được vùng $\\mathrm{P}$ nên không thể phiên mã được.\nIII. Đúng. Chủng 4 có thể tổng hợp mARN ngay cả khi không có Lactôzơ $\\rightarrow$ có thể đã bị đột biến mất vùng $\\mathrm{O}$, làm cho tế bào mất khả năng ức chế phiên mã.\nChọn A"
+    }
+]

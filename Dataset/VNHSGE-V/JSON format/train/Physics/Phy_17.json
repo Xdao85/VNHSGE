@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Phy_17_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Máy biến áp là thiết bị cho phép\nA. biến đổi điện áp của dòng điện không đổi.\nB. biến đổi điện áp của dòng điện xoay chiều.\nC. biến đổi điện áp và tần số của dòng điện xoay chiều.\nD. biến đổi tần số của dòng điện xoay chiều.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Máy biến áp là thiết bị biến đổi điện áp xoay chiều và không làm thay đổi tần số của dòng điện.\nChọn B"
+    },
+    {
+        "ID": "Phy_17_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Một con lắc đơn có chiều dài dây treo là $l$, dao động điều hòa tại vị trí có gia tốc trọng trường là $\\mathrm{g}$ thì tần số dao động của con lắc được tính theo công thức\nA. $f=\\frac{1}{2 \\pi} \\sqrt{\\frac{g}{l}}$.\nB. $f=\\frac{1}{2 \\pi} \\sqrt{\\frac{l}{g}}$.\nC. $f=2 \\pi \\sqrt{\\frac{g}{l}}$.\nD. $f=2 \\pi \\sqrt{\\frac{l}{g}}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tần số dao động của con lắc là: $f=\\frac{1}{2 \\pi} \\sqrt{\\frac{g}{l}}$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Khi dòng điện xoay chiều có tần số góc $\\omega$ chạy qua cuộn cảm thuần có độ tự cảm L thì cảm kháng của cuộn cảm được tính theo công thức\nA. $Z_{L}=\\omega L$.\nB. $Z_{L}=\\frac{1}{\\omega L}$.\nC. $Z_{L}=\\sqrt{\\omega L}$.\nD. $Z_{L}=\\frac{\\omega}{\\sqrt{L}}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Cảm kháng của cuộn cảm được tính theo công thức: $Z_{L}=\\omega L$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Đặt vào hai đầu điện trở thuần $R=50(\\Omega)$ điện áp xoay chiều có biểu thức $u=U_{0} \\cos (100 \\pi t)(V)$ thì pha ban đầu của dòng điện chạy qua điện trở có giá trị là\nA. $0 \\mathrm{rad}$.\nB. $\\frac{\\pi}{2} \\mathrm{rad}$.\nC. $\\frac{\\pi}{4} \\mathrm{rad}$.\nD. $\\pi \\mathrm{rad}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đoạn mạch chỉ chứa $\\mathrm{R}$ thì u đồng pha $\\mathrm{i}$.\nTừ phương trình ta thấy: $\\varphi_{u}=0 \\Rightarrow \\varphi_{i}=0$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Một vật dao động điều hòa theo phương trình $x=4 \\cos (2 \\pi t+\\pi)(\\mathrm{cm})$ thì pha ban đầu của dao động là\nA. $\\pi \\mathrm{rad}$.\nB. $2 \\pi \\mathrm{trad}$.\nC. $2 \\pi \\mathrm{rad}$.\nD. $(2 \\pi t+\\pi) \\mathrm{rad}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Pha ban đầu của dao động trên là: $\\varphi=\\pi(\\mathrm{rad})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Lực điện trường tương tác giữa hai điện tích điểm đứng yên trong chân không có độ lớn\nA. tỉ lệ thuận với bình phương khoảng cách giữa hai điện tích điểm.\nB. tỉ lệ nghịch với tích độ lớn hai điện tích điểm.\nC. tỉ lệ thuận với tích độ lớn hai điện tích điểm.\nD. tỉ lệ nghịch với khoảng cách giữa hai điện tích điểm.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Lực tương tác giữa hai điện tích là:\n$$\nF=\\frac{k\\left|q_{1} q_{2}\\right|}{r^{2}} \\Rightarrow\\left\\{\\begin{array}{l}\nF \\sim\\left|q_{1} q_{2}\\right| \\\\\nF \\sim \\frac{1}{r^{2}}\n\\end{array}\\right.\n$$\nLực điện trường tương tác giữa hai điện tích tỉ lệ thuận với tích độ lớn hai điện tích điểm và tỉ lệ nghịch với bình phương khoảng cách giữa hai điện tích điểm.\nChọn C"
+    },
+    {
+        "ID": "Phy_17_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Trong thí nghiệm giao thoa sóng trên mặt nước của hai nguồn kết hợp cùng pha, tập hợp những điểm dao động với biên độ cực tiểu lập thành những đường\nA. thẳng.\nB. hypebol.\nC. cong bất kì.\nD. parabol.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong thí nghiệm giao thoa sóng sẽ tạo ra những điểm cực đại và cực tiểu. Quỹ tích các điểm dao động với biên độ cực đại hoặc các điểm dao động với biên độ cực tiểu tạo thành một họ các đường hypebol với tiêu điểm là 2 nguồn $S_{1}$ và $S_{2}$\nChọn B"
+    },
+    {
+        "ID": "Phy_17_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Đoạn mạch điện xoay chiều có điện áp tức thời và điện áp hiệu dụng hai đầu đoạn mạch lần lượt là $\\mathrm{u}$ và $\\mathrm{U}$, có cường độ dòng điện tức thời và cường độ dòng điện hiệu dụng lần lượt là $\\mathrm{i}$ và $\\mathrm{I}$ có độ lệch pha giữa cường độ dòng điện tức thời và điện áp tức thời hai đầu đoạn mạch là $\\varphi$. Biết điện trở của đoạn mạch là R. Công suất tiêu thụ của đoạn mạch được tính theo công thức\nA. $P=U I \\cdot \\cos \\varphi$.\nB. $P=u i \\cos \\varphi$.\nC. $P=U I$.\nD. $P=I R^{2}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Công suất tiêu thụ của đoạn mạch được tính theo công thức: $P=U I \\cdot \\cos \\varphi$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Dao động tắt dần là dao động có\nA. biên độ giảm dần theo thời gian.\nB. thế năng giảm dần theo thời gian.\nC. li độ giảm dần theo thời gian.\nD. động năng giảm dần theo thời gian.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Dao động tắt dần là dao động có biên độ giảm dần theo thời gian.\nChọn A"
+    },
+    {
+        "ID": "Phy_17_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Khi nói về véctơ quay trong dao động điều hòa, phát biểu nào sau đây không đúng?\nA. Véctơ quay quay ngược chiều kim đồng hồ với tốc độ góc bằng tần số góc của dao động.\nB. Véctơ quay luôn hợp với trục $\\mathrm{Ox}$ một góc bằng pha ban đầu của dao động.\nC. Véctơ quay luôn hợp với trục Ox một góc bằng pha dao động.\nD. Véctơ quay có độ dài tỉ lệ với biên độ của dao động.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Véctơ quay luôn hợp với trục $\\mathrm{Ox}$ một góc bằng pha dao động $\\rightarrow \\mathrm{B}$ sai\nChọn B"
+    },
+    {
+        "ID": "Phy_17_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Bước sóng là\nA. khoảng cách giữa hai điểm gần nhau nhất trên cùng một phương truyền sóng dao động vuông pha.\nB. khoảng cách giữa hai điểm gần nhau nhất trên cùng một phương truyền sóng dao động cùng pha.\nC. khoảng cách giữa hai điểm gần nhau nhất trên cùng một phương truyền sóng dao động ngược pha.\nD. khoảng cách giữa hai điểm gần nhau nhất dao động cùng pha.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Bước sóng là khoảng cách giữa hai điểm gần nhau nhất trên cùng một phương truyền sóng mà dao động tại hai điểm đó cùng pha.\nChọn B"
+    },
+    {
+        "ID": "Phy_17_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Trong đoạn mạch điện xoay chiều R, L, C nối tiếp, gọi u là điện áp tức thời và U là điện áp hiệu dụng hai đầu đoạn mạch. Gọi $U_{R}, U_{L}, U_{C}, u_{R}, u_{L}, u_{C}$ lần lượt là điện áp hiệu dụng và điện áp tức thời hai đầu các phần tử $\\mathrm{R}, \\mathrm{L}, \\mathrm{C}$. Biểu thức đúng là\nA. $u=\\sqrt{u_{R}^{2}+\\left(u_{L}-u_{C}\\right)^{2}}$.\nB. $U=U_{R}+U_{L}+U_{C}$.\nC. $u=u_{R}+u_{L}+u_{C}$.\nD. $U=\\sqrt{U_{R}^{2}+U_{L}^{2}+U_{C}^{2}}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Các biểu thức đúng là: $\\left\\{\\begin{array}{l}u=u_{R}+u_{L}+u_{C} \\\\ U^{2}=U_{R}^{2}+\\left(U_{L}-U_{C}\\right)^{2}\\end{array}\\right.$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Hạ âm là sóng âm có tần số\nA. từ $16 \\mathrm{~Hz}$ đến $20 \\mathrm{kHz}$.\nB. nhỏ hơn $16 \\mathrm{~Hz}$.\nC. lớn hơn $16 \\mathrm{~Hz}$.\nD. lớn hơn $20 \\mathrm{kHz}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Âm có tần số lớn hơn 20 kHz: siêu âm.\nÂm có tần số nhỏ hơn $16 \\mathrm{~Hz}$ : hạ âm\nÂm có tần số trong khoảng $16 \\mathrm{~Hz}$ - $20 \\mathrm{kHz}$ âm thanh (âm nghe được)\nChọn B"
+    },
+    {
+        "ID": "Phy_17_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Tại điểm phản xạ sóng thì sóng tới và sóng phản xạ\nA. cùng pha với nhau nếu điểm phản xạ sóng cố định.\nB. luôn ngược pha với nhau trong mọi trường hợp.\nC. ngược pha với nhau nếu điểm phản xạ sóng tự do.\nD. ngược pha với nhau nếu điểm phản xạ sóng cố định.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tại điểm phản xạ thì sóng phản xạ ngược pha với sóng tới nếu vật cản là cố định.\nChọn D"
+    },
+    {
+        "ID": "Phy_17_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Một con lắc lò xo dao động điều hòa thì lực kéo về có độ lớn\nA. bằng độ lớn của trọng lực.\nB. tỉ lệ với biên độ dao động.\nC. tỉ lệ với độ biến dạng của lò xo.\nD. tỉ lệ với độ lớn của li độ.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Lực kéo về: $F=-k x$\nĐộ lớn lực kéo về: $|F|=k|x| \\Rightarrow|F| \\sim|x|$\nLực kéo về có độ lớn tỉ lệ với độ lớn của li độ và luôn hướng về vị trí cân bằng.\nChọn D"
+    },
+    {
+        "ID": "Phy_17_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Cường độ dòng điện hiệu dụng của dòng điện xoay chiều có biểu thức $i=2 \\cos (100 \\pi t)(A)$ có giá trị là\nA. $2 \\sqrt{2} A$.\nB. 4 A.\nC. $\\sqrt{2} A$.\nD. 2 A.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cường độ dòng điện hiệu dụng là:\n$I=\\frac{I_{0}}{\\sqrt{2}}=\\frac{2}{\\sqrt{2}}=\\sqrt{2}(A)$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Một vật dao động điều hòa trên đoạn thẳng dài $8 \\mathrm{~cm}$ với chu kì 2 giây. Tốc độ cực đại của vật trong quá trình dao động là\nA. $4 \\pi \\mathrm{cm} / \\mathrm{s}$.\nB. $8 \\pi \\mathrm{cm} / \\mathrm{s}$.\nC. $2 \\pi \\mathrm{cm} / \\mathrm{s}$.\nD. $\\pi \\mathrm{cm} / \\mathrm{s}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chiều dài quỹ đạo chuyển động của vật là:\n$L=2 A=8(\\mathrm{~cm}) \\Rightarrow A=4(\\mathrm{~cm})$\nTốc độ cực đại của vật trong quá trình dao động là:\n$v_{\\max }=\\frac{2 \\pi}{T} \\cdot A=\\frac{2 \\pi}{2} \\cdot 4=4 \\pi(\\mathrm{cm} / \\mathrm{s})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Một ắc quy có suất điện động $\\mathrm{E}=6 \\mathrm{~V}$ và điện trở trong $r=0,5(\\Omega)$ được mắc với điện trở $R=5,5(\\Omega)$ thành mạch kín. Khi đó hiệu điện thế giữa hai cực của ắc quy có giá trị là\nA. $0,5 \\mathrm{~V}$.\nB. $6 \\mathrm{~V}$.\nC. 5,5 V.\nD. $5 \\mathrm{~V}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cường độ dòng điện trong mạch là:\n$$\nI=\\frac{E}{R+r}=\\frac{6}{5,5+0,5}=1(A)\n$$\nHiệu điện thế điện thế giữa hai cực của ắc quy là:\n$U=E-I r=6-1.0,5=5,5(V)$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Tại hai điềm $A$ và $B$ trên mặt nước có hai nguồn dao động điều hòa theo phương thẳng đứng cùng phương trình $u=4 \\cos (20 \\pi t)(\\mathrm{mm})$. Biết tốc độ truyền sóng trên mặt nước là $30 \\mathrm{~cm} / \\mathrm{s}$. Điểm $\\mathrm{M}$ trên mặt nước cách các nguồn $\\mathrm{A}, \\mathrm{B}$ lần lượt $\\mathrm{MA}=12 \\mathrm{~cm} ; \\mathrm{MB}=9 \\mathrm{~cm}$ thì có tốc độ dao động cực đại là\nA. $16 \\pi \\mathrm{cm} / \\mathrm{s}$.\nB. $80 \\pi \\mathrm{cm} / \\mathrm{s}$.\nC. $80 \\pi \\mathrm{mm} / \\mathrm{s}$.\nD. $16 \\pi \\mathrm{mm} / \\mathrm{s}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Bước sóng:\n$\\lambda=v \\cdot \\frac{2 \\pi}{\\omega}=30 \\cdot \\frac{2 \\pi}{20 \\pi}=3(\\mathrm{~cm})$\nHiệu đường truyền sóng tại $\\mathrm{M}$ :\n$\\Delta d_{M}=M A-M B=12-9=3(\\mathrm{~cm})=\\lambda$\n$\\rightarrow \\mathrm{M}$ dao động với biên độ cực đại:\n$A_{M}=2 A=2.4=8(\\mathrm{~mm})$.\nTốc độ dao động cực đại của $\\mathrm{M}$ là:\n$v_{\\text {max }}=\\omega A=20 \\pi \\cdot 8=160 \\pi(\\mathrm{mm} / \\mathrm{s})=16 \\pi(\\mathrm{cm} / \\mathrm{s})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Khi nói về dao động cưỡng bức thì phát biểu nào sau đây không đúng?\nA. Dao động của mặt đàn Ghi-ta khi gảy đàn.\nB. Dao động của quả lắc đồng hồ.\nC. Dao động của người ngồi trên xe khi xe nổ máy.\nD. Dao động của mặt trống phía sau khi đánh trống.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Dao động của quả lắc đồng hồ là dao động duy trì.\nChọn B"
+    },
+    {
+        "ID": "Phy_17_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Dao động tổng hợp của hai dao động điều hòa cùng phương, cùng tần số có phương trình lần lượt $x_{1}=3 \\sqrt{3} \\cos (4 \\pi t)(\\mathrm{cm})$ và $x_{2}=3 \\cos \\left(4 \\pi t+\\frac{\\pi}{2}\\right)(\\mathrm{cm})$ là\nA. $x=6 \\cos \\left(4 \\pi t+\\frac{\\pi}{3}\\right) \\mathrm{cm}$.\nB. $x=6 \\cos \\left(4 \\pi t-\\frac{\\pi}{6}\\right) \\mathrm{cm}$.\nC. $x=6 \\cos \\left(4 \\pi t-\\frac{\\pi}{3}\\right) \\mathrm{cm}$.\nD. $x=6 \\cos \\left(4 \\pi t+\\frac{\\pi}{6}\\right) \\mathrm{cm}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $x=x_{1}+x_{2}$\n$\\Rightarrow A \\angle \\varphi=3 \\sqrt{3} \\angle 0+3 \\angle \\frac{\\pi}{2}=6 \\angle \\frac{\\pi}{6}$\n$\\Rightarrow x=6 \\cos \\left(4 \\pi t+\\frac{\\pi}{6}\\right)(\\mathrm{cm})$\nDễ thấy hai dao động vuông pha.\nChọn D"
+    },
+    {
+        "ID": "Phy_17_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Một con lắc lò xo gồm lò xo nhẹ có độ cứng $\\mathrm{k}=100 \\mathrm{~N} / \\mathrm{m}$ và vật nhỏ có khối lượng $\\mathrm{m}$ $=100 \\mathrm{~g}$. Tần số dao động của vật là\nA. $10 \\mathrm{~Hz}$.\nB. $10 \\pi \\mathrm{rad} / \\mathrm{s}$.\nC. $5 \\pi \\mathrm{rad} / \\mathrm{s}$.\nD. $5 \\mathrm{~Hz}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tần số dao động của vật là:\n$$\nf=\\frac{1}{2 \\pi} \\sqrt{\\frac{k}{m}}=\\frac{1}{2 \\pi} \\sqrt{\\frac{100}{0,1}}=5(\\mathrm{~Hz})\n$$\nChọn D"
+    },
+    {
+        "ID": "Phy_17_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Một sóng ngang truyền theo trục $O x$ với phương trình $u=2 \\cos (4 \\pi t-0,04 \\pi x)(\\mathrm{mm})$; ( $\\mathrm{x}$ tính bằng $\\mathrm{cm}, \\mathrm{t}$ tính bằng giây). Tốc độ truyền sóng có giá trị là\nA. $100 \\mathrm{~cm} / \\mathrm{s}$.\nB. $150 \\mathrm{~cm} / \\mathrm{s}$.\nC. $200 \\mathrm{~cm} / \\mathrm{s}$.\nD. $50 \\mathrm{~cm} / \\mathrm{s}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Từ phương trình sóng ta có:\n$0,04 \\pi x=\\frac{2 \\pi x}{\\lambda} \\Rightarrow \\lambda=50(\\mathrm{~cm})$\nTốc độ truyền sóng là:\n$v=\\frac{\\lambda . \\omega}{2 \\pi}=\\frac{50.4 \\pi}{2 \\pi}=100(\\mathrm{~cm} / \\mathrm{s})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Trên một sợi dây đàn hồi hai đầu cố định đang có sóng dừng $\\mathrm{A}$ là điểm nút, $\\mathrm{B}$ là điểm bụng gần $\\mathrm{A}$ nhất, vị trí cân bằng của $\\mathrm{B}$ cách $\\mathrm{A}$ một đoạn là $5 \\mathrm{~cm}, \\mathrm{C}$ là trung điểm của $\\mathrm{AB}$. Khoảng thời gian giữa hai lần liên tiếp li độ của điểm $\\mathrm{B}$ bằng li độ của điểm $\\mathrm{C}$ là $0,05 \\mathrm{~s}$. Tốc độ truyền sóng trên dây là\nA. $200 \\mathrm{~cm} / \\mathrm{s}$.\nB. $100 \\mathrm{~m} / \\mathrm{s}$.\nC. $200 \\mathrm{~m} / \\mathrm{s}$.\nD. $100 \\mathrm{~cm} / \\mathrm{s}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Từ đề bài ta có:\n$A B=\\frac{\\lambda}{4} \\Leftrightarrow 5=\\frac{\\lambda}{4} \\Leftrightarrow \\lambda=20(\\mathrm{~cm})$\nKhoảng thời gian giữa hai lần liên tiếp li độ của điểm $\\mathrm{B}$ bằng li độ của điểm $\\mathrm{C}$ là:\n$\\frac{T}{2}=0,05 \\Rightarrow T=0,1(s)$.\nTốc độ truyền sóng trên dây là:\n$v=\\frac{\\lambda}{T}=\\frac{20}{0,1}=200(\\mathrm{~cm} / \\mathrm{s})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Một máy phát diện xoay chiều một pha có rôto là một nam châm điện có 5 cặp cực phát ra dòng xoay chiều có tần số $50 \\mathrm{~Hz}$ thì tốc độ góc của rôto là\nA. 100 vòng/phút.\nB. 600 vòng/phút.\nC. 10 vòng/phút.\nD. 1500 vòng/phút.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tần số của máy phát điện là:\n$f=n p \\Leftrightarrow 50=n .5 \\Rightarrow n=10($ vòng/s) $=600$ vòng/phút.\nChọn B"
+    },
+    {
+        "ID": "Phy_17_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Đặt điện áp xoay chiều có biều thức $u=100 \\cos (100 \\pi t)(V)$ vào hai đầu đoạn mạch gồm điện trở thuần $R=100 \\Omega$ nối tiếp với một cuộn dây thì thấy điện áp hai đầu điện trở thuần $\\mathrm{R}$ có biểu thức $u_{R}=50 \\sqrt{2} \\cos \\left(100 \\pi t-\\frac{\\pi}{4}\\right)(V)$. Công suất tiêu thụ của đoạn mạch là\nA. $50 \\mathrm{~W}$.\nB. $50 \\sqrt{2} W$.\nC. $25 \\mathrm{~W}$.\nD. $25 \\sqrt{2} W$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cường độ dòng điện hiệu dụng trong mạch là:\n$I=\\frac{U_{R}}{R}=\\frac{50}{100}=0,5(A)$\nTa có: $\\varphi_{i}=\\varphi_{u_{R}}=-\\frac{\\pi}{4} \\Rightarrow \\varphi=\\varphi_{u}-\\varphi_{i}=0-\\left(-\\frac{\\pi}{4}\\right)=\\frac{\\pi}{4}(\\mathrm{rad})$\nCông suất tiêu thụ của mạch là:\n$P=U I \\cos \\varphi=50 \\sqrt{2} \\cdot 0,5 \\cdot \\cos \\frac{\\pi}{4}=25(W)$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Một vật có khối lượng $\\mathrm{m}=100 \\mathrm{~g}$ tham gia đồng thời hai dao động điều hòa cùng phương có phương trình lần lượt là $x_{1}=4 \\cos (2 \\pi t)(\\mathrm{cm})$ và $x_{2}=3 \\cos \\left(2 \\pi t-\\frac{\\pi}{2}\\right)(\\mathrm{cm})$. Lấy $\\pi^{2}=10\\left(\\mathrm{~m} / \\mathrm{s}^{2}\\right)$. Cơ năng của vật có giá trị là\nA. $5 \\mathrm{~J}$.\nB. $5 \\mathrm{~mJ}$.\nC. 9,8 J.\nD. $9,8 \\mathrm{~mJ}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Biên độ dao động tổng hợp của hai dao động là:\n$A=\\sqrt{A_{1}^{2}+A_{2}^{2}}=\\sqrt{4^{2}+3^{2}}=5(\\mathrm{~cm})$\nCơ năng của vật:\n$W=\\frac{1}{2} m \\omega^{2} A^{2}=\\frac{1}{2} \\cdot 0,1 \\cdot(2 \\pi)^{2} \\cdot 0,05^{2}=5 \\cdot 10^{-3}(J)=5(\\mathrm{~mJ})$\nChọn B"
+    },
+    {
+        "ID": "Phy_17_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Một con lắc đơn gồm sợi dây nhẹ không giãn có chiều dài $60 \\mathrm{~cm}$ và vật nhỏ có khối lượng $\\mathrm{m}$. Đưa vật nhỏ ra khỏi vị trí cân bằng sao cho dây treo hợp với phương thẳng đứng góc $9^{0}$ rồi thả nhẹ để vật dao động điều hòa. Biên độ dài dao động của vật có giá trị là\nA. $5,4 \\mathrm{~cm}$.\nB. $3 \\mathrm{~cm}$.\nC. $3 \\pi \\mathrm{cm}$.\nD. $1,5 \\pi \\mathrm{cm}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Biên độ dài dao động của vật là:\n$s_{0}=\\alpha_{0} \\cdot l=\\frac{9 \\pi}{180} \\cdot 60=3 \\pi(\\mathrm{cm})$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Một con lắc lò xo dao động điều hoà theo phương ngang gồm vật nhỏ có khối lượng m $=100 \\mathrm{~g}$ và lò xo nhẹ có độ cứng $\\mathrm{k}=10 \\mathrm{~N} / \\mathrm{m}$. Kéo vật ra khỏi vị trí cân bằng một đoạn $2 \\sqrt{3} \\mathrm{~cm}$ rồi truyền cho vật một tốc độ $20(\\mathrm{~cm} / \\mathrm{s})$ theo phương dao động. Biên độ dao động của vật là\nA. $4 \\mathrm{~cm}$.\nB. $2 \\sqrt{2} \\mathrm{~cm}$.\nC. $2 \\mathrm{~cm}$.\nD. $\\sqrt{2} \\mathrm{~cm}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tần số góc của dao động là:\n$\\omega=\\sqrt{\\frac{k}{m}}=\\sqrt{\\frac{10}{0,1}}=10(\\mathrm{rad} / \\mathrm{s})$\nÁp dụng công thức độc lập với thời gian, ta có:\n$\\frac{x^{2}}{A^{2}}+\\frac{v^{2}}{\\omega^{2} A^{2}}=1$\n$\\Rightarrow A=\\sqrt{x^{2}+\\frac{v^{2}}{\\omega^{2}}}=\\sqrt{(2 \\sqrt{3})^{2}+\\frac{20^{2}}{10^{2}}}=4(\\mathrm{~cm})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Đặt vào hai đầu tụ điện có điện dung $C=\\frac{100}{2 \\pi}(\\mu F)$ một điện áp xoay chiều có biểu thức $u=U_{0} \\cos (100 \\pi t)(V)$. Dung kháng có giá trị là\nA. $200 \\Omega$.\nB. $50 \\Omega$.\nC. $100 \\Omega$.\nD. $150 \\Omega$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Dung kháng của tụ điện là:\n$$\nZ_{C}=\\frac{1}{\\omega C}=\\frac{1}{100 \\pi \\cdot \\frac{100}{2 \\pi} \\cdot 10^{-6}}=200(\\Omega)\n$$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Cách đây 28 năm, vào lúc 19 giờ 6 phút ngày 27/5/1994, tại Trung tâm Điều độ hệ thống điện Quốc gia, cố Thủ tướng Võ Văn Kiệt đã ra lệnh hòa hệ thống điện Miền Nam với 4 tổ máy của Nhà máy thủy điện Hòa Bình tại Trạm biến áp $500 \\mathrm{kV}$ Đà Nẵng qua đường dây $500 \\mathrm{kV}$, chính thức đưa Đường dây $500 \\mathrm{kV}$ mạch 1 đầu tiên của nước ta vào vận hành. Thành công của Đường dây $500 \\mathrm{kV}$ Bắc - Nam mạch 1 đã mở ra một kỷ nguyên mới: bước ngoặt phát triển mạnh mẽ về kinh tế - chính trị - xã hội của đất nước; ngành điện đã dần đi trước một bước phục vụ nhu cầu sử dụng điện của cả nước; đời sống người dân dần được cải thiện và văn minh hơn. Mục đích của việc đưa điện áp lên cao trước khi truyền tải là\nA. để tăng công suất truớc khi truyền tải điện.\nB. để tăng độ an toàn khi truyền tải điện.\nC. để giảm hao phí trên đường dây tải điện.\nD. để giảm công suất truyền tải điện.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Công suất hao phí trên đường dây truyền tải điện là:\n$\\Delta P=I^{2} \\cdot R=\\frac{P^{2} \\cdot R}{U^{2} \\cdot \\cos ^{2} \\varphi} \\Rightarrow \\Delta P \\sim \\frac{1}{U^{2}}$\n$\\rightarrow$ Khi U tăng thì $\\Delta P$ giảm.\nChọn C"
+    },
+    {
+        "ID": "Phy_17_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Tại một vị trí trong môi trường truyền âm, khi mức cường độ âm tăng thêm $10 \\mathrm{~dB}$ thì cường độ âm tại điểm đó\nA. tăng 100 lần.\nB. giảm 10 lần.\nC. tăng 10 lần.\nD. giảm 100 lần.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có hiệu mức cường độ âm:\n$$\nL_{2}-L_{1}=10 \\lg \\frac{I_{2}}{I_{1}} \\Rightarrow 10=10 \\lg \\frac{I_{2}}{I_{1}} \\Rightarrow \\frac{I_{2}}{I_{1}}=10\n$$\nVậy cường độ âm tăng 10 lần\nChọn C"
+    },
+    {
+        "ID": "Phy_17_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Một nguồn sóng cơ dao động theo phương vuông góc với phương truyền với phương trình dao động là $u_{O}=4 \\cos (20 \\pi t)(\\mathrm{cm})$. Hai điểm $\\mathrm{M}$ và $\\mathrm{N}$ trên cùng một phương truyền sóng, có vị trí cân bằng cách nhau $5,5 \\mathrm{~cm}$. Biết tốc độ truyền sóng là $20 \\mathrm{~cm} / \\mathrm{s}$. Trong quá trình dao động khoảng cách lớn nhất giữa hai điểm $\\mathrm{M}$ và $\\mathrm{N}$ là\nA. $9,43 \\mathrm{~m}$.\nB. $7,89 \\mathrm{~cm}$.\nC. $9,43 \\mathrm{~cm}$.\nD. $7,89 \\mathrm{~m}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Bước sóng là: $\\lambda=\\frac{v}{f}=\\frac{20}{10}=2(\\mathrm{~cm})$\nĐộ lệch pha giữa $\\mathrm{M}$ và $\\mathrm{N}$ là:\n$\\Delta \\varphi=\\frac{2 \\pi d}{\\lambda}=\\frac{2 \\pi \\cdot 5,5}{2}=2 \\pi+\\frac{3 \\pi}{2}$\n\\includegraphics[max width=\\textwidth, center]{2023_06_06_fc5df80b041c408cadf2g-17}\nTa thấy khoảng cách giữa hai vị trí cân bằng của $\\mathrm{M}, \\mathrm{N}$ là 5,5 cm không đổi.\nKhoảng cách $\\mathrm{M}, \\mathrm{N}$ lớn nhất khi $\\left(\\left|x_{M}\\right|+\\left|x_{N}\\right|\\right)_{\\max }$\n$\\Rightarrow x_{M}=-x_{N}=\\frac{A \\sqrt{2}}{2}=2 \\sqrt{2}(\\mathrm{~cm})$\nKhoảng cách lớn nhất giữa hai điểm $\\mathrm{M}, \\mathrm{N}$ là\n$d_{\\text {max }}=\\sqrt{(2 \\sqrt{2}+2 \\sqrt{2})^{2}+5,5^{2}} \\approx 7,89(\\mathrm{~cm})$\nChọn D"
+    },
+    {
+        "ID": "Phy_17_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Trên một sọi dây đàn hồi dài 1,2m hai đầu cố định đang có sóng dừng với 3 bụng sóng. Biết sóng truyền trên dây có tần số $100 \\mathrm{~Hz}$. Tốc độ truyền sóng trên dây là\nA. $40 \\mathrm{~m} / \\mathrm{s}$.\nB. $80 \\mathrm{~cm} / \\mathrm{s}$.\nC. $80 \\mathrm{~m} / \\mathrm{s}$.\nD. $40 \\mathrm{~cm} / \\mathrm{s}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trên dây có 3 bụng sóng $\\rightarrow \\mathrm{k}=3$\nĐiều kiện có sóng dừng trên dây với hai đầu cố định là:\n$l=k \\frac{v}{2 f} \\Leftrightarrow 1,2=3 \\cdot \\frac{v}{2 \\cdot 100} \\Rightarrow v=80(\\mathrm{~m} / \\mathrm{s})$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Một con lắc lò xo có đầu trên treo vào điểm cố định, đầu dưới treo vật nặng có khối lượng $\\mathrm{m}=100 \\mathrm{~g}$, lò xo có độ cứng k. Khi con lắc dao động điều hòa theo phương thẳng đứng thì đồ thị biểu diễn lực $\\mathrm{F}$ mà lò xo tác dụng vào vật nặng theo thời gian như hình vẽ. Biết $F_{1}-F_{2}+F_{3}=0$. Lấy $g=10 \\mathrm{~m} / \\mathrm{s}^{2}$ . Công suất của lực $\\mathrm{F}$ vào thời điểm $t=\\frac{11 \\pi}{60} \\mathrm{~s}$ là\n\\includegraphics[max width=\\textwidth, center]{2023_06_06_fc5df80b041c408cadf2g-05}\nA. $1 \\mathrm{~W}$.\nB. $2 \\mathrm{~W}$.\nC. $-2 \\mathrm{~W}$.\nD. $-1 \\mathrm{~W}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Từ đồ thị ta thấy:\n$$\n\\begin{aligned}\n& T=\\frac{7 \\pi}{30}-\\frac{\\pi}{30}=\\frac{\\pi}{5}(\\mathrm{~s}) \\\\\n& \\Rightarrow \\omega=\\frac{2 \\pi}{T}=10(\\mathrm{rad} / \\mathrm{s})\n\\end{aligned}\n$$\nMặt khác:\n$$\n\\begin{aligned}\n& \\omega=\\sqrt{\\frac{g}{\\Delta l_{0}}}=\\sqrt{\\frac{k}{m}} \\\\\n& \\Rightarrow\\left\\{\\begin{array}{l}\n\\Delta l_{0}=\\frac{g}{\\omega^{2}}=\\frac{10}{10^{2}}=0,1(\\mathrm{~m}) \\\\\nk=m \\omega^{2}=0,1 \\cdot 10^{2}=10(\\mathrm{~N} / \\mathrm{m})\n\\end{array}\\right.\n\\end{aligned}\n$$\nTa biểu diễn vòng tròn lượng giác.\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_fc5df80b041c408cadf2g-18}\n\\end{center}\nTừ VTLG ta thấy:\n$\\alpha=\\omega \\Delta t=10 \\cdot \\frac{\\pi}{30}=\\frac{\\pi}{3} \\Rightarrow \\varphi=\\frac{2 \\pi}{3}$\n$\\rightarrow$ Lực $F_{2}$ ứng với li độ $x=-\\frac{A}{2}$\n$\\Rightarrow F_{2}=k\\left(\\Delta l_{0}+\\frac{A}{2}\\right)$\nTheo đề bài ta có:\n$$\n\\begin{aligned}\n& F_{1}-F_{2}+F_{3}=0 \\\\\n& \\Leftrightarrow k\\left(\\Delta l_{0}-A\\right)-k\\left(\\Delta l_{0}+\\frac{A}{2}\\right)+k\\left(\\Delta l_{0}+A\\right)=0 \\\\\n& \\Rightarrow \\Delta l_{0}=\\frac{A}{2}=0,1 \\Rightarrow A=0,2 m \\\\\n& \\Rightarrow x=20 \\cos \\left(10 t+\\frac{2 \\pi}{3}\\right)(\\mathrm{cm})\n\\end{aligned}\n$$\nCông suất của lực kéo là:\n$p=F \\cdot v=k\\left(\\Delta l_{0}+x\\right) \\cdot v=10 \\cdot\\left[0,1+0,2 \\cdot \\cos \\left(10 t+\\frac{2 \\pi}{3}\\right)\\right] \\cdot(-2) \\cdot \\sin \\left(10 t+\\frac{2 \\pi}{3}\\right)$\nThay $t=\\frac{11 \\pi}{60} \\mathrm{~s}$ ta được: $p=-2(W)$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Một sóng ngang hình sin truyền trên dây theo phương của trục Ox. Hình ảnh của một đoạn dây có hai điểm $\\mathrm{M}$ và $\\mathrm{N}$ tại hai thời điểm $t_{1}=0,25 \\mathrm{~s}$ và thời điểm $t_{2}$ như hình vẽ. Biết trong khoảng thời gian từ thời điểm $\\mathrm{t}_{1}$ đến thời điểm $t_{2}$ điểm $\\mathrm{M}$ đi được quãng đường là bằng $\\frac{2}{3}$ lần bước sóng, với tốc độ trung bình là $12 \\mathrm{~cm} / \\mathrm{s}$. Tính từ thời điểm $t_{1}$, sau khoảng thời gian ngắn nhất là bao nhiêu thì ba điểm $\\mathrm{O}, \\mathrm{M}, \\mathrm{N}$ thẳng hàng?\n\\includegraphics[max width=\\textwidth, center]{2023_06_06_fc5df80b041c408cadf2g-06}\nA. $0,30 \\mathrm{~s}$.\nB. $0,43 \\mathrm{~s}$.\nC. $0,25 \\mathrm{~s}$.\nD. $0,20 \\mathrm{~s}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo đề bài ta có VTLG:\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_fc5df80b041c408cadf2g-19}\n\\end{center}\nTừ VTLG ta thấy:\n$3 \\alpha=\\pi \\Rightarrow \\alpha=\\frac{\\pi}{3} \\Rightarrow \\frac{A}{2}=2(\\mathrm{~cm}) \\Rightarrow A=4(\\mathrm{~cm})$\nMặt khác, độ lệch pha\n$\\alpha=\\frac{2 \\pi d}{\\lambda} \\Rightarrow \\frac{\\pi}{3}=\\frac{2 \\pi \\cdot(2,25-1,25)}{\\lambda} \\Rightarrow \\lambda=6(\\mathrm{~cm})$\nTheo đề bài ta có quãng đường $\\mathrm{M}$ đi được là:\n$s=\\frac{2 \\lambda}{3}=\\frac{2.6}{3}=4(\\mathrm{~cm})=A$\nTốc độ trung bình:\n$v_{t b}=\\frac{s}{\\Delta t}=\\frac{4}{\\frac{T}{3}}=12 \\Rightarrow T=1(s)$\n$\\Rightarrow \\omega=\\frac{2 \\pi}{T}=2 \\pi(\\mathrm{rad} / \\mathrm{s})$\nChọn mốc thời gian tại thời điểm $t_{1}$\nPhương trình sóng tại $\\mathrm{O}, \\mathrm{M}, \\mathrm{N}$ là:\n$$\n\\left\\{\\begin{array}{l}\nU_{M}=4 \\cos \\left(2 \\pi t-\\frac{\\pi}{3}\\right) \\\\\nU_{N}=4 \\cos (2 \\pi t) \\\\\nU_{O}=4 \\cos \\left(2 \\pi t-\\frac{3 \\pi}{4}\\right)\n\\end{array}\\right.\n$$\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_fc5df80b041c408cadf2g-20}\n\\end{center}\nTừ hình vẽ: $\\mathrm{Ba}$ điểm $\\mathrm{O}, \\mathrm{M}, \\mathrm{N}$ thẳng hàng khi:\n$\\tan \\alpha=\\frac{u_{M}-u_{O}}{1,25-0}=\\frac{u_{N}-u_{O}}{2,25-0}$\n$\\Rightarrow 2,25 u_{M}-1,25 u_{N}-u_{O}=0$\nTa có: 2 , $25.4 \\angle \\frac{-\\pi}{3}-1,25.4 \\angle 0-4 \\angle \\frac{-3 \\pi}{4}=5,48 \\angle-1,13$\n$\\Rightarrow 5,48 \\cos (2 \\pi t-1,13)=0$\n$\\Rightarrow 2 \\pi t-1,13=\\frac{\\pi}{2}+k \\pi$\n$\\Rightarrow t \\approx 0,43+\\frac{k}{2}(s)(k=0 ; 1 ; 2 ; 3 ; \\ldots)$\nThời gian ngắn nhất để ba điểm $\\mathrm{O}, \\mathrm{M}, \\mathrm{N}$ thẳng hàng, ta có:\n$k=0 \\Rightarrow t=0,43(s)$\nChọn B"
+    },
+    {
+        "ID": "Phy_17_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Đoạn mạch điện xoay chiều $\\mathrm{AB}$ gồm các đoạn $\\mathrm{AM}, \\mathrm{MN}$ và $\\mathrm{NB}$ ghép nối tiếp, đoạn $\\mathrm{AM}$ chứa cuộn cảm thuần có độ tự cảm $L=\\frac{1}{\\pi}(H), \\mathrm{MN}$ chứa điện trở thuần $\\mathrm{R}$ có giá trị thay đổi được, đoạn NB chứa tụ điện có điện dung $\\mathrm{C}$. Đặt điện áp xoay chiều có giá trị hiệu dụng $100(\\mathrm{~V})$ và tần số $50 \\mathrm{~Hz}$ vào hai đầu đoạn mạch. Gọi $\\varphi$ là góc lệch pha giữa $u_{A N}$ và $u_{A B}$. Đồ thị biểu diễn tan $\\varphi$ và công suất tiêu thụ của đoạn mạch theo $\\mathrm{R}$ thu được như hình vẽ. Giá trị của $(\\mathrm{b}-\\mathrm{a})$ là\n\\includegraphics[max width=\\textwidth, center]{2023_06_06_fc5df80b041c408cadf2g-06(1)}\nA. 40 .\nB. 50 .\nC. 100 .\nD. 60 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tần số góc của dòng điện là:\n$\\omega=2 \\pi f=2 \\pi .50=100 \\pi(\\mathrm{rad} / \\mathrm{s})$\nCảm kháng của cuộn dây là:\n$Z_{L}=\\omega L=100 \\pi \\cdot \\frac{1}{\\pi}=100 \\Omega$\nĐộ lệch pha giữa $u_{A N}$ và $u_{A B}$ là:\n$$\n\\begin{aligned}\n& \\varphi=\\varphi_{A N}-\\varphi_{A B} \\Rightarrow \\tan \\varphi=\\tan \\left(\\varphi_{A N}-\\varphi_{A B}\\right)=\\frac{\\tan \\varphi_{A N}-\\tan \\varphi_{A B}}{1+\\tan \\varphi_{A N} \\tan \\varphi_{A B}} \\\\\n& \\Rightarrow \\tan \\varphi=\\frac{\\frac{Z_{L}}{R}-\\frac{Z_{L}-Z_{C}}{R}}{1+\\frac{Z_{L}}{R} \\cdot \\frac{Z_{L}-Z_{C}}{R}}=\\frac{Z_{C}}{R+\\frac{Z_{L}\\left(Z_{L}-Z_{C}\\right)}{R}}\n\\end{aligned}\n$$\nÁp dụng bất đẳng thức Cô-si, ta có:\n$$\n\\begin{aligned}\n& R+\\frac{Z_{L}\\left(Z_{L}-Z_{C}\\right)}{R} \\geq 2 \\sqrt{Z_{L}\\left(Z_{L}-Z_{C}\\right)} \\\\\n& \\Rightarrow(\\tan \\varphi)_{\\max }=\\frac{Z_{C}}{2 \\sqrt{Z_{L}\\left(Z_{L}-Z_{C}\\right)}} \\\\\n& \\Leftrightarrow R_{1}=\\frac{Z_{L}\\left(Z_{L}-Z_{C}\\right)}{R_{1}} \\Rightarrow R_{1}=\\sqrt{Z_{L}\\left(Z_{L}-Z_{C}\\right)}\n\\end{aligned}\n$$\nCông suất trong mạch đạt cực đại khi: $R_{0}=Z_{L}-Z_{C}$\nTừ đồ thị ta thấy:\n$\\frac{R_{1}}{R_{0}}=\\frac{\\sqrt{Z_{L}\\left(Z_{L}-Z_{C}\\right)}}{Z_{L}-Z_{C}}=\\sqrt{\\frac{Z_{L}}{Z_{L}-Z_{C}}}=2$ (vì $\\left.Z_{L}>Z_{L}-Z_{C}\\right)$\n$\\rightarrow$ đường đồ thị phía trên là $\\mathrm{P}$, đường đồ thị phía dưới là $\\tan \\varphi$\nTa có:\n$\\sqrt{\\frac{Z_{L}}{Z_{L}-Z_{C}}}=2 \\Rightarrow \\sqrt{\\frac{100}{100-Z_{C}}}=2 \\Rightarrow Z_{C}=75(\\Omega)$\n$\\Rightarrow R_{1}=\\sqrt{Z_{L}\\left(Z_{L}-Z_{C}\\right)}=\\sqrt{100 \\cdot(100-75)}=50(\\Omega)$\n$R_{0}=Z_{L}-Z_{C}=100-75=25(\\Omega)$\nCông suất của mạch tại giá trị $R_{0}$ và $\\mathrm{R}$ là:\n$P_{0}=b=\\frac{U^{2} R_{0}}{R_{0}^{2}+\\left(Z_{L}-Z_{C}\\right)^{2}}=\\frac{100^{2} .25}{25^{2}+(100-75)^{2}}=200(\\mathrm{~W})$\n$P=a=\\frac{U^{2} R}{R^{2}+\\left(Z_{L}-Z_{C}\\right)^{2}}=\\frac{100^{2} \\cdot 50}{50^{2}+(100-75)^{2}}=160(\\mathrm{~W})$\n$\\Rightarrow b-a=200-160=40(\\mathrm{~W})$\nChọn A"
+    },
+    {
+        "ID": "Phy_17_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Một động cơ điện xoay chiều có điện trở $R=2 \\Omega$, khi hoạt động bình thường ở điện áp xoay chiều có giá trị hiệu dụng $220(\\mathrm{~V})$ thì cường độ dòng điện chạy qua động cơ có giá trị hiệu dụng là $5 \\mathrm{~A}$. Biết hệ số công suất của động cơ là 0,8 . Công suất có ích của động cơ có giá trị là\nA. $885 \\mathrm{~W}$.\nB. $1100 \\mathrm{~W}$.\nC. $830 \\mathrm{~W}$.\nD. $50 \\mathrm{~W}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Công suất của mạch là:\n$$\nP=U I \\cos \\varphi=220.5 .0,8=880(W)\n$$\nCông suất hao phí là:\n$$\nP_{h p}=I^{2} R=5^{2} \\cdot 2=50(W)\n$$\nCông suất có ích là:\n$$\nP_{c i}=P-P_{h p}=880-50=830(\\mathrm{~W})\n$$\nChọn C"
+    },
+    {
+        "ID": "Phy_17_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Điện năng được truyền từ trạm phát điện đến nơi tiêu thụ bằng đường dây tải điện một pha. Biết hiệu suất truyền tải là $\\frac{5}{6}$ và độ giảm điện áp trên đường dây bằng $\\frac{1}{7}$ điện áp đầu nguồn. Tỷ số giữa điện áp hiệu dụng cuối nguồn và điện áp hiệu dụng đầu nguồn là\nA. 0,88 .\nB. 0,80 .\nC. 0,85 .\nD. 0,83 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Quy đổi nơi tiêu thụ thành cuộn dây rL. Chuẩn hóa $U_{R}=1 \\Rightarrow U=7$\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_fc5df80b041c408cadf2g-22}\n\\end{center}\nTa có:\n$H=\\frac{P_{r L}}{P}=\\frac{I U_{r}}{I\\left(U_{R}+U_{r}\\right)}=\\frac{U_{r}}{1+U_{r}}=\\frac{5}{6} \\Rightarrow U_{r}=5$\n$U^{2}{ }_{r L}-5^{2}=7^{2}-(1+5)^{2} \\Rightarrow U_{r L}=\\sqrt{38}$\nVậy $\\frac{U_{r L}}{U}=\\frac{\\sqrt{38}}{7} \\approx 0,88$.\nChọn A"
+    },
+    {
+        "ID": "Phy_17_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Đặt điện áp xoay chiều $u=U_{0} \\cos \\omega t$ ( $U_{0}$ và $\\omega$ không đổi) vào hai đầu đoạn mạch $\\mathrm{AB}$ theo thứ tự gồm một tụ điện, một cuộn cảm thuần và một điện trở thuần mắc nối tiếp. Gọi $\\mathrm{M}$ là điểm nối giữa tụ điện và cuộn cảm. Biết điện áp hiệu dụng hai đầu đoạn mạch AM bằng điện áp hiệu dụng hai đầu đoạn mạch $\\mathrm{MB}$, cường độ dòng điện trong đoạn mạch lệch pha $\\frac{\\pi}{3}$ so với điện áp giữa hai đầu đoạn mạch MB. Hệ số công suất của đoạn mạch $\\mathrm{AB}$ là\nA. $0,5 \\sqrt{2}$.\nB. 0,97 .\nC. $0,5 \\sqrt{3}$.\nD. 0,5 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo đề bài ta có: $U_{A M}=U_{M B} \\Leftrightarrow U_{C}=U_{R L}$\nTa có giản đồ vecto sau:\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_fc5df80b041c408cadf2g-23}\n\\end{center}\nTừ giản đồ ta có tam giác cân:\n$\\Rightarrow \\varphi+60^{\\circ}=\\frac{180^{\\circ}-30^{\\circ}}{2}$\n$\\Rightarrow \\varphi=15^{\\circ} \\Rightarrow \\cos \\varphi \\approx 0,97$\nChọn B"
+    }
+]

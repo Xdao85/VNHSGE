@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_4_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Hiện tượng di truyền chéo liên quan đến các tính trạng do\nA. gen trội nằm trên NST thường\nB. gen nằm trên NST $\\mathrm{Y}$\nC. gen lặn nằm NST thường\nD. gen nằm trên NST $X$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Hiện tượng di truyền chéo liên quan đến các tính trạng do gen nằm trên NST X\nChọn D"
+    },
+    {
+        "ID": "Bio_4_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Cơ thể có kiểu gen nào sau đây khi giảm phân tạo giao tử Ab với tỉ lệ 1/4\nA. Aabb\nB. $\\mathrm{AaBb}$\nC. $\\mathrm{AABb}$\nD. $A a B B$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta thấy: $\\mathrm{AaBb}$ giảm phân tạo 4 giao tử: $\\mathrm{AB} ; \\mathrm{Ab} ; \\mathrm{aB} ; \\mathrm{ab}$\n$\\rightarrow A b$ được tạo ra với tỉ lệ $\\frac{1}{4}$\nChọn B"
+    },
+    {
+        "ID": "Bio_4_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Gen đa hiệu là hiện tượng\nA. một gen có thể tác động đến sự biểu hiện của nhiều tính trạng khác nhau\nB. nhiều gen cùng tác động đến sự biểu hiện của nhiều tính trạng\nC. một gen có thể tác động đến sự biểu hiện của 1 hoặc 1 số tính trạng\nD. nhiều gen có thể tác động đến sự biểu hiện của 1 tính trạng",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Gen đa hiệu là hiện tượng một gen quy định sự hình thành của nhiều cặp tính trạng.\nChọn A"
+    },
+    {
+        "ID": "Bio_4_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Ở nhóm động vật nào sau đây, giới đực mang cặp nhiễm sắc thể giới tính XX và giới cái mang cặp nhiễm sắc thể giới tính XY?\nA. Hổ, báo, mèo rừng\nB. Trâu, bò, hươu\nC. Gà, chim bồ câu, bướm\nD. Thỏ, ruồi giấm, chim sáo",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ở gà, chim, bướm giới đực mang cặp nhiễm sắc thể giới tính $\\mathrm{XX}$ và giới cái mang cặp nhiễm sắc thể giới tính $\\mathrm{XY}$\nChọn C"
+    },
+    {
+        "ID": "Bio_4_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Một loài thực vật có bộ nhiễm sắc thể lưỡng bội $2 n=20$. Người ta phát hiện trong các tế bào sinh dưỡng của một cây đột biến đều có 30 nhiễm sắc thể. Tên gọi của thể đột biến này là:\nA. thể tam bội\nB. thể tứ bội\nC. thể ba\nD. thể song nhị bội",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta thấy: $2 \\mathrm{n}=20 \\rightarrow \\mathrm{n}=10 \\rightarrow 3 \\mathrm{n}=30$\n$\\rightarrow$ Đây là thể tam bội\nChọn A"
+    },
+    {
+        "ID": "Bio_4_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Một loài thực vật lưỡng bội, xét 3 locus gen, mỗi gen quy định 1 tính trạng và mỗi gen đều có 2 alen, alen trội là trội hoàn toàn, ba gen này nằm trên 2 cặp NST khác nhau. Cho 2 cây $\\mathrm{P}$ giao phấn với nhau tạo ra F1 gồm 8 loại kiểu hình, trong đó các cây có kiểu hình trội về 3 tính trạng có 10 loại kiểu gen. Theo lí thuyết, các cây có 2 alen trội ở F1 có tối đa bao nhiêu loại kiểu gen?\nA. 7\nB. 8\nC. 6\nD. 10",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "F1 có 8 loại kiểu hình $=2 \\times 4$\n$\\rightarrow \\mathrm{P}$ không có cặp gen đồng hợp trội nào.\nGiả sử 3 cặp gen đó là: $\\mathrm{Aa}, \\mathrm{Bb}, \\mathrm{Dd} \\mathrm{Aa}, \\mathrm{Bb}$ nằm trên 1 cặp NST\nA-B-D- có 10 kiểu gen $=5 \\times 2$\nHay A-B- có 5 kiểu gen $\\rightarrow \\mathrm{P}$ dị hợp 2 cặp gen, có HVG.\nD- có 2 kiểu gen\n$\\rightarrow \\mathrm{Dd} \\times \\mathrm{Dd}$\nKiểu gen của $\\mathrm{P}$ có thể là: $\\frac{A B}{a b} \\operatorname{Dd} \\mathrm{x} \\frac{A B}{a b} \\mathrm{Dd}$\n$\\rightarrow$ cây có 3 alen trội gồm:\n$\\left(\\frac{A B}{A b} ; \\frac{A B}{a B}\\right) \\mathrm{dd}$\n$\\left(\\frac{A B}{A b} ; \\frac{A B}{a B} ; \\frac{A b}{A b} ; \\frac{a B}{a B}\\right) \\mathrm{Dd} \\rightarrow 8 \\mathrm{KG}$\n$\\left(\\frac{A b}{a b} ; \\frac{a B}{a b}\\right) \\mathrm{DD}$\nChọn B"
+    },
+    {
+        "ID": "Bio_4_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Một loài côn trùng, xét 1 gen nằm trên NST thường quy định màu mắt gồm 2 alen, trong đó alen $\\mathrm{A}$ quy định mắt đỏ trội hoàn toàn so với alen a quy định mắt trắng. Thế hệ xuất phát $(\\mathrm{P})$ của quần thể này có $10 \\%$ cá thể mắt trắng, qua quá trình sinh sản đã thu được $\\mathrm{F} 1$ có $20 \\%$ cá thể mắt trắng. Biết ở quần thể của loài này, chỉ những cá thể có cùng màu mắt giao phối ngẫu nhiên với nhau mà không giao phối với những cá thể có màu mắt khác và không chịu tác động của các nhân tố tiến hóa khác. Nếu những cá thể mắt đỏ ở thế hệ F1 giao phối ngẫu nhiên thì tỉ lệ kiểu hình ở F2 là\nA. 15 đỏ : 1 trắng\nB. 3 đỏ : 1 trắng\nC. 21 đỏ : 4 trắng\nD. 8 đỏ : 1 trắng.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Giả sử cấu trúc di truyền ở P: (0,9 - x)AA: xAa:0,laa\nCác con mắt đỏ giao phối ngẫu nhiên, tỉ lệ mắt trắng thu được là: $0,9 x\\left(\\frac{x}{0,9}\\right)^{2} x \\frac{1}{4}$\nỞ F1: $a a=0,1 a a+0,9 x\\left(\\frac{x}{0,9}\\right)^{2} \\times \\frac{1}{4}=0,2 \\rightarrow \\mathrm{x}=0,6$ (Aa x Aa $\\left.\\rightarrow \\frac{1}{4} \\mathrm{aa}\\right)$\nCấu trúc di truyền ở P: 0,3AA:0,6AA:0,1aa\n$\\rightarrow$ tần số alen: $\\mathrm{p}=0,6, \\mathrm{q}=0,4$\nDo tần số alen không đổi nên ở $\\mathrm{F} 1$ tần số alen: $\\mathrm{q}=0,2+\\mathrm{Aa}: 2 \\rightarrow \\mathrm{Aa}=0,4$\n$\\rightarrow$ Cấu trúc di truyền ở F1: 0,4AA:0,4Aa:0,2aa\nNếu những cá thể mắt đỏ ở thế hệ F1 giao phối ngẫu nhiên: (04AA:0,4Aa)\n$\\times(0,4 \\mathrm{AA}: 0,4 \\mathrm{Aa}) \\rightarrow(1 \\mathrm{AA}: 1 \\mathrm{Aa}) \\times(1 \\mathrm{AA}: 1 \\mathrm{Aa}) \\rightarrow(3 \\mathrm{~A}: 1 \\mathrm{a}) \\times(3 \\mathrm{~A}: 1 \\mathrm{a})$\nThì tỉ lệ kiểu hình ở F2 là: 9AA:6Aa:laa\n$\\rightarrow 15$ đỏ :1 trắng.\nChọn A"
+    },
+    {
+        "ID": "Bio_4_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Trong tế bào nhân thực, loại axit nucleic nào sau đây có cấu tạo 1 mạch đơn dạng thẳng và không có cặp nucleotit bổ sung?\nA. tARN\nB. $\\mathrm{mARN}$\nC. ADN\nD. rARN",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong tế bào nhân thực, mARN có cấu tạo 1 mạch đơn dạng thẳng và không có cặp nucleotit bổ sung\nChọn B"
+    },
+    {
+        "ID": "Bio_4_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Để phát hiện vị trí của một gen quy định tính trạng nằm trên NST thường, trên NST giới tính hay trong tế bào chất, người ta dùng phương pháp nào sau đây?\nA. Giao phối cận huyết ở động vật\nB. Tự thụ phấn ở thực vật\nC. Lai thuận nghịch\nD. Lai phân tích",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Để phát hiện vị trí của một gen quy định tính trạng nằm trên NST thường, trên NST giới tính hay trong tế bào chất, người ta dùng phương pháp lai thuận nghịch\nChọn C"
+    },
+    {
+        "ID": "Bio_4_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Phát biểu nào sau đây về đột biến gen là sai?\nA. Đột biến gen làm xuất hiện các alen khác nhau cung cấp nguyên liệu cho quá trình tiến hoá.\nB. Đột biến thay thế một cặp nuclêôtit luôn làm thay đổi chức năng của prôtêin.\nC. Mức độ gây hại của alen đột biến phụ thuộc vào điều kiện môi trường và tổ hợp gen.\nD. Đột biến gen có thể có hại, có lọi hoặc trung tính đối với thể đột biến.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "B sai, Đột biến thay thế một cặp nuclêôtit không phải lúc nào cũng làm thay đổi chức năng của prôtêin.\nĐột biến nhầm nghĩa (sai nghĩa): Biến đổi bộ ba quy định axit amin này thành bộ ba quy định axit amin khác Đột biến vô nghĩa: Biến đổi bộ 3 quy định axit amin thành bộ 3 kết thúc\nĐột biến đồng nghĩa: Biến đổi bộ 3 này thành bộ 3 khác nhưng cùng mã hóa 1 axit amin\nChọn B"
+    },
+    {
+        "ID": "Bio_4_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Trong quần thể tự phối, thành phần kiểu gen của quần thể có xu hướng\nA. duy trì tỷ lệ số cá thể có kiểu gen dị hợp tử.\nB. tăng dần tỉ lệ kiểu gen dị hợp, giảm tỉ lệ kiểu gen đồng hợp.\nC. phân hoá đa dạng và phong phú về kiểu gen.\nD. phân hóa thành các dòng thuần có KG khác nhau.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trong quần thể tự phối, thành phần kiểu gen của quần thể có xu hướng phân hóa thành các dòng thuần có KG khác nhau\nChọn D"
+    },
+    {
+        "ID": "Bio_4_12",
+        "Image_Question": "Bio_4/Bio_4_12.png",
+        "Question": "Câu 12:  Một nhóm nghiên cứu thực hiện thí nghiệm để kiểm chứng mô hình nhân đôi ADN ở vùng nhân của tế bào nhân sơ. Họ đã nuôi một số vi khuẩn E-coli trong môi trường chỉ có nitơ đồng vị nặng (15N). Sau đó, họ chuyển vi khuẩn sang nuôi tiếp 5 thế hệ ở môi trường chỉ có nitơ đồng vị nhẹ (14N). Biết số lần nhân lên của các vi khuẩn E-coli trong các ống nghiệm là như nhau. Tách $\\mathrm{ADN}$ sau mỗi thế hệ và thu được kết quả như hình dưới đây. Cho biết $\\mathrm{X}$ là vị trí của $\\mathrm{ADN}$ chứa cả hai mạch $15 \\mathrm{~N}$; $\\mathrm{Y}$ là vị trí của $\\mathrm{ADN}$ chứa 1 mạch $14 \\mathrm{~N}$ và 1 mạch $15 \\mathrm{~N}$; $\\mathrm{Z}$ là vị trí của $\\mathrm{ADN}$ chứa cả hai mạch $14 \\mathrm{~N}$\nTheo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nTruy cộp trang https:// \\href{http://fuyensinh247.com}{fuyensinh247.com} để học I. Thí nghiệm trên đã kiểm chứng quá trình nhân đôi $\\mathrm{ADN}$ theo nguyên tắc bán bảo toàn.\nII. Nếu 2 vi khuẩn E-coli được nuôi với các điều kiện thí nghiệm như trên thì luôn có hai mạch ADN chứa $15 \\mathrm{~N}$ ở mỗi thế hệ.\nIII. Ở thế hệ thứ 4 tỉ lệ vi khuẩn chứa $\\mathrm{ADN}$ ở vị trí $\\mathrm{Z}$ là $\\frac{1}{8}$\nIV. Ở thế hệ thứ 5 , tỉ lệ ADN ở vị trí Y chiếm $\\frac{1}{16}$\nA. 1\nB. 2\nC. 3\nD. 4",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I đúng\nII đúng, vì ban đầu có 1 phân tử $\\mathrm{ADN}$ gồm 2 mạch N15, nếu cho nhân đôi trong môi trường N14 thì số mạch $15 \\mathrm{~N}$ không tăng lên mà giữ nguyên\nIII sai, ở thế hệ thứ 4 có 16 phân tử $\\mathrm{ADN}$, trong đó có 2 phân tử $\\mathrm{ADN}$ chứa cả $14 \\mathrm{~N}$ và $15 \\mathrm{~N} \\rightarrow$ tỉ lệ Z $=1--\\frac{2}{16}=\\frac{7}{8}$\nIV đúng, ở thế hệ thứ 5 , tỉ lệ $\\mathrm{ADN}$ ở vị trí $\\mathrm{Y}=\\frac{2}{32}=\\frac{1}{16}$\nChọn C"
+    },
+    {
+        "ID": "Bio_4_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Một loài thực vật lưỡng bội có $2 n=24$. Giả sử có 6 thể đột biến của loài này được ký hiệu từ I đến VI có số lượng NST trong mỗi tế bào sinh dưỡng như sau:\n\\begin{center}\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\nThế đột biến & I & II & III & IV & V & VI \\\\\n\\hline\n$\\begin{array}{l}\\text { Số lương NST trong tế bào } \\\\ \\text { sinh dưỡng }\\end{array}$ & 48 & 84 & 72 & 36 & 60 & 108 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCho biết số lượng NST trong tất cả các cặp ở mỗi tế bào của thể đột biến đều bằng nhau. Trong các thể đột biến trên thể đa bội chẵn là:\nA. I, III\nB. I, III, IV, V\nC. I, II, III, IV\nD. II, VI",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Số nhóm gen liên kết = số NST đơn bội của loài.\nLoài có $\\mathrm{n}=12 \\rightarrow 2 \\mathrm{n}=24$.\nXét các thể đột biến của đề bài:\nThể đột biến I có số lượng NST trong tế bào sinh dưỡng là 48 nên đây là dạng $4 \\mathrm{n}$.\nThể đột biến II có số lượng NST trong tế bào sinh dưỡng là 84 nên đây là dạng $7 \\mathrm{n}$.\nThể đột biến III có số lượng NST trong tế bào sinh dưỡng là 72 nên đây là dạng $6 \\mathrm{n}$.\nThể đột biến IV có số lượng NST trong tế bào sinh dưỡng là 36 nên đây là dạng $3 \\mathrm{n}$.\nThể đột biến $\\mathrm{V}$ có số lượng NST trong tế bào sinh dưỡng là 60 nên đây là dạng $5 \\mathrm{n}$.\nThể đột biến VI có số lượng NST trong tế bào sinh dưỡng là 108 nên đây là dạng 9 n.\nVậy trong các thể đột biến trên, có 2 thể đột biến đa bội chẵn là thể đột biến I và III\nChọn A"
+    },
+    {
+        "ID": "Bio_4_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Alen $\\mathrm{B}$ ở sinh vật nhân thực có 900 nuclêôtit loại ađênin và có tỉ lệ $\\mathrm{A} / \\mathrm{G}=3 / 2$. Alen $\\mathrm{B}$ bị đột biến thay thế 1 cặp $\\mathrm{A}-\\mathrm{T}$ bằng 1 cặp $\\mathrm{G}-\\mathrm{X}$ trở thành alen $\\mathrm{b}$, tổng số liên kết hidro của alen $\\mathrm{b}$ là:\nA. 3600\nB. 3599\nC. 3601\nD. 3899",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Số loại nu G là: $600: 2 \\times 3=900(\\mathrm{nu})$\nSố nu của gen b là:\n$\\mathrm{G}=900-1=899$\n$A=600+1=601$\nTổng số liên kết hidro của alen b là: $2 \\times 601+3 \\times 899=3899$\nChọn D"
+    },
+    {
+        "ID": "Bio_4_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Trong các mức cấu trúc siêu hiển vi của NST điển hình ở sinh vật nhân thực. Sợi cơ bản và sợi nhiễm sắc có đường kính lần lượt là\nA. $11 \\mathrm{~nm}$ và $30 \\mathrm{~nm}$\nB. $30 \\mathrm{~nm}$ và $11 \\mathrm{~nm}$\nC. $30 \\mathrm{~nm}$ và $300 \\mathrm{~nm}$.\nD. $11 \\mathrm{~nm}$ và $300 \\mathrm{~nm}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Sợi cơ bản và sợi nhiễm sắc có đường kính lần lượt là $11 \\mathrm{~nm}$ và $30 \\mathrm{~nm}$\nChọn A"
+    },
+    {
+        "ID": "Bio_4_16",
+        "Image_Question": "Bio_4/Bio_4_16.png",
+        "Question": "Câu 16:  Hình vẽ sau mô tả 2 cặp NST thường đã nhân đôi trong giảm phân. Các alen của 3 gen $\\mathrm{A}, \\mathrm{B}$ và $\\mathrm{C}$ được kí hiệu bên dưới:\nKhi kết thúc giảm phân, loại giao tử nào trong các loại giao tử sau chiếm tỉ lệ nhỏ nhất nhất?\nA. A1 B1C2\nB. A1B2C1.\nC. A2B1C1.\nD. $\\mathrm{A} 1 \\mathrm{~B} 2 \\mathrm{C} 2$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Vì giao tử hoán vị chiếm tỉ lệ nhỏ hơn giao tử liên kết.\nTỉ lệ giao tử $\\mathrm{A} 1 \\mathrm{~B} 1=\\mathrm{A} 2 \\mathrm{~B} 2<\\mathrm{A} 1 \\mathrm{~B} 2=\\mathrm{A} 2 \\mathrm{~B} 1$\nTỉ lệ $\\mathrm{C} 1=\\mathrm{C} 2=50 \\%$\nDo đó tỉ lệ nhỏ nhất là $\\mathrm{A} 1 \\mathrm{~B} 1 \\mathrm{C} 2$\nChọn A"
+    },
+    {
+        "ID": "Bio_4_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Xét 1 gen $\\mathrm{A}$ có 2 alen là $\\mathrm{A}$ và $\\mathrm{a}$, một quần thể đang cân bằng di truyền và tần số $\\mathrm{A}$ là 0,6 thì kiểu gen Aa chiếm tỉ lệ\nA. 0,25\nB. 0,36\nC. 0,16\nD. 0,48",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{p}=0,6 \\rightarrow \\mathrm{q}=1-0,6=0,4$\nTỉ lệ kiểu gen Aa là: $2 \\times 0,4 \\times 0,6=0,48$\nChọn D"
+    },
+    {
+        "ID": "Bio_4_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Đột biến gen thường dễ phát sinh trong quá trình nào dưới đây?\nA. Dịch mã\nB. Nhân đôi ADN\nC. Phiên mã\nD. Phiên mã và dịch mã",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Đột biến gen thường dễ phát sinh trong quá trình nhân đôi $\\mathrm{ADN}$\nChọn B"
+    },
+    {
+        "ID": "Bio_4_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Cho biết hai gen $A$ và $B$ cùng nằm trên một cặp NST và cách nhau 40 cM. Một cơ thể đực có kiểu gen $\\mathrm{Ab} / \\mathrm{aB}$ tiến hành giảm phân bình thường. Theo lí thuyết, loại tinh trùng $\\underline{\\mathrm{aB}}$ chiếm tỷ lệ bao nhiêu?\nA. $10 \\%$\nB. $25 \\%$\nC. $30 \\%$\nD. $20 \\%$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hai gen $\\mathrm{A}$ và $\\mathrm{B}$ cùng nằm trên một cặp $\\mathrm{NST}$ và cách nhau $40 \\mathrm{cM} \\rightarrow \\mathrm{f}=40 \\% \\rightarrow \\mathrm{aB}=(1-40 \\%): 2=30 \\%$\nChọn C"
+    },
+    {
+        "ID": "Bio_4_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Ở người alen $A$ nằm trên vùng không tương đồng của $\\mathrm{X}$ quy nhìn màu bình thường là trội hoàn toàn so với alen a quy định mù màu. Kiểu gen nào dưới đây là nữ bị mù màu\nA. $X^{a} Y$\nB. $X^{a} X^{a}$\nC. $X^{A} X^{a}$\nD. $X^{A} Y$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Kiểu gen $X^{a} X^{a}$ là nữ bị mù màu\nChọn B"
+    },
+    {
+        "ID": "Bio_4_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Theo lí thuyết, phép lai nào sau đây tạo ra đời con có kiểu hình lặn chiếm tỉ lệ 25\\%, biết gen trội là trội hoàn toàn?\nA. $\\mathrm{Bb} \\times \\mathrm{Bb}$\nB. $\\mathrm{Bb} \\mathrm{x}$ bb.\nC. $\\mathrm{BB} \\times \\mathrm{Bb}$.\nD. $\\mathrm{bb} \\mathrm{x} b \\mathrm{~b}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đời con có kiểu hình lặn chiếm tỉ lệ $25 \\%=50 \\% \\times 50 \\%$\n$\\rightarrow \\mathrm{P}$ dị hợp 1 cặp gen\n$\\rightarrow \\mathrm{P}: \\mathrm{Bb} \\times \\mathrm{Bb}$\nChọn A"
+    },
+    {
+        "ID": "Bio_4_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Theo lí thuyết, cơ thể nào sau đây có kiểu gen dị hợp tử về cả 2 cặp gen?\nA. $\\mathrm{AABb}$\nB. $\\mathrm{AaBb}$\nC. AAbb\nD. aаBB",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể $\\mathrm{AaBb}$ có kiểu gen dị hợp tử về cả 2 cặp gen\nChọn B"
+    },
+    {
+        "ID": "Bio_4_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Một đoạn mạch gốc của gen có trình tự các nuclêôtit 3’... TXG XXT GGA TXG ...5'. Trình tự các nucleotit trên đoạn mARN tương ứng được tổng hợp từ gen này là:\nA. 5'...AGX GGA XXUAGX...3'\nB. 3'...AGX GGA XXU AGX...5'\nC. 5'...UXG XXU GGA UXG...3'\nD. 5'...AGX GGA XXTAGX...3'",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trình tự các nucleotit trên đoạn mARN tương ứng được tổng hợp từ gen này là $5^{\\prime}$...AGX GGA XXUAGX...3'\nChọn A"
+    },
+    {
+        "ID": "Bio_4_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Bộ phận làm nhiệm vụ hút nước và muối khoáng ở rễ là:\nA. miền sinh trưởng\nB. miền lông hút\nC. chóp rễ\nD. miền bần",
+        "Choice": "B",
+        "Image_Answer": "Bio_4/Bio_4_24_a.png",
+        "Explanation": "Bộ phận làm nhiệm vụ hút nước và muối khoáng ở rễ là miền lông hút\nChọn B"
+    },
+    {
+        "ID": "Bio_4_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Khi nói về tuần hoàn máu ở người bình thường, có bao nhiêu phát biểu sau đây đúng?\n(1) Huyết áp ở mao mạch lớn hơn huyết áp ở tĩnh mạch.\n(2) Máu trong tĩnh mạch luôn nghèo oxy hơn máu trong động mạch.\n(3) Trong hệ mạch máu, vận tốc máu trong mao mạch là chậm nhất.\n(4) Lực co tim, nhịp tim và sự đàn hồi của mạch đều có thể làm thay đổi huyết áp.\nA. 4\nB. 1\nC. 3\nD. 2",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Xét các phát biểu\nI, III, IV đúng\nII sai, máu trong tĩnh mạch phổi giàu oxi hơn trong động mạch phổi\nChọn C"
+    },
+    {
+        "ID": "Bio_4_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Động vật nào sau đây có dạ dày 4 ngăn?\nA. Ngựa\nB. Chuột\nC. Thỏ\nD. Trâu",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trâu có dạ dày 4 ngăn\nChọn D"
+    },
+    {
+        "ID": "Bio_4_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Ở một loài thực vật, tính trạng màu hoa do 3 cặp gen Aa, Bb, Dd phân li độc lập quy định. Kiểu gen có đủ 3 gen trội $\\mathrm{A}, \\mathrm{B}, \\mathrm{D}$ quy định hoa tím; các kiểu gen còn lại quy định hoa trắng. Cho một cây hoa tím lai phân tích, thu được Fa. Theo lí thuyết, ở Fa không thể xuất hiện tỉ lệ kiểu hình nào sau đây?\nA. 1 cây hoa tím: 7 cây hoa trắng\nB. 3 cây hoa tím : 5 cây hoa trắng\nC. 1 cây hoa tím :3 cây hoa trắng.\nD. 1 cây hoa tím: 1 cây hoa trắng",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "TH1: Cây đồng hợp trội:AABBDD $\\times$ aabbdd $\\rightarrow 100 \\%$ cây hoa tím TH2: dị hợp 1 cặp gen (AaBBDD; AABbDD; AABBDd) $\\times$ aabbdd $\\rightarrow 1$ tím: 1 trắng TH3: dị hợp 2 cặp gen:(AaBbDD; AABbDd; AaBBDd) $\\times$ aabbdd $\\rightarrow 1$ tím: 3 trắng TH4: dị hợp 3 cặp gen: AaBbDd $\\times$ aabbdd $\\rightarrow 1$ tím: 7 trắng\nChọn B"
+    },
+    {
+        "ID": "Bio_4_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Pha tối trong quang hợp của các nhóm thực vật C3, C4 và CAM đều có chung đặc điểm nào sau đây?\nA. Trải qua chu trình Canvin.\nB. Sản phẩm đầu tiên là APG (axit photpho glixêric)\nC. Diễn ra trên cùng một loại tế bào\nD. Chất nhận CO2 đầu tiên là RiDP (ribulôzo -1,5-điphôtphat)",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Quá trình quang hợp của thực vật $\\mathrm{C} 3, \\mathrm{C} 4$ và $\\mathrm{CAM}$ đều trải qua chu trình Canvin\nChọn A"
+    },
+    {
+        "ID": "Bio_4_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Ở một loài thực vật, tính trạng màu sắc hoa do gen nằm trong tế bào chất quy định. Lấy hạt phấn của cây hoa trắng thụ phấn cho cây hoa đỏ (P), thu được F1. Cho F1 tự thụ phấn thu được F2. Theo lí thuyết, kiểu hình ở F2 là:\nA. $50 \\%$ cây hoa đỏ và $50 \\%$ cây hoa trắng\nB. $100 \\%$ cây hoa đỏ\nC. $100 \\%$ cây hoa trắng\nD. $75 \\%$ cây hoa đỏ và $25 \\%$ cây hoa trắng",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tính trạng do gen nằm trong tế bào chất quy định\n$\\mathrm{P}: \\widehat{\\bigcirc}$ vàng $\\mathrm{x} \\odot$ đỏ\n$\\rightarrow \\mathrm{F} 1: 100 \\%$ đỏ\nF1 tự thụ phấn $\\leftrightarrow \\&$ là hoa đỏ\n$\\rightarrow$ F2: $100 \\%$ hoa đỏ\nChọn B"
+    },
+    {
+        "ID": "Bio_4_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Xét 4 tế bào sinh tinh của một cơ thể có kiểu gen AaBb giảm phân hình thành giao tử. Biết quá trình giảm phân diễn ra bình thường, số loại giao tử tạo ra là tối đa. Cho các trường hợp tỉ lệ các loại giao tử tạo ra dưới đây\n(1) $1: 1$.\n(2) 3:3:1:1.\n(3) 2:2:1:1 .\n(4) 1:1:1:1.\n(5) $3: 1$.\nSố trường hợp có thể xảy ra là\nA. 3\nB. 5\nC. 4\nD. 2",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "TH1: Cả bốn tế bào giảm phân cho cùng kiểu giảm phân cho ra 2 giao tử có kiểu gen $\\mathrm{AB}: \\mathrm{ab} \\rightarrow$ tỉ lệ 1:1 TH2: Có 3 tế bào có cùng kiểu giảm phân cho ra 2 giao tử có kiểu gen $\\mathrm{AB}, \\mathrm{ab}: 1$ tế bào còn lại $(\\mathrm{Ab}, \\mathrm{aB}) \\rightarrow$ 3:3:1:1\nTH3: Hai tế bào có cùng kiểu giảm phân cho ra 2 giao tử có kiểu gen $\\mathrm{AB}, \\mathrm{ab}: 2$ tế bào còn lại cho ra 2 loại giao tử có kiểu gen $(\\mathrm{Ab}, \\mathrm{aB}) \\rightarrow 1: 1: 1: 1$\nTH4: Có 1 tế bào giảm phân giảm phân cho ra hai giao tử có kiểu gen $(\\mathrm{AB}, \\mathrm{ab})$ : tế bào còn lại cho ra 2 loại giao tử có kiểu gen $(\\mathrm{Ab}, \\mathrm{aB}) \\rightarrow 1: 1: 3: 3$\nTH5: Cả bốn tế bào giảm phân cho cùng kiểu giảm phân cho ra 2 giao tử có kiểu gen $\\mathrm{Ab}, \\mathrm{aB} \\rightarrow 1: 1$\nCác phương án đúng là (1), (2), (4)\nChọn A"
+    },
+    {
+        "ID": "Bio_4_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Loại nuclêôtit nào sau đây không phải là đơn phân cấu tạo nên gen?\nA. Guanine\nB. Adenine\nC. Xitozin\nD. Uraxin",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Loại nucleotit uraxin không phải là đơn phân cấu tạo nên gen\nChọn D"
+    },
+    {
+        "ID": "Bio_4_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Một cặp vợ chồng cùng kiểu gen $I^{B} I^{O}$ sinh được một người con trai có nhóm máu B, người con trai này lớn lên lấy vợ có nhóm máu $\\mathrm{AB}$, xác suất để cặp vợ chồng người con trai này sinh 1 đứa cháu trai có nhóm máu A là\nA. $\\frac{1}{4}$\nB. $\\frac{1}{6}$\nC. $\\frac{1}{2}$\nD. $\\frac{1}{12}$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "P: $I^{B} I^{O} x I^{B} I^{O} \\rightarrow 1 I^{B} I^{B}: 2 I^{B} I^{O}: 1 I^{O} I^{O}$\nCon trai nhóm máu $B$ có thể có kiểu gen và tỷ lệ là $\\frac{1}{3} I^{B} I^{B}$ hoặc $\\frac{2}{3} I^{B} I^{O}$\nMà người con sinh ra có nhóm máu $\\mathrm{A} \\rightarrow$ Bố có kiểu gen $\\frac{2}{3} I^{B} I^{O}$\n$\\rightarrow$ Xác suất sinh con trai nhóm máu $\\mathrm{A}$ là: $\\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{2}{3}=\\frac{1}{12}$\nChọn D"
+    },
+    {
+        "ID": "Bio_4_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Quá trình phiên mã đã tạo ra\nA. ADN\nB. protein\nC. Gen\nD. ARN",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Quá trình phiên mã đã tạo ra $\\mathrm{ARN}$\nChọn D"
+    },
+    {
+        "ID": "Bio_4_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Ở một loài động vật, xét 2 cặp gen quy định hai cặp tính trạng, alen trội là trội hoàn toàn. Cho 2 cây $\\mathrm{P}$ đều dị hợp 2 cặp gen giao phấn với nhau, thu được F1có 4\\% số cá thể đồng hợp lặn về 2 cặp gen. Cho biết không xảy ra đột biến và có hoán vị gen ở hai giới với tần số bằng nhau. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\n(I). Cả 2 cây $\\mathrm{P}$ đều có thể xảy ra hoán vị gen với tần số hoán vị là $20 \\%$.\n(II). Ở F1 loại kiểu hình có 1 tính trạng trội chiếm 42\\%.\n(III). Cho cây dị hợp về 2 cặp gen lai phân tích, có thể thu được đời con với tỉ lệ kiểu gen 3:3:2:2 (IV). Có 4 kiểu gen quy định kiểu hình trội về 1 tính trạng\nA. 2\nB. 3\nC. 4\nD. 1",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Có 3 phát biểu đúng, đó là 1 , II và IV.\nI đúng vì có $0,04 \\mathrm{ab} / \\mathrm{ab}=0,1 \\mathrm{ab} \\times \\mathrm{a}, 4 \\mathrm{ab} \\rightarrow$ Tần số hoán vị $20 \\%$\nII đúng vì kiểu hình có 1 tính trạng trội (A-bb và aaB-) có tỉ lệ là\n$2 x(0.25-0.04)=0,42=42 \\%$.\nIII sai vì ở bài này chưa biết tần số hoán vị $20 \\%$ hay $40 \\%$ (Nếu cây 2 cây $\\mathrm{P}$ có kiểu gen giống nhau thì tần số HVG $40 \\%$ ). Do đó, tình huống tần số HVG $40 \\%$ thì khi cây dị hợp 2 cặp gen lai phân tích sẽ thu được đời con có tỉ lệ $3: 3: 2: 2$.\nIV đúng vì kiểu hình trội về 1 tính trạng gồm có A-bb và aaB- nên có tổng số 4 kiểu gen.\nChọn B"
+    },
+    {
+        "ID": "Bio_4_35",
+        "Image_Question": "Bio_4/Bio_4_35.png",
+        "Question": "Câu 35:  Gen B ở sinh vật nhân sơ có trình tự nucleotit như sau\nBiết rằng: chuỗi polipeptit do gen $\\mathrm{B}$ quy định tổng hợp có 50 axit amin\nGUX: Valin UXA: Leucin XXA: Prolin.\nGUU: Valin AGU: Xerin AGA: Acgrinin\nCăn cứ vào các dữ liệu trên, hãy cho biết trong các dự đoán sau, dự đoán nào đúng?\nA. Đột biến thay thế cặp nuclêôtit T-A ở vị trí 58 bằng cặp nuclêôtit $\\mathrm{A}-\\mathrm{T}$ tạo ra alen mới quy định tổng hợp chuỗi pôlipeptit giống với chuỗi pôlipeptit do gen $B$ quy định.\nB. Đột biến thay thế cặp nucleotit A-T ở vị trí 43 bằng cặp nu G-X tạo ra alen mới quy định tổng hợp chuỗi pôlipeptit không thay đổi so với chuỗi polypeptide do gen $B$ quy định tổng hợp\nC. Đột biến thay thế cặp nuclêôtit $\\mathrm{A}-\\mathrm{T}$ ở vị trí 150 bằng cặp nuclêôtit $G-X$ tạo ra alen mới quy định tổng hợp chuỗi pôlipeptit không thay đổi so với chuỗi pôlipeptit cho gen $\\mathrm{B}$ quy định tổng hợp\nD. Đột biến mất một cặp nuclêôtit ở vị trí 88 tạo ra alen mới quy định tổng hợp chuỗi polipeptide có thành phần axit amin thay đổi từ axit amin thứ hai đến axit amin thứ 29 so với chuỗi pôlipeptit do gen $\\mathrm{B}$ quy định tổng hợp.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "B sai, nếu thay thay thế cặp nuclêôtit $\\mathrm{A}-\\mathrm{T}$ ở vị trí 43 bằng cặp nuclêôtit $\\mathrm{G}-\\mathrm{X}$ làm bộ ba gồm 3 nucleotit 43, 44,45 đang quy định Leu thành XXA (Pro)\nA sai, nếu thay thế cặp nuclêôtit T-A ở vị trí 58 bằng cặp nuclêôtit $\\mathrm{A}-\\mathrm{T}$ : AGA (Arg) $\\rightarrow$ UGA (mã kết thúc) D sai, nếu mất một cặp nuclêôtit ở vị trí 88 thì trình tự axit amin sẽ thay đổi từ điểm đột biến (vị trí 87 là thuộc bộ ba mã hóa axit amin số 29) C đúng, nếu thay thế cặp nuclêôtit $\\mathrm{A}-\\mathrm{T}$ ở vị trí 150 bằng cặp nuclêôtit $\\mathrm{G}-\\mathrm{X}$ : GUU (Val) $\\rightarrow$ GUX (Val)\nChọn C"
+    },
+    {
+        "ID": "Bio_4_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Loại đột biến nhiễm sắc thể nào sau đây làm thay đổi số lượng gen trên một nhiễm sắc thể?\nA. Đột biến lệch bội\nB. Đột biến đa bội\nC. Đột biến mất đoạn\nD. Đột biến đảo đoạn",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Các đột biến đa bội, đột biến lệch bội là các đột biến liên quan đến số lượng NST, làm tăng hoặc giảm số lượng NST nên không làm thay đổi số lượng gen trên 1 NST.\n\\item Đột biến đảo đoạn là đột biến cấu trúc NST làm cho một đoạn NST nào đó đứt ra rồi đảo ngược và nối lại, như vậy nó không làm giảm cũng không tăng số lượng gen trên NST.\n\\item Đột biến mất đoạn là đột biến cấu trúc NST, nó làm mất đi một đoạn nào đó của NST. Nó làm giảm số lượng gen trên NST, làm mất cân bằng gen nên thường gây chết với thể đột biến. Như vậy đột biến mất đoạn làm giảm số lượng gen trên một NST\n\\end{itemize}\nChọn C"
+    },
+    {
+        "ID": "Bio_4_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Quần thể nào sau đây có thành phần kiểu gen đạt trạng thái cân bằng?\nA. $25 \\% A A: 25 \\%$ аа: $50 \\%$ Aа\nB. $16 \\% A A: 20 \\%$ Aа: $64 \\%$ аа\nC. $36 \\%$ AA: $48 \\%$ aa: $16 \\%$ Aa\nD. $100 \\% \\mathrm{Aa}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Xét các quần thể ta thấy:\n$25 \\%+50 \\%+25 \\%=1$ và $(50 \\%: 2)^{2}=0,25 \\times 0,25$\nChọn A"
+    },
+    {
+        "ID": "Bio_4_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Ở cà chua A quy định cây quả đỏ là trội hoàn toàn so với a quy định cây quả vàng. Cho một cây cà chua lưỡng bội quả đỏ lai với cây cà chua lưỡng bội quả vàng thu được $F 1$ toàn cây quả đỏ, xử lí cônsixin các cây $F 1$ rồi chọn ngẫu nhiên 2 cây $F 1$ đem lai với nhau thu được F2 . Ở F2 không thể xuất hiện tỉ lệ kiểu hình nào sau đây?\nA. 35 đỏ : 1 vàng\nB. 3 đỏ : 1 vàng\nC. 5 đỏ : 1 vàng\nD. 11 đỏ: 1 vàng",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Quy ước: gen $\\mathrm{A}$ : quả đỏ - gen a: quả vàng\nTH1: P: Aa $x$ aa $\\rightarrow$ F1: Aa: aa\nTH2: P: AA x aa $\\rightarrow$ F1: Aa\nKhi giao phần các cây $\\mathrm{F} 1$ (AAaa, Aa) với nhau, chỉ có tỉ lệ 5 đỏ : 1 vàng là không thể xảy ra vì:\n$A A a a x A A a \\rightarrow 35$ đỏ $: 1$ vàng\n$\\mathrm{AAaa} \\mathrm{x} \\mathrm{Aa} \\rightarrow 11$ đỏ : 1 vàng\nAa $\\mathrm{x}$ Aa $\\rightarrow 3$ đỏ $: 1$ vàng\nChọn C"
+    },
+    {
+        "ID": "Bio_4_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Trong các bộ ba sau đây, bộ ba nào là bộ ba kết thúc quá trình dịch mã?\nA. 5' AUG 3'\nB. 3' UAG 5'\nC. 3' UGA 5'\nD. 3' AGU 5'",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Bộ ba kết thúc quá trình dịch mã là: 3' AGU 5'\nChọn D"
+    },
+    {
+        "ID": "Bio_4_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Ở Cà độc dược có $2 \\mathrm{n}=24$ NST. Có một thể đột biến, trong đó ở cặp NST số 2 có một chiếc bị mất đoạn, ở cặp NST số 5 có một chiếc bị đảo đoạn. Khi giảm phân nếu các cặp NST phân li bình thường thì trong tổng số các giao tử đột biến,tỉ lệ giao tử đột biến về cả 2 NST trên là\nA. $\\frac{1}{2}$\nB. $\\frac{1}{4}$\nC. $\\frac{3}{4}$\nD. $\\frac{1}{3}$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cặp số 2: 1 chiếc bình thường, 1 chiếc đột biến $\\rightarrow$ tạo ra giao tử đột biến $=\\frac{1}{2}$\nCặp số $5: 1$ chiếc bình thường, 1 chiếc đột biến $\\rightarrow$ tạo ra giao tử đột biến $=\\frac{1}{2}$\n$\\rightarrow$ tỉ lệ giao tử đột biến về cả $2 \\mathrm{NST}=\\frac{1}{2} \\times \\frac{1}{2}=\\frac{1}{4}$\nChọn B"
+    }
+]

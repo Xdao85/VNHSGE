@@ -1,0 +1,402 @@
+[
+    {
+        "ID": "Math_31_1",
+        "Image_Question": "Math_31/image001.png",
+        "Question": "Câu 1: Hàm số nào dưới đây có đồ thị như đường cong trong hình dưới đây?\nA. $y=x^{3}-2 x^{2}+1$.\nB. $y=x^{3}+3 x^{2}-1$.\nC. $y=x^{4}-3 x^{2}-1$.\nD. $y=-x^{4}+2 x^{2}-1$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Hình đã cho là đồ thị của hàm số $y=-x^{4}+2 x^{2}-1$."
+    },
+    {
+        "ID": "Math_31_2",
+        "Image_Question": "",
+        "Question": "Câu 2: Cho $a$ là số thực dương. Rút gọn biểu thức $A=a \\sqrt{a^{3} \\cdot \\sqrt{a \\sqrt{a}}}$ về dạng $a^{\\frac{m}{n}}$ trong đó $\\frac{m}{n}$ là phân số tối giản và $m, n \\in \\mathbb{N}^{*}$. Tính giá trị của biểu thức $T=m^{2}+n^{2}$.\nA. 2425 .\nB. 593.\nC. 1369 .\nD. 539 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$$\n\\begin{aligned}\n& A=a \\sqrt{a^{3} \\cdot \\sqrt{a \\sqrt{a}}}=a \\sqrt{a^{3} \\cdot \\sqrt{a \\cdot a^{\\frac{1}{2}}}}=a \\sqrt{a^{3} \\cdot \\sqrt{a^{\\frac{3}{2}}}}=a \\sqrt{a^{3} \\cdot a^{\\frac{3}{4}}}=a \\sqrt{a^{\\frac{15}{4}}}=a \\cdot a^{\\frac{15}{8}}=a^{\\frac{23}{8}} \\\\\n& \\Rightarrow m=23, n=8 \\Rightarrow T=23^{2}+8^{2}=593 .\n\\end{aligned}\n$$"
+    },
+    {
+        "ID": "Math_31_3",
+        "Image_Question": "",
+        "Question": "Câu 3: Tìm tập xác định $D$ của hàm số $y=\\log _{3}\\left(x^{2}-4 x+3\\right)$.\nA. $D=(-\\infty ; 1) \\cup(3 ;+\\infty)$.\nB. $D=(2-\\sqrt{2} ; 1) \\cup(3 ; 2+\\sqrt{2})$.\nC. $D=(-\\infty ; 2-\\sqrt{2}) \\cup(2+\\sqrt{2} ;+\\infty)$.\nD. $D=(1 ; 3)$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Hàm số $y=\\log _{3}\\left(x^{2}-4 x+3\\right)$ xác định khi $x^{2}-4 x+3>0 \\Leftrightarrow\\left[\\begin{array}{l}x<1 \\\\ x>3\\end{array}\\right.$. Vậy tập xác định của hàm số đã cho $D=(-\\infty ; 1) \\cup(3 ;+\\infty)$."
+    },
+    {
+        "ID": "Math_31_4",
+        "Image_Question": "",
+        "Question": "Câu 4: Tính thể tích khối trụ có đường kính đáy bằng 6 , chiều cao bằng 3.\nA. $9 \\pi$.\nB. $54 \\pi$.\nC. $27 \\pi$.\nD. $108 \\pi$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hình trụ có đường kính đáy bằng 6 nên nó có bán kính $r=3$.\nDo đó khối trụ đã cho có thể tích bằng $\\pi r^{2} \\cdot h=\\pi \\cdot 3^{2} \\cdot 3=27 \\pi$."
+    },
+    {
+        "ID": "Math_31_5",
+        "Image_Question": "",
+        "Question": "Câu 5: Cho hình chóp $S . A B C D$ có đáy $A B C D$ là hình vuông và $S A \\perp(A B C D)$. Mệnh đề nào sau đây sai?\nA. $A C \\perp(S B D)$.\nB. $C D \\perp(S A D)$.\nC. $B C \\perp(S A B)$.\nD. $B D \\perp(S A C)$.",
+        "Choice": "A",
+        "Image_Answer": "Math_31/image002.png",
+        "Explanation": "Hình chóp $S . A B C D$ có đáy là hình vuông nên $C D \\perp A D$ mà $C D \\perp S A$ nên $C D \\perp(S A D) \\Rightarrow \\mathbf{B}$ đúng.\nHình chóp $S . A B C D$ có đáy là hình vuông nên $B C \\perp A B$ mà $B C \\perp S A$ nên $B C \\perp(S A B) \\Rightarrow \\mathbf{C}$ đúng.\nHình chóp $S . A B C D$ có đáy là hình vuông nên $A C \\perp B D$ mà $B D \\perp S A$ nên $B D \\perp(S A C) \\Rightarrow \\mathbf{D}$ đúng.\nKết luận $A C \\perp(S B D)$ sai. Thật vậy, giả sử $A C \\perp(S B D)$. Khi đó $A C \\perp S B$ mà có $A C \\perp S A$ nên $A C \\perp(S A B)$ suy ra $A C$ trùng $B C$ (vô lý). Vậy $A C$ không vuông góc với $(S B D)$."
+    },
+    {
+        "ID": "Math_31_6",
+        "Image_Question": "",
+        "Question": "Câu 6: Hàm số $y=\\frac{x-2}{x+1}$ đồng biến trong khoảng nào dưới đây?\nA. $(-\\infty ;-1) \\cup(-1 ;+\\infty)$\nB. $(-\\infty ;-1)$ và $(-1 ;+\\infty)$.\nC. $\\mathbb{R} \\backslash\\{-1\\}$.\nD. $(-\\infty ; 1)$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định: $D=\\mathbb{R} \\backslash\\{-1\\}$.\nTa có $y^{\\prime}=\\left(\\frac{x-2}{x+1}\\right)^{\\prime}=\\frac{3}{(x+1)^{2}}>0 \\forall x \\in D$\nSuy ra hàm số đồng biến trên khoảng $(-\\infty ;-1)$ và $(-1 ;+\\infty)$."
+    },
+    {
+        "ID": "Math_31_7",
+        "Image_Question": "",
+        "Question": "Câu 7: Một hộp chứa 7 quả cầu màu đỏ khác nhau và 6 quả cầu màu xanh khác nhau. Có bao nhiêu cách chọn ra 3 quả cầu khác nhau phải có đủ 2 màu?\nA. 105\nB. 76\nC. 165 \nD. 231",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Gọi $A$ là biến cố \"chọn ra 3 quả cầu khác nhau phải có đủ 2 màu\".\nBiến cố đối của $A$ là $\\bar{A}$ :\"chọn ra 3 quả cầu cùng màu\".\nTrường hợp 1: Chọn ra 3 quả cầu cùng màu đỏ có $C_{7}^{3}=35$\nTrường hợp 2: Chọn ra 3 quả cầu cùng màu xanh có $C_{6}^{3}=20$.\nSuy $\\operatorname{ra} n(\\bar{A})=35+20=55$\nVậy số cách chọn ra 3 quả cầu khác nhau phải có đủ 2 màu: $n(A)=C_{13}^{3}-55=231$."
+    },
+    {
+        "ID": "Math_31_8",
+        "Image_Question": "",
+        "Question": "Câu 8: Gọi $S$ là tập nghiệm của phương trình $\\log _{8}(x+2)^{3}+\\log _{\\frac{1}{2}}\\left(x^{2}-4 x+2\\right)=0$. Tổng các phần tử của $S$ là\nA. 2\nB. -5\nC. 1 .\nD. 5 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\n\\left\\{\\begin{array}{l}\nx+2>0 \\\\\nx^2-4 x+2>0\n\\end{array}\\right.\n=>\n\\left\\{\\begin{array}{l}\nx >-2 \\\\\n\\left[\\begin{array}{l}\nx>2+\\sqrt{2} \\\\\nx<2-\\sqrt{2}\n\\end{array}\\right.\n\\end{array}\\right.\n=>\n\\left[\\begin{array}{l}\nx>2+\\sqrt{2} \\\\\n-2<x<2-\\sqrt{2}\n\\end{array}\\right.\n$\n$\\log _{8}(x+2)^{3}+\\log _{\\frac{1}{2}}\\left(x^{2}-4 x+2\\right)=0 \\Leftrightarrow \\log _{2}(x+2)-\\log _{2}\\left(x^{2}-4 x+2\\right)=0$.\n$\\Leftrightarrow \\log _{2}(x+2)=\\log _{2}\\left(x^{2}-4 x+2\\right) \\Leftrightarrow x+2=x^{2}-4 x+2 \\Leftrightarrow x^{2}-5 x=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x=5\\end{array}\\right.$.\nĐối chiếu với điều kiện ta có tập nghiệm của phương trình là $S=\\{0 ; 5\\}$.\nVậy tổng các phần tử của $S$ là 5 ."
+    },
+    {
+        "ID": "Math_31_9",
+        "Image_Question": "",
+        "Question": "Câu 9: Giá trị lớn nhất của hàm số $y=\\frac{3 x+2}{x-1}$ trên đoạn [2;4] là\nA. 8.\nB. 14.\nC. $\\frac{8}{3}$.\nD. $\\frac{14}{3}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=\\left(\\frac{3 x+2}{x-1}\\right)^{\\prime}=-\\frac{5}{(x-1)^{2}}<0 \\forall x \\in[2 ; 4]$. Suy ra hàm số nghịch biến trên $[2 ; 4]$.\nVậy giá trị lớn nhất của hàm số $y=\\frac{3 x+2}{x-1}$ trên đoạn $[2 ; 4]$ là $y(2)=\\frac{3 \\cdot 2+2}{2-1}=8$."
+    },
+    {
+        "ID": "Math_31_10",
+        "Image_Question": "",
+        "Question": "Câu 10: Cho hình chóp $S . A B C D$ có đáy là hình vuông cạnh $a, S A$ vuông góc với đáy. $S C$ tạo với mặt phẳng $(S A B)$ một góc $30^{\\circ}$. Tính thế tích khối chóp $S . A B C D$\nA. $\\frac{\\sqrt{2} a^{3}}{3}$.\nB. $\\sqrt{2} a^{3}$.\nC. $\\frac{2 a^{3}}{3}$.\nD. $\\frac{\\sqrt{6} a^{3}}{3}$.",
+        "Choice": "A",
+        "Image_Answer": "Math_31/image003.png",
+        "Explanation": "Ta có góc giữa $S C$ và mặt phẳng $(S A B)$ là góc $\\widehat{B S C}$. Suy ra $\\widehat{B S C}=30^{\\circ}$.\nXét tam giác $S B C$ vuông tại $B$ ta có: $\\frac{B C}{S B}=\\tan \\widehat{B S C}$. Suy ra $S B=\\frac{B C}{\\tan \\widehat{B S C}}=\\frac{a}{\\tan 30^{\\circ}}=a \\sqrt{3}$.\n$S A=\\sqrt{S B^{2}-A B^{2}}=\\sqrt{(a \\sqrt{3})^{2}-a^{2}}=a \\sqrt{2}$\nVậy thể tích hình chóp $S . A B C D$ là: $V=\\frac{1}{3} \\cdot S_{A B C D} \\cdot S A=\\frac{1}{3} \\cdot a^{2} \\cdot a \\sqrt{2}=\\frac{a^{3} \\sqrt{2}}{3}$."
+    },
+    {
+        "ID": "Math_31_11",
+        "Image_Question": "",
+        "Question": "Câu 11: Khối lập phương là khối đa diện loại?\nA. $\\{4 ; 3\\}$.\nB. $\\{3 ; 5\\}$.\nC. $\\{3 ; 3\\}$.\nD. $\\{3 ; 4\\}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Khối lập phương là khối đa diện đều loại {4;3}"
+    },
+    {
+        "ID": "Math_31_12",
+        "Image_Question": "",
+        "Question": "Câu 12: Cho hình trụ có bán kính đáy $r=3$ và chiều cao $h=4$. Diện tích xung quanh của hình trụ đã cho bằng\nA. $42 \\pi$.\nB. $24 \\pi$.\nC. $12 \\pi$.\nD. $36 \\pi$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Diện tích xung quanh của hình trụ đã cho bằng $S_{x q}=2 \\pi r h=2 \\pi \\cdot 3 \\cdot 4=24 \\pi$."
+    },
+    {
+        "ID": "Math_31_13",
+        "Image_Question": "",
+        "Question": "Câu 13: Đường tiệm cận đứng của đồ thị hàm số $y=\\frac{4 x+4}{x-1}$ làA. $x=4$.\nB. $y=1$.\nC. $y=4$.\nD. $x=1$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định $D=\\mathbb{R} \\backslash\\{1\\}$.\nTa có $\\lim _{x \\rightarrow 1^{+}} y=\\lim _{x \\rightarrow 1^{+}} \\frac{4 x+4}{x-1}=+\\infty$ và $\\lim _{x \\rightarrow 1^{-}} y=\\lim _{x \\rightarrow 1^{-}} \\frac{4 x+4}{x-1}=-\\infty$ nên đồ thị hàm số có đường tiệm cận đứng là $x=1$."
+    },
+    {
+        "ID": "Math_31_14",
+        "Image_Question": "",
+        "Question": "Câu 14: Phương trình nào sau đây vô nghiệm?\nA. $4 \\sin x-5=0$.\nB. $4 \\sin x-3=0$.\nC. $4 \\sin x-1=0$.\nD. $4 \\sin x+3=0$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phương trình $4 \\sin x-5=0 \\Leftrightarrow \\sin x=\\frac{5}{4}>1$ nên phương trình này vô nghiệm."
+    },
+    {
+        "ID": "Math_31_15",
+        "Image_Question": "",
+        "Question": "Câu 15: Biết $\\log _{a} b=-2$, tính $\\log _{b} a^{2} b^{3}$.\nA. $\\log _{b} a^{2} b^{3}=2$.\nB. $\\log _{b} a^{2} b^{3}=6$.\nC. $\\log _{b} a^{2} b^{3}=4$.\nD. $\\log _{b} a^{2} b^{3}=7$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\log _{b} a^{2} b^{3}=\\frac{\\log _{a} a^{2} b^{3}}{\\log _{a} b}=\\frac{\\log _{a} a^{2}+\\log _{a} b^{3}}{\\log _{a} b}=\\frac{2+3 \\log _{a} b}{\\log _{a} b}=\\frac{2+3 \\cdot(-2)}{-2}=2$."
+    },
+    {
+        "ID": "Math_31_16",
+        "Image_Question": "",
+        "Question": "Câu 16: Nghiệm của phương trình $3^{2 x-1}=27$ là\nA. $x=5$.\nB. $x=1$.\nC. $x=4$.\nD. $x=2$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$3^{2 x-1}=27=3^{3}$\n$\\Leftrightarrow 2 x-1=3$\n$\\Leftrightarrow x=2$"
+    },
+    {
+        "ID": "Math_31_17",
+        "Image_Question": "",
+        "Question": "Câu 17: Mặt cầu $(S)$ có diện tích bằng $20 \\pi$, thể tích khối cầu $(S)$ bằng\nA. $\\frac{20 \\pi \\sqrt{5}}{3}$.\nB. $\\frac{20 \\pi}{3}$.\nC. $\\frac{4 \\pi \\sqrt{5}}{3}$.\nD. $20 \\pi \\sqrt{5}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$S=4 \\pi R^{2}=20 \\pi$\n$\\Rightarrow R=\\sqrt{5}$\n$V=\\frac{4}{3} \\pi R^{3}=\\frac{20 \\pi \\sqrt{5}}{3}$"
+    },
+    {
+        "ID": "Math_31_18",
+        "Image_Question": "",
+        "Question": "Câu 18: Tập xác định của hàm số $y=\\log _{3}(2-x)$.\nA. $(0 ;+\\infty)$.\nB. $\\mathbb{R}$.\nC. $[0 ;+\\infty)$.\nD. $(-\\infty ; 2)$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có : $2-x>0 \\Leftrightarrow x<2$"
+    },
+    {
+        "ID": "Math_31_19",
+        "Image_Question": "",
+        "Question": "Câu 19: Tính thể tích $V$ của khối lập phương $A B C D \\cdot A^{\\prime} B^{\\prime} C^{\\prime} D^{\\prime}$, biết $A^{\\prime} C=a \\sqrt{6}$\nA. $V=\\frac{a^{3} \\sqrt{3}}{3}$.\nB. $V=2 a^{3} \\sqrt{6}$\nC. $V=2 a^{3} \\sqrt{2}$.\nD. $V=3 a^{3} \\sqrt{2}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có : $A^{\\prime} C$ là đường chéo hình lập phương\n$\\Rightarrow A^{\\prime} C=A B \\sqrt{3}$\n$\\Rightarrow A B=\\frac{A^{\\prime} C}{\\sqrt{3}}=a \\sqrt{2}$\n$V=A B^{3}=2 a^{3} \\sqrt{2}$"
+    },
+    {
+        "ID": "Math_31_20",
+        "Image_Question": "",
+        "Question": "Câu 20: Cho khối nón có thiết diện qua trục là một tam giác đều cạnh $a$. Thể tích của khối nón bằng\nA. $\\frac{a^{3} \\sqrt{3}}{24}$.\nB. $\\frac{\\pi a^{3} \\sqrt{3}}{24}$.\nC. $\\frac{\\pi a^{3} \\sqrt{3}}{5}$.\nD. $\\frac{a^{3} \\sqrt{3}}{5}$.",
+        "Choice": "B",
+        "Image_Answer": "Math_31/image004.png",
+        "Explanation": "Khối nón có $2 r=a \\Leftrightarrow r=\\frac{a}{2}$ và $h=\\frac{a \\sqrt{3}}{2}$ suy ra thể tích $V=\\frac{1}{3} \\pi r^{2} h=\\frac{1}{3} \\pi\\left(\\frac{a}{2}\\right)^{2} \\frac{a \\sqrt{3}}{2}=\\frac{\\pi a^{3} \\sqrt{3}}{24}$"
+    },
+    {
+        "ID": "Math_31_21",
+        "Image_Question": "",
+        "Question": "Câu 21: Cho $a$ và $b$ là hai số thực dương thỏa mãn $\\log _{3} a^{2}+\\log _{\\frac{1}{3}} b=2$. Mệnh đề nào dưới đây đúng?\nA. $a^{2}=9 b$.\nB. $b^{2}=9 {a}$.\nC. $b^{2}=a$.\nD. $a^{2}=b$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\log _{3} a^{2}+\\log _{\\frac{1}{3}} b=2 \\Leftrightarrow \\log _{3} a^{2}-\\log _{3} b=2 \\Leftrightarrow \\log _{3} \\frac{a^{2}}{b}=2 \\Leftrightarrow \\frac{a^{2}}{b}=3^{2} \\Leftrightarrow a^{2}=9 b$."
+    },
+    {
+        "ID": "Math_31_22",
+        "Image_Question": "",
+        "Question": "Câu 22: Trong các mệnh đề sau, mệnh đề nào sai?\nA. Hai đường thẳng chéo nhau thì không có điểm chung.\nB. Hai đường thẳng không có điểm chung thì chéo nhau.\nC. Hai đường thẳng chéo nhau khi và chỉ khi chúng không đồng phẳng.\nD. Hai đường thẳng phân biệt không cắt nhau, không song song với nhau thì chéo nhau.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Hai đường thẳng không có điểm chung thì chéo nhau $\\Rightarrow$ Mệnh đề sai vì hai đường thẳng khôngcó điểm chung thì chúng có thể song song."
+    },
+    {
+        "ID": "Math_31_23",
+        "Image_Question": "",
+        "Question": "Câu 23: Với $a$ là số thực dương tùy ý. $\\sqrt[3]{a^{2} \\cdot \\sqrt[5]{a^{3}}}$ bằng\nA. $a^{\\frac{13}{15}}$.\nB. $a^{\\frac{10}{3}}$.\nC. $a^{\\frac{15}{13}}$.\nD. $a^{\\frac{11}{9}}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\sqrt[3]{a^{2} \\cdot \\sqrt[5]{a^{3}}}=\\sqrt[3]{a^{2} \\cdot a^{\\frac{3}{5}}}=\\sqrt[3]{a^{\\frac{13}{5}}}=a^{\\frac{13}{15}}$"
+    },
+    {
+        "ID": "Math_31_24",
+        "Image_Question": "Math_31/image005.png",
+        "Question": "Câu 24: Hàm số $y=f(x)$ có bảng biến thiên như sau:\nSố nghiệm thực của phương trình $2 f(x)-9=0$ là\nA. 3 .\nB. 2 .\nC. 0 .\nD. 1 .",
+        "Choice": "B",
+        "Image_Answer": "Math_31/image006.png",
+        "Explanation": "Ta có $2 f(x)-9=0 \\Leftrightarrow f(x)=\\frac{9}{2} \\Rightarrow$ Phương trình có 2 nghiệm phân biệt."
+    },
+    {
+        "ID": "Math_31_25",
+        "Image_Question": "",
+        "Question": "Câu 25: Tính thể tích $V$ của khối chóp có diện tích đáy bằng 9 , chiều cao bằng 4 .\nA. $V=18$.\nB. $V=36$.\nC. $V=12$.\nD. $V=16$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $V=\\frac{1}{3} B h=\\frac{1}{3} \\cdot 9 \\cdot 4=12$."
+    },
+    {
+        "ID": "Math_31_26",
+        "Image_Question": "Math_31/image007.png",
+        "Question": "Câu 26: Cho hàm số $f(x)$ có bảng biến thiên như hình vẽ\nHàm số $y=f(x)$ có bao nhiêu điểm cực trị?\nA. Có ba điểm.\nB. Có bốn điểm.\nC. Có hai điểm.\nD. Có một điểm.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng biến thiên ta thấy hàm số $f(x)$ có 2 điểm cực trị là $x=-1$ và $x=1$."
+    },
+    {
+        "ID": "Math_31_27",
+        "Image_Question": "",
+        "Question": "Câu 27: Gọi $M, m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số $y=\\frac{2 x+1}{x-1}$ trên đoạn $[-2 ; 0]$. Giá trị của biểu thức $5 M+m$ bằng\nA. -4 .\nB. 4 .\nC. 0 .\nD. 2 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Vì hàm số $y=\\frac{2 x+1}{x-1}$ đơn điệu trên đoạn $[-2 ; 0]$ nên chỉ đạt giá trị lớn nhất, giá trị nhỏ nhất tại hai điểm $-2 ; 0$.\nTa có $f(-2)=1 ; f(0)=-1$ Suy ra $M=1 ; m=-1$. Vậy $5 M+m=4$."
+    },
+    {
+        "ID": "Math_31_28",
+        "Image_Question": "",
+        "Question": "Câu 28: Cho hình nón có bán kính đường tròn đáy là $r$, chiều cao $h$ và độ dài đường sinh $l$. Gọi $S_{x q}, V$ lần lượt là diện tích xung quanh và thể tích của khối nón. Trong các phát biểu sau, phát biểu nào đúng?\nA. $S_{x q}=2 \\pi r l$.\nB. $V=\\frac{1}{3} \\pi r^{2} l$.\nC. $V=\\pi r^{2} h$.\nD. $S_{x q}=\\pi r l$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": ""
+    },
+    {
+        "ID": "Math_31_29",
+        "Image_Question": "",
+        "Question": "Câu 29: Tìm tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y=\\frac{\\sqrt{x+3}-2 x}{x^{2}-1}$\nA. 1\nB. 3\nC. 4\nD. 2",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định: $D=[-3 ;+\\infty) \\backslash\\{ \\pm 1\\}$\nTa có: $\\lim _{x \\rightarrow+\\infty} \\frac{\\sqrt{x+3}-2 x}{x^{2}-1}=0$ nên đồ thị hàm số có tiệm cận ngang $y=0$\n$$\n\\begin{aligned}\n\\lim _{x \\rightarrow 1^{+}} \\frac{\\sqrt{x+3}-2 x}{x^{2}-1}=\\lim _{x \\rightarrow 1^{+}} \\frac{x+3-4 x^{2}}{(x-1)(x+1)(\\sqrt{x+3}+2 x)} & =\\lim _{x \\rightarrow 1^{+}} \\frac{(-4 x-3)(x-1)}{(x-1)(x+1)(\\sqrt{x+3}+2 x)} \\\\\n& =\\lim _{x \\rightarrow 1^{+}} \\frac{(-4 x-3)}{(x+1)(\\sqrt{x+3}+2 x)}=\\frac{-7}{8}\n\\end{aligned}\n$$\n$\\lim _{x \\rightarrow 1^{-}} \\frac{\\sqrt{x+3}-2 x}{x^{2}-1}=\\frac{-7}{8}$\n$\\lim _{x \\rightarrow-1^{+}} \\frac{\\sqrt{x+3}-2 x}{x^{2}-1}=\\lim _{x \\rightarrow-1^{+}} \\frac{(-4 x-3)}{(x+1)(\\sqrt{x+3}+2 x)}=-\\infty$\nNên đồ thị hàm số có 1 tiệm cận đứng $x=-1$\nVậy đồ thị hàm số có 2 đường tiệm cận."
+    },
+    {
+        "ID": "Math_31_30",
+        "Image_Question": "",
+        "Question": "Câu 30: Xét các số nguyên dương chia cho 3 dư 1. Tổng số 50 số nguyên dương đầu tiên đó bằng\nA. 3900\nB. 3725\nC. 7500\nD. 3800",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Gọi dãy số nguyên dương chia cho 3 dư 1 , có $u_{1}=1, d=3$ là: $u_{n}=3 n-2$\nTổng số 50 số nguyên dương đầu tiên đó bằng:\n$S_{50}=\\frac{\\left(u_{1}+u_{50}\\right) \\cdot 50}{2}=\\frac{\\left(2 u_{1}+49 d\\right) \\cdot 50}{2}=\\frac{(2.1+49 \\cdot 3) \\cdot 50}{2}=3725$"
+    },
+    {
+        "ID": "Math_31_31",
+        "Image_Question": "",
+        "Question": "Câu 31: Cho hình chóp đều $S A B C D$. Mặt phẳng $(P)$ chứa $A B$ và đi qua trọng tâm $G$ của tam giác $S A C$ cắt $S C, S D$ lần lượt tại $M, N$. Tỉ lệ $T=\\frac{V_{S \\cdot A B M N}}{V_{S . A B C D}}$ có giá trị là\nA. $\\frac{1}{4}$\nB. $\\frac{1}{2}$.\nC. $\\frac{3}{4}$.\nD. $\\frac{3}{8}$.",
+        "Choice": "D",
+        "Image_Answer": "Math_31/image008.png",
+        "Explanation": "Ta có:\nTrong tam giác $S A C$, kéo dài ${AG}$ cắt $S C$ tại ${M}$ và $M$ là trung điểm $S C$ Trong tam giác $S B D$, kéo dài $B G$ cắt $S D$ tại $N$ và $N$ là trung điểm $S D$\nÁp dụng công thức tỉ số thể tích ta có:\n$a=\\frac{S A}{S A}=1 ; b=\\frac{S B}{S B}=1 ; c=\\frac{S C}{S M}=2 ; d=\\frac{S D}{S N}=2$\nSuy ra: $T=\\frac{V_{S . A B M N}}{V_{S . A B C D}}=\\frac{a+b+c+d}{4 \\cdot a \\cdot b \\cdot c .}=\\frac{1+1+2+2}{4 \\cdot 1 \\cdot 1 \\cdot 2 \\cdot 2}=\\frac{3}{8}$. Chọn đáp án $\\mathbf{D}$"
+    },
+    {
+        "ID": "Math_31_32",
+        "Image_Question": "",
+        "Question": "Câu 32: cho $\\lim _{x \\rightarrow-2} \\frac{a x+b-\\sqrt{2 x+5}}{(x+2)^{2}}=L$ với $L$ là một số thực. Khẳng định nào sau đây đúng?\nA. $a+b=4$\nB. $a^{2}+b^{2}=11$.\nC. $2 a+b=3$.\nD. $-2 a+b=-2$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đặt $f(x)=a x+b-\\sqrt{2 x+5}$. Vì $(x+2)^{2}=0$ có nghiệm kép $x=-2$ nên để $L$ là số thực thì: $\\left\\{\\begin{array}{l}f(-2)=0 \\\\ f^{\\prime}(-2)=0\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}-2 a+b-1=0 \\\\ a-1=0\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}a=1 \\\\ b=3\\end{array}\\right.\\right.\\right.$.\nVậy $a+b=4$."
+    },
+    {
+        "ID": "Math_31_33",
+        "Image_Question": "",
+        "Question": "Câu 33: Cho các số thực $a, b$ thỏa mãn $a>b>1$ và $\\frac{1}{\\log _{b} a}+\\frac{1}{\\log _{a} b}=\\sqrt{2024}$. Giá trị của biểu thức $P=\\frac{1}{\\log _{a b} b}-\\frac{1}{\\log _{a b} a}$ bằng\nA. $\\sqrt{2018}$.\nB. $\\sqrt{2024}$.\nC. $\\sqrt{2022}$.\nD. $\\sqrt{2020}$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có:\n$$\n\\begin{aligned}\n\\frac{1}{\\log _{b} a}+\\frac{1}{\\log _{a} b}=\\sqrt{2024} \\Leftrightarrow \\frac{1}{\\log _{b} a}+\\log _{b} a=2 \\sqrt{506} & \\Leftrightarrow\\left(\\log _{b} a\\right)^{2}-2 \\sqrt{506} \\log _{b} a+1=0 \\\\\n& \\Leftrightarrow\\left[\\begin{array}{l}\n\\log _{b} a=\\sqrt{506}+\\sqrt{505} \\\\\n\\log _{b} a=\\sqrt{506}-\\sqrt{505}\n\\end{array} .\\right.\n\\end{aligned}\n$$\nTa có $P=\\frac{1}{\\log _{a b} b}-\\frac{1}{\\log _{a b} a}=\\log _{b} a b-\\log _{a} a b=1+\\log _{b} a-1-\\log _{a} b$.\n+) Với $\\log _{b} a=\\sqrt{506}-\\sqrt{505}$. Suy ra:\n$\\log _{a} b=\\frac{1}{\\sqrt{506}-\\sqrt{505}} \\Rightarrow P=\\frac{-1}{\\sqrt{506}-\\sqrt{505}}+\\frac{1}{\\sqrt{506}+\\sqrt{505}}=-2 \\sqrt{505}$ (loại).\n+) Với $\\log _{b} a=\\sqrt{506}+\\sqrt{505}$. Suy ra:\n$\\log _{a} b=\\frac{1}{\\sqrt{506}+\\sqrt{505}} \\Rightarrow P=\\sqrt{506}+\\sqrt{505}-\\frac{1}{\\sqrt{506}+\\sqrt{505}}=\\frac{1}{\\sqrt{506}-\\sqrt{505}}-\\frac{1}{\\sqrt{506}+\\sqrt{505}}=2 \\sqrt{505}$\n(thỏa mãn).\nVậy $P=\\frac{1}{\\log _{a b} b}-\\frac{1}{\\log _{a b} a}=2 \\sqrt{505}=\\sqrt{2020}$."
+    },
+    {
+        "ID": "Math_31_34",
+        "Image_Question": "Math_31/image009.png",
+        "Question": "Câu 34: Cho hàm số $y=f(x)$ có đồ thị như hình vẽ bên dưới\nSố nghiệm phân biệt của phương trình $f^{\\prime}(-4-2 f(x))=0$ là\nA. 5 .\nB. 6 .\nC. 3 .\nD. 4 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Từ đồ thị của hàm số $y=f(x)$ ta có: $f^{\\prime}(-4-2 f(x))=0 \\Leftrightarrow\\left[\\begin{array}{l}-4-2 f(x)=0 \\\\ -4-2 f(x)=2\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}f(x)=-2 \\\\ f(x)=-3\\end{array}\\right.\\right.$.\n\\begin{itemize}\n\\item ) Với $f(x)=-2 \\Rightarrow$ có 3 nghiệm phân biệt khác 2 .\n\\item Với $f(x)=-3 \\Rightarrow$ có 2 nghiệm trong đó có nghiệm kép $x=2$.\n\\end{itemize}\nSố nghiệm phân biệt của phương trình $f^{\\prime}(-4-2 f(x))=0$ là 5 ."
+    },
+    {
+        "ID": "Math_31_35",
+        "Image_Question": "",
+        "Question": "Câu 35: Cho hai số thực dương $a, b$ thỏa $\\log _{9} a=\\log _{15} b=\\log _{25}(a+b)$. Tính $\\frac{a}{b}$.A. $\\frac{1}{2}$\nB. $\\frac{-1-\\sqrt{5}}{2}$.\nC. $\\frac{1+\\sqrt{5}}{2}$.\nD. $\\frac{-1+\\sqrt{5}}{2}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đặt $\\log _{9} a=\\log _{15} b=\\log _{25}(a+b)=t \\Rightarrow\\left\\{\\begin{array}{l}a=9^{t} \\\\ b=15^{t} \\\\ a+b=25^{t}\\end{array} \\Rightarrow 9^{t}+15^{t}=25^{t}\\right. (*)$\nChia cả hai vế của $(*)$ cho $25^{t}$ ta được:\n$\\left(\\frac{9}{25}\\right)^{t}+\\left(\\frac{3}{5}\\right)^{t}=1 \\Leftrightarrow\\left[\\left(\\frac{3}{5}\\right)^{t}\\right]^{2}+\\left(\\frac{3}{5}\\right)^{t}-1=0 \\Leftrightarrow\\left[\\begin{array}{l}\\left(\\frac{3}{5}\\right)^{t}=\\frac{1+\\sqrt{5}}{2} \\\\ \\left(\\frac{3}{5}\\right)^{t}=\\frac{1-\\sqrt{5}}{2}<0\\end{array}\\right.$\nTa có $\\frac{a}{b}=\\frac{9^{t}}{15^{t}}=\\left(\\frac{3}{5}\\right)^{t}=\\frac{1+\\sqrt{5}}{2}$."
+    },
+    {
+        "ID": "Math_31_36",
+        "Image_Question": "",
+        "Question": "Câu 36: Cho 2 số thực dương thỏa mãn: $\\log _{9} a=\\log _{15} b=\\log _{25}(a+b)$. Tính $\\frac{a}{b}$.A. $\\frac{1}{2}$.\nB. $\\frac{-1-\\sqrt{5}}{2}$.\nC. $\\frac{1+\\sqrt{5}}{2}$.\nD. $\\frac{-1+\\sqrt{5}}{2}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đặt $\\log _{9} a=\\log _{15} b=\\log _{25}(a+b)={t}$\nSuy ra $a=9^{t}, b=15^{t}, a+b=25^{t}$.\nTa có phương trình: $9^{t}+15^{t}=25^{t} \\Leftrightarrow\\left(\\frac{3}{5}\\right)^{2 t}+\\left(\\frac{3}{5}\\right)^{t}-1=0 \\Leftrightarrow\\left[\\begin{array}{l}\\left(\\frac{3}{5}\\right)^{t}=\\frac{-1-\\sqrt{5}}{2}(l) \\\\ \\left(\\frac{3}{5}\\right)^{t}=\\frac{-1+\\sqrt{5}}{2}({tm})\\end{array}\\right.$\nVậy $\\frac{a}{b}=\\left(\\frac{3}{5}\\right)^{t}=\\frac{-1+\\sqrt{5}}{2}$."
+    },
+    {
+        "ID": "Math_31_37",
+        "Image_Question": "",
+        "Question": "Câu 37: Cho hàm số $y=\\frac{x-m^{2}}{x-8}$ với $m$ là tham số thực. Giả sử $m_{0}$ là giá trị dương của tham số $m$ để hàm số có giá trị nhỏ nhất trên đoạn $[0 ; 3]$ bằng $m$. Giá trị $m_{0}$ thuộc khoảng nào sau đây\nA. $(20 ; 25)$.\nB. $(6 ; 9)$.\nC. $(5 ; 6)$.\nD. $(2 ; 5)$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $: y^{\\prime}=\\frac{8+m^{2}}{(x+8)^{2}}>0, \\forall x \\neq-8$\nDo đó $\\min _{[0 ; 3]} y=y(0)=\\frac{-m^{2}}{8}$. Theo giả thiết $\\min _{[0 ; 3]} y=-3 \\Rightarrow \\frac{-m^{2}}{8}=-3 \\Leftrightarrow m^{2}=24 \\Leftrightarrow m= \\pm 2 \\sqrt{6}$\nVậy $m_{0}=2 \\sqrt{6} \\in(2 ; 5)$."
+    },
+    {
+        "ID": "Math_31_38",
+        "Image_Question": "",
+        "Question": "Câu 38: Tìm giá trị của tham số $m$ để hàm số $y=\\left\\{\\begin{array}{l}\\frac{x^{2}-3 x+2}{x-2}, \\forall x>2 \\\\ 3 x+m, \\forall x \\leq 2\\end{array}\\right.$ liên tục trên\n$\\mathbb{R}$A. $m=-3$.\nB. $m=3$.\nC. $m=6$.\nD. $m=-5$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định $\\mathbb{R}$.\nHàm số đã cho liên tục trên các khoảng $(-\\infty ; 2)$ và $(2 ;+\\infty)$.\nDo đó hàm số liên tục trên $\\mathbb{R}$ khi nó liên tục tại $x=2$\nVậy $\\lim _{x \\rightarrow 2^{+}} f(x)=\\lim _{x \\rightarrow 2^{-}} f(x)=f(2) \\Leftrightarrow \\lim _{x \\rightarrow 2^{+}} \\frac{x^{2}-3 x+2}{x-2}=\\lim _{x \\rightarrow 2^{-}}(3 x+m)=3.2+m$\n$\\Leftrightarrow \\lim _{x \\rightarrow 2^{+}}(x-1)=6+m \\Leftrightarrow m=-5$"
+    },
+    {
+        "ID": "Math_31_39",
+        "Image_Question": "",
+        "Question": "Câu 39: Cắt hình nón $(N)$ đỉnh $S$ cho trước bởi mặt phẳng qua trục của nó, ta được một tam giác vuông cân có cạnh huyền bằng $2 a \\sqrt{2}$. Biết $B C$ là một dây cung của đường tròn đáy hình nón sao cho mặt phẳng $(S B C)$ tạo với mặt phẳng đáy nón một góc $60^{\\circ}$. Tính diện tích tam giác $S B C$.\nA. $\\frac{2 a^{2} \\sqrt{2}}{9}$\nB. $\\frac{4 a^{2} \\sqrt{2}}{3}$.\nC. $\\frac{4 a^{2} \\sqrt{2}}{9}$.\nD. $\\frac{2 a^{2} \\sqrt{2}}{3}$.",
+        "Choice": "D",
+        "Image_Answer": "Math_31/image010.png",
+        "Explanation": "Gọi thiết diện là tam giác vuông $S A B$, khi đó $A B=2 a \\sqrt{2}$ nên hình nón có bán kính $r=a \\sqrt{2}$ và chiều cao $S O=a \\sqrt{2}$.\nGọi $H$ là hình chiếu của $O$ trên $B C$.\nKhi đó $B C \\perp(S O H)$ nên $\\widehat{S H O}=((S B C),(A B C))=60^{\\circ}$.\nSuy ra $O H=S O \\cdot \\cot 60^{\\circ}=\\frac{a \\sqrt{6}}{3}$, do đó $B C=2 B H=2 \\sqrt{O B^{2}-O H^{2}}=\\frac{2 a \\sqrt{3}}{3}$.\nLại có $S H=\\frac{S O}{\\sin 60^{\\circ}}=\\frac{2 a \\sqrt{6}}{3}$ nên $S_{\\triangle S B C}=\\frac{1}{2} \\cdot B C \\cdot S H=\\frac{2 a^{2} \\sqrt{2}}{3}$."
+    },
+    {
+        "ID": "Math_31_40",
+        "Image_Question": "",
+        "Question": "Câu 40: Gọi $S$ là tập hợp tất cả các giá trị $m$ để phương trình $m \\ln x-x \\ln m=x-m$ có 2 nghiệm phân biệt. Tập $S$ là\nA. $\\left(\\frac{1}{e} ; 1\\right) \\cup(1 ;+\\infty)$\nB. $(1 ; e) \\cup(e ;+\\infty)$.\nC. $\\left[\\frac{1}{e} ;+\\infty\\right)$.\nD. $(1 ;+\\infty)$.",
+        "Choice": "A",
+        "Image_Answer": "Math_31/image011.png",
+        "Explanation": "Điều kiện $x>0 ; m>0$\nPhương trình $m \\ln x-x \\ln m=x-m \\Leftrightarrow \\frac{1+\\ln x}{x}=\\frac{1+\\ln m}{m}$\nXét $f(x)=\\frac{1+\\ln x}{x}, \\forall x>0$, ta có $f^{\\prime}(x)=\\frac{-\\ln x}{x^{2}} ; f^{\\prime}(x)=0 \\Leftrightarrow x=1$\nBảng biến thiên $f(x)=\\frac{1+\\ln x}{x}, \\forall x>0$\nDựa vào bảng biến thiên ta suy ra $0<\\frac{1+\\ln m}{m}<1$ hay $\\left\\{\\begin{array}{l}1+\\ln m>0 \\\\ 1+\\ln m<m\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}m>\\frac{1}{e} \\\\ m \\neq 1\\end{array}\\right.\\right.$"
+    },
+    {
+        "ID": "Math_31_41",
+        "Image_Question": "Math_31/image012.png",
+        "Question": "Câu 41: Cho hàm số bậc ba $y=f(x)$ có đồ thị như hình vẽ. Có bao nhiêu số nguyên $m$ để phương trình $f(f(x)-m+1)=0$ có tất cả 9 nghiệm thực phân biệt.\nA. 3 .\nB. 1 .\nC. 0 .\nD. 2 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $f(f(x)-m+1)=0\\left(^{*}\\right) \\Leftrightarrow\\left[\\begin{array}{ll}f(x)-m+1=a, & a \\in(-2 ;-1) \\\\ f(x)-m+1=b, & b \\in(-1 ; 0) \\\\ f(x)-m+1=c, & c \\in(1 ; 2)\\end{array}\\right.$ hay $\\left[\\begin{array}{l}f(x)=m-1+a, \\\\ f(x)=m-1+b, \\\\ f(x)=m-1+c,\\end{array}\\right.$\nĐể phương trình (*) có 9 nghiệm phân biệt thì mỗi phương trình $(1),(2),(3)$ đều có 3 nghiệm phân biệt, khi đó $\\left\\{\\begin{array}{l}-3<m-1+a<1 \\\\ -3<m-1+b<1 \\\\ -3<m-1+c<1\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}-2<m+a<2 \\\\ -2<m+b<2 \\\\ -2<m+c<2\\end{array}\\right.\\right.$\nDo $a \\in(-2 ;-1), b \\in(-1 ; 0), c \\in(1 ; 2)$ nên ta suy ra $\\left\\{\\begin{array}{l}-1<m<4 \\\\ -2<m<3 \\\\ -4<m<1\\end{array} \\Leftrightarrow-1<m<1\\right.$\nVì $m \\in \\mathbb{Z}$ nên $m=0$"
+    },
+    {
+        "ID": "Math_31_42",
+        "Image_Question": "",
+        "Question": "Câu 42: Có bao nhiêu cặp số nguyên dương $(x ; y)$ thoả mãn điều kiện $3\\left(9^{y}+2 y\\right) \\leq x+\\log _{3}(x+1)^{3}-2$ và $x \\leq 2023$ ?\nA. 2 .\nB. 4040 .\nC. 3780 .\nD. 3776 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $3\\left(9^{y}+2 y\\right) \\leq x+\\log _{3}(x+1)^{3}-2 \\Leftrightarrow 3\\left(3^{2 y}+2 y\\right) \\leq x+1+3 \\log _{3}(x+1)-3$ $\\Leftrightarrow 3\\left(3^{2 y}+2 y\\right) \\leq 3^{\\log _{3}(x+1)}+3 \\log _{3}(x+1)-3 \\Leftrightarrow 3^{2 y}+2 y \\leq 3^{\\log _{3}(x+1)-1}+\\log _{3}(x+1)-1$,\nXét hàm số $y=f(t)=3^{t}+t$ có $f^{\\prime}(t)=3^{t} . \\ln 3+1>0, \\forall t$ nên hàm số $y=f(t)=3^{t}+t$ đồng biến.\nTừ $(1) \\Leftrightarrow f(2 y) \\leq f\\left(\\log _{3}(x+1)-1\\right) \\Leftrightarrow 2 y \\leq \\log _{3}(x+1)-1$.\nMà $x \\leq 2023$, suy ra $2 y \\leq \\log _{3}(x+1)-1 \\leq \\log _{3} 2024-1 \\Rightarrow y \\leq \\frac{1}{2} \\log _{3} 2024-\\frac{1}{2}$.\nDo $y$ nguyên dương nên $y=1$ hoặc $y=2$.\n$+)$ Với $y=1 \\Rightarrow \\log _{3}(x+1) \\geq 2.1+1 \\Leftrightarrow x+1 \\geq 27 \\Leftrightarrow x \\geq 26$.\nMà $x \\leq 2023$ và $x$ nguyên dương nên $x \\in\\{26 ; 27 ; \\ldots ; 2023\\}$.\nDo đó có 1998 cặp số nguyên dương $(x ; y)$ thoả mãn.\n+) Với $y=2 \\Rightarrow \\log _{3}(x+1) \\geq 2.2+1 \\Leftrightarrow x+1 \\geq 243 \\Leftrightarrow x \\geq 242$.\nMà $x \\leq 2023$ và $x$ nguyên dương nên $x \\in\\{242 ; 243 ; \\ldots ; 2023\\}$.\nDo đó có 1782 cặp số nguyên dương $(x ; y)$ thoả mãn.\nVậy có tất cả 3780 cặp số nguyên dương $(x ; y)$ thoả mãn yêu cầu bài toán."
+    },
+    {
+        "ID": "Math_31_43",
+        "Image_Question": "",
+        "Question": "Câu 43: Gọi $S$ là tập hợp tất cả các giá trị nguyên của tham số thực $m$ sao cho giá trị lớn nhất của hàm số $y=\\left|\\frac{1}{4} x^{4}-14 x^{2}+48 x+m-30\\right|$ trên đoạn $[0 ; 2]$ không vượt quá 30 . Tổng giá trị các phần tử của tập hợp $S$ bằng bao nhiêu?A. 210 .\nB. 108 .\nC. 136 .\nD. 120 .",
+        "Choice": "C",
+        "Image_Answer": "Math_31/image013.png",
+        "Explanation": "Đặt $g(x)=\\frac{1}{4} x^{4}-14 x^{2}+48 x+m-30 \\Rightarrow g^{\\prime}(x)=x^{3}-28 x+48 \\Rightarrow g^{\\prime}(x)=0 \\Leftrightarrow\\left[\\begin{array}{l}x=-6 \\\\ x=2 \\\\ x=4\\end{array}\\right.$\nBảng biến thiên\nTa có $y=|g(x)| \\Rightarrow \\max _{[0 ; 2]} y=\\max _{[0 ; 2]}|g(x)|=\\max \\{|m+14|,|m-30|\\}$.\nTrường họp 1: Nếu $|m+14| \\geq|m-30| \\Leftrightarrow m \\geq 8$ thì $\\max _{[0 ; 2]} y=|m+14| \\Rightarrow|m+14| \\leq 30$\n$\\Leftrightarrow-30 \\leq m+14 \\leq 30 \\Leftrightarrow-44 \\leq m \\leq 16$.\nDo đó $8 \\leq m \\leq 16$. Trường họp 2: Nếu $|m+14| \\leq|m-30| \\Leftrightarrow m \\leq 8$ thì $\\max _{[0 ; 2]} y=|m-30| \\Rightarrow|m-30| \\leq 30$ $\\Leftrightarrow-30 \\leq m-30 \\leq 30 \\Leftrightarrow 0 \\leq m \\leq 60$.\nDo đó $0 \\leq m \\leq 8$.\nVậy $S=\\{0 ; 1 ; 2 ; 3 ; \\ldots ; 16\\}$. Suy ra tổng giá trị các phần tử của tập hợp $S$ bằng 136 ."
+    },
+    {
+        "ID": "Math_31_44",
+        "Image_Question": "",
+        "Question": "Câu 44: Cho phương trình $\\log _{\\sqrt[3]{2}}\\left(x^{3}+3 x^{2}+4\\right)+(x+2)^{2}(x-1)+8=2^{m}+3 m,(m$ là tham số). Tìm số giá trị nguyên của tham số $m$ để phương trình đã cho có nghiệm duy nhất thuộc $[-2 ; 4)$ ?\nA. 3 .\nB. 4 .\nC. 5 .\nD. 2 .\n\\section{Chọ B}",
+        "Choice": "B",
+        "Image_Answer": "Math_31/image014.png, Math_31/image015.png",
+        "Explanation": "Điều kiện $x^{3}+3 x^{2}+4>0$\nTa có $\\log _{\\sqrt[3]{2}}\\left(x^{3}+3 x^{2}+4\\right)+(x+2)^{2}(x-1)+8=2^{m}+3 m$\n$\\Leftrightarrow 3 \\log _{2}\\left(x^{3}+3 x^{2}+4\\right)+\\left(x^{3}+3 x^{2}+4\\right)=3 \\log _{2} 2^{m}+2^{m}$,\nXét hàm số $y=f(t)=3 \\log _{2} t+t$ với $t>0$ có $f^{\\prime}(t)=\\frac{1}{t \\text {. } \\ln 2}+1>0, \\forall t>0$ nên hàm số $y=f(t)=3 \\log _{2} t+t$ đồng biến trên khoảng $(0 ;+\\infty)$.\nTừ $(1) \\Leftrightarrow f\\left(x^{3}+3 x^{2}+4\\right)=f\\left(2^{m}\\right) \\Leftrightarrow 2^{m}=x^{3}+3 x^{2}+4$.\nĐặt $g(x)=x^{3}+3 x^{2}+4$ với $x \\in[-2 ; 4)$ có $g^{\\prime}(x)=3 x^{2}+6 x \\Rightarrow g^{\\prime}(x)=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x=-2\\end{array}\\right.$.\nBảng biến thiên\nTừ bảng biến thiên suy ra phương trình đã cho có nghiệm duy nhất thuộc $[-2 ; 4)$\n$\\Leftrightarrow\\left[\\begin{array}{l}2^{m}=4 \\\\ 8<2^{m}<116\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}m=2 \\\\ 3<m<\\log _{2} 116\\end{array}\\right.\\right.$.\nMà tham số $m$ nguyên nên $m \\in\\{2 ; 4 ; 5 ; 6\\}$.\nVậy có 4 giá trị nguyên của tham số $m$ để phương trình đã cho có nghiệm duy nhất thuộc $[-2 ; 4)$."
+    },
+    {
+        "ID": "Math_31_45",
+        "Image_Question": "",
+        "Question": "Câu 45: Cho hình tứ diện $O A B C$ có đáy $O B C$ là tam giác vuông tại $O, O B=a, O C=a \\sqrt{3}$. Cạnh $O A$ vuông góc với mặt phẳng $(O B C), O A=a \\sqrt{3}$, gọi $M$ là trung điểm của $B C$. Tính khoảng cách $h$ giữa hai đường thẳng $A B$ và $O M$.\nA. $h=\\frac{a \\sqrt{3}}{15}$.\nB. $h=\\frac{a \\sqrt{5}}{5}$.\nC. $h=\\frac{a \\sqrt{3}}{2}$.\nD. $h=\\frac{a \\sqrt{15}}{5}$.",
+        "Choice": "D",
+        "Image_Answer": "Math_31/image016.png",
+        "Explanation": "Dựng $D$ sao cho $B D / / O M$ và $O M$ là đường trung bình của tam giác $B C D$.\nKhi đó ta có $O M / /(A B D) \\Rightarrow d(A B, O M)=d(O M,(A B D))=d(O,(A B D))$.\nKẻ $O H \\perp B D$. Lại có $B D \\perp O A\\left(\\right.$ do $\\left\\{\\begin{array}{l}O A \\perp(O B C) \\\\ B D \\subset(O B C)\\end{array}\\right)$ suy ra $B D \\perp(A O H)$.\nSuy ra $(A O H) \\perp(A B D)$ theo giao tuyến $A H$.\nTrong $(A H O)$, kẻ $O K \\perp A H$ suy ra $O K \\perp(A B D) \\Leftrightarrow O K=d(O,(A B D))$.\nTrong $\\triangle A H O: \\frac{1}{O K^{2}}=\\frac{1}{O H^{2}}+\\frac{1}{O A^{2}}=\\frac{1}{O D^{2}}+\\frac{1}{O B^{2}}+\\frac{1}{O A^{2}}=\\frac{1}{3 a^{2}}+\\frac{1}{3 a^{2}}+\\frac{1}{a^{2}}$\nSuy ra $O K=\\frac{a \\sqrt{15}}{5}$ hay $d(A B, O M)=\\frac{a \\sqrt{15}}{5}$."
+    },
+    {
+        "ID": "Math_31_46",
+        "Image_Question": "",
+        "Question": "Câu 46: Tìm tất cả các giá trị thực của tham số $m$ để phương trình $2^{x}=m x+1$ có đúng một nghiệm.\nA. $\\left[\\begin{array}{l}m \\leq 0 \\\\ m=\\ln 2\\end{array}\\right.$.\nB. $m>0$.\nC. $\\left\\{\\begin{array}{l}m>0 \\\\ m \\neq \\ln 2\\end{array}\\right.$.\nD. $m=\\ln 2$.",
+        "Choice": "A",
+        "Image_Answer": "Math_31/image017.png, Math_31/image018.png",
+        "Explanation": "Ta có: $2^{x}=m x+1 \\Leftrightarrow 2^{x}-m x=1(*)$. Đặt $f(x)=2^{x}-m x$.\nNhận xét $x=0$ là nghiệm của phương trình $(*)$.\nTa có: $f^{\\prime}(x)=2^{x} \\ln 2-m$.\nTrường hợp $1: m \\leq 0$ khi đó $f^{\\prime}(x)>0, \\forall x \\in \\mathbb{R}$. Ta có bảng biến thiên của $f(x)$ như sau:\nVậy $m \\leq 0$ thỏa yêu cầu bài toán.\nTrường hợp 2: $m>0$. Khi đó $f^{\\prime}(x)=0 \\Leftrightarrow x_{o}=\\log _{2} \\frac{m}{\\ln 2}$. Ta có bảng biến thiên của $f(x)$.\nYêu cầu bài toán $\\Leftrightarrow f\\left(x_{o}\\right)=1$. Lại có $f(0)=1$ nên $x_{o}=0 \\Leftrightarrow \\log _{2} \\frac{m}{\\ln 2}=0 \\Leftrightarrow m=\\ln 2$.\nTóm lại từ hai trường hợp, ta thấy phương trình có đúng 1 nghiệm $\\Leftrightarrow\\left[\\begin{array}{l}m \\leq 0 \\\\ m=\\ln 2\\end{array}\\right.$."
+    },
+    {
+        "ID": "Math_31_47",
+        "Image_Question": "Math_31/image019.png",
+        "Question": "Câu 47: Cho hàm số $y=f(x)$ liên tục trên $\\mathbb{R}$. Biết đồ thị hàm số $y=f^{\\prime}(x)$ như hinh vể sau:\nHàm số $g(x)=f(1+3 x)-3 x^{2}+x+2023$ nghịch biến trên khoảng nào sau đây?\nA. $\\left(\\frac{3}{2} ; 2\\right)$\nB. $\\left(-1 ; \\frac{3}{2}\\right)$\nC. $(-4 ;-1)$.\nD. $\\left(-\\frac{11}{2} ;-4\\right)$.",
+        "Choice": "A",
+        "Image_Answer": "Math_31/image020.png",
+        "Explanation": "$g(x)=f(1+3 x)-3 x^{2}+x+2023 \\Rightarrow g^{\\prime}(x)=3 f^{\\prime}(1+3 x)-6 x+1$\n$g^{\\prime}(x)=0 \\Leftrightarrow f^{\\prime}(1+3 x)=\\frac{2}{3}(1+3 x)-1$\nĐặt $t=3 x+1$ ta được phương trình $f^{\\prime}(t)=\\frac{2}{3} t-1$.\nĐặt $y=f^{\\prime}(t), y=\\frac{2}{3} t-1$\nDựa vào đồ thị để hàm số nghịch biến khi \\left[\\begin{array} { l } \n{ - 3 < 1 + 3 x < 0 } \\\\\n{ 1 + 3 x > 3 }\n\\end{array} \\Leftrightarrow \\left[\\begin{array}{l}\n-\\frac{4}{3}<x<-\\frac{1}{3} \\\\\nx>\\frac{2}{3}\n\\end{array}\\right.\\right. \\text {. }"
+    },
+    {
+        "ID": "Math_31_48",
+        "Image_Question": "",
+        "Question": "Câu 48: Có bao nhiêu số nguyên $x$ sao cho ứng với mỗi $x$ có không quá 242 số nguyên y thỏa mãn $\\log _{4}\\left(2 x^{2}+y\\right) \\geq \\log _{3}(x+y) ?$\nA. 21 .\nB. 40 .\nC. 20 .\nD. 39 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện: $\\left\\{\\begin{array}{l}2 x^{2}+y>0 \\\\ x+y>0\\end{array}\\right.$.\nTa có: $\\log _{4}\\left(2 x^{2}+y\\right) \\geq \\log _{3}(x+y) \\Leftrightarrow 2 x^{2}+y \\geq 4^{\\log _{3}(x+y)} \\Leftrightarrow 2 x^{2}+y \\geq(x+y)^{\\log _{3} 4}(1)$.\nĐiều kiện: $x+y \\geq 1($ do $x, y \\in \\mathbb{Z}, x+y>0)$.\nĐặt $t=x+y(t \\geq 1)$. Ta được $2 x^{2}+t-x \\geq t^{\\log _{3} 4} \\Leftrightarrow 2 x^{2}-x \\geq t^{\\log _{3} 4}-t$\nĐể (1) không có quá 242 nghiệm nguyên $y \\Leftrightarrow$ (2) có không quá 242 nghiệm nguyên dương $t$.\nĐặt $f(t)=t^{\\log _{3} 4}-t$. Ta có: $f^{\\prime}(t)=\\log _{3} 4 \\cdot t^{\\log _{3} 4-1}-1>0 \\quad \\forall t>1 \\Rightarrow f(t)$ là hàm số đồng biến trên $[1 ;+\\infty) \\Rightarrow(2)$ có không quá 242 nghiệm nguyên $\\Leftrightarrow f\\left(t_{1}\\right) \\leq 242$ hay\n$2 x^{2}-x \\leq 242^{\\log _{3} 4}-242 \\Leftrightarrow 2 x^{2}-x-242^{\\log _{3} 4}+242 \\leq 0 \\Leftrightarrow-19,5 \\leq x \\leq 19.96$\nLại có: $x \\in \\mathbb{Z} \\Rightarrow$ Có 39 số nguyên $x$ thỏa mãn bài toán."
+    },
+    {
+        "ID": "Math_31_49",
+        "Image_Question": "",
+        "Question": "Câu 49: Cho hình chóp $S . A B C D$ có đáy $A B C D$ là hình bình hành tâm $O$. Gọi $I$ là điểm thuộc $S O$ sao cho $S I=\\frac{1}{3} S O$. Mặt phẳng $(\\alpha)$ thay đổi đi qua $B$ và $I$ cắt các cạnh $S A, S C, S D$ lần lượt tại $M$ , $N, P$. Gọi $m, n$ lần lượt là giá trị lớn nhất, giá trị nhỏ nhất của tỉ số $\\frac{V_{S . B M P N}}{V_{S . A B C D}}$. Tính $\\frac{m}{n}$ ?\nA. $\\frac{7}{5}$\nB. $\\frac{8}{5}$.\nC. $\\frac{9}{5}$.\nD. 2 .",
+        "Choice": "C",
+        "Image_Answer": "Math_31/image021.png, Math_31/image022.png",
+        "Explanation": "Áp dụng định lý Menelaus ta có $\\frac{P S}{P D} \\frac{I O}{I S} \\frac{B D}{B O}=1 \\Leftrightarrow \\frac{P S}{P D} \\frac{2}{1} \\frac{2}{1}=1 \\Leftrightarrow \\frac{P S}{P D}=\\frac{1}{4} \\Rightarrow \\frac{S D}{S P}=5$.\nĐặt $x=\\frac{S A}{S M}, y=\\frac{S B}{S B}=1, z=\\frac{S C}{S N}, t=\\frac{S D}{S P}=5$ với $x+z=y+t=6 \\Rightarrow z=6-x$\nKhi $N \\equiv C$, Áp dụng định lý Menelaus ta có $\\frac{M S}{M A} \\frac{I O}{I S} \\frac{C A}{C O}=1 \\Leftrightarrow \\frac{M S}{M A}=\\frac{I S}{I O} \\frac{C O}{C A}=\\frac{1}{4} \\Rightarrow \\frac{M S}{M A}=\\frac{1}{4}$.\n$\\Rightarrow 1 \\leq \\frac{S A}{S M} \\leq 5 \\Rightarrow 1 \\leq x \\leq 5$, khi đó ta có $\\frac{V_{S . B M P N}}{V_{S . A B C D}}=\\frac{x+y+z+t}{4 x y z t}=\\frac{3}{5 x(6-x)}$ với $1 \\leq x \\leq 5$.\nTa có $x(6-x)=-(x-3)^{2}+9$ mà $1 \\leq x \\leq 5 \\Rightarrow 5 \\leq x(6-x) \\leq 9 \\Rightarrow \\frac{1}{15} \\leq \\frac{3}{5 x(6-x)} \\leq \\frac{3}{25}$.\n$\\Rightarrow m=\\frac{3}{25}$ và $n=\\frac{1}{15} \\Rightarrow \\frac{m}{n}=\\frac{9}{5}$"
+    },
+    {
+        "ID": "Math_31_50",
+        "Image_Question": "",
+        "Question": "Câu 50: Tại trung tâm thành phố Vĩnh Yên người ta tạo điểm nhấn bằng cách trang trí hình nón có kích thước như sau: đường sinh $l=20({~m})$, bán kính đáy $R=10({~m})$. Biết rằng tam giác $S A B$ là thiết diện qua trục của hình nón và $C$ là trung điểm của $S B$. Trang trí một hệ thống đèn điện chạy từ $A$ đến $C$ trên mặt nón. Tìm giá trị ngắn nhất của chiều dài dây đèn điện tử.\nA. $10 \\sqrt{3}(m)$\nB. $10 \\sqrt{5}(m)$\nC. $30(m)$\nD. $20(m)$",
+        "Choice": "D",
+        "Image_Answer": "Math_31/image023.png",
+        "Explanation": "Trải hình nón ra mặt phẳng ta được một hình quạt. Do thiết $S A B$ là thiết diện qua trục nên $\\widehat{A S B}=\\widehat{B S A^{\\prime}}=\\frac{1}{2} \\widehat{A S A^{\\prime}}$\nTa có chu vi đường tròn đáy của hình nón là $20 \\pi \\Rightarrow \\overparen{A A^{\\prime}}=20 \\pi$.\nChu vi đường tròn tâm $S$ bán kính $S A$ là $40 \\pi \\Rightarrow \\widehat{A S A}=\\frac{20 \\pi}{40 \\pi} 360^{\\circ}=180^{\\circ} \\Rightarrow \\widehat{A S B}=90^{\\circ}$.\nHệ thống đèn ngắn nhất đi từ $A$ đến $C$ là đoạn $A C=\\sqrt{S A^{2}+S C^{2}}=\\sqrt{20^{2}+10^{2}}=10 \\sqrt{5}({~m})$."
+    }
+]

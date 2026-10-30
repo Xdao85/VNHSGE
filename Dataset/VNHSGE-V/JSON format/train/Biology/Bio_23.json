@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_23_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Trong chọn giống, để tạo ra dòng thuần người ta tiến hành phương pháp nào sau đây?\nA. Lai khác thứ, tự thụ phấn.\nB. Tự thụ phấn hoặc giao phối cận huyết.\nC. Lai khác dòng, lai xa.\nD. Lai xa, lai khác nòi.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Từ bảng trên, để tạo được dòng thuần thì phải dùng phương pháp tự thụ phấn hoặc giao phối cận huyết.\nChọn B"
+    },
+    {
+        "ID": "Bio_23_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Trong các mức cấu trúc siêu hiển vi của nhiễm sắc thể điển hình ở sinh vật nhân thực, sợi cơ bản và sợi nhiễm sắc có thể có đường kính lần lượt là:\nA. $11 \\mathrm{~nm}$ và $300 \\mathrm{~nm}$.\nB. $30 \\mathrm{~nm}$ và $11 \\mathrm{~nm}$.\nC. $11 \\mathrm{~nm}$ và $30 \\mathrm{~nm}$.\nD. $30 \\mathrm{~cm}$ và $300 \\mathrm{~nm}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Nhìn vào phương pháp, sợi cơ bản và sợi nhiễm sắc có đường kính lần lượt là $11 \\mathrm{~nm}$ và $30 \\mathrm{~nm}$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Hiện tượng con lai có năng suất, phẩm chất, sức chống chịu, khả năng sinh trưởng và phát triển vượt trội bố mẹ gọi là gì?\nA. Bất thụ.\nB. Thoái hóa giống.\nC. Siêu trội.\nD. Uu thế lai.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Như vậy, hiện tượng con lai có năng suất, phẩm chất, sức chống chịu khả năng sinh trưởng và phát triển vượt trội bố mẹ gọi là ưu thế lai.\nChọn D"
+    },
+    {
+        "ID": "Bio_23_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Lưỡng cư sống được ở nước cạn là vì:\nA. Hô hấp bằng phôi.\nB. Nguồn thức ăn ở hai môi trường đều phong phú.\nC. Hô hấp bằng da và bằng phổi.\nD. Da luôn khô.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ý $A$, sai. Vì nếu chỉ dùng phổi, lưỡng cư không thể tối ưu hô hấp trong môi trường nước.\nÝ B, sai. Vì đề bài đang hỏi đặc điểm thích nghi của lưỡng cư với môi trường.\nÝ $\\mathrm{C}$, đúng.\nÝ D, sai. Vì da lưỡng cư luôn ẩm.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Thứ tự đúng trong quy trình công nghệ nhân bản cừu Đoly.\n\\begin{enumerate}\n\\item Tách tế bào trứng của cừu số 1 và loại bỏ nhân của tế bào trứng này.\n\\item Tách tế bào tuyến vú của cừu số 2 và lấy nhân.\n\\item Chuyển nhân của tế bào tuyến vú vào tế bào trứng dã bị loại bỏ nhân.\n\\item Nuôi cấy trứng đã được cấy nhân trong ống nghiệm cho phát triển thành phôi.\n\\item Nuôi phôi trong môi trường nhân tạo cho phát triển thành cơ thể trọn vẹn.\n\\item Cấy phôi vào tử cung con cừu khác để phôi phát triển và sinh nở bình thường.\nA. $3,4,5$.\nB. $1,2,3,4,5$.\nC. $3,4,6$.\nD. $1,2,3,4,6$.\n\\end{enumerate}",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Theo quy trình trong công nghệ nuôi cấy mô tế bào để tạo cừu Dolly, ta chọn các phương án lần lượt là $1,2,3,4,6$.\nChọn D"
+    },
+    {
+        "ID": "Bio_23_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Trong cơ chế điều hòa hoạt động của Operon Lac, sự kiện nào sau đây diễn ra cả khi môi trường có Lac và khi môi trường không có Lactose?\nA. Gen điều hòa $(\\mathrm{R})$ tổng hợp protein ức chế.\nB. Các gen cấu trúc $\\mathrm{Z}, Y, A$ phiên mã tạo ra các phân tử mRNA tương ứng.\nC. Một số phân tử Lactose liên kết với protein ức chế.\nD. RNA polymerase liên kết với vùng khởi động của Operon Lac và tiến hành phiên mã.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Như vậy, có thể thấy khi trong môi trường có lactose hay không thì protein ức chế vẫn được hình thành.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Nitrogen có vai trò gì trong cơ thể thực vật?\nA. Chủ yếu giữ cân bằng nước và ion trong tế bào, hoạt hóa enzyme, mở khí khổng.\nB. Là thành phần của thành tế bào, màng tế bào, hoạt hóa enzyme.\nC. Tham gia cấu tạo nên các phân tử Protein, enzyme, coenzyme, nucleic acid, diệp lục, ATP,....\nD. Là thành phần của phospholipid, coenzyme; cần cho nở hoa, đậu quả, phát triển rễ...",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ý A, sai. Vai trò nêu ra ở đáp án là vai trò của Kali.\nÝ $\\mathrm{B}$, sai. Màng tế bào có bản chất là Phospholipid không có sự tham gia của $\\mathrm{N}$.\nÝ C, đúng.\nÝ D. sai. Phospholipid không có sự tham gia của N.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Tế bào mạch gỗ của cây gồm quản bảo và\nA. Tế bào nội bì\nB. Tế bào biểu bì\nC. Mạch ống\nD. Tế bào lông hút",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Do tế bào mạch gỗ là các tế bào chết, do đó các loại tế bào như tế bào nội bì, biểu bì, lông hút là các tế bào sống.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Tạo giống bằng phương pháp gây đột biến được sử dụng phổ biến ở các nhóm sinh vật nào?\nA. Thực vật và động vật.\nB. Vi sinh vật và động vật.\nC. Thực vật và vi sinh vật.\nD. Thực vật, động vật và vi sinh vật.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Vì các lý do về nhân đạo, tác nhân đột biến thường không được sử dụng ở động vật vì động vật có hệ thần kinh phát triển cao, chỉ cần một sự thay đổi nhỏ trong bộ máy di truyền vẫn ảnh hưởng các chức năng sinh hoạt bình thường của động vật hoặc có thể gây chết.\nDo đó, trong tạo giống, chỉ dùng phương pháp gây đột biến cho vi sinh vật và thực vật.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Ở động vật chưa có cơ quan tiêu hóa thì\nA. Thức ăn được tiêu hóa ngoại bào và tiêu hóa nội bào\nB. Thức ăn được tiêu hóa nội bào\nC. Một số thức ăn tiêu hóa nội bào, còn lại tiêu hóa ngoại bào\nD. Thức ăn được tiêu hóa ngoại bào",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng trên, những loài chưa có cơ quan tiêu hòa thì sẽ tiến hành tiêu hóa nội bào.\n\\section{Chọn $B$.}"
+    },
+    {
+        "ID": "Bio_23_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Con đường thoát hơi nước qua khí khổng có đặc điểm là:\nA. Vận tốc lớn, được điều chỉnh bằng việc đóng, mở khí khổng.\nB. Vận tốc nhỏ, được điều chỉnh bằng việc đỏng, mở khí khổng.\nC. Vận tốc lớn, không được điều chỉnh bằng việc đóng mở khí khổng.\nD. Vận tốc nhỏ, không được điều chỉnh.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Như vậy, thoát hơi nước qua khí khổng có vận tốc nhanh hay chậm chỉ là tương đối, tuy nhiên sẽ nhanh hơn so với con đường thoát hơi nước qua Kutin.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Trong cơ chế điều hòa hoạt động gen của Operon Lac ở vi khuẩn E.coli, gen điều hòa có vai trò:\nA. Quy định tổng hợp protein ức chế.\nB. Kết thúc quá trình phiên mã của các gen cấu trúc.\nC. Quy định tổng hợp enzyme phân phải Lactose.\nD. Khỏi đầu quá trình phiễn của các gen cấu trúc.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Gen R điều hòa hoạt động của Operon Lac bằng cách tạo ra protein ức chế quá trình phiên mã của Operon Lac.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Cho biết các công đoạn được tiến hành trong chọn giống như sau:\n\\begin{enumerate}\n\\item Tổ hợp gen đã được chọn cho tự thụ phấn hoặc giao phối gần đề tạo ra giống thuần chủng.\n\\item Tạo các dòng thuần chủng có kiểu gen các nhau.\n\\item Lai các dòng thuần chủng với nhau và chọn lọc các tổ hợp gen mong muốn.\nA. $2,1,3$.\nB. 3, 1, 2 .\nC. 2, 3, 1 .\nD. 1, 2, 3 .\n\\end{enumerate}",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào phương pháp, các bước thích hợp để tạo ưu thế lai là $2,3,1$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Cơ quan hô hấp của động vật trên cạn nào sau đây trao đổi khí hiệu quả nhất?\nA. Da của giun đất\nB. Phổi và da của ếch nhái\nC. Phổi của chim\nD. Phổi của bò sát.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cơ quan hô hấp của động vật trên cạn trao đổi khí hiệu quả nhất là phổi chim.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Ở động vật có ống tiêu hóa, thức ăn đi qua ống tiêu hóa được\nA. Biến đổi cơ học và hóa học trở thành những chất dinh dưỡng đơn giản và được hấp thụ vào máu\nB. Biến đổi hóa học, trở thành những chất dinh dưỡng đơn giản và được hấp thụ vào máu\nC. Biến đổi cơ học, trở thành những chất dinh dưỡng đơn giản và được hấp thu vào mọi tế bào\nD. Biến đổi cơ học, trở thành những chất dinh dưỡng đơn giản và được hấp thụ vào máu.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong ống tiêu hóa vừa có sự co bóp của các cơ quan tiêu hóa và các tuyến tiêu hóa.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Cấy truyền phôi có ý nghĩa nào sau đây?\nA. Đa dạng giống cây trồng, tạo giống mới trong thời gian ngắn\nB. Tạo ra những giống có năng suất cao, phẩm chất tốt.\nC. Tạo ra động vật mang gen người nhằm cung cấp nội tạng cho người bệnh\nD. Tạo ra nhiều vật nuôi có kiểu gen giống nhau.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào phương pháp, ta hiểu được cấy truyền phôi có thể tạo ra nhiều vật nuôi có kiểu gen giống nhau.\nChọn D"
+    },
+    {
+        "ID": "Bio_23_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Trong quá trình nhân đôi DNA, một trong những vai trò của enzyme DNA pol là:\nA. bẻ gãy các liên kết Hidro giữa 2 mạch của phân tử DNA.\nB. tổng hợp mạch mới theo nguyên tắc bổ sung với mạch khuôn của DNA.\nC. nối các đoạn Okazaki để tạo thành mạch liên tục.\nD. Tháo xoắn và làm tách hai mạch của phân tử DNA.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A Sai. Enzyme helicase mới là enzyme tham gia cắt đứt liên kết $\\mathrm{H}$.\nB Đúng.\nC Sai. Enzyme Ligase mới là enzyme tham gia nối các đoạn Okazaki.\nD Sai. Enzyme tham gia tháo xoắn 2 mạch của phân tử DNA là RNA polymerase.\nChọn B"
+    },
+    {
+        "ID": "Bio_23_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Phần lớn các ion khoáng xâm nhập vào rễ theo cơ chế chủ động, diễn ra theo phương thức vận chuyển từ nơi có\nA. nồng độ thấp đến nơi có nồng độ cao, đòi hỏi phải tiêu tốn năng lượng.\nB. nồng độ cao đến nơi có nồng độ thấp, cần tiêu tốn ít năng lượng.\nC. nồng độ thấp đến nơi có nồng độ cao, không đòi hỏi tiêu tổn năng lượng.\nD. nồng độ cao đến nơi có nồng độ thấp, không đòi hỏi tiêu tốn năng lượng.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A đúng.\nB sai. Đây là quá trình vận chuyển thụ động các ion tích điện, phân cực.\nC sai. Vận chuyển chủ động cần tiêu tốn năng lượng.\nD sai. Đây là quá trình vận chuyển thụ động.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_19",
+        "Image_Question": "Bio_23/Bio_23_19.jpeg",
+        "Question": "Câu 19:  Phương án chú thích đúng cho các bộ phận ống tiêu hóa của chim là:\nA. 1 - Miệng; 2 - Thực quản; 3 - Diều; 4 - Dạ dày tuyến; 5 - Dạ dày cơ; 6 - Ruột; 7 - Hậu môn.\nB. 1 - Miệng; 2 - Diều; 3 - Thực quản; 4 - Dạ dày tuyến; 5 - Dạ dày cơ; 6 - Ruột; 7 - Hậu môn.\nC. 1 - Miệng; 2 - Diều; 3 - Thực quản; 4 - Dạ dày cơ; 5 - Dạ dày tuyến; 6 - Ruột; 7 - Hậu môn.\nD. 1 - Miệng; 2 - Thực quản; 3 - Diều; 4 - Dạ dày cơ; 5 - Dạ dày tuyến; 6 - Ruột; 7 - Hậu môn.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào phương pháp, ta có thể rút ra quá trình tiêu hóa trong ống tiêu hóa của chim diễn ra như sau:\n1 - Miệng; 2 - Thực quản; 3 - Diều; 4 - Dạ dày tuyến; 5 - Dạ dày cơ; 6 - Ruột; 7 - Hậu môn.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Trong các đặc điểm sau đây, mạch gỗ có bao nhiêu đặc điểm?\n\\begin{enumerate}\n\\item Các tế bào nối đầu với nhau thành ống dài đi từ lá xuống rễ.\n\\item Gồm những tế bào chết.\n\\item Thành tế bào được linhin hóa.\n\\item Đầu của tế bào này gắn với đầu của tế bào kia thành những ống dài từ rễ lên lá.\n\\item Gồm những tế bào sống.\nA. 2\nB. 5\nC. 3\nD. 4",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Sử dụng phương pháp trên ta rút ra được các phát biểu đúng là:\n$(2) ;(3) ;(4)$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Những đặc điểm nào sau đây không đúng với sự tiêu hóa thức ăn ở dạ lá sách?\n\\item Thức ăn được ợ lên ở miệng để nhai lại.\n\\item Tiết pepsin và $\\mathrm{HCl}$ để tiêu hóa protein có ở vi sinh vật và cỏ.\n\\item Hấp thụ bớt nước trong thức ăn.\n\\item Thức ăn được trốn với nước bọt và được vi sinh vật cộng sinh phá vỡ thành tế bào và tiết ra enzyme tiêu hóa Xenlulozo.\n\\end{enumerate}\nPhương án trả lời đúng là:\nA. (2); (3); và (4).\nB. (1); (2); và (3).\nC. (1); (2); và (4).\nD. (1); (3); và (4).",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào phương pháp:\n\\begin{enumerate}\n\\item Đúng.\n\\item Đúng.\n\\item Sai. Vì hấp thụ nước ở dạ dày chỉ xuất hiện ở các loài sống ở sa mạc.\n\\item Đúng. Quá trình này diễn ra ở dạ lá sách.\n\\end{enumerate}\nChọn C"
+    },
+    {
+        "ID": "Bio_23_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Một trong những điểm giống nhau giữa quá trình đôi DNA và quá trình phiên mã ở sinh vật nhân thực là:\nA. Đều theo nguyên tắc bổ sung.\nB. Đều có sự hình thành các đoạn Okazaki.\nC. Đều diễn ra sự hình thành các đoạn Okazaki.\nD. Đều có sự xúc tác enzyme DNA polymerase.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Xét từng ý một:\nA đúng. Vì đều diễn ra sự kết cặp giữa các $\\mathrm{Nu}$.\nB sai. Chỉ có nhân đôi DNA mới cần quá trình nối các đoạn Okazaki.\nC sai. Quá trình phiên mã chỉ diễn ra trên 1 đoạn DNA mang thông tin mã hóa cho mRNA.\nD sai. Chỉ có nhân đôi DNA mới cần sự xúc tác của DNApol.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Cho các sự kiện diễn ra trong quá trình phiên mã như sau:\n\\begin{enumerate}\n\\item RNA polymerase bắt đầu tổng hợp mRNA tại vị trí đặc hiệu ( khởi đầu phiên mã).\n\\item RNA polymerase bám vào vùng điều hòa làm gen tháo xoắn để lộ ra mạch gốc có chiều 3' '5'\n\\item RNA polymerase trượt dọc theo mạch mã gốc của gen có chiều 3'5'\n\\item Khi RNA polymerase di chuyển tới cuối gen, gặp tín hiệu kết thúc thì nó dừng phiên mã.\n\\end{enumerate}\nTrong quá trình phiên mã, các sự kiện trên diễn ra theo trình tự đúng là:\nA. (2) (3) (1) (4)\nB. (1) (4) (3) (2)\nC. (2) (1) (3) (4)\nD. (1) (2) (3) (4)",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào phương pháp, ta rút ra được các bước của quá trình phiên mã theo thứ tự sau:\n2- RNA polymerase bám vào vùng điều hòa làm gen tháo xoắn để lộ ra mạch gốc có chiều 3' 5'\n1- RNA polymerase bắt đầu tổng hợp mRNA tại vị trí đặc hiệu ( khởi đầu phiên mã).\n3- RNA polymerase trượt dọc theo mạch mã gốc của gen có chiều 3'5'\n4- Khi RNA polymerase di chuyển tới cuối gen, gặp tín hiệu kết thúc thì nó dừng phiên mã.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Dạng đột biến điểm nào sau đây làm cho gen bị tăng 1 liên kết Hidro.\nA. Mất một cặp A-T.\nB. Thay thế một cặp G-X bằng một cặp $\\mathrm{A}-\\mathrm{T}$.\nC. Thay thế một cặp A-T bằng một cặp G-X.\nD. Mất một cặp G-X.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Tăng một liên kết $H$ : tức là mất 1 cặp $A-T$; thay bằng 1 cặp $G-X$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Đặc điểm nào sau đây đúng khi nói về đặc điểm di truyền của gen nằm ngoài nhân?\nA. Gen nằm ngoài nhân luôn tồn tại thành từng cặp alen.\nB. Trong quá trình phân bào sự phân chia các gen về tế bào là đồng đều.\nC. Con lai luôn có kiểu hình giống mẹ.\nD. Tính trạng do gen ngoài nhân biểu hiện không đều ở hai giới.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "A Sai. Vì gen trong ti thể tồn tại ở dạng vòng chứ không thành từng cặp tương đồng.\nB Sai. Trong quá trình phân bào gen trong tế bào chất không phân đều về 2 tế bào con.\nC Đúng.\nD Sai. Do gen di truyền theo theo dòng mẹ nên đời con luôn biểu hiện kiểu hình giống mẹ.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Khi nói về quá trình nhân đổi DNA (tái bản DNA) ở tế bào nhân thực, phát biểu nào sau đây là không đúng?\nA. Trong quá trình nhân đôi DNA, enzyme DNA polymerase không tham gia tháo xoắn phân tử DNA.\nB. Sự nhân đôi DNA xảy ra ở nhiều điểm trong mỗi phân tử DNA tạo ra nhiều đơn vị nhân đôi (đơn vị tái bản).\nC. Trong quá trình nhân đôi DNA, có sự liên kết bổ sung giữa $\\mathrm{A}$ với $\\mathrm{T}, \\mathrm{G}$ với $\\mathrm{X}$ và ngược lại.\nD. Trong quá trình nhân đôi DNA, enzyme ligase chỉ tác động lên một trong hai mạch mới của phân tử được tổng hợp của phân tử DNA mẹ.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "A đúng. Tháo xoắn phân tử DNA là vai trò của RNApol.\nB đúng. Quá trình nhân đôi DNA ở sinh vật nhân thực được chia thành nhiều đơn vị tái bản.\nC đúng.\nD sai. Do nhân đôi ở sinh vật nhân thực chia làm nhiều đơn vị tái bản, hai mạch con của DNA mẹ đều có tác động của Ligase.\nChọn D"
+    },
+    {
+        "ID": "Bio_23_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Theo giả thuyết siêu trội, phép lai nào sau đây có ưu thế lai cao nhất?\nA. aabbcc $x$ aabbcc\nB. AABBCC $x$ AABBCC\nC. AabbCC x aabbCC\nD. aaBBcc x AAbbCC.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Kết quả đời con của phép lai nào có nhiều kiểu gen dị hợp về 2 cặp gen nhiều nhất thì sẽ có ưu thế lai cao nhất.\nA đời con không có cặp gen dị hợp nào\n$\\mathrm{B}$ đời con chỉ có 1 cặp gen dị hợp $\\mathrm{AABBCc}$ C đời con có tối đa 1 cặp gen dị hợp AabbCC.\n$\\mathrm{D}$ đời con có tối đa 3 cặp gen dị hợp $\\mathrm{AaBbCc}$.\nChọn D"
+    },
+    {
+        "ID": "Bio_23_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Một gen ở nhân sơ có chiều dai 4080Aº và 3075 liên kết H. Một đột biến điểm không làm thay đổi chiều dài của gen nhưng làm giảm đi 1 liên kết $\\mathrm{H}$. Khi gen đột biến này tự nhân đôi thì số $\\mathrm{Nu}$ mỗi loại môi trường nội bào phải cung cấp là:\nA. $A=T=524 ; \\mathrm{G}=\\mathrm{X}=676$.\nB. $\\mathrm{A}=\\mathrm{T}=676 ; \\mathrm{G}=\\mathrm{X}=524$.\nC. $A=T=526 ; \\mathrm{G}=\\mathrm{X}=674$\nD. $A=T=674 ; G=X=526$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Gen dài $4080 \\mathrm{~A}^{\\circ} \\rightarrow \\mathrm{N}=\\frac{4080 \\times 2}{3,4}=2400 \\rightarrow 2 \\mathrm{~A}+2 \\mathrm{G}=2400_{(1)}$\nGen có 3075 liên kết $\\mathrm{H} \\rightarrow 2 \\mathrm{~A}+3 \\mathrm{G}=3075_{(2)}$\nTừ (1) và (2) ta tính được $\\mathrm{A}=\\mathrm{T}=525(\\mathrm{Nu}) ; \\mathrm{G}=\\mathrm{X}=675(\\mathrm{Nu})$\nGen bị đột biến mất 1 liến kết $\\mathrm{H} \\rightarrow$ thay 1 cặp $\\mathrm{G}-\\mathrm{X}$ bằng 1 cặp $\\mathrm{A}-\\mathrm{T}$\nGen bị đột biến có $\\mathrm{A}_{₫ b}=\\Upsilon_{\\mathrm{db}}=526(\\mathrm{Nu}) ; \\mathrm{G}_{đ b}=\\mathrm{X}_{₫ b}=674(\\mathrm{Nu})$\nDo gen nhân đôi 1 lần nên $\\mathrm{n}=1$. Từ đó suy ra số $\\mathrm{Nu}$ môi trường cung cấp trùng với cố $\\mathrm{Nu}$ từng loại của gen đột biến.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Cho một loài thực vật, xét 1 gen có 3 alen; alen A quy định hoa đỏ, alen $A_{2}$ quy định hoa vàng, alen $\\mathrm{A}_{3}$ quy định hoa trắng. Phép lai $\\mathrm{P}$ : cây hoa đỏ lai với cây hoa vàng, thu được $\\mathrm{F} 1$ có $50 \\%$ cây hoa đỏ; $25 \\%$ cây hoa vàng: $25 \\%$ cây hoa trắng. $\\mathrm{F}_{1}$ giao phấn ngẫu nhiên, thu được $\\mathrm{F}_{2}$. Theo lí thuyết, ở $\\mathrm{F}_{2}$ số cây hoa vàng chiếm tỉ lệ.\nA. $1 / 2$\nB. $3 / 16$\nC. $5 / 16$\nD. $3 / 24$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Quy ước gen: $\\mathrm{A}$ : đỏ; $\\mathrm{A}_{2}$ : vàng; $\\mathrm{A} 3$ : trắng.\n$\\mathrm{P}$ : đỏ $\\left(\\mathrm{AA}_{-}\\right) \\mathrm{x}$ vàng $\\left(\\mathrm{A}_{2} \\mathrm{~A}_{-}\\right) \\rightarrow \\operatorname{trắng~}\\left(\\mathrm{A}_{3} \\mathrm{~A}_{3}\\right)$.\nSơ đồ lai:\nP: Đỏ $\\left(\\mathrm{AA}_{3}\\right)$ x Vàng $\\left(\\mathrm{A}_{2} \\mathrm{~A}_{3}\\right)$\n$\\mathrm{F}_{1}: 0,25 \\mathrm{AA}_{2}: 0,25 \\mathrm{AA}_{3}: 0,25 \\mathrm{~A}_{2} \\mathrm{~A}_{3}: 0,25 \\mathrm{~A}_{3} \\mathrm{~A}_{3}$.\nTỉ lệ giao tử ở $\\mathrm{F}_{1}$ : 0,25 $\\mathrm{A}: 0,25 \\mathrm{~A}_{2}: 0,5 \\mathrm{~A}_{3}$.\n$\\mathrm{F} 1 \\times \\mathrm{F}_{1} \\rightarrow \\mathrm{F}_{2}$ có tỉ lệ hoa vàng $=\\frac{1}{4} \\times \\frac{1}{4}+2 \\times \\frac{1}{4} \\times \\frac{1}{2}=\\frac{5}{16}$\nChọn C"
+    },
+    {
+        "ID": "Bio_23_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Một quần thể thực vật tự thụ phấn, alen A quy định thân cao trội hoàn toàn so với alen a quy định thân thấp; alen B quy định hoa đỏ trội hoàn toàn so với alen b quy định hoa trắng. Thế hệ xuất phát (P) của quần thể này có thành phần kiểu gen là $0,2 \\mathrm{AABb}: 0,2 \\mathrm{AaBb}: 0,2 \\mathrm{Aabb}: 0,4 \\mathrm{aabb}$. Cho rằng quần thể không chịu tác động của các nhân tố tiến hóa khác. Theo lý thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. F F có tối đa 8 kiểu gen.\nII. Tỉ lệ kiểu gen dị hợp tử giảm dần qua các thế hệ.\nIII. Trong tổng số cây thân cao, hoa đỏ ở f2, có $8 / 65$ số cây có kiểu gen dị hợp tử về cả 2 cặp gen.\nA. 2\nB. 1\nC. 3\nD. 4",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ý 1, sai. Có tối đa 9 kiểu gen ở đời con do $\\mathrm{AaBb}$ tự thụ tạo ra.\nÝ 2, đúng. Đây là quần thể tự thụ phấn, không có tác động của các nhân tố tiến hóa khác nên tỉ lệ dị hợp giảm dần qua từng thế hệ.\nÝ 3 , sai.\nBước 1: Tính tị lệ kiểu gen do thể dị hợp tự thụ qua 2 thế hệ.\n$\\mathrm{Aa}=\\mathrm{Bb}=\\frac{1}{4}$\n$\\mathrm{AA}=\\mathrm{aa}=\\mathrm{BB}=\\mathrm{bb}=\\frac{7}{8}$\nBước 2:\n\\begin{itemize}\n\\item Tì lệ cây thân cao, hoa đỏ ở $F_{2}$ :\n\\end{itemize}\n$0,2 \\mathrm{AABb} \\rightarrow \\mathrm{A}_{-} \\mathrm{B}_{-}=0,2 \\times 1 \\times \\frac{3}{8} \\times \\frac{1}{4}$\n$0,2 \\mathrm{AaBb} \\rightarrow \\mathrm{A}_{-} \\mathrm{B}_{-}=0,2 \\times\\left(\\frac{3}{8} \\times \\frac{1}{4}\\right) \\times\\left(\\frac{3}{8} \\times \\frac{1}{4}\\right)$\nTổng lại ti lệ thân cao, hoa đỏ ở $\\mathrm{F}_{2}: \\frac{13}{64}$\n\\begin{itemize}\n\\item Tì lệ thân cao, hoa đỏ dị hợp ó $F_{2}$ :\n\\end{itemize}\n$0,2 \\mathrm{AaBb} \\rightarrow \\mathrm{AaBb}=0,2 \\times \\frac{1}{4} \\times \\frac{1}{4}=\\frac{1}{80}$\n\\begin{itemize}\n\\item Tỉ lệ thân cao, hoa đỏ dị hợp trong tổng số thân cao, hoa đỏ ở $F 2=\\frac{4}{65}$\n\\end{itemize}\nĐề bài hỏi 3 ý, nhưng đáp số có phương án 4 đáp án đúng ??\nChọn B"
+    },
+    {
+        "ID": "Bio_23_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Ở 1 loài thực vật, tính trạng màu sắc hoa cso 2 dạng đỏ và trắng. Cho cây hoa đỏ lai phân tích, đời con thu được tỉ lệ kiểu hình 3 trắng: 1 đỏ. Tính trạng màu sắc hoa được quy định bởi.\nA. 1 cặp gen, di truyền theo quy luật phân ly.\nB. 2 cặp gen, không alen tương tác bổ sung.\nC. 2 cặp gen, di truyền liên kết hoàn toàn.\nD. 2 cặp gen không alen, di truyền theo dòng mẹ.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "P: Cho cây hoa lai phân tích.\nFa: 3 trắng: 1 đỏ.\nĐây là kết quả của phép lai phân tích 1 tính trạng được quy định bởi 2 cặp gen, tương tác bổ sung với nhau.\nP: AaBb x aabb\nFa: AaBb: aaBb: Aabb: aabb $\\rightarrow$ Tỉ lệ kiểu hình ở Fa: 3 trắng: 1 đỏ.\nChọn B"
+    },
+    {
+        "ID": "Bio_23_32",
+        "Image_Question": "",
+        "Question": "Câu 32: (ID:617659)\nCho biết mỗi gen quy định một tính trạng, các alen trội là trội hoàn toàn, quá trình giảm phân không xảy ra đột biến nhưng xảy ra hoán vị gen ở hai giới với tần số như nhau. Tiến hành phép lai $\\mathrm{P}: \\frac{A B}{a b} D d \\times \\frac{A B}{a b} D d$, trong tổng số cá thể thu được ở $\\mathrm{F} 1$, số cá thể có kiểu hình trội về ba tính trạng trên chiếm tỉ lệ 50,73\\%. Theo lí thuyết, số cá thể $F 1$ có kiểu hình lặn về hai trong ba tính trạng trên chiếm tỉ lệ\nA. $16,91 \\%$\nB. $16,04 \\%$\nC. $22,43 \\%$\nD. $27,95 \\%$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "P: $\\frac{A B}{a b} D d \\times \\frac{A B}{a b} \\mathrm{Dd}$\n$\\mathrm{F}_{1}:\\left(\\mathrm{A}_{-} ; \\mathrm{B}_{-}\\right) \\mathrm{D}_{-}=50,67 \\% \\rightarrow\\left(\\mathrm{A}_{-} ; \\mathrm{B}_{-}\\right)=\\frac{50,67 \\%}{\\frac{3}{4}}=0,6764 . \\rightarrow \\frac{a b}{a b}=0,6764-0,5=0,1764$\nCá thể có kiểu hình lặn về 2 cặp gen có thể là:\n$+\\mathrm{D}_{-} \\frac{a b}{a b}=\\frac{3}{4} \\times 0,1764$\n$+\\mathrm{dd}\\left[\\left(\\frac{A b}{a b}+\\frac{a B}{a b}\\right)\\right]=\\frac{1}{4} \\times\\left[\\left(0,25-\\frac{a b}{a b}\\right)\\right] x 2$\nTổng tỉ lệ cá thể có 2 kiểu hình lặn ở $\\mathrm{F}_{1}$ là 16,91\\%\nChọn A"
+    },
+    {
+        "ID": "Bio_23_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Mỗi gen trong cặp gen dị hợp đều chứa 2998 liên kết photphodieste nối giữa các Nu. Gen trội $\\mathrm{D}$ chứa 17,5\\% số Nu loại T. Gen lặn $\\mathrm{d}$ có $\\mathrm{A}=\\mathrm{G}=25 \\%$. Tế bào mang kiểu gen Ddd giảm phân bình thường thì loại giao tử nào sau đây không thể tạo ra?\nA. Giao tử có $1275 \\mathrm{~T}$.\nB. Giao tử có $1500 \\mathrm{G}$.\nC. Giao tử có $1275 \\mathrm{X}$.\nD. Giao tử có $525 \\mathrm{~A}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Mỗi alen trong cặp dị hợp đều chứa 2998 liên kết photphodieste mỗi gen có khoảng $2998+2=3000$ Nu.\n\\end{itemize}\nAlen D có:\n$\\mathrm{A}=\\mathrm{T}=3000 \\times 17,5 \\%=525(\\mathrm{Nu})$\n$\\mathrm{G}=\\mathrm{X}=1500-525=975(\\mathrm{Nu})$\nAlen d có:\n$\\mathrm{A}=\\mathrm{T}=\\mathrm{G}=\\mathrm{X}=750(\\mathrm{Nu})$\n\\begin{itemize}\n\\item Ddd có thể tạo ra các loại giao tử $\\mathrm{Dd} ; \\mathrm{d}$; $\\mathrm{D}$; dd.\n\\end{itemize}\nSố lượng Nu từng loại trong các loại giao tử đột biến.\n\\begin{center}\n\\begin{tabular}{|l|l|l|l|l|}\n\\hline\nSố lượng Nu từng loại & \\multicolumn{1}{|c|}{$\\mathrm{A}$} & \\multicolumn{1}{|c|}{$\\mathrm{T}$} & $\\mathrm{G}$ & X \\\\\n\\hline\nDd & 1275 & 1275 & 1725 & 1725 \\\\\n\\hline\n$\\mathrm{d}$ & 750 & 750 & 750 & 750 \\\\\n\\hline\nD & 525 & 525 & 975 & 975 \\\\\n\\hline\ndd & 1500 & 1500 & 1500 & 1500 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nChọn C"
+    },
+    {
+        "ID": "Bio_23_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Một quần thể lúc thống kê có tỉ lệ các loại kiểu gen là 0,7CC: 0,3cc. Cho quần thể ngẫu phối qua 4 thế hệ, sau đó cho tự phối liên tục qua 3 thế hệ. Tỉ lệ các cá thể dị hợp trong quần thể là bao nhiêu? Biết rằng không có đột biến, không có di nhập gen, các cá thể có sức sống, sức sinh sản như nhau:\nA. 0,60\nB. 0,06\nC. 0,0525\nD. 0,40",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "P: $0,7 \\mathrm{CC}: 0,3 \\mathrm{cc}$.\n$\\mathrm{G}: 0,7 \\mathrm{C}: 0,3 \\mathrm{c}$\nDo qua ngẫu phối, tần số alen và thành phần kiểu gen của quần thể không đổi, do đó qua 4 thế hệ ngẫu phối, tỉ lệ kiểu gen của quần thể là:\n$\\mathrm{F}_{4}: 0,49 \\mathrm{CC}: 0,42 \\mathrm{Cc}: 0,09 \\mathrm{cc}$\n$\\mathrm{F}_{4}$ tự thụ phấn 3 thế hệ, tạo ra $\\mathrm{F}_{7}$, tỉ lệ các cá thể dị hợp trong quần thể ở $\\mathrm{F}_{7}$ là:\n$\\mathrm{Cc}=0,42 \\times \\frac{1}{8}=0,525$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Ở đậu hà lan, alen A quy định thân cao trội hoàn toàn so với alen a quy định thân thấp. Alen B quy định hoa đỏ trội hoàn toàn so với alen $\\mathrm{b}$ quy định hoa trắng; các gen phân li độc lập. Cho 2 cây đậu (P) giao phấn với nhau thu được F1 gồm 37,5\\% thân cao, hoa đỏ: 37,5\\% cây thân thấp, hoa đỏ: 12,5\\% thân cao, hoa trắng: $12,5 \\%$ thân thấp, hoa trắng. Biết rằng không xảy ra đột biến, theo lý thuyết tỉ lệ phân li kiểu gen ở F1 là\nA. 1:1:1:1:1:1:1:1\nB. 3:3:1:1\nC. 2:2:1:1:1:1\nD. 3:1:1:1:1:1",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Xét tính trạng hình dạng thân:\n\\end{itemize}\nP x P tạo F1 có: 0,5 Aa : 0,5 aa P: Aa $\\times$ aa.\n\\begin{itemize}\n\\item Xét tính trạng màu sắc hoa:\n\\end{itemize}\n$\\mathrm{P} \\times \\mathrm{P}$ tạo $\\mathrm{F} 1$ có 3 (1 $\\mathrm{BB}: 2 \\mathrm{Bb}): 1$ bb $\\mathrm{P}: \\mathrm{Bb} \\times \\mathrm{Bb}$.\nTỉ lệ phân li kiểu gen $(1: 1)$. $(1: 2: 1)=2: 2: 1: 1: 1: 1$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Cho $\\mathrm{P}$ có kiểu gen $\\mathrm{Aa}_{1} \\mathrm{a}_{1} \\mathrm{x}$ Aaa . Đời con có tỉ lệ kiểu hình như thế nào? Biết rằng kiểu hình hoa màu đỏ (A) trội hoàn toàn so với màu hoa hồng (a) và hoa hồng trội hoàn toàn so với hóa trắng (a1).\nA. 12 đỏ: 5 hồng: 3 trắng.\nB. 12 đỏ: 4 hồng; 2 trắng.\nC. 9 đỏ: 2 hồng: 1 trắng.\nD. 12 đỏ: 3 hồng: 1 trắng.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{Aa}_{1} \\mathrm{a}_{1}$ cho giao từ với ti lệ $\\frac{1}{3} A a 1: \\frac{1}{3} a 1: \\frac{1}{6} A: \\frac{1}{6} a 1 a 1$\n$\\mathrm{Aa}_{1} \\mathrm{a}_{1}$ cho giao từ với ti lệ $\\frac{1}{6} \\mathrm{Aa}: \\frac{1}{6} \\mathrm{Aa} 1: \\frac{1}{6}$ al $: \\frac{1}{6} a a 1: \\frac{1}{6} A: \\frac{1}{6} a a 1$\nTi lệ hoa đỏ ở đời con: $\\frac{1}{3}+\\frac{1}{6}+\\frac{1}{3} \\times\\left[\\frac{1}{6}+\\frac{1}{6}+\\frac{1}{6}\\right]+\\frac{1}{6} \\times\\left[\\frac{1}{6}+\\frac{1}{6}+\\frac{1}{6}\\right]=\\frac{3}{4}$\nTỉ lệ hoa hồng ở đời con: $\\left[\\frac{1}{6}+\\frac{1}{6}\\right] \\times\\left[\\frac{1}{6}+\\frac{1}{3}\\right]=\\frac{1}{6}$\nTi lệ hoa trắng ở đời con: $1-\\frac{3}{4}-\\frac{1}{6}=\\frac{1}{12}$\nTỉ lệ đỏ: hồng: trắng $=9: 2: 1$.\nChọn C"
+    },
+    {
+        "ID": "Bio_23_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Một loài thực vật, màu hoa do 1 gen có 2 alen quy định; hình dạng quả do 2 cặp gen phân li độc lập cùng quy định. Phép lai P: hai cây giao phấn với nhau, thu được F1 có 40,5\\% cây hoa đỏ, quả tròn : $34.5 \\%$ cây hoa đỏ, quả dài : $15,75 \\%$ cây hoa trắng, quả tròn : $9,25 \\%$ cây hoa trắng, quả dài. Cho biết hoán vị gen xảy ra ở cả quá trình phát sinh giao tử đực và giao tử cái với tần số bằng nhau. Theo lý thuyết, phát biểu nào sau đây sai?\nA. F1 có 6 kiểu gen quy định cây hoa trắng, quả dài.\nB. Tần số hoán bị gen có thể là $20 \\%$.\nC. F1 có tối đa 11 loại kiểu gen quy định cây hoa đỏ, quả dài.\nD. F1 có thể có $3 \\%$ số cây hóa đỏ, quả dài đồng hợp 3 cặp gen.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Tỉ lệ phân li tính trạng của từng cặp gen.\n\\end{itemize}\n\\begin{itemize}\n\\item Tính trạng màu hoa: Đỏ : trắng = 3:1 tính trạng do 1 gen có 2 alen quy định.\n\\end{itemize}\nQuy ước: D: đỏ; d: trắng. Kiểu gen của $\\mathrm{P}: \\mathrm{Dd} \\times \\mathrm{Dd}$.\n\\begin{itemize}\n\\item Tình trạng hình dạng quả : Tròn : dài $=9: 7 \\rightarrow$ tính trạng do 2 gen mỗi gen 2 alen tương tác bổ sung quy định.\n\\end{itemize}\nQuy ước: $\\mathrm{A}_{-} ; \\mathrm{B}_{-}$: tròn ; tất cả các kiểu gen còn lại quy định quả dài. Kiểu gen của $\\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBb}$\nNếu các gen phân li độc lập thì tỉ lệ kiểu hình là (9:7). (3:1) khác với tỉ lệ đề bài $\\rightarrow$ một trong 2 gen quy định hình dạng quả liên kết với gen quy định màu hoa.\n\\begin{itemize}\n\\item Ta có tí lệ kiểu hình ở $F 1$ có:\n\\end{itemize}\n$\\left(\\mathrm{A}_{-} ; \\mathrm{B}_{-} ; \\mathrm{D}_{-}\\right)=40,5 \\%$. Giả sử $\\mathrm{B}$ liên kết với $\\mathrm{D} . \\rightarrow \\mathrm{B}_{-} ; \\mathrm{D}_{-}=0,54 \\rightarrow \\mathrm{bd} / \\mathrm{bd}=0,04$.\n$\\rightarrow$ Có thể xảy $2 \\mathrm{TH}$ :\n$\\mathrm{TH} 1: \\mathrm{P}: \\mathrm{Aa} \\frac{B D}{b d} \\times A a \\frac{B d}{b D} ; f=20 \\%$\nTH2: P:Aa $\\frac{B d}{b D} \\times A a \\frac{B d}{b D} ; f=40 \\%$\n\\begin{itemize}\n\\item Xét các phát biều:\n\\end{itemize}\nÝ $\\mathrm{A}$, sai. Hoa trắng, quả dài $=\\mathrm{aa} \\cdot\\left(\\mathrm{dd} ; \\mathrm{B}_{-}+\\mathrm{dd}, \\mathrm{bb}\\right)+\\mathrm{A}_{-}(\\mathrm{dd}, \\mathrm{bb})=1 \\mathrm{x}(2+1)+2 \\mathrm{x} 1=5$\nÝ $\\mathrm{B}$, đúng.\nÝ $\\mathrm{C}$, đúng. $\\mathrm{F} 1$ có hoa đó, quả dài $=\\mathrm{aa}\\left(\\mathrm{D}_{-}, \\mathrm{B}_{-}+\\mathrm{D}_{-} \\mathrm{bb}\\right)+\\mathrm{A}_{-}\\left(\\mathrm{D}_{-}, \\mathrm{bb}\\right)=1 \\times(5+2)+2 \\times 2=11$ kiểu gen.\nÝ D, đúng. Đúng cho cả 2 trường hợp . vì:\nHoa đò, quả dài $=\\mathrm{aa}(\\mathrm{bD} / \\mathrm{bD}+\\mathrm{BD} / \\mathrm{BD})+\\mathrm{AA}(\\mathrm{bD} / \\mathrm{bD})=\\frac{1}{4} \\times 12 \\%=3 \\%$.\nChọn A"
+    },
+    {
+        "ID": "Bio_23_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Ở gà, gen quy định màu lông nằm ở vùng không tương đồng của NST giới tính $\\mathrm{X}$ có hai alen; alen $\\mathrm{A}$ quy định lông vằn trội hoàn toàn so với alen $\\mathrm{a}$ quy định lông không vằn. Gen quy định chiều cao chân nằm trên NST thường có 2 alen; alen $\\mathrm{B}$ quy định chân cao trội hoàn toàn so với alen $\\mathrm{b}$ quy định chân thấp. Phép lai $\\mathrm{P}:$ ổ lông vằn, chân thấp thuần chủng $\\mathrm{x}$ \\& lông không vằn, chân cao thuần chủng, thu được $\\mathrm{F} 1$. Cho giao phối với nhau thu được F2. Theo lý thuyết, có bao nhiêu phát biểu sau đúng về F2?\nI. Tỉ lệ gà mái lông vằn, chân thấp bằng tỉ lệ gà mái lông không vằn, chân thấp.\nII. Tỉ lệ gà trống lông vằn, chân thấp bằng tỉ lệ gà mái lông vằn, chân cao.\nIII.Tất cả gà lông không vằn, chân cao đều là gà trống.\nIV. Tỉ lệ gà trống lông vằn, chân thấp bằng tỉ lệ gà mái lông không vằn, chân cao.\nA. 2\nB. 4\nC. 3\nD. 1",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "P: ♂ lông vằn, chân thấp thuần chủng $\\times$ ♀ lông không vằn, chân cao thuần chủng\n$\\mathrm{P}: \\overparen{\\Im} \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{A}} \\mathrm{bbx} \\odot \\mathrm{X}^{\\mathrm{a}} \\mathrm{YBB}$\nF1: ♂$X^AX^aBb$\n$+\\mathrm{X}^{\\mathrm{A}} \\mathrm{YBb}$\n$F1 \\times F1$: ♂$X^AX^aBb$ $\\times$ ♀$X^AYBb$\nF2: $8\\left(\\frac{1}{4} \\mathrm{X}^{A} \\mathrm{X}^{\\mathrm{A}}: \\frac{1}{4} \\mathrm{X}^{A} \\mathrm{X}^{2}\\right) \\cdot\\left(\\frac{1}{4} B B: \\frac{1}{2} B b: \\frac{1}{4} b b\\right)$\n$$\n\\rho\\left(\\frac{1}{4} \\mathrm{X}^{A} \\mathrm{Y}: \\frac{1}{4} \\mathrm{X}^{2} \\mathrm{Y}\\right)\\left(\\frac{1}{4} B B: \\frac{1}{2} B b: \\frac{1}{4} b b\\right)\n$$\nÝ 1 , đúng. Đều bằng $\\frac{1}{4}$\nÝ 2, sai. gà trống lông vằn, chân thấp $=\\frac{1}{2} \\times \\frac{1}{4}=\\frac{1}{8}$\ngà mái lông vằn, chân cao $=\\frac{1}{4} \\times \\frac{3}{4}=\\frac{3}{8}$\nÝ 3 , sai. Tất cả gà lông không vằn, chân cao đều là gà mái.\nÝ 4 , sai. gà trống lông vằn, chân thấp $=\\frac{1}{2} \\times \\frac{1}{8}=\\frac{1}{16}$\ngà mái lông không vằn, chân $\\mathrm{cao}=\\frac{1}{4} \\times \\frac{3}{4}=\\frac{3}{16}$\nChọn D"
+    },
+    {
+        "ID": "Bio_23_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Ở một loài chim alen A: chân cao; alen a: chân thấp, alen B: lông đuôi dài, alen b: lông đuôi ngắn. Cho chim thuần chân cao, lông đuôi dài giao phối với chim thuần chủng chân thấp, lông đuôi ngắn thu được F1 đồng loạt chân cao, lông đuôi dài. Cho chim mái F1 giao phối với chim trống chân thấp, lông đuôi ngắn thu được $\\mathrm{F} 2$ như sau: $25 \\%$ chim trống chân cao, lông đuôi dài: $25 \\%$ chim trống chân thấp, lông đuôi dài: $25 \\%$ chim mái chân thấp, lông đuôi ngắn: $25 \\%$ chim mái chân cao, lông đuôi ngắn. Nếu cho các chim F2 giao phối tự do với nhau thì tỉ lệ chim trống chân cao, lông đuôi dài thu được ở đời lai là:\nA. $9 / 32$\nB. $9 / 16$\nC. $7 / 16$\nD. $7 / 64$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Xét riêng từng tính trạng:\n\\end{itemize}\n\\begin{itemize}\n\\item Tính trạng chiều cao chân ở F2 biểu hiện đều ở 2 giới ? gen Aa nằm trên NST thường.\n\\item Tính trạng độ dài đuổi biểu hiện không đều ở 2 giới ? gen Bb nằm trên NST giới tính chỉ có alen trên $\\mathrm{X}$ không có alen tương ứng trên $Y$.\n\\end{itemize}\n\\begin{itemize}\n\\item Từ kiểu gen của $\\mathrm{F}_{2}$ suy ra con cái $\\mathrm{F} 1$ có kiểu gen $\\mathrm{AaX} X_{\\mathrm{B}} Y$.\n\\item Nếu chim mái $F_{1}$ lai với chim trống chân thấp không đuôi ngắn:\n\\end{itemize}\n$F_{1} \\times F_{1}$ tạo $F_{2}$ (1Aa: 1aa) $x\\left(1 \\underline{X}_{B} X_{b}: 1 X_{b} Y\\right)$\n\\begin{itemize}\n\\item F2 giao phối tự do tạo F3 có tỉ lệ trống cao, dài:\n\\end{itemize}\n$$\n=\\mathrm{A}-\\mathrm{X}^{\\mathrm{B}} \\mathrm{X}^{-}=(1-\\mathrm{aa}) \\mathrm{X}^{\\mathrm{B}} \\mathrm{X}^{-}=\\left(1-\\frac{3}{4} \\times \\frac{3}{4}\\right) \\times \\frac{1}{4}=\\frac{7}{64}\n$$\nChọn D"
+    },
+    {
+        "ID": "Bio_23_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Ở một loài thực vật, tính trạng hình dạng quả do hai cặp gen A,a và B,b phân li độc lập quy định. Kiểu gen có cả 2 loại alen trội $\\mathrm{A}$ và $\\mathrm{B}$ quy định quả dẹt; kiểu gen chỉ có một trong hai loại alen trội A hoặc $\\mathrm{B}$ quy định quả tròn; kiểu gen không có alen trội nào quy định quả dài. Tính trạng màu sắc hoa do cặp gen $\\mathrm{D}, \\mathrm{d}$ quy định; alen $\\mathrm{D}$ quy định hoa đỏ trội hoàn toàn so với alen $\\mathrm{d}$ quy định hoa trắng. Cho cây quả dẹt, hoa đỏ (P) tự thụ phấn, thu được $F 1$ có tỉ lệ 6 cây quả dẹt, hoa đỏ: 5 cây quả tròn, hoa đỏ: 3 cây quả dẹt, hoa trắng: 1 cây quả dài, hoa đỏ: 1 cây quả tròn, hoa trắng. Biết rằng không có hoán vị gen. Theo lý thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Kiểu gen của $\\mathrm{P}$ có thể là $\\frac{A D}{a d} B b$.\nII Trong số các cây quả tròn, hoa đỏ ở $\\mathrm{F} 1$, cây thuần chủng chiếm $20 \\%$.\nIII. Ở $\\mathrm{F} 1$, có 3 kiểu gen quy định kiểu hình quả tròn, hoa đỏ.\nIV. Cho $\\mathrm{P}$ lai phân tích thu được đời con có tỉ lệ kiểu hình là 1:2:1.\nA. 4\nB. 1\nC. 3\nD. 2",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{P}$ : Quả dẹt, hoa đỏ x Quả dẹt, hoa đỏ.\nF1: 6 quả dẹt, hoa đỏ.\n5 quả tròn, hoa đỏ.\n3 quả dẹt, hoa trắng.\n1 quả dài, hoa trắng.\n1 quả tròn, hoa trắng.\nXét tính trạng hình dạng quả: ở F1, Dẹt: tròn: dài = 9:6:1 $\\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBb}$.\nXét tính trạng màu hòa: ở $\\mathrm{F} 1$, đỏ: trắng $=3: 1 \\mathrm{P}: \\mathrm{Dd} \\mathrm{x}$ Dd.\nTa có, (9:6:1). (3:1) khác với tỉ lệ đề bài $\\rightarrow$ đã có sự liên kết giữa $\\mathrm{A}$ hoặc $\\mathrm{B}$ với gen $\\mathrm{D}$.\nTrong $\\mathrm{TH}$ này, giả sử $\\mathrm{A}$ liên kết với $\\mathrm{D}$.\nLại có, F1 $\\frac{6}{16}$ quả dẹt, hoa đỏ $\\rightarrow\\left(\\mathrm{A}_{\\text {: }}\\right.$ D $\\left.~\\right) ~=\\frac{6}{16} \\div \\frac{3}{4}=\\frac{1}{2} \\rightarrow$ không có kiểu gen $\\frac{a d}{a d}$ ở $\\mathrm{F} 1 \\rightarrow$ kiểu gen của $\\mathrm{P}$ là liên kết chéo, không hoán vị gen.\n$\\mathrm{P}: \\frac{A d}{a D} B b \\times \\frac{A d}{a D} B b$\nY 1, sai.\nÝ 2, đúng. Ở $\\mathrm{F} 1$, quả tròn, hoa đỏ thuần chủng $=\\frac{a D}{a D} B B=\\frac{1}{2} \\times \\frac{1}{2} \\times \\frac{1}{4}=\\frac{1}{16}$\nTỉ lệ quả tròn, hoa đỏ thuần chủng / quả tròn, hoa đỏ ở $\\mathrm{F} 1=\\frac{1}{16}: \\frac{5}{16}=\\frac{1}{5}=0,2$\nÝ 3 , đúng. Có 3 kiểu gen quy định quả tròn, hoa đò: $\\frac{a D}{a D} B B ; \\frac{a D}{a D} B b ; \\frac{A d}{a D} b b$\nÝ 4 , sai. $\\frac{A d}{a D} B b x \\frac{a d}{a d}$ bb cho tì lệ kiều hình đời con là $1: 1: 1: 1$\nChọn D"
+    }
+]

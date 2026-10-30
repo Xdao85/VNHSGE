@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_7_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Cho các bệnh, tật và hội chứng di truyền sau đây:\n\\begin{enumerate}\n\\item Bệnh phêninkêtô niệu. 2. Bệnh ung thư máu $\\quad$ 3. Tật có túm lông ở vành tai\n\\item Hội chứng Đao 5. Hội chứng tơcnơ 6. Bệnh máu khó đông.\n\\end{enumerate}\nCó bao nhiêu bệnh, tật, hội chứng di truyền có thể gặp ở cả nam và nữ là\nA. 2\nB. 4\nC. 3\nD. 5",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Bệnh tật, hội chứng di truyền có thể gặp ở nam và nữ là:\n\\begin{enumerate}\n\\item Bệnh phêninkêtô niệu (do đột biến gen lặn trên NST thường gây ra)\n\\item Bệnh ung thư máu (do đột biến mất đoạn NST số 21 gây ra)\n\\item Hội chứng Đao (do đột biến thể ba nhiễm cặp NST số 21)\n\\item Bệnh máu khó đông (do đột biến gen lặn trên vùng không tương đồng của NST X gây ra)\n\\end{enumerate}\nChọn B"
+    },
+    {
+        "ID": "Bio_7_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Một quần thể thực vật đang ở trạng thái cân bằng di truyền có tần số alen $\\mathrm{A}$ là 0,3 . Theo lí thuyết, tần số kiểu gen $\\mathrm{AA}$ của quần thể này là\nA. 0,09 .\nB. 0,30 .\nC. 0,42 .\nD. 0,60 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Vì quần thể đang ở trạng thái cân bằng di truyền $\\rightarrow$ Tần số kiểu gen $\\mathrm{AA}=0,3^{2}=0,09$.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_3",
+        "Image_Question": "Bio_7/Bio_7_3.png",
+        "Question": "Câu 3:  Quá trình hình thành các loại $\\mathrm{B}, \\mathrm{C}, \\mathrm{D}$ từ loài $\\mathrm{A}$ (loài gốc) được mô tả ở hình bên. Phân tích hình này, theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Các cá thể của loài $\\mathrm{A}$ ở đảo I có thể mang một số alen đặc trưng mà các cá thể của loài $\\mathrm{A}$ ở đất liền không có.\nII. Khoảng cách giữa các đảo có thể là yếu tố duy trì sự khác biệt về vốn gen giữa các quần thể ở đảo I, đảo II và đảo III.\nIII. Vốn gen của các quần thể thuộc loài B ở đảo I, đảo II và đảo III phân hóa theo các hướng khác nhau.\nIV. Điều kiện địa lí ở các đảo là nhân tố trực tiếp gây ra những thay đổi về vốn gen của một quần thể.\nA. 4 .\nB. 1 .\nC. 2\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "I đúng, vì loài $\\mathrm{A}$ tai tại đảo 1 có thể hình thành một số đặc điểm thích nghi với môi trường mới và xuất hiện một số alen đặc trưng.\nII đúng, vì cách li địa lí có vai trò duy trì sự khác biệt về vốn gen giữa các quần thể được tạo ra do tác động của các nhân tố tiến hóa.\nIII đúng, vì môi trường tại 3 đảo là khác nhau nên vốn gen của quần thể $\\mathrm{B}$ thay đổi theo các hướng khác nhau.\nIV sai, vì nhân tố trực tiếp làm thay đổi vốn gen của quần thể là các nhân tố tiến hóa.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Tất cả các loài sinh vật hiện nay đều dùng chung 1 loại mã di truyền, đều dùng cùng 20 loại axit amin để cấu tạo nên protein chứng tỏ các loài có chung nguồn gốc. Đây là bằng chứng tiến hóa nào?\nA. Giải phẫu so sánh.\nB. Tế bào học.\nC. Hóa thạch.\nD. Sinh học phân tử.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tất cả các loài sinh vật hiện nay đều dùng chung 1 loại mã di truyền, đều dùng cùng 20 loại axit amin để cấu tạo nên protein chứng tỏ các loài có chung nguồn gốc. Đây là bằng chứng tiến hóa sinh học phân tử.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Cho biết mỗi gen quy định 1 tính trạng, các alen trội là trội hoàn toàn. Theo lí thuyết, phép lai nào sau đây cho đời con có nhiều loại kiểu hình nhất?\nA. $\\mathrm{AaBb} \\times \\mathrm{AaBB}$.\nB. $\\mathrm{AaBb} \\times \\mathrm{AAbb}$.\nC. $\\mathrm{AaBb} \\times \\mathrm{AABb}$.\nD. $\\mathrm{AaBb} \\times \\mathrm{AaBb}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phép lai $\\mathrm{A}: \\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBB}$ cho $\\mathrm{F} 1: 2 \\times 1=2$ loại kiểu hình.\nPhép lai $\\mathrm{B}: \\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AAbb}$ cho $\\mathrm{F} 1: 1 \\times 2=2$ loại kiểu hình\nPhép lai $\\mathrm{C}: \\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AABb}$ cho $\\mathrm{F} 1: 1 \\times 2=2$ loại kiểu hình\nPhép lai $\\mathrm{D}: \\mathrm{P}: \\mathrm{AaBb} \\times \\mathrm{AaBb}$ cho F1: 2 x $2=4$ loại kiểu hình.\nVậy phép lai cho đời con có nhiều loại kiểu hình nhất là phép lai $D$.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Một trong những đặc điểm của thường biến là\nA. phát sinh trong quá trình sinh sản hữu tính.\nB. di truyền được cho đời sau, là nguyên liệu của tiến hóa.\nC. xuất hiện đồng loạt theo một hướng xác định.\nD. có thể có lợi, có hại hoặc trung tính.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Thường biến là những biến đổi về kiểu hình, không liên quan tới kiểu gen giúp cơ thể thích nghi với môi trường.\nThường biến thường xuất hiện đồng loại, theo hướng xác định.\nThường biến không làm thay đổi kiểu gen nên không được di truyền cho đời sau.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Cho phép lại (P): $\\frac{A b D}{a B d} \\times \\frac{A b D}{a B d}$. Theo lí thuyết, có bao nhiêu kết luận đúng với thế hệ F1?\n(1). Có tối đa 27 loại kiểu gen về ba locut trên.\n(2). Có tối đa 9 loại kiểu gen đồng hợp về cả ba locut trên.\n(3). Có tối đa 10 loại kiểu gen dị hợp về một trong ba locut trên.\n(4). Có tối đa 4 loại kiểu gen dị hợp về cả ba locut trên.\nA. 1\nB. 4\nC. 3\nD. 2",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Vì 2 cá thể ở $P$ đều dị hợp về 3 cặp gen\n$\\rightarrow$ Số loại kiểu gen về 3 locut trên ở F1 là: $2 \\times 2 \\times 2 \\times(2 \\times 2 \\times 2+1): 2=36$ (kiểu gen) $\\rightarrow$ I sai.\nMỗi cặp gen có 2 kiểu gen đồng hợp $\\rightarrow$ Số kiểu gen đồng hợp ở F1: $2 \\times 2 \\times 2=8(\\mathrm{KG}) \\rightarrow$ II sai.\nSố kiểu gen dị hợp về 1 trong 3 locut là: $3 \\times 1 \\times 4=12(\\mathrm{KG}) \\rightarrow \\mathrm{C}$ sai.\nCó 4 kiểu gen dị hợp về 3 cặp gen là: $\\frac{A b D}{a B d} ; \\frac{A B D}{a b d} ; \\frac{A B d}{a b D} ; \\frac{A b d}{a B D}$\nChọn A"
+    },
+    {
+        "ID": "Bio_7_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Theo thuyết tiến hóa hiện đại, nhân tố tiến hóa nào sau đây không làm thay đổi tần số alen của quần thể?\nA. Giao phối không ngẫu nhiên.\nB. Các yếu tố ngẫu nhiên.\nC. Chọn lọc tự nhiên.\nD. Đột biến.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Nhân tố tiến hóa không làm thay đổi tần số alen của quần thể là giao phối không ngẫu nhiên.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Mức cấu trúc xoắn của nhiễm sắc thể có đường kính 30nm là\nA. Sợi ADN.\nB. sợi cơ bản.\nC. sợi nhiễm sắc.\nD. cấu trúc siêu xoắn",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Có 3 mức xoắn theo mức cao dần:\n\\begin{itemize}\n\\item Mức xoắn 1: sợi cơ bản, đường kính $11 \\mathrm{~nm}$\n\\item Mức xoắn 2: sợi chất nhiễm sắc, đường kính $30 \\mathrm{~nm}$.\n\\item Mức xoắn 3: siêu xoắn, đường kính $300 \\mathrm{~nm}$.\n\\end{itemize}\n\\begin{itemize}\n\\item 1 crômatit có đường kính là $700 \\mathrm{~nm}$, và 1 NST kép (có 2 crômatit) có đường kính là 1400nm.\n\\end{itemize}\nChọn C"
+    },
+    {
+        "ID": "Bio_7_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Phép lai P: $\\frac{A B}{a b} \\times \\frac{a b}{a b}$ thu được F1. Cho biết quá trình giảm phân đã xảy ra hoán vị gen. Theo lí thuyết, F1 có tối đa bao nhiêu loại kiểu gen?\nA. 8.\nB. 2.\nC. 6 .\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Khi có xảy ra hoán vị gen, cá thể $\\mathrm{AB} / / \\mathrm{ab}$ cho 4 loại giao tử; $\\mathrm{ab} / / \\mathrm{ab}$ cho 1 loại giao tử\n$\\rightarrow$ Số loại kiểu gen ở F1 là: 4 x $1=4$ (loại kiểu gen)\nChọn D"
+    },
+    {
+        "ID": "Bio_7_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Một quần thể có thành phần kiểu gen là: 0,16AA:0,48Aa:0,36aa. Tần số alen $\\mathrm{A}$ của quần thể này là bao nhiêu?\nA. 0,3\nB. 0,4\nC. 0.5 .\nD. 0,7",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Quần thể có cấu trúc di truyền đang ở trạng thái cân bằng $\\rightarrow$ Tần số alen $\\mathrm{A}$ của quần thể $=\\sqrt{ } 0,16=0,4$.\nChọn B"
+    },
+    {
+        "ID": "Bio_7_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Tập hợp sinh vật nào sau đây là 1 quần thể sinh vật?\nA. Tập hợp cây trong rừng Cúc Phương.\nB. Tập hợp cá trong hồ Gươm.\nC. Tập hợp chim trên 1 hòn đảo.\nD. Tập hợp cây thông nhựa trên đồi",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tập hợp là quần thể sinh vật là: Tập hợp cây thông nhựa trên đồi\nChọn D"
+    },
+    {
+        "ID": "Bio_7_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Một gen tác động đến sự biểu hiện của 2 hay nhiều tính trạng khác nhau được gọi là\nA. gen đa hiệu.\nB. liên kết gen.\nC. phân li độc lập.\nD. liên kết giới tính.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Gen đa hiệu là hiện tượng một gen tác động lên sự biểu hiện của 2 hay nhiều tính trạng khác nhau.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Hệ tuần hoàn hở có máu chảy trong động mạch dưới áp lực\nA. thấp, tốc độ chậm.\nB. thấp, tốc độ nhanh.\nC. cao, tốc độ nhanh.\nD. cao, tốc độ chậm.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Hệ tuần hoàn hở có máu chảy trong động mạch dưới áp lực thấp, tốc độ chậm.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Theo thuyết tiến hóa hiện đại, nhân tố nào sau đây định hướng quá trình tiến hóa?\nA. Các yếu tố ngẫu nhiên.\nB. Đột biến.\nC. Chọn lọc tự nhiên.\nD. Giao phối không ngẫu nhiên.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Theo thuyết tiến hóa hiện đại, nhân tố chọn lọc tự nhiên có vai trò định hướng quá trình tiến hóa,\nChọn C"
+    },
+    {
+        "ID": "Bio_7_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Theo thuyết tiến hóa hiện đại, khi nói về quá trình hình thành loài mới, có bao nhiêu phát biểu sau đây đúng?\nI. Hình thành loài mới có thể xảy ra trong cùng khu vực địa lí hoặc khác khu vực địa lí.\nII. Đột biến đảo đoạn có thể góp phần tạo nên loài mới.\nIII. Lai xa và đa bội hóa có thể tạo ra loài mới có bộ NST song nhị bội.\nIV. Quá trình hình thành loài mới có thể chịu sự tác động của các yếu tố ngẫu nhiên.\nA. 3 .\nB. 1.\nC. 4 .\nD. 2 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I đúng.\nII đúng, vì đột biến đảo đoạn nhiều lần có thể hình thành loài muỗi mới.\nIII đúng, vì khi thực hiện hình thức lai xa và đa bội hóa, loài mới có bộ NST song nhị bội.\nIV đúng, vì trong quá trình hình thành loài mới, quần thể có thể chịu tác động của các nhân tố tiến hóa.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Đâu không phải là một trong số các loại môi trường sống chủ yếu của sinh vật?\nA. chân không.\nB. nước.\nC. trên cạn.\nD. đất.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Môi trường không phải là môi trường sống chủ yếu của sinh vật là môi trường chân không.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Hợp tử được hình thành trong trường hợp nào sau đây có thể phát triển thành thể ba?\nA. Giao tử $\\mathrm{n}$ kết hợp với giao tử $\\mathrm{n}+1$.\nB. Giao tử $\\mathrm{n}$ kết hợp với giao tử $\\mathrm{n}-1$.\nC. Giao tử $2 \\mathrm{n}$ kết hợp với giao tử $2 \\mathrm{n}$.\nD. Giao tử $\\mathrm{n}$ kết hợp với giao tử $2 \\mathrm{n}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Hợp tử được hình thành trong trường hợp giao tử $\\mathrm{n}$ kết hợp với giao tử $\\mathrm{n}+1$ có thể phát triển thành thể ba.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Ở người, bệnh bạch tạng do gen lặn nằm trên NST thường quy định. Bố và mẹ đều có kiểu gen dị hợp tử. Xác suất để cặp bố, mẹ này sinh được một đứa con trai bị bệnh và một đứa con gái bình thường là bao nhiêu? Biết rằng tỷ lệ sinh nam : nữ lần lượt là $1: 1$.\nA. $1 / 32$\nB. $3 / 32$\nC. $3 / 16$\nD. $3 / 64$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Quy ước: A - bình thường; $\\mathrm{a}$ - bị bệnh bạch tạng.\nP: Aa x Aa\n$\\rightarrow$ Xác suất $\\sinh$ một đứa con trai bị bệnh và một đứa con gái bình thường là:\n$1 / 4 \\times 1 / 2 \\times 3 / 4 \\times 1 / 2 \\times 2=3 / 32$.\nChọn B"
+    },
+    {
+        "ID": "Bio_7_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Một loài thực vật, xét 2 cặp NST kí hiệu là $\\mathrm{A}$, a và $\\mathrm{B}, \\mathrm{b}$. Cơ thể nào sau đây là thể một?\nA. AaBbb.\nB. AaB.\nC. $\\mathrm{AaBb}$.\nD. AaBB.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể là thể một là: $\\mathrm{AaB}$.\nChọn B"
+    },
+    {
+        "ID": "Bio_7_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Cá mập con khi mới nở ra sử dụng ngay các trứng chưa nở làm thức ăn. Đây là ví dụ về mối quan hệ\nA. sinh vật này ăn sinh vật khác\nB. hỗ trợ khác loài\nC. cạnh tranh cùng loài\nD. hỗ trợ cùng loài.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cá mập con khi mới nở ra sử dụng ngay các trứng chưa nở làm thức ăn là ví dụ về mối quan hệ cạnh tranh cùng loài.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Ngựa cái lai với lừa đực sinh ra con la bất thụ. Đây là biểu hiện của dạng cách li\nA. nơi ở.\nB. cơ học.\nC. sau hợp tử.\nD. tập tính.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ngựa cái lai với lừa đực sinh ra con la bất thụ. Đây là biểu hiện của dạng cách li sau hợp tử.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Trong các phương thức hình thành loài mới, hình thành loài khác khu vực địa lí\nA. thường diễn ra chậm chạp qua nhiều giai đoạn trung gian chuyển tiếp.\nB. không liên quan đến quá trình hình thành quần thể thích nghi.\nC. không chịu tác động của chọn lọc tự nhiên.\nD. chỉ gặp ở các loài động vật ít di chuyển.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong các phương thức hình thành loài mới, hình thành loài khác khu vực địa lí thường diễn ra chậm chạp qua nhiều giai đoạn trung gian chuyển tiếp.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Trong cơ chế điều hòa hoạt động của opêron Lac ở vi khuẩn E. coli, protein nào sau đây được tổng hợp ngay cả khi môi trường không có lactôzơ?\nA. Prôtêin Lac Y.\nB. Prôtêin Lac A.\nC. Prôtêin Lac Z.\nD. Prôtêin ức chế.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trong cơ chế điều hòa hoạt động của opêron Lac ở vi khuẩn E. coli, protein ức chế được gen điều hòa tổng hợp ngay cả khi môi trường có hay không có lactôzơ.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Theo lí thuyết, quá trình giảm phân ở cơ thể có kiểu gen nào sau đây tạo giao tử ab?\nA. AAbb.\nB. AaBB.\nC. $\\mathrm{aaBB}$\nD. Aabb.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể $\\mathrm{A}$ có kiểu gen $\\mathrm{AAbb}$ cho 1 loại giao tử là $\\mathrm{Ab}$.\nCơ thể $\\mathrm{B}$ có kiểu gen $\\mathrm{AaBB}$ cho 2 loại giao tử là: $\\mathrm{AB}$ và $\\mathrm{aB}$.\nCơ thể $\\mathrm{C}$ có kiểu gen aaBB cho 1 loại giao tử là $\\mathrm{aB}$.\nCơ thể $\\mathrm{D}$ có kiểu gen $\\mathrm{Aabb}$ cho 2 loại giao tử là: $\\mathrm{Ab}$ và $\\mathrm{ab}$.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Theo quan niệm tiến hóa hiện đại, đơn vị tiến hóa cơ sở ở các loài giao phối là\nA. cá thể.\nB. quần thể\nC. tế bào\nD. quần xã",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo quan niệm tiến hóa hiện đại, đơn vị tiến hóa cơ sở ở các loài giao phối là quần thể.\nChọn B"
+    },
+    {
+        "ID": "Bio_7_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Ở ruồi giấm gen W quy định tính trạng mắt đỏ, gen w quy định tính trạng mắt trắng mắt trắng nằm trên NST giới tính $\\mathrm{X}$ không có alen tương ứng trên NST Y. Trong quần thể sẽ có bao nhiêu kiểu gen và kiểu giao phối khác nhau?\nA. 6 kiểu gen, 4 kiểu giao phối.\nB. 5 kiểu gen, 6 kiểu giao phối.\nC. 3 kiểu gen, 3 kiểu giao phối.\nD. 3 kiểu gen, 6 kiểu giao phối.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Các loại kiểu gen có thể có trong quần thể này là:\nỎ giới cái: $X^{\\mathrm{w}} \\mathrm{X}^{\\mathrm{w}} ; \\mathrm{X}^{\\mathrm{w}} \\mathrm{X}^{\\mathrm{w}} ; \\mathrm{X}^{\\mathrm{w}} \\mathrm{X}^{\\mathrm{w}}$.\nỞ giới đực: $\\mathrm{X}^{\\mathrm{w}} Y$; $\\mathrm{X}^{\\mathrm{w}} Y$.\nTừ đó, số kiểu giao phối khác nhau ở loài này là: $2 \\times 3=6$ (kiểu).\nChọn B"
+    },
+    {
+        "ID": "Bio_7_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Một quần thể có thế hệ xuất phát toàn những cây quả ngọt. Sau 2 lần tự thụ phấn, cây quả chua chiếm tỉ lệ 0,15 . Tỉ lệ kiểu gen đồng hợp trội của quần thể ban đầu là:\nA. 0,4 .\nB. 0,5 .\nC. 0,6 .\nD. 0,7 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "P toàn cây quả ngọt, sau 2 thế hệ tự thụ cho cây quả chua $\\rightarrow$ Quả ngọt là trội hoàn toàn so với quả chua.\nQuy ước: $A$ - quả ngọt $>>\\mathrm{a}$ - quả chua\nGọi tỉ lệ cây có kiểu gen $\\mathrm{AA}$ và $\\mathrm{Aa}$ ở thế hệ $\\mathrm{xuất} \\mathrm{phát} \\mathrm{là} \\mathrm{x}$ và $\\mathrm{y}(\\mathrm{x}, \\mathrm{y}>0 ; \\mathrm{x}+\\mathrm{y}=1)$\n$\\mathrm{P}: \\mathrm{x} A \\mathrm{~A}:$ y Aa\nF2: aa $=0,15$ mà cây aa ở F2 được tạo ra từ cây Aa tự thụ phấn\n$\\rightarrow \\mathrm{y} \\cdot\\left(1-\\frac{1}{4}\\right): 2=0,15 \\rightarrow \\mathrm{y}=0,4$\n$\\rightarrow$ Tỉ lệ kiểu gen ở thế hệ xuất phát là: $0,6 \\mathrm{AA}: 0,4 \\mathrm{Aa}$.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Chồn đốm phương đông giao phối vào cuối đông, chồn đốm phương tây giao phối vào cuối hè. Đây là hiện tượng cách li\nA. nơi ở.\nB. tập tính.\nC. cơ học.\nD. thời gian.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chồn đốm phương đông giao phối vào cuối đông, chồn đốm phương tây giao phối vào cuối hè. Đây là hiện tượng cách li thời gian.\nHai quần thể có thời gian giao phối khác nhau nên không thể giao phối với nhau để tạo thành thế hệ sau.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Gen nằm ở vùng không tương đồng trên NST Y chỉ truyền trực tiếp cho\nA. cơ thể dị hợp tử.\nB. giới dị giao tử.\nC. giới đồng giao tử.\nD. cơ thể thuần chủng.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Gen nằm ở vùng không tương đồng trên NST Y chỉ truyền trực tiếp cho giới dị giao tử (giới XY).\nChọn B"
+    },
+    {
+        "ID": "Bio_7_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Nhân tố sinh thái nào sau đây là nhân tố vô sinh?\nA. Sâu ăn lá lúa.\nB. Chim sâu.\nC. Ánh sáng.\nD. Cây lúa",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong các nhân tố sinh thái trên, nhân tố vô sinh là nhân tố ánh sáng.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Có thể sử dụng nguyên liệu nào sau đây để chiết rút diệp lục?\nA. Lá xanh tươi.\nB. Quả gấc chín.\nC. Củ cà rốt.\nD. Củ nghệ.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Có thể sử dụng nguyên liệu lá xanh tươi để chiết rút diệp lục.\nChọn A"
+    },
+    {
+        "ID": "Bio_7_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Ở một quần thể tự phối, alen A quy định hoa đỏ trội hoàn toàn so với alen a quy định hoa trắng. Thế hệ xuất phát của quần thể có tỉ lệ kiểu gen: $0,6 \\mathrm{AA}$ : 0,4Aa. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Ở F2, kiểu gen Aa chiếm tỉ lệ $10 \\%$.\nII. Qua các thế hệ, tỉ lệ kiểu hình hoa đỏ giảm dần và tiến tới bằng $80 \\%$.\nIII. Qua các thế hệ, hiệu số giữa tỉ lệ kiểu gen AA với tỉ lệ kiểu gen aa luôn = 0,6.\nIV. Ở thế hệ F3, tỉ lệ kiểu hình là 33 cây hoa đỏ : 7 cây hoa trắng.\nV. Nếu kiểu hình hoa trắng bị chết ở giai đoạn phôi thì ở F2, cây có kiểu gen Aa chiếm tỉ lệ 3/17.\nA. 5 .\nB. 4.\nC. 2 .\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "P: 0,6AA : 0,4Aa\nI đúng. Vì ở F2, tỉ lệ kiểu gen Aa $=0,4$ x 114 =0,1.\nII sai. Vì qua các thế hệ tự phối, tỉ lệ kiểu gen đồng hợp tăng dần, tỉ lệ kiểu gen dị hợp giảm dần.\nIII đúng. Vì tỉ lệ kiểu gen AA và aa đều tăng lên sau mỗi thế hệ tự thụ và tăng lên một phần bằng nhau, vậy nên ở $\\mathrm{P}$ hiệu số $\\mathrm{AA}$ với aa là 0,6 thì ở $\\mathrm{Fn}$, hiệu số này vẫn giữ nguyên.\nIV đúng.\nTỉ lệ cây hoa trắng ở $F 3$ là: $0,4 \\times(1-1 / 8): 2=0,175=7 / 40$\n$\\rightarrow$ Tỉ lệ kiểu hình ở $F 3$ là: 33 cây hoa đỏ : 7 cây hoa trắng.\nV sai. Cây aa bị chết ở giai đoạn phôi nên:\nP: 0,6 AA : 0,4 Aa\nF1 trước khi loại bỏ aa có tỉ lệ: $0,7 \\mathrm{AA}$ : 0,2 Aa : 0,1 aa\n$\\rightarrow$ Tỉ lệ kiểu gen F1 sau khi loại bỏ cây hoa trắng: 7/9 AA : 2/9 Aa\nF2 trước khi loại cây hoa trắng: 15/18 AA : 1/9 Aa : 1/18 aa\n$\\rightarrow$ Tỉ lệ kiểu gen F2 sau khi loại bỏ hoa trắng: 15/17 AA : 2/17 Aa.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Ở người, tĩnh mạch thuộc hệ cơ quan nào sau đây?\nA. Hệ hô hấp.\nB. Hệ tiêu hóa.\nC. Hệ tuần hoàn.\nD. Hệ bài tiết.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ở người, tĩnh mạch thuộc hệ tuần hoàn. Hệ tuần hoàn ở người bao gồm tim và hệ mạch.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Một loài sinh vật chỉ sống được ở nhiệt độ từ 5, $6^{\\circ} \\mathrm{C}-42^{\\circ} \\mathrm{C}$, sinh trưởng tốt nhất ở nhiệt độ từ $20^{\\circ} \\mathrm{C}-35^{\\circ} \\mathrm{C}$. Theo lí thuyết, giới hạn sinh thái về nhiệt độ của loài này là\nA. dưới $5,6^{\\circ} \\mathrm{C}$.\nB. $5,6^{\\circ} \\mathrm{C}-20^{\\circ} \\mathrm{C}$.\nC. $5,6^{\\circ} \\mathrm{C}-42^{\\circ} \\mathrm{C}$.\nD. từ $35^{\\circ} \\mathrm{C}-42^{\\circ} \\mathrm{C}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Giới hạn sinh thái về nhiệt độ ở loài sinh vật này là $5,6^{\\circ} \\mathrm{C}-42^{\\circ} \\mathrm{C}$.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Loài động vật nào sau đây có hình thức hô hấp qua phổi?\nA. Châu chấu.\nB. Giun đất.\nC. Cá rô phi.\nD. Gà.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phổi là cơ quan hô hấp của động vật sống trên cạn: bò sát, chim, thú.\nChọn D"
+    },
+    {
+        "ID": "Bio_7_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Theo lí thuyết, bằng phương pháp gây đột biến tự đa bội, từ các tế bào thực vật có kiểu gen DD, Dd và dd không tạo ra được tế bào tứ bội có kiểu gen nào sau đây?\nA. dddd.\nB. DDDd.\nC. DDdd.\nD. DDDD.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể có kiểu gen DD được xử lí đa bội sẽ tạo ra cơ thể đột biến có kiểu gen: DDDD.\nCơ thể có kiểu gen Dd được xử lí đa bội sẽ tạo ra cơ thể đột biến có kiểu gen: DDdd.\nCơ thể có kiểu gen dd được xử lí đa bội sẽ tạo ra cơ thể đột biến có kiểu gen: dddd.\nChọn B"
+    },
+    {
+        "ID": "Bio_7_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Nhiều bộ ba khác nhau cùng xác định 1 loại axit amin, trừ 5'AUG3' và 5'UGG3', điều này chứng tỏ mã di truyền có tính\nA. phổ biến.\nB. đặc hiệu.\nC. thoái hóa.\nD. liên tục.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Nhiều bộ ba khác nhau cùng xác định 1 loại axit amin, trừ 5'AUG3' và 5'UGG3', điều này chứng tỏ mã di truyền có tính thoái hóa.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Đặc điểm nào của thực vật giúp chúng tăng diện tích bề mặt hấp thụ nước và muối khoáng lên cao nhất?\nA. Rễ ăn sâu, lan rộng trong đất.\nB. Rễ có phản ứng hướng nước dương.\nC. Rễ có số lượng lông hút lớn.\nD. Tế bào lông hút ở rễ có thành mỏng.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Rễ có số lượng lông hút lớn giúp chúng tăng diện tích bề mặt hấp thụ nước và muối khoáng lên cao nhất.\nChọn C"
+    },
+    {
+        "ID": "Bio_7_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Các chữ in hoa là alen trội và chữ thường là alen lặn. Mỗi gen quy định 1 tính trạng. Thực hiện phép lai: P: 9 AaBbCcDd ×ổ AabbCcDd. Tỉ lệ phân li của kiểu hình aaB-C-dd là\nA. $3 / 128$.\nB. $5 / 128$.\nC. $7 / 128$.\nD. $9 / 128$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "P: \\& $\\mathrm{AaBbCcDd} \\times \\widehat{A} \\mathrm{AabbCcDd}$\n$\\rightarrow$ Tỉ lệ kiểu hình aaB-C-dd ở F1 chiếm: 11/4 X 1⁄2 X 34 X 14 = 7/128.\nChọn C"
+    }
+]

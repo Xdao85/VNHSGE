@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_6_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Theo lý thuyết, phép lai nào sau đây cho đời con có 2 loại kiểu gen?\nA. Aa $\\times$ Aa.\nB. aa $\\times$ aa.\nC. $\\mathrm{AA} \\times$ Aa.\nD. $A \\mathrm{~A} \\times$ aa.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{A}: \\mathrm{Aa} \\times \\mathrm{Aa} \\rightarrow 1 \\mathrm{AA}: 2 \\mathrm{Aa}: 1 \\mathrm{aa} \\rightarrow 3 \\mathrm{KG}$\nB: aa $\\times$ aa $\\rightarrow$ aa $\\rightarrow 1 \\mathrm{KG}$\n$\\mathrm{C}: \\mathrm{AA} \\times \\mathrm{Aa} \\rightarrow 1 \\mathrm{AA}: 1 \\mathrm{Aa} \\rightarrow 2 \\mathrm{KG}$\n$\\mathrm{D}: \\mathrm{AA} \\times \\mathrm{aa} \\rightarrow \\mathrm{Aa} \\rightarrow 1 \\mathrm{KG}$\nChọn C"
+    },
+    {
+        "ID": "Bio_6_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Trong một quần thể của một loài ngẫu phối, tỷ lệ giao tử mang gen đột biến là $10 \\%$. Theo lý thuyết tỷ lệ hợp tử mang gen đột biến là\nA. 1 .\nB. $5 \\%$.\nC. $10 \\%$.\nD. $19 \\%$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ giao tử đột biến là $10 \\% \\rightarrow$ có $90 \\%$ giao tử bình thường. $\\rightarrow$ Tỉ lệ hợp tử mang gen đột biến: $1-0,9^{2}=19 \\%$.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Ở tế bào nhân thực, quá trình nào sau đây chỉ diễn ra ở tế bào chất?\nA. Phiên mã tổng hợp tARN.\nB. Dịch mã.\nC. Nhân đôi ADN.\nD. Phiên mã tổng hợp mARN.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ở tế bào nhân thực, quá trình dịch mã chỉ diễn ra ở tế bào chất.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Trong hệ sinh thái, tất cả các dạng năng lượng sau khi đi qua chuỗi thức ăn đều được\nA. Giải phóng vào không gian dưới dạng nhiệt.\nB. Tái sử dụng cho các hoạt động sống của sinh vật\nC. Tích tụ ở sinh vật phân giải\nD. Trở lại môi trường ở dạng ban đầu",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trong hệ sinh thái, tất cả các dạng năng lượng sau khi đi qua chuỗi thức ăn đều được trở lại môi trường ở dạng ban đầu.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Khi nói về hoá thạch, phát biểu nào sau đây không đúng?\nA. Hoá thạch là di tích của sinh vật để lại trong các lớp đất đá của vỏ Trái Đất.\nB. Tuổi của hoá thạch có thể được xác định nhờ phân tích các đồng vị phóng xạ có trong hoá thạch.\nC. Hoá thạch cung cấp cho chúng ta những bằng chứng gián tiếp về lịch sử tiến hoá của sinh giới.\nD. Căn cứ vào tuổi của hoá thạch, có thể biết được loài nào đã xuất hiện trước, loài nào xuất hiện sau.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai về hóa thạch là $\\mathrm{C}$, vì hóa thạch là bằng chứng trực tiếp.\nChọn C"
+    },
+    {
+        "ID": "Bio_6_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Tại sao trên các đảo và quần đảo đại dương hay tồn tại những loài đặc trưng không có ở nơi nào khác trên trái đất?\nA. Do các loài này có nguồn gốc từ trên đảo và không có điều kiện phát tán đi nơi khác.\nB. Do cách li địa lí và chọn lọc tự nhiên diễn ra trong môi trường đặc trưng của đảo qua thời gian dài.\nC. Do cách li sinh sản giữa các quần thể trên từng đảo nên mỗi đảo hình thành loài đặc trưng.\nD. Do trong cùng điều kiện tự nhiên,chọn lọc tự nhiên diễn ra theo hướng tương tự nhau.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trên các đảo đại dương thường có loài đặc trưng là vì: Cách ly địa lý và các đảo này có điều kiện môi trường đặc trưng mà không nơi nào có được.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Tần số đột biến gen cao hay thấp tùy thuộc vào\nI. Loại tác nhân gây đột biến.\nII. Đặc điểm cấu trúc của gen.\nIII. Cường độ, liều lượng của tác nhân.\nIV. Chức năng của gen.\nV. Cơ quan phát sinh đột biến.\nSố ý đúng là\nA. 2.\nB. 4.\nC. 5 .\nD. 3",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tần số đột biến gen cao hay thấp tùy thuộc vào:\nI. Loại tác nhân gây đột biến.\nII. Đặc điểm cấu trúc của gen.\nIII. Cường độ, liều lượng của tác nhân.\nV. Cơ quan phát sinh đột biến.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Trong các phát biểu sau, có bao nhiêu phát biểu đúng khi nói về quá trình dịch mã?\nI. Đối với sinh vật nhân thực, quá trình tổng hợp chuỗi pôlipeptit diễn ra ở trong nhân tế bào.\nII. Tất cả bộ ba trên mARN đều mang thông tin mã hóa axit amin\nIII. Trước bộ ba mở đầu trên phân tử mARN có một trình tự nuclêôtit đặc biệt giúp tiểu đơn vị bé của ribôxôm có thể nhận biết để bám vào mARN.\nIV. Trên một phân tử mARN có thể có nhiều ribôxôm tham gia dịch mã cùng lúc giúp tăng hiệu suất tổng hợp prôtền.\nA. 1 .\nB. 3.\nC. 2 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I sai, ở tế bào nhân thực, dịch mã diễn ra ở tế bào chất.\nII sai, những bộ ba kết thúc không mã hóa cho axit amin.\nIII đúng\nIV đúng.\nChọn C"
+    },
+    {
+        "ID": "Bio_6_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Khi bắt giun đất để trên mặt đất khô ráo thì giun sẽ nhanh chết, nguyên nhân chính là vì:\nA. Vì môi trường trên cạn có nhiệt độ cao hơn làm giun chết\nB. Vì độ ẩm trên mặt đất thấp, bề mặt da của giun bị khô làm ngừng các quá trình trao đổi khí\nC. Vì nồng độ oxi trong không khí cao hơn trong đất gây sốc với giun\nD. Vì giun không kiếm được nguồn thức ăn ở trên mặt đất",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Khi bắt giun đất để trên mặt đất khô ráo thì giun sẽ nhanh chết, nguyên nhân chính là vì độ ẩm trên mặt đất thấp, bề mặt da của giun bị khô làm ngừng các quá trình trao đổi khí.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Phát biểu nào sau đây là đúng khi nói về ưu thế lai?\nA. Uuu thế lai được biểu hiện ở đời $\\mathrm{F}_{1}$ sau đó tăng dần ở các đời tiếp theo\nB. Trong cùng một tổ hợp lai, phép lai thuận có thể không cho ưu thế lai nhưng phép lai nghịch lại có thể cho ưu thế lai và ngược lại\nC. Các con lai $F_{1}$ có ưu thế lai cao thường được sử dụng làm giống vì chúng có kiểu hình giống nhau\nD. Uủ thế lai luôn biểu hiện ở con lai của phép lai giữa 2 dòng thuần chủng",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A sai, ưu thế lai cao nhất ở $\\mathrm{F}_{1}$ sau đó giảm dần ở các thế hệ.\nB đúng, chỉ một vài tổ hợp lai tạo được ưu thế lai.\n$C$ sai, $F_{1}$ không được dùng làm giống.\nD sai, chỉ một vài tổ hợp lai tạo được ưu thế lai.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Khi nói về thành phần cấu trúc của hệ sinh thái, có bao nhiêu phát biểu sau đây đúng?\nI. Sinh vật phân giải có vai trò phân giải xác chết và các chất hữu cơ.\nII. Xác chết của sinh vật được xếp vào thành phần hữu cơ của môi trường.\nIII. Tất cả các loài vi sinh vật đều được xếp vào nhóm sinh vật phân giải.\nIV. Tất cả sinh vật sản xuất đều thuộc nhóm thực vật.\nA. 1 .\nB. 2.\nC. 4 .\nD. 3 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\section{I đúng.}\nII sai, xác chết của sinh vật được xếp vào thành phần vô cơ.\nIII sai, có những vi sinh vật tự dưỡng xếp vào sinh vật sản xuất.\nIV sai, có những vi sinh vật tự dưỡng xếp vào sinh vật sản xuất.\nChọn A"
+    },
+    {
+        "ID": "Bio_6_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Giả sử 4 quần thể của một loài thú được kí hiệu là A, B, C, D có diện tích khu phân bố và mật độ cá thể như sau:\n\\begin{center}\n\\begin{tabular}{|l|l|l|l|l|}\n\\hline\nQuần thể & A & B & C & D \\\\\n\\hline\nDiện tích khu phân bố (ha) & 25 & 240 & 193 & 195 \\\\\n\\hline\nMật độ (cá thể/ha) & 10 & 15 & 20 & 25 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCho biết diện tích khu phân bố của 4 quần thể đều không thay đổi, không có hiện tượng xuất cư và nhập cur. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Quần thể $\\mathrm{A}$ có kích thước nhỏ nhất.\nII. Kích thước quần thể $\\mathrm{B}$ lớn hơn kích thước quần thể $\\mathrm{C}$.\nIII. Nếu kích thước của quần thể $\\mathrm{B}$ và quần thể $\\mathrm{D}$ đều tăng $2 \\% /$ năm thì sau một năm kích thước của hai quần thể này sẽ bằng nhau.\nIV. Thứ tự sắp xếp của các quần thể từ kích thước nhỏ đến kích thước lớn là: A, C, B, D.\nA. 3\nB. 2\nC. 4\nD. 1",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nQuần thể & $\\mathrm{A}$ & $\\mathrm{B}$ & $\\mathrm{C}$ & $\\mathrm{D}$ \\\\\n\\hline\nDiện tích khu phân bố (ha) & 25 & 240 & 193 & 195 \\\\\n\\hline\nMật độ (cá thề/ha) & 10 & 15 & 20 & 25 \\\\\n\\hline\nKích thước quần thể & 250 & 3600 & 3860 & 4875 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nI đúng, quần thể $\\mathrm{A}$ có kích thước nhỏ nhất.\nII sai, kích thước quần thể $\\mathrm{B}$ nhỏ hơn quần thể $\\mathrm{C}$.\nIII sai, vì kích thước ban đầu của quần thể $\\mathrm{B}$ và $\\mathrm{D}$ khác nhau nên kích thước tăng $2 \\%$ thì kích thước của 2 quần thể này không thể bằng nhau.\nIV sai, thứ tự sắp xếp của các quần thể từ kích thước nhỏ đến kích thước lớn là: $\\mathrm{A}, \\mathrm{B}, \\mathrm{C}, \\mathrm{D}$.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Đặc điểm không phải của cá thể tạo ra do nhân bản vô tính là\nA. được sinh ra từ một tế bào xôma, không cần có sự tham gia của nhân tế bào sinh dục\nB. có kiểu gen giống hệt cá thể cho nhân.\nC. mang các đặc điểm giống hệt cá thể mẹ đã mang thai và sinh ra nó.\nD. thường có tuổi thọ ngắn hơn so với các cá thể cùng loài sinh ra bằng phương pháp tự nhiên.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "A đúng, vì tế bào trứng đã bị loại bỏ nhân.\nB đúng, vì thông tin di truyền nằm trong nhân của tế bào cho nhân.\nC sai, vì thông tin di truyền nằm trong nhân của tế bào cho nhân nên cá thể sinh ra có các đặc điểm giống cá thể cho nhân.\nD đúng.\nChọn C"
+    },
+    {
+        "ID": "Bio_6_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Khi nói về gen ngoài nhân, phát biểu nào sau đây đúng?\nA. Các gen ngoài nhân luôn được phân chia đều cho các tế bào con trong phân bào.\nB. Gen ngoài nhân được di truyền theo dòng mẹ.\nC. Gen ngoài nhân chỉ biểu hiện ra kiểu hình ở giới cái và không biểu hiện ra kiểu hình ở giới đực.\nD. Gen ngoài nhân chỉ biểu hiện ra kiểu hình khi ở trạng thái đồng hợp tử.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A sai, gen ngoài nhân không được chia đều cho các tế bào con trong phân bào vì phân chia tế bào chất không đều.\nB đúng.\nC sai, gen ngoài nhân biểu hiện ở cả giới cái và giới đực.\nD sai, gen ngoài nhân không tồn tại thành cặp alen nên vẫn biểu hiện ra kiểu hình.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Trong dạ dày của trâu, xenlulôzơ biến đổi thành đường nhờ enzim của\nA. vi sinh vật cộng sinh trong dạ cỏ.\nB. tuyến gan.\nC. tuyến nước bọt.\nD. tuyến tụy.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong dạ dày của trâu, xenlulôzo biến đổi thành đường nhờ enzim của vi sinh vật cộng sinh trong dạ cỏ.\nChọn A"
+    },
+    {
+        "ID": "Bio_6_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Ở một loài động vật, xét 4 phép lai sau đây:\nPhép lai 1: (P) : Aa × Aa\nPhép lai 2: (P): $\\mathrm{AaBb} \\times \\mathrm{AaBb}$\nPhép lai 3: (P): $\\frac{A B}{a b} X^{D} X^{d} \\times \\frac{A B}{a b} X^{d} Y$\nPhép lai 4: (P): $\\frac{A B d}{a b D} X^{M N} X^{m n} \\times \\frac{a B d}{A B d} X^{M N} Y$\nBiết rằng mỗi gen quy định một tính trạng, alen trội là trội hoàn toàn và không xảy ra đột biến, các phép lai trên đều tạo ra các $\\mathrm{F}_{1}$, các cá thể $\\mathrm{F}_{1}$ của mỗi phép lai ngẫu phối với nhau tạo ra $\\mathrm{F}_{2}$. Theo lý thuyết có bao nhiêu kết luận đúng?\nI. Phép lai 1 cho $F_{2}$ có tỷ lệ phân ly kiểu gen giống với tỷ lệ phân ly kiểu hình\nII. Phép lai 2 cho $F_{2}$ có 4 kiểu hình và 9 kiểu gen\nIII. Phép lai 3 luôn cho $\\mathrm{F}_{1}$ có kiểu hình lặn về cả 3 tính trạng chiếm tỷ lệ nhỏ hơn hoặc bằng 12,5\\%\nIV. Phép lai 4 cho $F_{1}$ có tối đa 120 kiểu gen\nA. 2\nB. 1\nC. 3\nD. 4",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "I sai, phép lai 1: Aa $\\times \\mathrm{Aa} \\rightarrow \\mathrm{F}_{1}: 1 \\mathrm{AA}: 2 \\mathrm{Aa}: 1 \\mathrm{aa} \\rightarrow \\mathrm{F}_{2}: 1 \\mathrm{AA}: 2 \\mathrm{Aa}: 1$ aa (vì $\\mathrm{F}_{1}$ ngẫu phối mà $\\mathrm{F}_{1}$ cân bằng di truyền).\nKiểu hình 3 trội: 1 lặn.\nII đúng, phép lai 2: $\\mathrm{AaBb} \\times \\mathrm{AaBb} \\rightarrow \\mathrm{F}_{2}:(1 \\mathrm{AA}: 2 \\mathrm{Aa}: 1 \\mathrm{aa})(1 \\mathrm{BB}: 2 \\mathrm{Bb}: 1 \\mathrm{bb}) \\rightarrow 4$ kiểu hình và 9 kiểu gen.\nIII đúng.\nPhép lai 3: $\\frac{A B}{a b} X^{D} X^{d} \\times \\frac{A B}{a b} X^{d} Y$\n$$\n\\rightarrow \\frac{a b}{a b}\\left(X^{d} X^{d}+X^{d} Y\\right) \\leq 0,25 \\frac{a b}{a b} \\times 0,5\\left(X^{d} X^{d}+X^{d} Y\\right)=0,125\n$$\nVì $a b / a b_{\\max }=0,25$.\nIV sai, phép lai 4: $\\frac{A B d}{a b D} X^{M N} X^{m n} \\times \\frac{a B d}{A B d} X^{M N} Y$\nXét cặp NST thường (để có số kiểu gen tối đa thì phải có $\\mathrm{HVG}) \\frac{A B d}{a b D}$ tạo 8 loại giao tử, $\\frac{a B d}{A B d}$ tạo 2 loại giao tử.\n$\\rightarrow$ Tối đa 16 kiểu gen.\nXét cặp NST giới tính (để có số kiểu gen tối đa thì phải có HVG):\n$$\nX^{M N} X^{m n} \\times X^{M N} Y \\rightarrow\\left(X^{M N} ; X^{M n} ; X^{m N} ; X^{m n}\\right)\\left(X^{M N} ; Y\\right) \\rightarrow 8 K G\n$$\nVậy có tối đa $16 \\times 8=128$ kiểu gen.\nChọn A"
+    },
+    {
+        "ID": "Bio_6_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Đặc điểm nào không giúp rễ cây tăng được tổng diện tích bề mặt hấp thụ nước và khoáng?\nA. Rễ cây có số lượng lớn tế bào lông hút.\nB. Các tế bào lông hút có nhiều ti thể.\nC. Rễ cây có khả năng đâm sâu, lan rộng.\nD. Rễ cây phân nhánh mạnh.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Các tế bào lông hút có nhiều ti thể sẽ tạo ra nhiều năng lượng cho hoạt động hô hấp của tế bào, không giúp rễ cây tăng được tổng diện tích bề mặt hấp thụ nước và khoáng.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Trong các mối quan hệ sau, có bao nhiêu mối quan hệ mà trong đó chỉ có một loài có lọi.\nI. Cây tỏi tiết chất gây ức chế hoạt động của vi sinh vật ở môi trường xung quanh.\nII. Cây tầm gửi sống trên thân gỗ.\nIII. Cây phong lan sống bám trên cây gỗ trong rừng.\nIV. Cây nắp ấm bắt ruồi làm thức ăn.\nA. 2.\nB. 4.\nC. 3 .\nD. 5 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I - ức chế cảm nhiễm: 0 -.\nII - kí sinh: + -.\nIII - hội sinh: +0 .\nIV - sinh vật ăn sinh vật: + -\nVậy có 3 mối quan hệ mà chỉ có 1 loài được lợi.\nChọn C"
+    },
+    {
+        "ID": "Bio_6_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Biết rằng cá mè hoa là đối tượng được chủ ao chọn khai thác để tạo ra hiệu quả kinh tế. Biện pháp tác động nào sau đây sẽ làm tăng hiệu quả kinh tế của ao nuôi này?\nA. Làm tăng số lượng cá mương trong ao.\nB. Thả thêm cá quả vào ao.\nC. Hạn chế số lượng thực vật phù du có trong ao.\nD. Loại bỏ hoàn toàn giáp xác ra khỏi ao.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A sai vì nếu tăng số lượng cá mương trong ai thì cá mương sẽ tăng cạnh tranh thức ăn với cá mè hoa $\\rightarrow$ cá mè hoa sẽ giảm.\nB đúng vì khi ta thả thên cá quả vào ao thì cá quả sẽ lấy cá mương làm nguồn thức ăn $\\rightarrow$ cá mương giảm $\\rightarrow$ cá mè hoa có nhiều thức ăn hơn $\\rightarrow$ số lượng cá mè hoa sẽ tăng lên.\n$C$ sai vì nếu hạn chế thực vật phù du trong ao thì giáp xác mất đi nguồn thức ăn $\\rightarrow$ giáp xác bị diệt vong $\\rightarrow$ cá mương và cá mè hoa bị diệt vong.\nD sai vì nếu loại bỏ giáp xác ra khỏi ao thì cá mè hoa và cá mương đều mất đi nguồn thức ăn $\\rightarrow$ sẽ dẫn đến cá mè hoa và cá mương bị diệt vong.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Phát biểu nào sau đây là sai khi nói về hiện tượng liên kết gen?\nA. Các gen trên cùng một nhiễm sắc thể di truyền cùng nhau tạo thành một nhóm gen liên kết\nB. Liên kết gen (liên kết hoàn toàn) làm tăng sự xuất hiện biến dị tổ hợp.\nC. Số lượng nhóm gen liên kết của một loài thường bằng số lượng nhiễm sắc thể trong bộ nhiễm sắc thể đơn bội của loài đó\nD. Liên kết gen đảm bảo sự di truyền bền vững của nhóm gen quý có ý nghĩa trọng chọn giống",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai về đột biến gen là $\\mathrm{B}$, liên kết hoàn toàn hạn chế sự xuất hiện biến dị tổ hợp.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Bằng phương pháp phân tích hóa sinh dịch ối người ta có thể phát hiện sớm bệnh, tật di truyền nào sau đây ở thai nhi?\nA. Bệnh bạch tạng.\nB. Tật dính ngón tay 2-3.\nC. Hội chứng Đao.\nD. Bệnh Phêninkêtô niệu.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phân tích hóa sinh giúp xác định các bệnh do rối loạn chuyển hóa.\nTrong các hội chứng, bệnh trên thì Phêninkêtô niệu là bệnh do rối loạn chuyển hóa axit amin Phe trong cơ thể.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Theo thuyết tiến hóa hiện đại, nhân tố tiến hóa không làm thay đổi tần số alen chỉ làm thay đổi thành phần kiểu gen của quần thể là\nA. Chọn lọc tự nhiên.\nB. Giao phối ngẫu nhiên.\nC. Đột biến.\nD. Giao phối không ngẫu nhiên.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Theo thuyết tiến hóa hiện đại, nhân tố tiến hóa không làm thay đổi tần số alen chỉ làm thay đổi thành phần kiểu gen của quần thể là giao phối không ngẫu nhiên.\nChú ý: giao phối ngẫu nhiên không phải nhân tố tiến hóa.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Với n cặp gen dị hợp tử ở $\\mathrm{F}_{1}$ di truyền độc lập thì số loại giao tử ở $\\mathrm{F}_{1}$ là bao nhiêu?\nA. $1 / 2^{\\mathrm{n}}$\nB. $2^{\\text {n }}$\nC. $4^{\\mathrm{n}}$\nD. $3^{\\mathrm{n}}$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Với n cặp gen dị hợp tử ở $F_{1}$ di truyền độc lập thì số loại giao tử ở $F_{1}$ là $2^{n}$.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Sự phân tầng theo phương thẳng đứng trong quần xã sinh vật có ý nghĩa gì?\nA. Giảm mức độ canh tranh giữa các loài, nâng cao hiệu quả sử dụng nguồn sống.\nB. Tăng hiệu quả sử dụng nguồn sống, tăng sự canh tranh giữa các quần thể.\nC. Giảm mức độ canh tranh giữa các loài, giảm khả năng tận dụng nguồn sống.\nD. Giảm khả năng tận dụng nguồn sống, tăng sự canh tranh giữa các quần thể.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Sự phân tầng theo phương thẳng đứng trong quần xã sinh vật có ý nghĩa giảm mức độ canh tranh giữa các loài, giảm khả năng tận dụng nguồn sống.\nChọn C"
+    },
+    {
+        "ID": "Bio_6_25",
+        "Image_Question": "Bio_6/Bio_6_25.jpeg",
+        "Question": "Câu 25:  Cho biết bệnh $\\mathrm{R}$ do gen trội nằm trên NST thường quy định. Bệnh $\\mathrm{H}$ do alen lặn nằm trên vùng không tương đồng của NST giới tính $\\mathrm{X}$ qui định. Khi nghiên cứu 2 loại bệnh này người ta lập sơ đồ phả hệ trong một gia đình như sau:\nCặp bố mẹ $\\mathrm{III}_{13}-\\mathrm{III}_{14}$ có thể sinh con gái, không mắc bệnh $\\mathrm{R}$ và bị bệnh $\\mathrm{H}$ với xác suất nào?\nA. $20 \\%$.\nB. $6,25 \\%$.\nC. $25 \\%$.\nD. $0 \\%$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Quy ước gen: A- bị bệnh R; a- không bị bệnh R; B - không bị bệnh $\\mathrm{H}$; b - bị bệnh $\\mathrm{H}$\nXét bệnh $\\mathrm{R}$, vì người $\\mathrm{III}_{13}$; $\\mathrm{III}_{14}$ đều có bố hoặc mẹ không bị bệnh nên có kiểu gen $\\mathrm{Aa}$.\nVì người $\\mathrm{III}_{13}$ có kiểu gen $\\mathrm{X}^{\\mathrm{B}} \\mathrm{Y}$ nên cặp vợ chồng này sinh con gái luôn không bị bênh $\\mathrm{H}$.\nXác suất cần tính là $0 \\%$\nChọn D"
+    },
+    {
+        "ID": "Bio_6_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Để khắc phục tình trạng ô nhiễm môi trường hiện nay, cần tập trung vào mấy biện pháp trong các biện pháp sau đây?\nI. Xây dựng các nhà máy xử lý và tái chế rác thải\nII. Quản lí chặt chẽ các chất gây ô nhiễm môi trường\nIII. Tăng cường khai thác rừng đầu nguồn và rừng nguyên sinh\nIV. Giáo dục để nâng cao ý thức bảo vệ môi trường cho mọi người\nV. Tăng cường khai thác nguồn tài nguyên khoáng sản\nA. 4 .\nB. 3 .\nC. 2 .\nD. 1 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Để khắc phục tình trạng ô nhiễm môi trường hiện nay, cần tập trung vào các biện pháp:\nI. Xây dựng các nhà máy xử lý và tái chế rác thải\nII. Quản lí chặt chẽ các chất gây ô nhiễm môi trường\nIV. Giáo dục để nâng cao ý thức bảo vệ môi trường cho mọi người.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Khi nói về vai trò của quá trình quang hợp ở thực vật, phát biểu nào sau đây sai?\nA. Quang hợp tạo ra toàn bộ các chất hữu cơ trên trái đất.\nB. Quang hợp chuyển hóa quang năng thành hóa năng trong các hợp chất hữu cơ.\nC. Quang hợp cung cấp nguồn chất hữu cơ làm thức ăn cho sinh vật dị dưỡng.\nD. Quang hợp hấp thụ $\\mathrm{CO}_{2}$ và giải phóng $\\mathrm{O}_{2}$ giúp điều hòa không khí.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai về vai trò của quá trình quang hợp là $\\mathrm{A}$, quang hợp chỉ tạo ra glucose để hình thành carbohydrate, không tạo ra toàn bộ các chất hữu cơ trên trái đất.\nChọn A"
+    },
+    {
+        "ID": "Bio_6_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Ở ruồi giấm, alen $A$ quy định mắt đỏ trội hoàn toàn so với alen a quy định mắt trắng. Biết rằng không xảy ra đột biến. Theo lí thuyết, phép lai nào sau đây cho đời con có kiểu hình phân li theo tỉ lệ 1 cái mắt đỏ: 1 ruồi đực mắt trắng?\nA. $X^{A} X^{A} \\times X^{a} Y$\nB. $X^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}} \\times \\mathrm{X}^{\\mathrm{a}} Y$.\nC. $X^{a} X^{a} \\times X^{A} Y$\nD. $X^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}} \\times \\mathrm{X}^{\\mathrm{A}} \\mathrm{Y}$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Phép lai thỏa mãn là: $X^{\\mathrm{a}} \\mathrm{X}^{\\mathrm{a}} \\times \\mathrm{X}^{\\mathrm{A}} \\mathrm{Y}$\n$\\rightarrow \\mathrm{F}_{1}: 1 \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}: 1 \\mathrm{X}^{\\mathrm{a}} \\mathrm{Y}$\n$\\leftrightarrow$ KH 1 ruồi cái mắt đỏ : 1 ruồi đực mắt trắng\nChọn C"
+    },
+    {
+        "ID": "Bio_6_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Điều hoà hoạt động của gen sau phiên mã thực chất là\nA. Điều khiển sự trưởng thành hay bị phân huỷ của các chuỗi polipeptit.\nB. Điều khiển sự trưởng thành và thời gian tồn tại của mARN.\nC. Điều hoà số lượng riboxom tham gia dịch mã trên các phân tử mARN.\nD. Điều khiển lượng mARN được tạo ra.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Điều hoà hoạt động của gen sau phiên mã thực chất là điều khiển sự trưởng thành và thời gian tồn tại của mARN.\n\\section{Chọn $B$.}"
+    },
+    {
+        "ID": "Bio_6_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Con người đã ứng dụng những hiểu biết về ổ sinh thái vào bao nhiêu hoạt động sau đây?\nI. Trồng xen các loại cây ưa bóng và cây ưa sáng trong cùng một khu vườn.\nII. Khai thác vật nuôi ở độ tuổi càng cao để thu được năng suất càng cao.\nIII. Trồng lúa, ngô cây đúng thời vụ để cây ra hoa vào thời điểm có khí hậu phù hợp.\nIV. Nuôi ghép các loài cá ở các tầng nước khác nhau trong một ao nuôi.\nA. 2 .\nB. 3.\nC. 1 .\nD. 4 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Con người đã ứng dụng những hiểu biết về ổ sinh thái vào các hoạt động:\nI. Trồng xen các loại cây ưa bóng và cây ưa sáng trong cùng một khu vườn.\nIII. Trồng lúa, ngô cây đúng thời vụ để cây ra hoa vào thời điểm có khí hậu phù hợp.\nIV. Nuôi ghép các loài cá ở các tầng nước khác nhau trong một ao nuôi.\n$\\rightarrow$ Nâng cao hiệu quả kinh tế.\nÝ II sai, cần khai thác vật nuôi ở độ tuổi phù hợp, không phải càng cao càng tốt.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_31",
+        "Image_Question": "Bio_6/Bio_6_31.jpeg",
+        "Question": "Câu 31:  Đây là đồ thị về đường cong tăng trưởng của quần thể sinh vật. Trong các nhận xét sau đây, có bao nhiêu nhận xét đúng?\nI. Đường cong 1 xảy ra khi nguồn sống của môi trường rất dồi dào và hoàn toàn thỏa mãn nhu cầu của các cá thể. II. Tại điểm uốn của đường cong 2, tốc độ tăng trưởng của quần thể đạt cực đại.\nIII. Đường cong 2 phản ánh sự tăng trưởng thực tế, khi điều kiện sống bị giới hạn.\nIV. Ở giai đoạn đầu của đường cong 2, do kích thước quần thể nhỏ nên tốc độ tăng trưởng của quần thể thấp.\nA. 2 .\nB. 4.\nC. 1 .\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Xét các phát biểu:\nI đúng, vì quần thể tăng trưởng nhanh chóng, đồ thị có hình chữ $\\mathrm{J}$.\nII đúng.\nIII đúng, đồ thị có hình chữ S.\nIV đúng.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Một loài thực vật, tính trạng màu hoa do 1 gen có 5 alen quy định. Thực hiện ba phép lai, thu được kết quả sau:\n\\begin{itemize}\n\\item Phép lai 1: Cây hoa tím lai với cây hoa đỏ (P), thu được $\\mathrm{F}_{1}$ có kiểu hình phân li theo tỉ lệ 2 cây hoa tím : 1 cây hoa đỏ : 1 cây hoa vàng.\n\\item Phép lai 2: Cây hoa tím lai với cây hoa vàng (P), thu được $\\mathrm{F}_{1}$ có kiểu hình phân li theo tỉ lệ 1 cây hoa đỏ : 1 cây hoa tím.\n\\item Phép lai 3: Cây hoa vàng lai với cây hoa hồng $(\\mathrm{P})$, thu được $\\mathrm{F}_{1}$ có kiểu hình phân li theo tỉ lệ 2 cây hoa vàng $: 1$ cây hoa hồng : 1 cây hoa trắng.\n\\end{itemize}\nBiết alen trội là trội hoàn toàn, không xảy ra đột biến. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Hoa tím trội so với các kiểu hình còn lại.\nII. Có 4 kiểu gen quy định kiểu hình hoa đỏ.\nIII. Ở phép lai 3, có tối đa 1 sơ đồ lai thỏa mãn.\nIV. Ở phép lai 2, có tối đa 3 sơ đồ lai thỏa mãn.\nA. 1 .\nB. 3 .\nC. 2 .\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Từ phép lai 1 ta suy ra được : tím > đỏ> vàng\nTừ phép lai 2 ta suy ra được : vàng $>$ hồng $>$ trắng\n$\\rightarrow$ tím $\\left(\\mathrm{a}_{1}\\right)>$ đỏ $\\left(\\mathrm{a}_{2}\\right)>\\operatorname{vàng}\\left(\\mathrm{a}_{3}\\right)>\\operatorname{hồng~}\\left(\\mathrm{a}_{4}\\right)>\\operatorname{trắng}\\left(\\mathrm{a}_{5}\\right)$.\nXét các phát biểu:\n\\section{I đúng.}\nII đúng, hoa đỏ có các kiểu gen $\\mathrm{a}_{2} \\mathrm{a}_{2 / 3 / 4 / 5}$.\nIII đúng, phép lai 3: $\\mathrm{a}_{3} \\mathrm{a}_{5} \\times \\mathrm{a}_{4} \\mathrm{a}_{5} \\rightarrow 1 \\mathrm{a}_{3} \\mathrm{a}_{4}: 1 \\mathrm{a}_{3} \\mathrm{a}_{5}:$ 1a4a5: 1a5a5.\nIV đúng, phép lai 2 có thể là $\\mathrm{a}_{1} \\mathrm{a}_{2} \\times \\mathrm{a}_{3} \\mathrm{a}_{3 / 4 / 5}$.\nChọn D."
+    },
+    {
+        "ID": "Bio_6_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Cho các thông tin:\nI. Gen bị đột biến dẫn đến prôtêin không tổng hợp được.\nII. Gen bị đột biến làm tăng hoặc giảm số lượng prôtêin.\nIII. Gen bị đột biến làm thay đổi axit amin này bằng một axit amin khác nhưng không làm thay đổi chức năng của prôtêin.\nIV. Gen bị đột biến dẫn đến prôtêin được tổng hợp bị thay đổi chức năng.\nCác thông tin có thể được sử dụng làm căn cứ để giải thích nguyên nhân của các bệnh di truyền ở người là:\nA. I, II, III.\nB. I, III, IV.\nC. I, II, IV.\nD. II, III, IV.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Các thông tin I, II, IV có thể được sử dụng làm căn cứ để giải thích nguyên nhân của các bệnh di truyền ở người.\nIII sai vì khi gen bị đột biến làm thay đổi axit amin này bằng một axit amin khác nhưng không làm thay đổi chức năng của prôtêin thì protein sau đột biến và protein ban đầu không khác nhau. Do đó không gây bệnh di truyền\nChọn C"
+    },
+    {
+        "ID": "Bio_6_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Một quần thể thực vật, alen A quy định hoa đỏ trội không hoàn toàn so với alen a quy định hoa trắng, kiểu gen Aa quy định hoa hồng. Nghiên cứu thành phần kiểu gen của quần thể này qua các thế hệ, người ta thu được kết quả ở bảng sau :\n\\begin{center}\n\\begin{tabular}{|l|l|l|l|l|}\n\\hline\nThế hệ & $\\mathrm{P}$ & $\\mathrm{F}_{1}$ & $\\mathrm{~F}_{2}$ & $\\mathrm{~F}_{3}$ \\\\\n\\hline\nTần số kiểu gen $\\mathrm{AA}$ & $2 / 5$ & $25 / 36$ & $36 / 49$ & $49 / 64$ \\\\\n\\hline\nTần số kiểu gen $\\mathrm{Aa}$ & $1 / 5$ & $10 / 36$ & $12 / 49$ & $14 / 64$ \\\\\n\\hline\nTần số kiểu gen aa & $2 / 5$ & $1 / 36$ & $1 / 49$ & $1 / 64$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCho rằng các quần thể này không chịu tác động của các nhân tố đột biến, di nhập gen và các yếu tố ngẫu nhiên. Phân tích bảng số liệu trên, phát biểu nào sau đây đúng?\nA. Cây hoa trắng không có khả năng sinh sản và quần thể này giao phấn ngẫu nhiên.\nB. Cây hoa đỏ không có khả năng sinh sản và quần thể này giao phấn ngẫu nhiên.\nC. Cây hoa hồng không có khả năng sinh sản và quần thể này tự thụ phấn một cách nghiêm ngặt.\nD. Cây hoa trắng không có khả năng sinh sản và quần thể này tự thụ phấn một cách nghiêm ngặt.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nThế hệ & $\\mathrm{P}$ & $\\mathrm{F}_{1}$ & $\\mathrm{~F}_{2}$ & $\\mathrm{~F}_{3}$ \\\\\n\\hline\nTần số kiểu gen AA & $2 / 5$ & $25 / 36$ & $36 / 49$ & $49 / 64$ \\\\\n\\hline\nTần số kiểu gen Aa & $1 / 5$ & $10 / 36$ & $12 / 49$ & $14 / 64$ \\\\\n\\hline\nTần số kiểu gen aa & $2 / 5$ & $1 / 36$ & $1 / 49$ & $1 / 64$ \\\\\n\\hline\nTần số alen & $\\mathrm{A}=1 / 2 ; \\mathrm{a}=1 / 2$ & $\\mathrm{~A}=5 / 6 ; \\mathrm{a}=1 / 6$ & $\\mathrm{~A}=6 / 7 ; \\mathrm{a}=1 / 7$ & $\\mathrm{~A}=7 / 8 ; \\mathrm{a}=1 / 8$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCác thế hệ đều đạt cân bằng di truyền, alen a giảm dần.\n$\\rightarrow$ Cây hoa trắng không có khả năng sinh sản và quần thể này giao phấn ngẫu nhiên.\nChọn A"
+    },
+    {
+        "ID": "Bio_6_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Theo quan niệm hiện đại, sự kiện nào sau đây không xảy ra ở giai đoạn tiến hóa hóa học?\nA. Sự hình thành các đại phân tử hữu cơ từ các chất hữu cơ đơn giản.\nB. Sự hình thành các tế bào sơ khai.\nC. Sự hình thành các phân tử hữu cơ đơn giản từ các chất vô cơ.\nD. Sự hình thành các đại phân tử có khả năng tự sao chép.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo quan niệm hiện đại, sự hình thành các tế bào sơ khai. không xảy ra ở giai đoạn tiến hóa hóa học.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Cho một số nhận định về khả năng biểu hiện ra kiểu hình của gen lặn như sau:\nI. Gen lặn ở thể đồng hợp.\nII. Gen lặn trên NST thường ở thể dị hợp.\nIII. Gen lặn trên vùng không tương đồng của NST giới tính X ở giới dị giao.\nIV. Gen lặn trên NST giới tính X ở giới đồng giao tử thuộc thể dị hợp.\nTrong các nhận định trên số nhận định đúng là:\nA. 1 .\nB. 4 .\nC. 3 .\nD. 2 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Các nhận định đúng về khả năng biểu hiện ra kiểu hình của gen lặn là: I, III.\nTrường hợp II: Aa thì alen a không biểu hiện được.\nTrường hợp IV: $\\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}$ thì alen a không biểu hiện được.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Đột biến mất đoạn có hậu quả là\nA. không thay đổi số lượng gen\nB. thường gây chết và giảm sức sống\nC. làm thay đổi trình tự phân bố gen trên NST\nD. làm thay đổi nhóm gen liên kết.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Đột biến mất đoạn có hậu quả là thường gây chết và giảm sức sống.\nChọn B"
+    },
+    {
+        "ID": "Bio_6_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Đơn vị cấu trúc cơ bản của nhiễm sắc thể là\nA. chất nhiếm sắc\nB. axit amin.\nC. nuclêôtit\nD. nuclêôxôm.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đơn vị cấu trúc cơ bản của nhiễm sắc thể là nuclêôxôm.\nChọn D"
+    },
+    {
+        "ID": "Bio_6_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Một quần thể sinh vật ngẫu phối chịu tác động của chọn lọc tự nhiên có cấu trúc di truyền như sau:\n\\begin{center}\n\\begin{tabular}{|l|c|c|c|}\n\\hline\n\\multirow{2}{*}{Thế hệ} & \\multicolumn{3}{|c|}{Thành phần kiểu gen} \\\\\n\\cline { 2 - 4 }\n& $\\mathrm{AA}$ & $\\mathrm{Aa}$ & $\\mathrm{aa}$ \\\\\n\\hline\n$\\mathrm{P}$ & 0,5 & 0,3 & 0,2 \\\\\n\\hline\n$\\mathrm{F}_{1}$ & 0,45 & 0,25 & 0,3 \\\\\n\\hline\n$\\mathrm{F}_{2}$ & 0,4 & 0,2 & 0,4 \\\\\n\\hline\n$\\mathrm{F}_{3}$ & 0,3 & 0,15 & 0,55 \\\\\n\\hline\n$\\mathrm{F}_{4}$ & 0,15 & 0,1 & 0,75 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nNhận xét nào sau đây là đúng về tác động của chọn lọc tự nhiên đối với quần thể này ?\nA. Các cá thể mang kiểu hình trội đang bị chọn lọc tự nhiên loại bỏ dần\nB. Chọn lọc tự nhiên đang loại bỏ các kiểu gen đồng hợp và giữ lại các kiểu gen dị hợp\nC. Các cá thể mang kiểu hình lặn đang bị chọn lọc tự nhiên loại bỏ dần\nD. Chọn lọc tự nhiên đang loại bỏ các cặp gen dị hợp và đồng hợp lặn",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta thấy tỉ lệ $\\mathrm{AA}$ và $\\mathrm{Aa}$ giảm dần $\\rightarrow$ Các cá thể mang kiểu hình trội đang bị chọn lọc tự nhiên loại bỏ dần.\nChọn A"
+    },
+    {
+        "ID": "Bio_6_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Đối với mỗi nhân tố sinh thái thì khoảng thuận lợi là khoảng giá trị của nhân tố sinh thái mà ở đó $\\sinh$ vật\nA. có sức sống trung bình.\nB. phát triển thuận lợi nhất.\nC. có sức sống giảm dần.\nD. chết hàng loạt.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Đối với mỗi nhân tố sinh thái thì khoảng thuận lợi là khoảng giá trị của nhân tố sinh thái mà ở đó sinh vật phát triển thuận lợi nhất.\nChọn B"
+    }
+]

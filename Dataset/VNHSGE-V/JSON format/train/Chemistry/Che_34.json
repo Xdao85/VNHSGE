@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Che_34_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Triolein không tác dụng với chất nào sau đây?\nA. Kim loại Na.\nB. Dung dịch $\\mathrm{KOH}$ (đun nóng).\nC. Khí $\\mathrm{H}_{2}$ (xúc tác Ni, đun nóng).\nD. Dung dịch brom.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Triolein không tác dụng với kim loại Na.\nChọn A"
+    },
+    {
+        "ID": "Che_34_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Phát biểu nào sau đây đúng?\nA. Cao su lưu hóa có cấu trúc mạch không phân nhánh.\nB. Tơ nitron được điều chế bằng phản ứng trùng ngưng.\nC. Tơ nilon-6,6 được điều chế bằng phản ứng trùng hợp.\nD. Sợi bông, tơ tằm đều thuộc loại tơ thiên nhiên.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "A sai, vì cao su lưu hóa có cấu trúc mạng không gian.\n$B$ sai, vì tơ nitron được điều chế bằng phản ứng trùng hợp.\n$C$ sai, vì tơ nilon-6,6 được điều chế bằng phản ứng trùng ngưng.\nD đúng.\nChọn D"
+    },
+    {
+        "ID": "Che_34_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Số nguyên tử hiđro trong phân tử etylamin là\nA. 7 .\nB. 2 .\nC. 5 .\nD. 4 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Số nguyên tử hiđro trong phân tử etylamin $\\left(\\mathrm{C}_{2} \\mathrm{H}_{7} \\mathrm{NH}_{2}\\right)$ là 7\nChọn A"
+    },
+    {
+        "ID": "Che_34_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Phát biểu nào sau đây đúng?\nA. Phân tử lysin có một nguyên tử nitơ.\nB. Anilin là chất lỏng tan nhiều trong nước.\nC. Phân tử Gly-Ala-Ala có ba nguyên tử oxi.\nD. Dung dịch protein có phản ứng màu biure.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "A sai, vì phân tử lysin có 2 nguyên tử nitơ.\n$B$ sai, vì anilin là chất lỏng không tan trong nước.\n$C$ sai, vì phân tử Gly-Ala-Ala có bốn nguyên tử oxi.\nD đúng.\nChọn D"
+    },
+    {
+        "ID": "Che_34_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Cho m gam kim loại Fe tác dụng hết với dung dịch $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ loãng, dư thu được 3,36 lít khí $\\mathrm{H}_{2}$ ở đktc. Giá trị của $m$ là\nA. 11,2 .\nB. 7,84 .\nC. 8,4\nD. 5,6.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{Fe}+\\mathrm{H}_{2} \\mathrm{SO}_{4} \\rightarrow \\mathrm{FeSO}_{4}+\\mathrm{H}_{2}$\n$\\mathrm{n}_{\\mathrm{H} 2}=\\mathrm{n}_{\\mathrm{Fe}}=0,15 \\mathrm{~mol}$\n$\\mathrm{m}_{\\mathrm{Fe}}=0,15.56=8,4$ gam\nChọn C"
+    },
+    {
+        "ID": "Che_34_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Số liên kết peptit trong phân tử Gly-Ala-Val-Gly-Ala là\nA. 2 .\nB. 1 .\nC. 4 .\nD. 3 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Số liên kết peptit trong phân tử Gly-Ala-Val-Gly-Ala là 4.\nChọn C"
+    },
+    {
+        "ID": "Che_34_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Chất nào sau đây có nhiệt độ sôi thấp nhất?\nA. $\\mathrm{CH}_{3} \\mathrm{COOH}$.\nB. $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{COOH}$.\nC. $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$.\nD. $\\mathrm{CH}_{3} \\mathrm{COOCH}_{3}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{CH}_{3} \\mathrm{COOCH}_{3}$ có nhiệt độ sôi thấp nhất.\nChọn D"
+    },
+    {
+        "ID": "Che_34_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Dung dịch chất nào sau đây làm quỳ tím hóa xanh?\nA. Anilin.\nB. Glyxin.\nC. Alanin.\nD. Metylamin.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Metylamin làm quỳ tím hóa xanh.\nChọn D"
+    },
+    {
+        "ID": "Che_34_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Kim loại nào sau đây không tan được trong $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ loãng?\nA. Al.\nB. $\\mathrm{Mg}$.\nC. $\\mathrm{Cu}$.\nD. $\\mathrm{Fe}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{Cu}$ không tan được trong $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ loãng.\nChọn C"
+    },
+    {
+        "ID": "Che_34_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Poli(metyl metacrylat) và nilon-6 được tạo thành từ các monome tương ứng là:\nA. $\\mathrm{CH}_{3}-\\mathrm{COO}-\\mathrm{CH}=\\mathrm{CH}_{2}$ và $\\mathrm{H}_{2} \\mathrm{~N}-\\left[\\mathrm{NH}_{2}\\right]_{5}-\\mathrm{COOH}$.\nB. $\\mathrm{CH}_{2}=\\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)-\\mathrm{COOCH} \\mathrm{Ca}_{3}$ và $\\mathrm{H}_{2} \\mathrm{~N}-\\left[\\mathrm{NH}_{2}\\right]_{5}-\\mathrm{COOH}$.\nC. $\\mathrm{CH}_{2}=\\mathrm{C}\\left(\\mathrm{CH}_{3}\\right)-\\mathrm{COOCH}{ }_{3}$ và $\\mathrm{H}_{2} \\mathrm{~N}-\\left[\\mathrm{NH}_{2}\\right]_{6}-\\mathrm{COOH}$.\nD. $\\mathrm{CH}_{2}=\\mathrm{CH}-\\mathrm{COOCH} \\mathrm{C}_{3}$ và $\\mathrm{H}_{2} \\mathrm{~N}-\\left[\\mathrm{NH}_{2}\\right]_{6}-\\mathrm{COOH}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Poli(metyl metacrylat) và nilon-6 được tạo thành từ các monome tương ứng là: $\\mathrm{CH}_{2}=\\mathrm{C}_{(}\\left(\\mathrm{CH}_{3}\\right)-\\mathrm{COOCH}_{3}$ và $\\mathrm{H}_{2} \\mathrm{~N}$ $\\left[\\mathrm{NH}_{2}\\right]_{5}-\\mathrm{COOH}$.\nChọn B"
+    },
+    {
+        "ID": "Che_34_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Cho dãy các kim loại sau: Fe, Cr, Al, Ag. Kim loại nào sau đây dẫn điện tốt nhất?\nA. Ag.\nB. Cr.\nC. Al.\nD. Fe.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ag dẫn điện tốt nhất.\nChọn A"
+    },
+    {
+        "ID": "Che_34_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Phát biểu nào sau đây sai?\nA. Khi đun nóng glucozo với dung dịch $\\mathrm{AgNO}_{3} / \\mathrm{NH}_{3}$ dư, glucozo khử được $\\mathrm{Ag}^{+}$thành $\\mathrm{Ag}$.\nB. Trong môi trường axit, fructozơ chuyển thành glucozơ.\nC. Thủy phân hoàn toàn tinh bột thu được glucozơ.\nD. Trong cây xanh, tinh bột được tổng hợp nhờ phản ứng quang hợp.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\boldsymbol{B}$ sai, vì trong môi trường kiềm, fructozơ chuyển thành glucozơ.\nChọn B"
+    },
+    {
+        "ID": "Che_34_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Thí nghiệm nào sau đây không sinh ra đơn chất?\nA. Cho kim loại $\\mathrm{Zn}$ vào dung dịch $\\mathrm{CuSO}_{4}$.\nB. Cho kim loại $\\mathrm{Cu}$ vào dung dịch $\\mathrm{AgNO}_{3}$.\nC. Cho kim loại $\\mathrm{Al}$ vào dung dịch $\\mathrm{HCl}$.\nD. Cho $\\mathrm{CaCO}_{3}$ vào lượng dữ dung dịch $\\mathrm{HCl}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cho $\\mathrm{CaCO}_{3}$ vào lượng dữ dung dịch $\\mathrm{HCl}$ không sinh ra đơn chất.\nChọn D"
+    },
+    {
+        "ID": "Che_34_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Este được điều chế từ ancol etylic là\nA. etyl fomat.\nB. metyl axetat.\nC. metyl acrylat.\nD. vinyl fomat.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Este được điều chế từ ancol etylic là etyl fomat.\nChọn A"
+    },
+    {
+        "ID": "Che_34_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Chất có nhiều trong các loại quả xanh và hạt ngũ cốc là\nA. glucozo.\nB. saccarozo.\nC. tinh bột.\nD. xenlulozo.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Chất có nhiều trong các loại quả xanh và hạt ngũ cốc là tinh bột.\nChọn C"
+    },
+    {
+        "ID": "Che_34_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Cho các loại tơ: bông, tơ capron, tơ xenluloz axetat, tơ tằm, tơ nitron, nilon-6,6, tơ lapsan. Số tơ tổng hợp là\nA. 4.\nB. 5 .\nC. 3 .\nD. 2 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tơ capron, tơ nitron, nilon-6,6, tơ lapsan là tơ tổng hợp.\nChọn A"
+    },
+    {
+        "ID": "Che_34_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Cho dãy các chất: phenyl axetat, anlyl axetat, metyl axetat, etyl fomat, tripanmitin. Số chất trong dãy khi thủy phân trong dung dịch $\\mathrm{NaOH}$ (dư), đun nóng sinh ra ancol là\nA. 3 .\nB. 5 .\nC. 2 .\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{CH}_{3} \\mathrm{COOC}_{6} \\mathrm{H}_{5}+2 \\mathrm{NaOH} \\rightarrow \\mathrm{CH}_{3} \\mathrm{COONa}+\\mathrm{C}_{6} \\mathrm{H}_{5} \\mathrm{ONa}+\\mathrm{H}_{2} \\mathrm{O}$\n$\\mathrm{CH}_{3} \\mathrm{COOCH}_{2}-\\mathrm{CH}=\\mathrm{CH}_{2}+\\mathrm{NaOH} \\rightarrow \\mathrm{CH}_{3} \\mathrm{COONa}+\\mathrm{CH}_{2}=\\mathrm{CH}-\\mathrm{CH}_{2} \\mathrm{OH}$\n$\\mathrm{CH}_{3} \\mathrm{COOCH}_{3}+\\mathrm{NaOH} \\rightarrow \\mathrm{CH}_{3} \\mathrm{COONa}+\\mathrm{CH}_{3} \\mathrm{OH}$\n$\\mathrm{HCOOC}_{2} \\mathrm{H}_{5}+\\mathrm{NaOH} \\rightarrow \\mathrm{HCOONa}+\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$\n$\\left(\\mathrm{C}_{15} \\mathrm{H}_{31} \\mathrm{COO}\\right)_{3} \\mathrm{C}_{3} \\mathrm{H}_{5}+3 \\mathrm{NaOH} \\rightarrow 3 \\mathrm{C}_{15} \\mathrm{H}_{31} \\mathrm{COONa}+\\mathrm{C}_{3} \\mathrm{H}_{5}(\\mathrm{OH})_{3}$\nChọn D"
+    },
+    {
+        "ID": "Che_34_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Cho 29,2 gam lysin tác dụng với dung dịch $\\mathrm{HCl}$ dư, sau phản ứng hoàn toàn thu được dung dịch chứa $\\mathrm{m}$ gam muối. Giá trị của $\\mathrm{m}$ là\nA. 36,50 .\nB. 32,85 .\nC. 43,80 .\nD. 40,15 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\mathrm{HCl}}=2 \\mathrm{n}_{\\mathrm{lysin}}=0,4 \\mathrm{~mol}$\nBTKL 29,2 + 0,4.36,5 $=\\mathrm{m}_{\\mathrm{muói}}$\n$\\Rightarrow \\mathrm{m}_{\\mathrm{muố}}=43,80$ gam\nChọn C"
+    },
+    {
+        "ID": "Che_34_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Đun nóng este $\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}$ với một lượng vừa đủ dung dịch $\\mathrm{NaOH}$, sản phẩm thu được sau phản ứng là\nA. $\\mathrm{CH}_{3} \\mathrm{COONa}$ và $\\mathrm{CH}_{3} \\mathrm{OH}$.\nB. $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{COONa}$ và $\\mathrm{CH}_{3} \\mathrm{OH}$.\nC. $\\mathrm{CH}_{3} \\mathrm{COONa}$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$.\nD. $\\mathrm{HCOONa}$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đun nóng este $\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}$ với một lượng vừa đủ dung dịch $\\mathrm{NaOH}$, sản phẩm thu được sau phản ứng là $\\mathrm{CH}_{3} \\mathrm{COONa}$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$.\nChọn C"
+    },
+    {
+        "ID": "Che_34_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Chất nào sau đây là este?\nA. $\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}$.\nB. $\\mathrm{CH}_{3} \\mathrm{OH}$.\nC. $\\mathrm{CH}_{3} \\mathrm{COOH}$.\nD. $\\mathrm{CH}_{3} \\mathrm{COONa}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}$ là este.\nChọn A"
+    },
+    {
+        "ID": "Che_34_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Cho m gam glucozo lên men thành ancol etylic. Khí sinh ra cho vào nước với trong dư thu được 120 gam kết tủa, biết hiệu suất quá trình lên men đạt $60 \\%$. Giá trị m là\nA. 120 .\nB. 112,5 .\nC. 180 .\nD. 225 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\mathrm{CO} 2}=\\mathrm{n}_{\\mathrm{CaCO} 3}=1,2 \\mathrm{~mol}$\n$\\Rightarrow \\mathrm{m}_{\\text {glucozo }}=1,2.180 / 2 / 60 \\%=180$ gam\nChọn C"
+    },
+    {
+        "ID": "Che_34_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Đốt cháy hoàn toàn 9,18 gam hỗn hợp glucozơ và saccarozơ cần vừa đủ $0,315 \\mathrm{~mol} \\mathrm{O}_{2}$, thu được $\\mathrm{CO}_{2}$ và $\\mathrm{m}$ gam $\\mathrm{H}_{2} \\mathrm{O}$. Giá trị của $\\mathrm{m}$ là\nA. 3,6.\nB. 5,4 .\nC. 7,2.\nD. 4,1 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\mathrm{O} 2}=\\mathrm{n}_{\\mathrm{CO} 2}=0,315 \\mathrm{~mol}$\nBTKL: 9,18 + 0,315.32 $=0,315 \\cdot 44+\\mathrm{m}$\n$\\Rightarrow m=5,4$ gam\nChọn B"
+    },
+    {
+        "ID": "Che_34_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Kim loại nào sau đây điều chế được bằng phương pháp nhiệt luyện với chất khử là CO?\nA. Ca.\nB. $\\mathrm{Cu}$.\nC. K.\nD. Ba.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{Cu}$ được điều chế được bằng phương pháp nhiệt luyện với chất khử là $\\mathrm{CO}$\nChọn B"
+    },
+    {
+        "ID": "Che_34_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Sản phẩm cuối cùng của quá trình thủy phân các protein đơn giản nhờ chất xúc tác thích hợp là\nA. este.\nB. $\\alpha$-aminoaxit.\nC. axit cacboxylic.\nD. $\\beta$-aminoaxit.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Sản phẩm cuối cùng của quá trình thủy phân các protein đơn giản nhờ chất xúc tác thích hợp là $\\alpha$-aminoaxit.\nChọn B"
+    },
+    {
+        "ID": "Che_34_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Saccarozo là loại đường phổ biến nhất, có nhiều trong cây mía, củ cải đường và hoa thốt nốt. Công thức phân tử của saccarozơ là\nA. $\\left(\\mathrm{C}_{6} \\mathrm{H}_{10} \\mathrm{O}_{5}\\right)_{\\mathrm{n}}$.\nB. $\\mathrm{C}_{12} \\mathrm{H}_{22} \\mathrm{O}_{11}$.\nC. $\\mathrm{C}_{12} \\mathrm{H}_{24} \\mathrm{O}_{12}$.\nD. $\\mathrm{C}_{6} \\mathrm{H}_{12} \\mathrm{O}_{6}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Công thức phân tử của saccarozơ là $\\mathrm{C}_{12} \\mathrm{H}_{22} \\mathrm{O}_{11}$.\nChọn B"
+    },
+    {
+        "ID": "Che_34_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Cặp chất nào sau đây là đồng phân của nhau?\nA. $\\mathrm{C}_{4} \\mathrm{H}_{4}$ và $\\mathrm{C}_{2} \\mathrm{H}_{2}$.\nB. $\\mathrm{CH}_{3} \\mathrm{OCH}_{3}$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$.\nC. $\\mathrm{CH}_{4}$ và $\\mathrm{C}_{2} \\mathrm{H}_{6}$.\nD. $\\mathrm{CH} \\equiv \\mathrm{CH}$ và $\\mathrm{CH}_{2}=\\mathrm{CH}_{2}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{CH}_{3} \\mathrm{OCH}_{3}$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$ là đồng phân của nhau.\nChọn B"
+    },
+    {
+        "ID": "Che_34_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Để thủy phân hoàn toàn m gam metyl axetat cần dùng vừa đủ $200 \\mathrm{ml}$ dung dịch $\\mathrm{NaOH}$ 1M. Giá trị của m là\nA. 8,8\nB. 7,4.\nC. 17,6.\nD. 14,8 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\text {este }}=\\mathrm{n}_{\\mathrm{NaOH}}=0,2 \\mathrm{~mol}$\n$\\mathrm{m}=0,2.74=14,8$ gam\nChọn D"
+    },
+    {
+        "ID": "Che_34_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Tên gọi của hợp chất có công thức cấu tạo $\\mathrm{CH}_{3}\\left[\\mathrm{CH}_{2}\\right]_{14} \\mathrm{COOH}$ là\nA. axit panmitic.\nB. axit stearic.\nC. axit oleic.\nD. axit axetic.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tên gọi của hợp chất có công thức cấu tạo $\\mathrm{CH}_{3}\\left[\\mathrm{CH}_{2}\\right]_{14} \\mathrm{COOH}$ là axit panmitic.\nChọn A"
+    },
+    {
+        "ID": "Che_34_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Hòa tan hết 2,49 gam hỗn hợp gồm $\\mathrm{Al}$ và Zn trong dung dịch $\\mathrm{H}_{2} \\mathrm{SO}_{4}$ loãng, sau phản ứng thu được dung dịch chỉ chứa 8,25 gam muối sunfat trung hòa và $\\mathrm{V}$ lít khí $\\mathrm{H}_{2}$. Giá trị của $\\mathrm{V}$ là\nA. 1,344 .\nB. 0,896.\nC. 2,688.\nD. 1,120 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\mathrm{H} 2 \\mathrm{SO} 4}=\\mathrm{n}_{\\mathrm{H} 2}=\\mathrm{x}$\nBảo toàn khối lượng $2,49+98 x=8,25+2 x$\n$\\Rightarrow \\mathrm{x}=0,06 \\mathrm{~mol}$\n$\\mathrm{V}_{\\mathrm{H} 2}=0,06.22,4=1,344$ lít\nChọn A"
+    },
+    {
+        "ID": "Che_34_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Hỗn hợp $\\mathrm{X}$ gồm hex-l-in, axit acrylic, ancol anlylic $\\left(\\mathrm{C}_{3} \\mathrm{H}_{5} \\mathrm{OH}\\right)$. Cho khí hiđro qua a gam $\\mathrm{X}$ đun nóng (xúc tác $\\mathrm{Ni})$, sau một thời gian thu được $(\\mathrm{a}+0,4)$ gam hỗn hợp $\\mathrm{Y}$ gồm các chất hữu cơ. Cho $\\mathrm{Y}$ tác dụng với dung dịch $\\mathrm{Br}_{2}$ dư, thì có $0,25 \\mathrm{~mol} \\mathrm{Br}_{2}$ đã phản ứng. Mặt khác, đốt cháy hoàn toàn a gam $\\mathrm{X}$ rồi cho sản phẩm cháy vào nước vôi trong dư, thu được kết tủa có khối lượng là\nA. 120 gam.\nB. 135 gam.\nC. 150 gam.\nD. 105 gam.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Bảo toàn khối lương: $\\mathrm{a}+\\mathrm{m}_{\\mathrm{H} 2}=\\mathrm{a}+0,4$\n$\\Rightarrow \\mathrm{n}_{\\mathrm{H} 2}=0,2 \\mathrm{~mol}$\nGọi số mol của hex-l-in, axit acrylic, ancol anlylic lần lượt là $\\mathrm{x}, \\mathrm{y}, \\mathrm{z}$\nBảo toàn liên kết pi $\\Rightarrow 2 \\mathrm{x}+\\mathrm{y}+\\mathrm{z}=\\mathrm{n}_{\\mathrm{H} 2}+\\mathrm{n}_{\\mathrm{Br} 2}=0,45 \\mathrm{~mol}$\nBảo toàn nguyên tố' ' $\\mathrm{C}$ '' $\\Rightarrow 6 \\mathrm{x}+3 \\mathrm{y}+3 \\mathrm{z}=\\mathrm{n}_{\\mathrm{CO} 2}=0,45.3=1,35 \\mathrm{~mol}$\n$\\mathrm{n}_{\\mathrm{CO} 2}=\\mathrm{n}_{\\mathrm{CaCO} 3}=1,35.100=135$ gam\nChọn B"
+    },
+    {
+        "ID": "Che_34_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Cho sơ đồ các phản ứng sau (các phản ứng trong sơ đồ chưa đúng tỷ lệ mol và các ký hiệu khác nhau là các chất khác nhau):\n(1) $\\mathrm{X}+\\mathrm{NaOH} \\rightarrow \\mathrm{X}_{1}+\\mathrm{X}_{2}$\n(2) $\\mathrm{Y}+\\mathrm{NaOH} \\rightarrow \\mathrm{Y}_{1}+\\mathrm{Y}_{2}+\\mathrm{Y}_{3}$\n(3) $\\mathrm{X}_{2}+\\mathrm{CO} \\rightarrow \\mathrm{Z}$\n(4) $\\mathrm{Y}_{2}+\\mathrm{AgNO}_{3}+\\mathrm{NH}_{3} \\rightarrow \\mathrm{T}+\\mathrm{Ag}+\\mathrm{NH}_{4} \\mathrm{NO}_{3}$\n(5) $\\mathrm{T}+\\mathrm{HCl} \\longrightarrow \\mathrm{Z}+\\mathrm{NH}_{4} \\mathrm{Cl}$ $\\mathrm{M}_{\\mathrm{X} 1}$. Cho các nhận định sau\n(a) Dùng $\\mathrm{Y}_{2}$ để làm nước rửa tay phòng ngừa dịch Covid -19.\n(b) $X$ và $Y$ là những hợp chất hữu cơ không no.\n(c) $Y_{3}$ và $Z$ có cùng số nguyên tử cacbon.\n(d) Nung $X_{1}$ với với tôi xút thu được hidrocacbon đơn giản nhất.\nBiết $\\mathrm{X}$ và $\\mathrm{Y}\\left(\\mathrm{M}_{\\mathrm{X}}<\\mathrm{M}_{\\mathrm{Y}}<170\\right)$ là hai chất hữu cơ mạch hở và trong phân tử chỉ chứa một loại nhóm chức. Đốt cháy hoàn toàn $\\mathrm{X}_{1}$ cũng như $\\mathrm{Y}_{1}$ thì sản phẩm cháy thu được chỉ có $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ và $\\mathrm{CO}_{2}$. $\\mathrm{Y}_{3}$ là chất hữu cơ no $\\mathrm{M}_{\\mathrm{Y} 1}>$ (e) $\\mathrm{X}_{2}$ và $\\mathrm{Y}_{2}$ thuộc cùng dãy đồng đẳng.\nSố nhận định đúng là\nA. 2.\nB. 1.\nC. 4 .\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Do khi đốt cháy $\\mathrm{X}_{1}$ và $\\mathrm{Y}_{1}$ thu được $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ và $\\mathrm{CO}_{2} \\rightarrow \\mathrm{X}_{1}$ và $\\mathrm{Y}_{1}$ không chứa $\\mathrm{H}$ Mà $\\mathrm{M}_{\\mathrm{X}}<\\mathrm{M}_{\\mathrm{Y}}<170$ và $\\mathrm{M}_{\\mathrm{X} 1}<\\mathrm{M}_{\\mathrm{Y} 1}$\n$\\mathrm{X}_{1}$ là $(\\mathrm{COONa})_{2}$\n$\\mathrm{Y}_{1} \\mathrm{C}_{2}(\\mathrm{COONa})_{2}$\n$\\mathrm{X}_{2}$ là $\\mathrm{CH}_{3} \\mathrm{OH}$\n$\\mathrm{Z}$ là $\\mathrm{CH}_{3} \\mathrm{COOH}$\n$\\mathrm{X}$ là $\\left(\\mathrm{COOCH}_{3}\\right)_{2}$\n$\\mathrm{Y}$ là $\\mathrm{C}_{2} \\mathrm{H}_{5}-\\mathrm{OOC}-\\mathrm{C} \\equiv \\mathrm{C}-\\mathrm{COO}-\\mathrm{CH}=\\mathrm{CH}_{2}$\n$\\mathrm{Y}_{2}$ là $\\mathrm{CH}_{3} \\mathrm{CHO}$\n$\\mathrm{Y}_{3}$ là $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$\n(a) sai, vì $\\mathrm{Y}_{2}$ là $\\mathrm{CH}_{3} \\mathrm{CHO}$ không dùng làm nước rửa tay phòng ngừa dịch Covid -19 .\n(b) sai, vì $\\mathrm{X}$ là hợp chất hữu cơ no.\n(c) đúng.\n(d) sai, vì nung $\\mathrm{X}_{1}$ với vôi tôi xút chỉ tạo $\\mathrm{H}_{2}$.\n(e) sai, vì $\\mathrm{X}_{2}$ và $\\mathrm{Y}_{2}$ không thuộc cùng dãy đồng đẳng.\nChọn B"
+    },
+    {
+        "ID": "Che_34_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Cho sơ đồ các phản ứng theo đúng tỷ lệ mol:\n(a) $\\mathrm{X} \\rightarrow \\mathrm{Y}+\\mathrm{CO}_{2}$\n(b) $\\mathrm{Y}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow \\mathrm{Z}$\n(c) $\\mathrm{T}+\\mathrm{Z} \\rightarrow \\mathrm{R}+\\mathrm{X}+\\mathrm{H}_{2} \\mathrm{O}$\n(d) $2 \\mathrm{~T}+\\mathrm{Z} \\rightarrow \\mathrm{Q}+\\mathrm{X}+2 \\mathrm{H}_{2} \\mathrm{O}$\nCác chất $\\mathrm{R}, \\mathrm{Q}$ thỏa mãn sơ đồ trên lần lượt là\nA. $\\mathrm{Ca}(\\mathrm{OH})_{2}, \\mathrm{NaHCO}_{3}$.\nB. $\\mathrm{NaHCO}_{3}, \\mathrm{Ca}(\\mathrm{OH})_{2}$.\nC. $\\mathrm{NaOH}, \\mathrm{Na}_{2} \\mathrm{CO}_{3}$.\nD. $\\mathrm{Na}_{2} \\mathrm{CO}_{3}, \\mathrm{NaOH}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": ":\n$\\mathrm{X}$ là $\\mathrm{CaCO}_{3}$\n$\\mathrm{Y}$ là $\\mathrm{CaO}$\n$\\mathrm{Z}$ là $\\mathrm{Ca}(\\mathrm{OH})_{2}$\n$\\mathrm{T}$ là $\\mathrm{NaHCO}_{3}$\n$\\mathrm{NaHCO}_{3}+\\mathrm{Ca}(\\mathrm{OH})_{2} \\rightarrow \\mathrm{CaCO}_{3}+\\mathrm{NaOH}+\\mathrm{H}_{2} \\mathrm{O}$\n$2 \\mathrm{NaHCO}_{3}+\\mathrm{Ca}(\\mathrm{OH})_{2} \\rightarrow \\mathrm{CaCO}_{3}+\\mathrm{Na}_{2} \\mathrm{CO}_{3}+2 \\mathrm{H}_{2} \\mathrm{O}$\nCác chất $\\mathrm{R}, \\mathrm{Q}$ thỏa mãn sơ đồ trên lần lượt là $\\mathrm{NaOH}, \\mathrm{Na}_{2} \\mathrm{CO}_{3}$.\nChọn C"
+    },
+    {
+        "ID": "Che_34_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Hỗn hợp $\\mathrm{X}$ gồm glyxin, alanin và axit glutamic (trong đó nguyên tố oxi chiếm 41,2\\% về khối lượng). Cho m gam $\\mathrm{X}$ tác dụng với dung dịch $\\mathrm{NaOH}$ dư, thu được 20,532 gam muối. Giá trị của m là\nA. 13,1.\nB. 13,8 .\nC. 16,0 .\nD. 12,0 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\mathrm{O}}=0,412 \\mathrm{~m} / 16$\n$\\Longrightarrow \\mathrm{n}_{\\mathrm{COOH}}$ trong $\\mathrm{x}=\\mathrm{nO}_{\\mathrm{O}} / 2=\\mathrm{n}_{\\mathrm{NaOH}}=\\mathrm{n}_{\\mathrm{H} 2 \\mathrm{O}}$\nBTKL m + 0,412m.40/32 $=20,532+0,412 \\mathrm{~m} \\cdot 18 / 32$\n$\\mathrm{m}=16,0$ gam\nChọn C"
+    },
+    {
+        "ID": "Che_34_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Cho các phát biểu sau:\n(a) Ở điều kiện thường, glucozo và alanin đều là chất rắn và dễ tan trong nước.\n(b) Khi tham gia phản ứng tráng bạc, glucozơ bị oxi hóa thành axit gluconic.\n(c) Amilopectin trong tinh bột có cấu trúc mạch không phân nhánh.\n(d) Thành phần chính của cồn $70^{\\circ}$ thường dùng trong y tế để sát trùng là etanol.\n(e) Gạch của nổi lên trên khi nấu riêu cua là hiện tượng đông tụ chất béo.\n(f) Xenlulozo trinitrat là nguyên liệu để sản xuất tơ nhân tạo và chế tạo thuốc súng không khói.\nSố phát biểu đúng là\nA. 5 .\nB. 4.\nC. 3 .\nD. 2 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "(a) đúng.\n(b) sai, vì khi tham gia phản ứng tráng bạc, glucozo bị oxi hóa thành amoni gluconat.\n(c) sai, vì amilopectin trong tinh bột có cấu trúc mạch phân nhánh.\n(d) đúng.\n(e) sai, vì gạch của nổi lên trên khi nấu riêu cua là hiện tượng đông tụ protein.\n(f) sai, vì xenlulozơ trinitrat là nguyên liệu chế tạo thuốc súng không khói (xenlulozơ triaxetat là nguyên liệu sản xuất tơ nhân tạo)\nChọn D"
+    },
+    {
+        "ID": "Che_34_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Dung dịch $\\mathrm{X}$ chứa hỗn hợp gồm a mol CuSO 4 và $\\mathrm{b}$ mol NaCl (2a < b). Điện phân dung dịch $\\mathrm{X}$ với điện cực trơ, màng ngăn xốp (hiệu suất 100\\%) đến khi nước bắt đầu bị điện phân ở cả hai điện cực thì ngừng điện phân, thu được dung dịch $Y$ và 5,6 lít khí (đktc) ở anot. Dung dịch $Y$ hòa tan tối đa 5,1 gam $\\mathrm{Al}_{2} \\mathrm{O}_{3}$. Ti lê $a$ : b là\nA. 2:5.\nB. $1: 5$.\nC. 3:5.\nD. 1:3.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Do $2 \\mathrm{a}<\\mathrm{b} \\Rightarrow$ nước điện phân ở catot trước so với ở anot\nQuá trình điện phân ở mỗi điện cực đến khi nước bắt đầu bị điện phân ở cả hai điện cực\nTại catot\n$\\mathrm{Cu}^{2+}+2 \\mathrm{e} \\rightarrow \\mathrm{Cu}$\n$2 \\mathrm{H}_{2} \\mathrm{O}+2 \\mathrm{e} \\rightarrow \\mathrm{H}_{2}+2 \\mathrm{OH}^{-}$\nTại anot\n$2 \\mathrm{Cl}^{-} \\rightarrow \\mathrm{Cl}_{2}+2 \\mathrm{e}$\n$\\mathrm{nnH}_{\\mathrm{OH}}=\\mathrm{b}-2 \\mathrm{a}$\n$\\mathrm{n}_{\\mathrm{Cl} 2}=0,25 \\Rightarrow \\mathrm{b}=0,5 \\mathrm{~mol}$\nCó $\\mathrm{Al}_{2} \\mathrm{O}_{3}+2 \\mathrm{OH}^{-} \\rightarrow 2 \\mathrm{AlO}_{2}^{-}+\\mathrm{H}_{2} \\mathrm{O}$\n$\\Rightarrow \\mathrm{n}_{\\mathrm{OH}-}=2 \\mathrm{n}_{\\mathrm{Al} 2 \\mathrm{O} 3}=0,1 \\mathrm{~mol}$\n$\\Rightarrow \\mathrm{a}=0,2 \\mathrm{~mol}$\n$\\mathrm{a}: \\mathrm{b}=0,2: 0,5=2: 5$\nChọn A"
+    },
+    {
+        "ID": "Che_34_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Tiến hành thí nghiệm theo các bước sau:\nBước 1: Cho vào cốc thủy tinh chịu nhiệt khoảng 5 gam dầu dừa và $10 \\mathrm{ml}$ dung dịch $\\mathrm{NaOH} 40 \\%$.\nBước 2: Đun sôi nhẹ hỗn hợp, liên tục khuấy đều bằng đũa thủy tinh khoảng 30 phút và thỉnh thoảng thêm nước cất để giữ cho thể tích hỗn hợp không đổi. Để nguội hỗn hợp.\nBước 3: Rót vào hỗn hợp $15-20 \\mathrm{ml}$ dung dịch $\\mathrm{NaCl}$ bão hòa, khuấy nhẹ rồi để yên hỗn hợp.\nCó các phát biểu sau:\n(1) Ở bước 1 , nếu thay dầu dừa bằng dầu nhớt thì hiện tượng thí nghiệm sau bước 3 vẫn xảy ra.\n(b) Ở bước 2, việc thêm nước cất để đảm bảo phản ứng thủy phân xảy ra.\n(c) Ở bước 2 , có thể thay việc đun sôi nhẹ bằng đun cách thủy (ngâm trong nước nóng). (d) Ở bước 3, thêm dung dịch $\\mathrm{NaCl}$ bão hòa là để tách muối của axit béo ra khỏi hỗn hợp.\n(e) Ở bước 3 , có thể thay dung dịch $\\mathrm{NaCl}$ bão hòa bằng dung dịch $\\mathrm{CaCl}_{2}$ bão hòa.\n(f) Sau bước 3 , thấy có lớp chất rắn màu trắng nổi lên là glixerol.\nSố phát biểu đúng là\nA. 6 .\nB. 4.\nC. 5 .\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "(a) sai, vì dầu dừa và dầu nhớt có thành phần cấu tạo khác nhau (dầu nhớt có thành phần là các hidrocacbon) nên không không có phản ứng xảy ra ngay từ bước 2 . (b) dúng.\n(c) đúng.\n(d) đúng.\n(e) sai, vì dùng $\\mathrm{CaCl}_{2}$ sẽ tạo kết tủa muối của axit béo ví dụ $\\left(\\mathrm{C}_{17} \\mathrm{H}_{35} \\mathrm{COO}\\right)_{3} \\mathrm{C}_{3} \\mathrm{H}_{5}$.\n(f) sai, vì sau bước 3 , thấy có lớp chất rắn màu trắng nổi lên là xà phòng.\nChọn D"
+    },
+    {
+        "ID": "Che_34_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Hỗn hợp A gồm axit béo $\\mathrm{X}$ và triglixerit $\\mathrm{Y}$. Cho $\\mathrm{m}$ gam $\\mathrm{A}$ tác dụng với dung dịch $\\mathrm{KOH}$ (vừa đủ), thu được a gam glixerol và dung dịch chỉ chứa một muối kali của axit béo. Mặt khác, nếu đốt cháy hết $\\mathrm{m}$ gam $\\mathrm{A}$ thì cần vừa đủ $6,895 \\mathrm{~mol}_{2}$, thu được $5,1 \\mathrm{~mol} \\mathrm{CO}_{2}$ và $4,13 \\mathrm{~mol}_{2} \\mathrm{O}$. Cho a gam glixerol vào bình đựng Na dư, kết thúc phản ứng thấy bình đựng Na tăng thêm 7,12 gam. Phần trăm khối lượng của $\\mathrm{Y}$ trong $\\mathrm{A}$ là\nA. $89,32 \\%$.\nB. $33,56 \\%$.\nC. $78,48 \\%$.\nD. $80,68 \\%$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "BTKL m $=4,13.18+5,1.44-6,895.32=78,1$ gam\n$\\mathrm{n}_{\\mathrm{COO}}=\\left(2 \\mathrm{n}_{\\mathrm{CO} 2}+\\mathrm{n}_{\\mathrm{H} 2 \\mathrm{O}}-2 \\mathrm{nO}_{\\mathrm{O} 2}\\right) / 2=0,27 \\mathrm{~mol}=\\mathrm{n}_{\\mathrm{KOH}}=\\mathrm{n}_{\\text {muố }}$\nCó $\\mathrm{nOH}_{\\mathrm{OH}}$ trong glixerol $=2 \\mathrm{n}_{\\mathrm{H} 2}$\n$\\Rightarrow 7,12=\\mathrm{m}_{\\mathrm{C} 3 \\mathrm{H} 5(\\mathrm{OH}) 3}-\\mathrm{n}_{\\mathrm{H} 2}$\n$\\Rightarrow 7,12=92 \\mathrm{x}-1,5 \\mathrm{x} .2 \\Rightarrow \\mathrm{x}=0,08 \\mathrm{~mol}=\\mathrm{n}_{\\mathrm{Y}}$\n$\\Rightarrow \\mathrm{n}_{\\mathrm{X}}=\\mathrm{n}_{\\mathrm{KOH}}-3 \\mathrm{n}_{\\mathrm{Y}}=0,03 \\mathrm{~mol}=\\mathrm{n}_{\\mathrm{H} 2 \\mathrm{O}}$\nBảo toàn khối lượng: $\\mathrm{m}+\\mathrm{m}_{\\mathrm{KOH}}=\\mathrm{m}_{\\mathrm{muố}}+\\mathrm{m}_{\\mathrm{C} 3 \\mathrm{H} 5(\\mathrm{OH}) 3}+\\mathrm{m}_{\\mathrm{H} 2 \\mathrm{O}}$\n$\\Rightarrow 78,1+0,27.56=\\mathrm{m}_{\\text {muối }}+0,08.92+0,03.18$\n$\\Rightarrow \\mathrm{m}_{\\text {muối }}=85,32$ gam\n$\\mathrm{M}_{\\text {muối }}=81 / 0,27=316$\nMuối là $\\mathrm{C}_{17} \\mathrm{H}_{29} \\mathrm{COOK}$\n$\\Rightarrow \\% \\mathrm{~m}_{\\mathrm{Y}}=0,08 \\cdot 872 \\cdot 100 \\% / 78,1=89,32 \\%$\nChọn A"
+    },
+    {
+        "ID": "Che_34_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Hỗn hợp X gồm 3 este mạch hở đều tạo bởi axit cacboxylic với ancol, trong đó hai este có cùng số nguyên tử cacbon trong phân tử. Xà phòng hóa hoàn toàn 6,04 gam $\\mathrm{X}$ bằng dung dịch $\\mathrm{NaOH}$ (vừa đủ) thu được hỗn hợp $\\mathrm{Y}$ gồm hai ancol đơn chức, kế tiếp trong dãy đồng đẳng và hỗn hợp $\\mathrm{Z}$ gồm 2 muối (tỉ lệ mol 1:1). Cho toàn bộ $\\mathrm{Y}$ vào bình đựng kim loại $\\mathrm{Na}$ dư, sau phản ứng có 1,008 lít khí $\\mathrm{H}_{2}$ thoát ra và khối lượng bình tăng 3,07 gam. Đốt cháy hoàn toàn $\\mathrm{Z}$ cần vừa đủ 1,68 lít $\\mathrm{O}_{2}$, thu được $\\mathrm{Na}_{2} \\mathrm{CO}_{3}$ và hỗn hợp $\\mathrm{CO}_{2}$ và $\\mathrm{H}_{2} \\mathrm{O}$. Phần trăm khối lượng của este có phân tử khối nhỏ nhất trong $\\mathrm{X}$ là\nA. $17,32 \\%$.\nB. $12,25 \\%$.\nC. $15,45 \\%$.\nD. $28,61 \\%$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Có 3,07 $=m_{Y}-m_{H 2} \\Rightarrow m_{Y}=3,16$ gam\n$\\mathrm{n}_{\\mathrm{H} 2}=0,045 \\Rightarrow \\mathrm{n}_{\\mathrm{Y}}=0,09 \\mathrm{~mol}$\n$\\mathrm{M}_{\\text {anocl }}=3,16 / 0,09=35,1$\nHai ancol lần lượt là $\\mathrm{CH}_{3} \\mathrm{OH}$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}$\n$\\mathrm{nOH}_{\\mathrm{O}}(\\mathrm{Y})=\\mathrm{n}_{\\mathrm{COO}}=\\mathrm{n}_{\\mathrm{NaOH}}=0,09 \\mathrm{~mol}$\n$\\Rightarrow \\mathrm{n}_{\\mathrm{Na} 2 \\mathrm{CO} 3}=0,045 \\mathrm{~mol}$\nBảo toàn khối lượng $6,04+0,09.40=3,16+\\mathrm{m}_{\\text {muối }}$\n$\\Rightarrow \\mathrm{m}_{\\text {muối }}=6,48$ gam\nGọi số mol $\\mathrm{CO}_{2}$ và $\\mathrm{H}_{2} \\mathrm{O}$ khi đốt chát $\\mathrm{Z}$ là $\\mathrm{x}, \\mathrm{y}$ $44 x+18 y+106.0,045=0,075.32+6,48$\nBTNT''O'' $2 \\mathrm{x}+\\mathrm{y}+0,045.3=2.0,075+0,09.2$\nTừ $1,2 \\Rightarrow \\mathrm{x}=0,075 ; \\mathrm{y}=0,045$\nDo $\\mathrm{n}_{\\mathrm{H}(\\mathrm{Z})}=2 \\mathrm{n}_{\\mathrm{Na} 2 \\mathrm{CO}}=0,09 \\mathrm{~mol}$ và muối có cùng số mol\nTH1: HCOONa và $\\mathrm{C}_{\\mathrm{x}} \\mathrm{H}_{2}(\\mathrm{COONa})_{2}$\n$\\mathrm{n}_{\\mathrm{C}}=0,03+0,03 \\cdot(\\mathrm{x}+2)=0,075+0,045$\n$\\Rightarrow \\mathrm{x}=1$\nMà Hai ancol lần lượt là $\\mathrm{CH}_{3} \\mathrm{OH}(0,07 \\mathrm{~mol})$ và $\\mathrm{C}_{2} \\mathrm{H}_{5} \\mathrm{OH}(0,02 \\mathrm{~mol})$\nLoại vì không thu được 2 este có cùng số nguyên tử $\\mathrm{C}$.\nTH2: $\\mathrm{C}_{\\mathrm{n}} \\mathrm{H}_{3} \\mathrm{COONa}(0,03 \\mathrm{~mol})$ và $\\mathrm{C}_{\\mathrm{x}}(\\mathrm{COONa})_{2}$\n$\\mathrm{n}_{\\mathrm{C}}=0,03 \\cdot(\\mathrm{n}+1)+0,03 \\cdot(\\mathrm{x}+2)=0,075+0,045$\n$\\Rightarrow \\mathrm{n}+\\mathrm{x}=1 \\Rightarrow \\mathrm{n}=1$ và $\\mathrm{x}=0$\n$\\Rightarrow \\mathrm{CH}_{3} \\mathrm{COONa}(0,03 \\mathrm{~mol})$ và $(\\mathrm{COONa})_{2}(0,03 \\mathrm{~mol})$\nCác este gồm $\\left(\\mathrm{COOCH}_{3}\\right)_{2}: 0,03 \\mathrm{~mol}$\n$\\mathrm{CH}_{3} \\mathrm{COOC}_{2} \\mathrm{H}_{5}: 0,02 \\mathrm{~mol}$\n$\\mathrm{CH}_{3} \\mathrm{COOCH}_{3}: 0,01 \\mathrm{~mol}$\n$\\% \\mathrm{~m}_{\\text {Снзсооснз }}=(0,01.74 .100 \\% / 6,04=12,25 \\%$\nChọn B"
+    },
+    {
+        "ID": "Che_34_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Hòa tan hết 22,92 gam hỗn hợp gồm $\\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{FeCO}_{3}$ và $\\mathrm{Cu}$ trong 440 gam dung dịch $\\mathrm{HNO}_{3}$ 12,6\\% thu được dung dịch $\\mathrm{X}$ và 0,2 mol hỗn hợp hai khí không màu (trong đó có một khí hóa nâu trong không khí là sản phẩm khử duy nhất của $\\mathrm{N}^{+5}$ ). Cho $400 \\mathrm{ml}$ dung dịch $\\mathrm{KOH} 2 \\mathrm{M}$ vào $\\mathrm{X}$ thu được kết tủa $\\mathrm{Y}$ và dung dịch Z. Cô cạn Z, sau đó đem nung đến khối lượng không đổi thu được 67,13 gam rắn khan. Các phản ứng xảy ra hoàn toàn. Giả sử nước bay hơi không đáng kể. Nồng độ phần trăm theo khối lượng của muối $\\mathrm{Fe}\\left(\\mathrm{NO}_{3}\\right)_{3}$ trong dung dịch $\\mathrm{X}$ có giá trị gần nhất với\nA. $11,00 \\%$.\nB. $7,84 \\%$.\nC. $13,24 \\%$.\nD. $8,00 \\%$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{n}_{\\mathrm{HNO}}=0,88 \\mathrm{~mol}$\n$\\mathrm{n}_{\\mathrm{KOH}}=0,8$ mol đã phản ứng hết thì $\\mathrm{m}_{\\mathrm{KNO2}}=68$ > 67,13 (vô lý)\nVậy $\\mathrm{KOH}$ còn dư, chất rắn gồm $\\mathrm{KNO}_{2}$ (x mol) và $\\mathrm{KOH}$ (y mol)\n$\\mathrm{n}_{\\text {КОН }}=0,8=\\mathrm{x}+\\mathrm{y}$\n$67,13=85 x+56 y$\n$\\Rightarrow \\mathrm{x}=0,77 ; \\mathrm{y}=0,03 \\mathrm{~mol}$\nBảo toàn nguyên tố $\\mathrm{N} \\Rightarrow \\mathrm{n}_{\\mathrm{NO}}=0,88-0,77=0,11 \\mathrm{~mol}$\n$\\mathrm{n}_{\\mathrm{CO} 2}=0,2-0,11=0,09 \\mathrm{~mol}$\nĐặt $\\mathrm{a}, \\mathrm{b}, \\mathrm{c}$ lần lượt là số mol của $\\mathrm{Fe}_{2} \\mathrm{O}_{3}, \\mathrm{FeCO}_{3}$ và $\\mathrm{Cu}$\n$160 a+116 b+64 c=22,92$\n$\\mathrm{b}=\\mathrm{n}_{\\mathrm{CO} 2}=0,09$\nBTE: $b+2 c=0,11.3$\nTừ $1,2,3 \\Rightarrow \\mathrm{a}=0,03 ; \\mathrm{c}=0,12$\nKhối lượng dung dịch X: 22,92 + $440-0,11.30-0,09.44=455,66$ gam\n$\\mathrm{n}_{\\mathrm{Fe}(\\mathrm{NO3}) 3}=2 \\mathrm{a}+\\mathrm{b}=0,15 \\mathrm{~mol}$\n\\% $\\mathrm{C}_{\\mathrm{Fe}(\\mathrm{NO} O 3) 3}=7,96 \\%$\nChọn D"
+    },
+    {
+        "ID": "Che_34_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Chất $\\mathrm{X}\\left(\\mathrm{C}_{\\mathrm{n}} \\mathrm{H}_{2 \\mathrm{n}+4} \\mathrm{O}_{4} \\mathrm{~N}_{2}\\right)$ là muối của amin với axit cacboxylic đa chức; chất $\\mathrm{Y}$ $\\left(\\mathrm{C}_{\\mathrm{m}} \\mathrm{H}_{2 \\mathrm{~m}+4} \\mathrm{O}_{7} \\mathrm{~N}_{6}\\right)$ là hexapeptit được tạo bởi một amino axit. Biết $0,1 \\mathrm{~mol} \\mathrm{E}$ gồm $\\mathrm{X}$ và $\\mathrm{Y}$ tác dụng tối đa với 0,32 mol $\\mathrm{NaOH}$ trong dung dịch, đun nóng, thu được metylamin và dung dịch chỉ chứa 31,32 gam hỗn hợp muối. Phần trăm khối lượng của $\\mathrm{X}$ trong $\\mathrm{E}$ có giá trị là\nA. $59,95 \\%$.\nB. $45,62 \\%$.\nC. $48,61 \\%$.\nD. $56,17 \\%$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Gọi số mol của $X, Y$ lần lượt là $\\mathrm{x}, \\mathrm{y}$\n$\\mathrm{x}+\\mathrm{y}=0,1$\n$2 x+6 y=0,32$\n$\\Rightarrow \\mathrm{x}=0,07 ; \\mathrm{y}=0,03$\nMuối gồm $\\mathrm{A}(\\mathrm{COONa})_{2}$ 0,07 mol) và $\\mathrm{NH}_{2}-\\mathrm{B}-\\mathrm{COONa}(0,03.6=0,18 \\mathrm{~mol})$\n$31,32=0,07 .(\\mathrm{A}+134)+0,18 \\cdot(\\mathrm{B}+83)$\n$\\Rightarrow 18 \\mathrm{~B}+7 \\mathrm{~A}=700$\n$\\Rightarrow \\mathrm{A}=\\mathrm{B}=28$\nE gồm $\\mathrm{C}_{2} \\mathrm{H}_{4}\\left(\\mathrm{COONH}_{3} \\mathrm{CH}_{3}\\right)_{2}(0,07 \\mathrm{~mol})$ và (Ala) 6 ( $\\left.0,03 \\mathrm{~mol}\\right)$\n$\\% X=180.0,03 \\cdot 100 \\% / 25,92=46,61 \\%$\nChọn C"
+    }
+]

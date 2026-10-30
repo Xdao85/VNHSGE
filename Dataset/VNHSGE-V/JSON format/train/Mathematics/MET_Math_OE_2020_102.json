@@ -1,0 +1,402 @@
+[
+    {
+        "ID": "MET_Math_OE_2020_102_1",
+        "Image_Question": "",
+        "Question": "Câu 1: Biết \\int_{1}^{5}f\\left(x\\right)dx=4. Giá trị của \\int_{1}^{5}3f\\left(x\\right)dx bằng\nA. 7.\t\nB. \\frac{4}{5}.\t\nC. 64\t\nD. 12.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\int_{1}^{5} 3 f(x) d x=3 \\int_{1}^{5} f(x) d x=3.4=12$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_2",
+        "Image_Question": "",
+        "Question": "Câu 2: Trong không gian Oxyz, hình chiếu vuông góc của điểm A\\left(1;2;5\\right) trên trục Ox có tọa độ là\nA. \\left(0;2;0\\right)\t\nB. \\left(0;0;5\\right)\t\nC. \\left(1;0;0\\right)\t\nD. \\left(0;2;5\\right).",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hình chiếu vuông góc của điểm $A(1 ; 2 ; 5)$ trên trục $\\mathrm{Ox}$ có tọa độ là $(1 ; 0 ; 0)$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_3",
+        "Image_Question": "",
+        "Question": "Câu 3: Cho hình trụ có bán kính đáy r=4 và độ dài đường sinh l=3. Diện tích xung quanh của hình trụ đã cho bằng\nA. 48\\pi\t\nB. 12\\pi\t\nC. 16\\pi\t\nD. 24\\pi",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Hình trụ có bán kính đáy $r=4$ và độ dài đường $\\sinh l=3$ thì có diện tích xung quanh là $S_{x q}=2 \\pi r l=2 \\pi .4 .3=$ $24 \\pi$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_4",
+        "Image_Question": "",
+        "Question": "Câu 4: Trên mặt phẳng tọa độ, biết M\\left(-1;3\\right) là điểm biểu diễn của số phức z . Phần thực của z bằng\nA. 3. \t\nB. -1.\t\nC. -3. \t\nD. 1.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $M(-1 ; 3)$ là điểm biểu diễn của số phức $z=-1+3 i$.\nVậy phần thực của số phức $\\mathrm{z}$ là -1 ."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_5",
+        "Image_Question": "",
+        "Question": "Câu 5: Cấp số nhân \\left(u_n\\right) với u_1=2 và công bội q=3. Giá trị u_2\nA. 6. \t\nB. 9. \t\nC. 8.\t\nD. \\frac{2}{3}.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $u_{2}=u_{1} \\cdot q=2.3=6$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_6",
+        "Image_Question": "",
+        "Question": "Câu 6: Cho hai số phức z_1=3+2i và z_2=2-i. Số phức z_1+z_2 bằng\nA. 5-i\t\nB. 5+i\t\nC. -5-i.\t\nD. -5+i.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $z_{1}+z_{2}=(3+2 i)+(2-i)=5+i$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_7",
+        "Image_Question": "",
+        "Question": "Câu 7: Trong không gian Oxyz, cho mặt cầu \\left(S\\right):x^2+\\left(y-2\\right)^2+z^2=9. Bán kính \\left(S\\right) bằng\nA. 6\t\nB. 18\t\nC. 3\t\nD. 9",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Do đó: $R=\\sqrt{9}=3$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_8",
+        "Image_Question": "",
+        "Question": "Câu 8: Nghiệm của phương trình {log}_2{\\left(x-1\\right)}=3 là\nA. 10\t\nB. 8\t\nC. 9\t\nD. 7",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện: $x>1$\nTa có: $\\log _{2}(x-1)=3 \\Leftrightarrow \\log _{2}(x-1)=\\log _{2} 2^{3}=8 \\Leftrightarrow x-1=8 \\Leftrightarrow x=9$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_9",
+        "Image_Question": "",
+        "Question": "Câu 9: Tiệm cận ngang của đồ thị hàm số y=\\frac{5x+1}{x-1} là\nA. y=1\t\nB. y=\\frac{1}{5}\t\nC. y=-1\t\nD. y=5",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $D=R \\backslash\\{1\\}$ và $\\lim _{x \\rightarrow \\pm \\infty} y=5$. Suy ra đồ thị hàm số có tiệm cận ngang $y=5$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_10",
+        "Image_Question": "",
+        "Question": "Câu 10: Cho khối nón có bán kính đáy r = 4 và chiều cao h = 2. Thể tích của khối nón đã cho bằng\nA. \\frac{8\\pi}{3}\t\nB. 8\\pi\t\nC. \\frac{32\\pi}{3}\t\nD. 32\\pi",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $V=\\frac{1}{3} \\cdot r^{2} \\cdot \\pi \\cdot h=\\frac{1}{3} \\cdot 4^{2} \\cdot \\pi \\cdot 2=\\frac{32 \\pi}{3}$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_11",
+        "Image_Question": "MET_Math_OE_2020_102/image001.png",
+        "Question": "Câu 11: Cho hàm số bậc ba y=f\\left(x\\right) có đồ thị là đường cong trong hình bên.\nSố nghiệm thực của phương trình f\\left(x\\right)=1 là\nA. 0\t\nB. 3\t\nC. 1\t\nD. 2",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Vì đường thẳng $y=1$ cắt đồ thị hàm số $y=f(x)$ tại 3 điểm phân biệt."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_12",
+        "Image_Question": "",
+        "Question": "Câu 12: Với a,b là các số thực dương tùy ý và a\\neq1,{log}_{a^2}{b} bằng\nA. \\frac{1}{2}+{\\mathbit{log}}_a{b}\t\nB. \\frac{1}{2}{\\mathbit{log}}_a{b}\t\nC. 2+{\\mathbit{log}}_a{b}\t\nD. 2{\\mathbit{log}}_a{b}",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\log _{a^{2}} b=\\frac{1}{2} \\log _{a} b$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_13",
+        "Image_Question": "",
+        "Question": "Câu 13: Nghiệm của phương trình 3^{x-2}=9 là\nA. x=-3\t\nB. x=3\t\nC. x=4\t\nD. x=-4",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $3^{x-2}=9 \\Leftrightarrow 3^{x-2}=3^{2} \\Leftrightarrow x-2=2 \\Leftrightarrow x=4$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_14",
+        "Image_Question": "",
+        "Question": "Câu 14: \\int{x^3} dx bằng\nA. 4x^4+C\t\nB. 3x^2+C\t\nC. x^4+C\t\nD. \\frac{1}{4}x^4+C",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\int x^{3} d x=\\frac{1}{4} x^{4}+C$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_15",
+        "Image_Question": "",
+        "Question": "Câu 15: Cho hình chóp có diện tích đáy B = 3 và chiều cao h=2. Thể tích của khối chóp đã cho bằng\nA. 6\t\nB. 12\t\nC. 2\t\nD. 3",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$$\nV=\\frac{1}{3} B \\cdot h=2\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_16",
+        "Image_Question": "",
+        "Question": "Câu 16: Trong không gian Oxyz, cho ba điểm A\\left(-2;0;0\\right),B\\left(0;3;0\\right);C\\left(0;0;4\\right). Mặt phẳng ABC có phương trình là\nA. \\frac{x}{-2}+\\frac{y}{3}+\\frac{z}{4}=1\t\nB. \\frac{x}{2}+\\frac{y}{3}+\\frac{z}{4}=1\t\nC. \\frac{x}{2}+\\frac{y}{-3}+\\frac{z}{4}=1\t\nD. \\frac{x}{2}+\\frac{y}{3}+\\frac{z}{-4}=1.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có phương trình mặt phẳng đoạn chắn: $\\frac{x}{-2}+\\frac{y}{3}+\\frac{z}{4}=1$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_17",
+        "Image_Question": "MET_Math_OE_2020_102/image002.png",
+        "Question": "Câu 17: Cho hàm số f\\left(x\\right) có bảng biến thiên như sau:\nx | -\\infty      -1        0                   1                        +\\infty\nf' |            +             0               -         0            +             0          -\nf | -\\infty \\searrow 4 \\nearrow 1\\searrow 4 \\nearrow -\\infty\nHàm số đã cho đồng biến trên khoảng nào dưới đây?\nA. \\left(1;+\\infty\\right)\t\nB. \\left(-1;1\\right)\t\nC. \\left(0;1\\right)\t\nD. \\left(-1;0\\right)",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng biến thiên ta thấy hàm số đồng biến trên $(0 ; 1)$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_18",
+        "Image_Question": "MET_Math_OE_2020_102/image003.png",
+        "Question": "Câu 18: Cho hàm số f\\left(x\\right) có bảng biến thiên saux\nx | -\\infty -2 3 +\\infty\nf’ | - 0 + 0 –\nf | +\\infty \\nearrow -3 \\searrow 2 \\nearrow -\\infty\nGiá trị cực đại của hàm số đã cho bằng\nA. 3\t\nB. 2\t\nC. -2\t\nD. -3",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Từ bảng biến thiên ta thấy hàm số đạt cực đại tại $x=3$ và giá trị cực đại là $y=2$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_19",
+        "Image_Question": "",
+        "Question": "Câu 19: Trong không gian Oxyz , cho đường thẳng d:\\frac{x-2}{3}=\\frac{y+5}{4}=\\frac{z-2}{-1}. Vectơ nào dưới đây là một vectơ chỉ phương của d?\nA. \\vec{u_2}=\\left(3;4;-1\\right)\t\nB. \\vec{u_1}=\\left(-2;-5;2\\right)\t\nC. \\vec{u_3}=\\left(2;5;-2\\right)\t\nD. \\vec{u_4}=\\left(3;4;1\\right).",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chọn $A$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_20",
+        "Image_Question": "MET_Math_OE_2020_102/image004.png",
+        "Question": "Câu 20: Đồ thị hàm số nào có dạng như đường cong trong hình bên?\nA. y=-x^4+2x^2\t\nB. y=-x^3+3x\t\nC. y=x^4-2x^2\t\nD. y=x^3-3x.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Từ hình dáng đồ thị ta thấy đó là đồ thị hàm số bậc bốn trùng phương, có hệ số $a<0$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_21",
+        "Image_Question": "",
+        "Question": "Câu 21: Cho khối cầu có bán kính r = 4. Thể tích của khối cầu đã cho bằng\nA. 64\\pi\t\nB. \\frac{64\\pi}{3}\t\nC. 256\\pi\t\nD. \\frac{256\\pi}{3}",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Thể tích của khối cầu là $V=\\frac{4}{3} \\pi r^{3}=\\frac{256}{3} \\pi$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_22",
+        "Image_Question": "",
+        "Question": "Câu 22: Có bao nhiêu cách xếp 7 học sinh thành một hàng dọc?\nA. 7.\t\nB. 5040.\t\nC. 1.\t\nD. 49.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Số cách xếp 7 học sinh thành 1 hàng dọc là $7 !=5040$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_23",
+        "Image_Question": "",
+        "Question": "Câu 23: Cho khối hộp chữ nhật có ba kích thước 2; 4; 6. Thể tích của khối hộp đã cho bằng\nA. 16.\t\nB. 12.\t\nC. 48.\t\nD. 8.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Thể tích của khối hộp là: $V=2.4 .6=48$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_24",
+        "Image_Question": "",
+        "Question": "Câu 24: Số phức liên hợp của số phức z=-2+5i là\nA. \\overline{z}=2-5i.\t\nB. \\overline{z}=2+5i\t\nC. \\overline{z}=-2+5i\t\nD. \\overline{z}=-2-5i.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có số phức liên hợp của số phức $z=-2+5 i$ là $\\bar{z}=-2-5 i$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_25",
+        "Image_Question": "",
+        "Question": "Câu 25: Tập xác định của hàm số y={log}_6{x} là\nA. \\left.0;+\\infty\\right)\t\nB. \\left(0;+\\infty\\right)\t\nC. \\left(-\\infty;0\\right)\t\nD. \\left(-\\infty;+\\infty\\right)",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện $x>0$.\nVậy tập xác định của hàm số là $D=(0 ;+\\infty)$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_26",
+        "Image_Question": "",
+        "Question": "Câu 26: Giá trị nhỏ nhất của hàm số f\\left(x\\right)=x^3-21x trên đoạn \\left[2;19\\right] bằng\nA. -36\t\nB. -14\\sqrt7\t\nC. 14\\sqrt7\t\nD. -34",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Xét trên đoạn $[2 ; 19]$ hàm số liên tục.\nTa có $f^{\\prime}(x)=3 x^{2}-21$. Cho $f^{\\prime}(x)=0 \\Rightarrow 3 x^{2}-21=0 \\Leftrightarrow\\left[\\begin{array}{l}x=\\sqrt{7} \\in[2 ; 19] \\\\ x=-\\sqrt{7} \\notin[2 ; 19\\end{array}\\right]$.\nKhi đó $f(2)=-34, f(\\sqrt{7})=-14 \\sqrt{7}, f(19)=6460$\nVậy $\\min _{[2 ; 19]} f(x)=f(\\sqrt{7})=-14 \\sqrt{7}$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_27",
+        "Image_Question": "MET_Math_OE_2020_102/image005.png",
+        "Question": "Câu 27: Cho hình chóp S.ABC có đáy ABC là tam giác vuông tại B, AB=3a, BC=\\sqrt3a; SA vuông góc với mặt phẳng đáy và SA=2a (tham khảo hình bên).\nGóc giữa đường thẳng SC và mặt phẳng đáy bằng\nA. 60^\\circ\nB. 45^\\circ\nC. 30^\\circ\nD. 90^\\circ",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $(S C, \\widehat{(A B} C))=\\widehat{S C} A$.\nXét tam giác $A B C$ vuông tại $\\mathrm{B}$, ta có $A C=\\sqrt{A B^{2}+B C^{2}}=\\sqrt{(3 a)^{2}+(\\sqrt{3} a)^{2}}=2 a \\sqrt{3}$.\nXét tam giác $S A C$ vuông tại $\\mathrm{A}$, ta có $\\tan \\widehat{S C A}=\\frac{S A}{A C}=\\frac{2 a}{2 a \\sqrt{3}}=\\frac{\\sqrt{3}}{3} \\Rightarrow \\widehat{S C A}=30^{\\circ}$.\nChọn C."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_28",
+        "Image_Question": "",
+        "Question": "Câu 28: Cho hàm số f\\left(x\\right) liên tục trên \\mathbb{R} và có bảng xét dấu của f'\\left(x\\right) như sau\nx |-\\infty  -1   0    1    2   +\\infty\nf' |       -            0               +            0            -         ||            +           0             +\nSố điểm cực tiểu của hàm số đã cho là\nA. 1.\t\nB. 2.\t\nC. 3.\t\nD. 4",
+        "Choice": "B",
+        "Image_Answer": "MET_Math_OE_2020_102/image006.png",
+        "Explanation": "Ta có bảng biến thiên như sau\nDựa vào bảng biến thiên ta thấy hàm số có 2 điểm cực tiểu."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_29",
+        "Image_Question": "",
+        "Question": "Câu 29: Trong không gian Oxyz, cho điểm  M\\left(1;1;-2\\right) và đường thẳng d:\\frac{x-1}{1}=\\frac{y+2}{2}=\\frac{z}{-3}. Mặt phẳng đi qua M  và vuông góc với d có phương trình là\nA. x+2y-3z-9=0\t\nB. x+y-2z-6=0\t\nC. x+2y-3z+9=0\t\nD. x+y-2z+6=0",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Mặt phẳng đi qua $M$ và vuông góc với $d$ nên nhận một vecto pháp tuyến là $\\overrightarrow{n_{P}}=(1 ; 2 ;-3)$.\nVà mặt phẳng đi qua điểm $M$ nên có phương trình là $1(x-1)+2(y-1)-3(x+2)=0$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_30",
+        "Image_Question": "",
+        "Question": "Câu 30: Cho a và b là hai số thực dương thoả mãn 4^{{log}_2{\\left(ab\\right)}}=3a. Giá trị của ab^2 bằng\nA. 3.\t\nB. 6.\t\nC. 2.\t\nD. 12.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$$\n\\Leftrightarrow x+2 y-3 z-9=0\n$$\nTa có $4^{\\log _{2}(a b)}=\\left[2^{\\log _{2}(a b)}\\right]^{2}=(a b)^{2}$ nên $4^{\\log _{2}(a b)}=3 a \\Leftrightarrow(a b)^{2}=3 a \\Leftrightarrow a b^{2}=3$.\nChọn A."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_31",
+        "Image_Question": "",
+        "Question": "Câu 31: Cho hai số phức z=2+2i và w=2+i. Môđun của số phức z.\\overline{w} bằng\nA. 40.\t\nB. 8.\t\nC. 2\\sqrt2\t\nD. 2\\sqrt{10}",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $z \\cdot \\bar{w}=(2+2 i)(2-i)=6+2 i$.\nVậy $|z \\cdot \\bar{w}|=|6+2 i|=\\sqrt{6^{2}+2^{2}}=2 \\sqrt{10}$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_32",
+        "Image_Question": "",
+        "Question": "Câu 32: Diện tích hình phẳng giới hạn bởi hai đường y=x^2-1 và y=x-1 bằng\nA. \\frac{\\pi}{6}\t\nB. \\frac{13}{6}\t\nC. \\frac{13\\pi}{6}\t\nD. \\frac{1}{6}.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phương trình hoành độ giao điểm của hai đường cong đã cho là\n$$\nx^{2}-1=x-1 \\Leftrightarrow x^{2}-x=0 \\Leftrightarrow\\left[\\begin{array}{l}\nx=0 \\\\\nx=1\n\\end{array} .\\right.\n$$\n$$\nS=\\int_{0}^{1}\\left|x^{2}-x\\right| d x=\\left|\\int_{0}^{1}\\left(x^{2}-x\\right) d x\\right|=\\left|\\left(\\frac{x^{3}}{3}-\\frac{x^{2}}{2}\\right)\\right| \\begin{aligned}\n& 1 \\\\\n& 0\n\\end{aligned} \\mid=\\frac{1}{6}\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_33",
+        "Image_Question": "",
+        "Question": "Câu 33: Số giao điểm của đồ thị hàm số y=x^3-x^2 và đồ thị hàm số y=-x^2+5x là\nA. 2.\t\nB. 3.\t\nC. 1.\t\nD. 0.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phương trình hoành độ giao điểm của hai đồ thị là\n$x^{3}-x^{2}=-x^{2}+5 x \\Leftrightarrow x^{3}-5 x=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x= \\pm \\sqrt{5}\\end{array}\\right.$\nVậy số giao điểm của hai đồ thị là 3 ."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_34",
+        "Image_Question": "",
+        "Question": "Câu 34. Biết rằng F\\left(x\\right)=x^3 là một nguyên hàm của hàm số f\\left(x\\right) trên \\mathbb{R}. Giá trị \\int_{1}^{2}\\left[2+f\\left(x\\right)\\right]dx bằng\nA. \\frac{23}{4}\t\nB. 7.\t\nC. 9.\t\nD. \\frac{15}{4}.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $f(x)=F(x)=3 x^{2}$\nKhi đó $\\int_{1}^{2}[2+f(x)] d x=\\int_{1}^{2} 2 d x+\\int_{1}^{2} f(x) d x=\\left.2 x\\right|_{1} ^{2}+\\left.x^{2}\\right|_{1} ^{2}=2+7=9$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_35",
+        "Image_Question": "",
+        "Question": "Câu 35. Trong không gian Oxyz cho 3 điểm A\\left(1;2;3\\right),B\\left(1;1;1\\right),C\\left(3;4;0\\right) đường thẳng đi qua A và song song với BC có phương trình là?\nA. \\frac{x+1}{4}=\\frac{y+2}{5}=\\frac{z+3}{1}\t\t\nB. \\frac{x-1}{4}=\\frac{y-2}{5}=\\frac{z-3}{1}\nC. \\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z-3}{-1}\t\t\nD. \\frac{x+1}{2}=\\frac{y+2}{3}=\\frac{z+3}{-1}.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\overrightarrow{B C}=(2 ; 3 ;-1)$.\nPhương trình đường thẳng đi qua $A(1 ; 2 ; 3)$ nhận $\\overrightarrow{B C}=(2 ; 3 ;-1)$ là véc tơ chỉ phương có dạng: $\\frac{x-1}{2}=\\frac{y-2}{3}=$ $\\frac{z-3}{-1}$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_36",
+        "Image_Question": "",
+        "Question": "Câu 36. Cho hình nón có bán kính đáy bằng 5 và góc ở đỉnh bằng 60^\\circ. Diện tích xung quanh của hình nón đã cho bằng\nA. 50\\pi\t\nB. \\frac{100\\sqrt3\\pi}{3}\t\nC. \\frac{50\\sqrt3\\pi}{3}\t\nD. 100\\pi",
+        "Choice": "A",
+        "Image_Answer": "MET_Math_OE_2020_102/image007.png",
+        "Explanation": "Ta có $\\sin 30^{0}=\\frac{r}{l} \\Rightarrow l=\\frac{r}{\\sin 30^{\\circ}}=\\frac{5}{\\frac{1}{2}}=10$\nDiện tích xung quanh của hình nón là $S_{x q}=\\pi r l=\\pi .5 .10=50 \\pi$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_37",
+        "Image_Question": "",
+        "Question": "Câu 37. Tập nghiệm của bất phương trình 3^{x^2-23}<9 là\nA. \\left(-5;5\\right)\t\nB. \\left(-\\infty;5\\right)\t\nC. \\left(5;+\\infty\\right)\t\nD. \\left(0;5\\right).",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $3^{x^{2}-23}<9 \\Leftrightarrow x^{2}-23<2 \\Leftrightarrow x^{2}-25<0 \\Leftrightarrow-5<x<5$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_38",
+        "Image_Question": "",
+        "Question": "Câu 38: Gọi z_0 là nghiệm phức có phần ảo dương của phương trình z^2-6z+13=0. Trên mặt phẳng tọa độ, điểm biểu diễn số phức 1-z_0 là\nA. M\\left(-2;2\\right)\t\nB. Q\\left(4;-2\\right)\t\nC. N\\left(4;2\\right)\t\nD. P\\left(-2;-2\\right)",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phương trình $z^{2}-6 z+13=0 \\Leftrightarrow\\left[\\begin{array}{l}z=3+2 i \\\\ z=3-2 i\\end{array}\\right.$ suy ra $z_{0}=3+2 i$, khi đó $1-z_{0}=-2-2 i$\nVậy điểm biểu diễn số phức $1-z_{0}$ là $P(-2 ;-2)$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_39",
+        "Image_Question": "",
+        "Question": "Câu 39: Tập hợp tất cả các giá trị thực của tham số m để hàm số y=\\frac{x+5}{x+m} đồng biến trên khoảng \\left(-\\infty;-8\\right) là\nA. \\left(5;+\\infty\\right)\t\nB. \\left.5;8\\right.\t\nC. \\left.5;8\\right)\t\nD. \\left(5;8\\right)",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=\\frac{m-5}{(x+m)^{2}}, \\forall x \\in \\mathbb{R} \\backslash\\{-m\\}$.\nĐể hàm số $y=\\frac{x+5}{x+m}$ đồng biến trên khoảng $(-\\infty ;-8)$ khi và chỉ khi\n$$\n\\left\\{\\begin{array} { l } \n{ \\frac { m - 5 } { ( x + m ) ^ { 2 } } > 0 } \\\\\n{ - m \\notin ( - \\infty ; - 8 ) }\n\\end{array} \\Leftrightarrow \\left\\{\\begin{array}{l}\nm>5 \\\\\n-m \\geq-8\n\\end{array} \\Leftrightarrow 5<m \\leq 8\\right.\\right.\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_40",
+        "Image_Question": "",
+        "Question": "Câu 40: Cho hình chóp S.ABC  có đáy là tam giác đều cạnh 4a, SA vuông góc với mặt phẳng đáy, góc giữa mặt phẳng SBC và mặt phẳng đáy bằng 30^\\circ. Diện tích mặt cầu ngoại tiếp hình chóp S.ABC bằng\nA. 52\\pi a^2\t\nB. \\frac{172\\pi a^2}{3}\t\nC. \\frac{76\\pi a^2}{9}\t\nD. \\frac{76\\pi a^2}{3}",
+        "Choice": "D",
+        "Image_Answer": "MET_Math_OE_2020_102/image008.png",
+        "Explanation": "+) Gọi $M$ là trung điểm của của $B C$.\nTa có: $\\left\\{\\begin{array}{l}B C \\perp A M \\\\ B C \\perp S A\\end{array} \\Rightarrow B C \\perp(S A M) \\Rightarrow B C \\perp S M\\right.$.\nTừ đó suy ra: $\\left((S B \\widehat{),(A B C)})=(S \\widehat{M, A} M)=\\widehat{S M A}=30^{\\circ}\\right.$\n+) Ta có: $A M=2 a \\sqrt{3} ; S A=A M \\cdot \\tan 30^{\\circ}=2 a \\sqrt{3} \\cdot \\frac{1}{\\sqrt{3}}=2 a$.\n+) Gọi $\\mathrm{H}$ là trọng tâm tam giác $\\mathrm{ABC}$, dựng đường thẳng $\\mathrm{d}$ đi qua $\\mathrm{H}$ và vuông góc với mặt phẳng $(A B C)$. Đường thẳng $d$ là trục của đường tròn ngoại tiếp tam giác $A B C$ +) Mặt phẳng trung trực của đoạn $S A$ đi qua trung điểm $N$ của $S A$, cắt đường thẳng $d$ tại điểm $I$. Khi đó $I$ là tâm mặt cầu ngoại tiếp hình chóp $S . A B C$ và bán kính mặt cầu này là $R=A I$.\n+) Lại có: $I H=A N=\\frac{S A}{2}=a ; A H=\\frac{2}{3} A M=\\frac{4 a \\sqrt{3}}{3}$;\n$$\nA I=\\sqrt{A H^{2}+I H^{2}}=\\sqrt{\\frac{16 a^{2}}{3}+a^{2}}=\\frac{a \\sqrt{57}}{3}\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_41",
+        "Image_Question": "",
+        "Question": "Câu 41. Cho hàm số f\\left(x\\right)=\\frac{x}{\\sqrt{x^2+3}}. Họ tất cả các nguyên hàm của hàm số g\\left(x\\right)=\\left(x+1\\right).f'\\left(x\\right) là:\nA. \\frac{x^2+2x-3}{2\\sqrt{x^2+3}}.\t\nB. \\frac{x+3}{2\\sqrt{x^2+3}}\t\nC. \\frac{2x^2+x+3}{\\sqrt{x^2+3}}.\t\nD. \\frac{x-3}{\\sqrt{x^2+3}}.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đặt $I=\\int(x+1) \\cdot f^{\\prime}(x) d x$\nĐặt $\\left\\{\\begin{array}{l}u=x+1 \\Rightarrow d u=d x \\\\ d v=f^{\\prime}(x) d x \\Rightarrow v=f(x)\\end{array}\\right.$\nKhi đó:\n$$\nI=\\left(x+1\\right).f\\left(x\\right)-\\int f\\left(x\\right)dx=\\left(x+1\\right).\\frac{x}{\\sqrt{x^2+3}}-\\int{\\frac{x}{\\sqrt{x^2+3}}dx} \\\\\n=\\frac{x^2+x}{\\sqrt{x^2+3}}-\\frac{1}{2}\\int{\\left(x^2+3\\right)^\\frac{1}{2}.d\\left(x^2+3\\right)}=\\frac{x^2+x}{\\sqrt{x^2+3}}-\\frac{1}{2}.\\frac{\\left(x^2+3\\right)^\\frac{1}{2}}{\\frac{1}{2}}+C \\\\\n=\\frac{x^2+x}{\\sqrt{x^2+3}}-\\sqrt{x^2+3}+C=\\frac{x^2+x-x^2-3}{\\sqrt{x^2+3}}+C=\\frac{x-3}{\\sqrt{x^2+3}}+C\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_42",
+        "Image_Question": "",
+        "Question": "Câu 42. Trong năm 2019, diện tích rừng trồng mới của tỉnh A là 1000 ha. Giả sử diện tích rừng trồng mới của tỉnh A mỗi năm tiếp theo đều tăng 6% so với diện tích rừng trồng mới của năm liền trước. Kể từ sau năm 2019, năm nào dưới đây là năm đầu tiên tỉnh A có diện tích rừng trồng mới trong năm đó đạt trên 1000 ha?\nA. Năm 2043. \t\nB. Năm 2025. \t\nC. Năm 2024. \t\nD. Năm 2042.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Gọi $S_n$ là diện tích rừng trồng mới của tỉnh $\\mathrm{A}$ sau $n$ năm.\n$r$ là phần trăm diện tích rừng trồng mới tăng thêm sau mỗi năm.\n$S$ là diện tích rừng trồng mới năm 2019 .\nKhi đó $S_{n}=S(1+r)^{n}$\nVới $S=1000$ ha, $r=6 \\%=0,06$ suy ra $S_{n}=1000(1+0,06)^{n}=1000(1,06)^{n}$\nĐể $S_{n} \\geq 1400 \\Leftrightarrow 1000(1,06)^{n} \\geq 1400 \\Leftrightarrow n \\geq \\log _{1,06}\\left(\\frac{7}{5}\\right) \\approx 5.77$.\nVậy năm đầu tiên tỉnh $A$ có diện tích rừng trồng mới trong năm đó đạt trên 1400 ha là năm 2025"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_43",
+        "Image_Question": "",
+        "Question": "Câu 43: Cho hình chóp đều S.ABCD có cạnh đáy bằng a, cạnh bên bằng 3a và O là tâm của đáy. Gọi M,N,P,Q lần lượt là các điểm đối xứng với O qua trọng tâm của các tam giác SAB,SBC,SCD,SDA và S’ là điểm đối xứng với S qua O. Thể tích của khối chóp S.MNPQ ' bằng\nA. \\frac{40\\sqrt{10}a^3}{81}\t\nB. \\frac{10\\sqrt{10}a^3}{81}\t\nC. \\frac{20\\sqrt{10}a^3}{81}\t\nD. \\frac{2\\sqrt{10}a^3}{9}",
+        "Choice": "C",
+        "Image_Answer": "MET_Math_OE_2020_102/image009.png",
+        "Explanation": "Gọi $G_{1}, G_{2}, G_{3}, G_{4}$ lần lượt là trọng tâm của $\\triangle S A B, \\triangle S B C, \\triangle S C D, \\triangle S D A$\nDo $G_{1} G_{2} / / G_{3} G_{4} \\Rightarrow G_{1} G_{2} G_{3} G_{4}$ là hình bình hành và đồng phẳng. $\\Rightarrow M N / / P Q$ và $M N=P Q$ nên $M N P Q$ là hình bình hành và đồng phẳng.\nTa có $Q N \\cap S O=H$ thì $\\frac{S H}{S O}=\\frac{1}{3}$.\nTa có $S O=\\sqrt{3 a^{2}-\\frac{a^{2}}{2}}=\\sqrt{\\frac{5}{2} a}$\nTa có $V_{S^{\\prime} . M N P Q}=5 . V_{S . M N P Q}=5.2 \\cdot V_{S . G_{1} G_{2} G_{3} G_{4}}$\n$$\n=5 \\cdot 2 \\cdot\\left(\\frac{2}{3}\\right)^{3} \\cdot V_{S \\cdot E F I K}=\\frac{80}{27} V_{S \\cdot E F I K}=\\frac{80}{27} \\cdot \\frac{1}{3} \\cdot a \\sqrt{\\frac{5}{2}} \\cdot \\frac{a^{2}}{2}=\\frac{20 \\sqrt{10}}{81} a^{3} .\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_44",
+        "Image_Question": "MET_Math_OE_2020_102/image010.png",
+        "Question": "Câu 44: Cho hình lăng trụ đứng ABC.A'B'C' có đáy ABC là tam giác đều cạnh a và AA'=2a. \nGọi M là trung điểm cạnh CC’ (tham khảo hình bên). Tính khoảng cách từ M đến mặt phẳng \\left(A'BC\\right)\nA. \\frac{a\\sqrt5}{5}.\t\nB. \\frac{2a\\sqrt5}{5}\t\nC. \\frac{2\\sqrt{57}a}{19}\t\nD. \\frac{\\sqrt{57}a}{19}",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Gọi $O$ là trung điểm của $A B$. Chọn hệ tọa độ $O x y z$ như hình vẽ và chọn $a=2$ ta có:\n$$\n\\begin{gathered}\nA(-1 ; 0 ; 0), B(1 ; 0 ; 0), C(0 ; \\sqrt{3} ; 0), A^{\\prime}(-1 ; 0 ; 4), C^{\\prime}(0 ; \\sqrt{3} ; 4), M(0 ; \\sqrt{3} ; 2) ; \\\\\n\\overrightarrow{A^{\\prime} B}=(2 ; 0 ;-4), \\\\\n\\overrightarrow{A^{\\prime} C}=(1 ; \\sqrt{3} ;-4) .\n\\end{gathered}\n$$\nVectơ pháp tuyến của mặt phẳng $\\left(A^{\\prime} B C\\right)$ là $\\vec{n}=\\overrightarrow{A^{\\prime} B} \\cap \\overrightarrow{A^{\\prime} C}=(2 \\sqrt{3} ; 2 ; \\sqrt{3})$ nên phương trình của mặt phẳng $\\left(A^{\\prime} B C\\right)$ là\n$$\n2 \\sqrt{3}(x+1)+2(y-0)+\\sqrt{3}(z-4)=0 \\Leftrightarrow 2 \\sqrt{3} x+2 y+\\sqrt{3} z-2 \\sqrt{3}=0\n$$\nKhoảng cách từ $\\mathrm{M}$ đến mặt phẳng $\\left(A^{\\prime} B C\\right)$ là\n$$\nd\\left(M,\\left(A^{\\prime} B C\\right)\\right)=\\frac{|2 \\sqrt{3}+2 \\sqrt{3}-2 \\sqrt{3}|}{\\sqrt{4.3+4+3}}=\\frac{2 \\sqrt{3}}{\\sqrt{19}}=\\frac{2 \\sqrt{57}}{19}\n$$\nVì chọn $a=2$ nên suy ra $d\\left(M,\\left(A^{\\prime} B C\\right)\\right)=\\frac{a \\sqrt{57}}{19}$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_45",
+        "Image_Question": "MET_Math_OE_2020_102/image011.png",
+        "Question": "Câu 45: Cho hàm số bậc bốn f\\left(x\\right) có bảng biến thiên như sau:\nx | -\\infty    -1          0            1              +\\infty\nf'(x) |     +        0           -            0          +           0           -\nf(x) |  -\\infty     \\nearrow 3 \\searrow -1 \\nearrow 3 \\searrow -\\infty\nSố điểm cực trị của hàm số g\\left(x\\right)=x^2\\left[f\\left(x-1\\right)\\right]^4 là\nA. 7.\t\nB. 8\t\nC. 5\t\nD. 9",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Từ bảng biến thiên ta thấy $f^{\\prime}(x)=a\\left(x^{2}-1\\right) x=a x^{3}-a x \\Rightarrow f(x)=\\frac{a x^{4}}{4}-\\frac{a x^{2}}{2}+c$\nĐồ thị hàm số đi qua điểm $(0 ;-1)$ nên $c=-1$, điểm $(1 ; 3)$ thuộc đồ thị nên ta có $\\frac{a}{4}-\\frac{a}{2}-1=3 \\Rightarrow a=-16$.\nTa có hàm số $f(x)=-4 x^{4}+8 x^{2}-1, f^{\\prime}(x)=-16 x\\left(x^{2}-1\\right)$\nĐặt $t=x-1 \\Rightarrow x=t+1$ ta có hàm số $g(t+1)=(t+1)^{2}[f(t)]^{4}$\n$$\n\\begin{aligned}\n& g^{\\prime}(t+1)=2(t+1)[f(t)]^{2}+4(t+1)^{2} {[f(t)]^{3} f^{\\prime}(t)=2(t+1)[f(t)]^{3}\\left[f(t)+2(t+1) f^{\\prime}(t)\\right] } \\\\\n& g^{\\prime}(t+1)=0 \\Leftrightarrow\\left[\\begin{array}{l}\nt=-1 \\\\\nf(t)=0 \\\\\nf(t)+2(t+1) f^{\\prime}(t)=0\n\\end{array}\\right.\n\\end{aligned}\n$$\n+) Phương trình $f(t)+2(t+1) f^{\\prime}(t)=0 \\Leftrightarrow-4 t^{4}+8 t^{2}-1+2(t+1)-(-16) t\\left(t^{2}-1\\right)=0$ $\\Leftrightarrow-36 t^{4}-32 t^{3}+40 t^{2}+32 t-1=0$\nXét vế trái: $h(t)=-36 t^{4}-32 t^{3}+40 t^{2}+32 t-1$;\nTừ đây suy ra phương trình $h(t)=0$ có 4 nghiệm phân biệt.\n+) phương trình $f(t)=0$ có 4 nghiệm phân biệt\nVậy phương trình $g^{\\prime}(t+1)=0$ có 9 nghiệm phân biệt nên hàm số $g(x)=x^{2}[f(x-1)]^{4}$ có 9 điểm cực trị."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_46",
+        "Image_Question": "MET_Math_OE_2020_102/image012.png",
+        "Question": "Câu 46: Cho hàm số y=ax^3+bx^2+cx+d \\left(a,b,c,d\\in\\mathbb{R}\\right) có đồ thị là đường cong trong hình vẽ.\nCó bao nhiêu số dương trong các số a, b, c, d?\nA. 4.\t\nB. 3.\t\nC. 1.\t\nD. 2.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hình dạng đồ thị cho thấy $a<0$.\nĐồ thị cắt trục tung tại một điểm nằm phía dưới trục hoành nên $d<0$.\nĐồ thị hàm số có hai điểm cực trị nằm bên phải trục tung nên hàm số đã cho có hai điểm cực trị cùng dương, khi đó $y^{\\prime}=3 a x^{2}+2 b x+c$ có hai nghiệm phân biệt cùng dương $\\left\\{\\begin{array}{l}x_{1}+x_{2}=-\\frac{b}{3 a}>0 \\\\ x_{1} x_{2}=\\frac{c}{3 a}>0\\end{array}\\right.$ mà $a<0$ nên $c<0 ; b>0$.\nVậy trong các số $a, b, c, d$ có 1 số dương."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_47",
+        "Image_Question": "",
+        "Question": "Câu 47: Gọi S là tập hợp tất cả các số tự nhiên có 4 chữ số đôi một khác nhau và các chữ số thuộc tập hợp {1, 2, 3, 4, 5, 6, 7, 8, 9}. Chọn ngẫu nhiên một số thuộc S, xác suất để số đó không có hai chữ số liên tiếp nào cùng lẻ bằng\nA. \\frac{17}{42}\t\nB. \\frac{41}{126}\t\nC. \\frac{31}{126}\t\nD. \\frac{5}{21}",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tập các số $S$ có $A_{9}^{4}=3024$ số. $\\Rightarrow n(\\Omega)=3024$.\nGọi $A$ là biến cố lấy được số thuộc tập $\\mathrm{S}$ mà số đó không có hai chữ số liên tiếp nào cùng lẻ.\nTa có các trường hợp sau:\nTH1: số đó có thứ tự : lẻ , chẵn, lẻ, chẵn : lúc đó có 5.4.4.3=240 số.\nTH2: số đó có thứ tự : lẻ , chẵn , chẵn, tùy ý : lúc đó có 5.4.3.6 = 360 số.\nTH3: số đó có thứ tự : chẵn , chẵn , chẵn, tùy ý : lúc đó có 4.3.2.6 = 144 sô.\nTH4: số đó có thứ tự : chẵn, chẵn, lẻ, chẵn : lúc đó có 4.3.5.2=120 số.\nTH5: số đó có thứ tự : chẵn, lẻ, chẵn, tùy ý : lúc đó có 4.5.3.6 360 số.\nVậy ta có: $n(A)=240+360+144+120+360=1224$.\nDo đó xác suất là: $p(A)=\\frac{1224}{3024}=\\frac{17}{42}$."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_48",
+        "Image_Question": "",
+        "Question": "Câu 48. Xét các số thực không âm x và y thỏa mãn. giá trị nhỏ nhất của biểu thức P=x^2+y^2+6x+4y bằng\nA. \\frac{65}{8}\t\nB. \\frac{33}{4}\t\nC. \\frac{49}{8}\t\nD. \\frac{57}{8}",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "$$\n\\begin{gathered}\n2 x+y \\cdot 4^{x+y-1} \\geq 3 \\\\\n\\Leftrightarrow y \\cdot 2^{2 x+2 y-2} \\geq 3-2 x \\\\\n\\Leftrightarrow 2 y \\cdot 2^{2 y} \\geq(3-2 x) \\cdot 2^{3-2 x}(1) .\n\\end{gathered}\n$$\nXét hàm số $f(t)=t .2^{t}$ trên $\\left.0 ;+\\infty\\right)$ có $f^{\\prime}(t)=2^{t}+t \\cdot 2^{t} \\ln 2>0, \\forall t \\geq 0$\nSuy ra $f(t)$ đồng biến trên $0 ;+\\infty)$.\n$$\n\\text { (1) } \\Leftrightarrow 2 y \\geq 3-2 x \\Leftrightarrow x+y \\geq \\frac{3}{2} \\Leftrightarrow(x+3)+(y+2) \\geq \\frac{13}{2} \\text {. }\n$$\nTa có: $P=(x+3)^{2}+(y+2)^{2}-13 \\Rightarrow(x+3)^{2}+(y+2)^{2}=P+13$\nTa lại có: $\\frac{13}{2} \\leq(x+3)+(y+2) \\leq \\sqrt{2\\left[(x+3)^{2}+(y+2)^{2}\\right]}=\\sqrt{2(P+13)}$\n$$\n\\Leftrightarrow \\frac{169}{4} \\leq 2(P+13) \\Leftrightarrow P \\geq \\frac{65}{8}\n$$\nDấu \"=\" xảy ra khi và chỉ khi $\\left\\{\\begin{array}{l}x=\\frac{1}{4} \\\\ y=\\frac{5}{4}\\end{array}\\right.$ Vậy $P_{min} = \\frac{65}{8}$"
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_49",
+        "Image_Question": "",
+        "Question": "Câu 49: Có bao nhiêu số nguyên x sao cho ứng với mỗi x có không quá 242 số nguyên y thỏa mãn {log}_4{\\left(x^2+y\\right)}\\geq{log}_3{\\left(x+y\\right)}?\nA. 55\t\nB. 28\t\nC. 29\t\nD. 56",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện $x+y>0$ và $x^{2}+y>0$. Khi đó\n$$\n{log}_4{\\left(x^2+y\\right)}\\geq{log}_3{\\left(x+y\\right)}\\Leftrightarrow x^2+y\\geq4^{{log}_3{\\left(x+y\\right)}}\\Leftrightarrow x^2+y\\geq\\left(x+t\\right)^{{log}_3{4}} \\\\\n\\Leftrightarrow x^2-x>\\left(x+y\\right)^{{log}_3{4}}-\\left(x+y\\right)\\left(1\\right) \\\\\n\\end{gathered}\n$$\nĐặt $t=x+y$ thì (1) được viết lại là $x^2-x>t^{{log}_3{4}}-t\\left(2\\right)$\nVới mỗi $x$ nguyên cho trước có không quá 242 số nguyên $y$ thỏa mãn bất phương trình (1)\nTương đương với bất phương trình (2) có không quá 242 nghiệm $t$.\nNhận thấy $f(t)=t^{\\log _{3} 4}-t$ đồng biến trên $\\left.1 ;+\\infty\\right)$ nên nếu $x^{2}-x>243^{\\log _{3} 4}-243=781$ thì sẽ có ít nhất 243 nghiệm nguyên $t \\geq 1$.\nDo đó yêu cầu bài toán tương đương với $x^{2}-x \\leq 781 \\Leftrightarrow-27 \\leq x \\leq 28$ (do $x$ nguyên).\nVậy có tất cả $28+28=56$ số nguyên $x$ thỏa mãn yêu cầu bài toán."
+    },
+    {
+        "ID": "MET_Math_OE_2020_102_50",
+        "Image_Question": "MET_Math_OE_2020_102/image013.png",
+        "Question": "Câu 50. Cho hàm số bậc ba y=f\\left(x\\right) có đồ thị là đường cong trong hình bên.\nSố nghiệm thực phân biệt của phương trình f\\left(x^3f\\left(x\\right)\\right)+1=0 là\nA. 6.\t\nB. 4.\t\nC. 5.\t\nD. 8.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $f\\left(x^{3} f(x)\\right)+1=0 \\Leftrightarrow f\\left(x^{3} f(x)\\right)=-1 \\Leftrightarrow\\left[\\begin{array}{l}x^{3} f(x)=a(-3<a<-1)(1) \\\\ x^{3} f(x)=b(-5<b<-3)(2) \\text {, với } a, b<0 \\text {. } \\\\ x^{3} f(x)=0\\end{array}\\right.$\n+ Với $m<0$, xét phương trình $x^{3} f(x)=m \\Leftrightarrow f(x)=\\frac{m}{x^{3}}$.\nĐặt $g(x)=\\frac{m}{x^{3}}, g^{\\prime}(x)=\\frac{-3 m}{x^{4}}>0, \\forall x \\neq 0$.\nTa có bảng biến thiên\nx | -\\infty 0 +\\infty\ng' | + || +\ng | 0 \\nearrow +\\infty || -\\infty \\nearrow 0\nDựa vào bảng biến thiên và đề bài, suy ra trong mỗi khoảng $(-\\infty ; 0)$ và $(0 ;+\\infty)$ phương trình $f(x)=g(x)$ có đúng một nghiệm.\nSuy ra mỗi phương trình (1) và (2) có 2 nghiệm.\n+ Xét phương trình $(3): x^{3} f(x)=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ f(x)=0\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x=c<0\\end{array}\\right.\\right.$, với $c$ khác các nghiệm của (1) và (2).\nVậy phương trình $f\\left(x^{3} f(x)\\right)+1=0$ có đúng 6 nghiệm."
+    }
+]

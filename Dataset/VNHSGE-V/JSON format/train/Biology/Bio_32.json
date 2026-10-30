@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_32_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Thực chất của quá trình điều hòa hoạt động gen là điều hòa\nA. lượng sản phẩm do gen tạo ra.\nB. số lượng gen trong tế bào.\nC. số lần nhân đôi của ADN.\nD. trình tự nucleotit trên gen.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thực chất quá trình điều hòa hoạt động gen là điều hòa lượng sản phẩm do gen tạo ra.\nChọn A"
+    },
+    {
+        "ID": "Bio_32_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Khi cho cây hoa đỏ tự thụ phấn, đời con có tỉ lệ kiểu hình là 9 cây hoa đỏ: 3 cây hoa hồng: 3 cây hoa vàng: 1 cây hoa trắng. Theo lí thuyết, tính trạng màu sắc hoa được chi phối bởi quy luật di truyền\nA. phân li độc lập.\nB. tương tác cộng gộp.\nC. tương tác át chế.\nD. tương tác bổ sung.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "F1 có 16 tổ hợp giao tử $=4 \\times 4 \\rightarrow$ Tính trạng màu hoa do 2 cặp gen tương tác quy định.\nTỉ lệ kiểu hình ở đời con là $9: 3: 3: 1 \\rightarrow$ Tương tác bổ sung.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Theo thí nghiệm của Menđen, khi lai đậu Hà Lan thuần chủng hạt vàng, trơn và hạt xanh, nhăn với nhau được F1 đều hạt vàng, trơn. Khi cho F1 lai phân tích thì đời con có tỉ lệ kiểu hình là\nA. 3 vàng, trơn : 3 vàng, nhăn : 1 xanh, nhăn: 1 vàng, trơn.\nB. 9 vàng, trơn : 3 vàng, nhăn : 3 xanh, trơn : 1 xanh, nhăn.\nC. 9 vàng, trơn : 3 xanh, trơn : 3 xanh, nhăn : 1 vàng, nhăn.\nD. 1 vàng, trơn : 1 vàng, nhăn : 1 xanh, trơn: 1 xanh, nhăn.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "F1cho toàn cây hạt vàng, trơn $\\rightarrow$ Tính trạng hạt vàng, trơn là trội so với hạt xanh, nhăn.\nQuy ước: $\\mathrm{A}$ - hạt vàng >> $\\mathrm{a}$ - hạt xanh\nB - hạt trơn $>$ b - hạt nhăn\n$\\mathrm{P}: \\mathrm{AABB} \\mathrm{x}$ aabb $\\rightarrow \\mathrm{F} 1: 100 \\% \\mathrm{AaBb}$\nF1 lai phân tích: AaBb x aabb\n$\\rightarrow$ Fa: 1 vàng, trơn : 1 vàng, nhăn : 1 xanh, trơn: 1 xanh, nhăn.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Ở cây phượng vĩ, quá trình thoát hơi nước chủ yếu diễn ra ở\nA. thân.\nB. lá.\nC. rễ.\nD. hoa.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ở cây phượng vĩ, quá trình thoát hơi nước chủ yếu diễn ra ở lá.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Loại đột biến nào sau đây không làm thay đổi số lượng NST trong tế bào?\nA. Đột biến thể ba.\nB. Đột biến tam bội.\nC. Đột biến tứ bội.\nD. Đột biến đảo đoạn NST.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Loại đột biến không làm thay đổi số lượng NST trong tế bào là đột biến đảo đoạn NST.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Đặc trưng nào sau đây không phải của quần thể?\nA. Mật độ cá thể.\nB. Độ đa dạng.\nC. Nhóm tuổi.\nD. Tỉ lệ giới tính.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Độ đa dạng là đặc trưng của quần xã sinh vật.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Một quần thể đang ở trạng thái cân bằng di truyền có tần số alen a là 0,4. Tỉ lệ kiểu gen AA của quần thể là\nA. 0,6 .\nB. 0,24 .\nC. 0,36 .\nD. 0,16",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ kiểu gen $\\mathrm{AA}$ của quần thể là: $0,6^{2}=0,36$.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Trong quá trình dịch mã, anticôđon nào sau đây khớp bổ sung với codon 5'AUG3'?\nA. 5'UAX3'.\nB. 3'AUG5 .\nC. 5'AUG3'.\nD. 3'UAX5'.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Anticodon khớp bổ sung với codon 5' AUG 3' có trình tự nucleotit là: 3' UAX 5'.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Trong quá trình tiến hóa, nhân tố nào sau đây đóng vai trò phân hóa khả năng sống sót và sinh sản ưu thế của các cá thể trong quần thể?\nA. Các yếu tố ngẫu nhiên.\nB. Di - nhập gen.\nC. Đột biến.\nD. Chọn lọc tự nhiên.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trong quá trình tiến hóa, chọn lọc tự nhiên đóng vai trò phân hóa khả năng sống sót và sinh sản ưu thế của các cá thể trong quần thể.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Cá chép Việt Nam có giá trị giới hạn dưới và giới hạn trên về nhiệt độ lần lượt là $2^{\\circ} \\mathrm{C}$ và $44^{\\circ} \\mathrm{C}$. Đối với loài cá chép, khoảng giá trị nhiệt độ từ $2^{\\circ} \\mathrm{C}$ đến $44^{\\circ} \\mathrm{C}$ được gọi là\nA. ổ sinh thái.\nB. khoảng thuận lợi.\nC. giới hạn sinh thái.\nD. vùng cực thuận.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đối với loài cá chép, khoảng giá trị nhiệt độ từ $2^{\\circ} \\mathrm{C}$ đến $44^{\\circ} \\mathrm{C}$ được gọi là giới hạn sinh thái.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Cho biết alen trội là trội hoàn toàn và không phát sinh đột biến. Phép lai nào sau đây cho đời con có hai loại kiểu hình?\nA. Aa $\\times$ Aa.\nB. Aa $\\times$ AA.\nC. aa $\\times$ aa.\nD. $A A \\times a a$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phép lai cho đời con có hai loại kiểu hình là: $\\mathrm{Aa} \\mathrm{x} \\mathrm{Aa}$.\n$\\mathrm{P}:$ Aa $\\times \\mathrm{Aa} \\rightarrow \\mathrm{F} 1: 3 \\mathrm{~A}-: 1$ aа.\nChọn A"
+    },
+    {
+        "ID": "Bio_32_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Vùng điều hòa là vùng\nA. mang tín hiệu khởi động và kiểm soát quá trình phiên mã.\nB. quy định trình tự sắp xếp các axit amin trong phân tử prôtêin.\nC. mang thông tin mã hoá các axit amin.\nD. mang tín hiệu kết thúc phiên mã.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Vùng điều hòa là vùng mang tín hiệu khởi động và kiểm soát quá trình phiên mã.\nChọn A"
+    },
+    {
+        "ID": "Bio_32_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Dựa vào những biến đổi về địa chất, khí hậu và hóa thạch điển hình, người ta chia lịch sử Trái đất thành 5 đại theo thời gian từ trước đến nay là\nA. đại Thái cổ, đại Cổ sinh, đại Trung sinh, đại Nguyên sinh, đại Tân sinh.\nB. đại Thái cổ, đại Nguyên sinh, đại Cổ sinh, đại Trung sinh, đại Tân sinh.\nC. đại Cổ sinh, đại Nguyên sinh, đại Thái cổ, đại Trung sinh, đại Tân sinh.\nD. đại Thái cổ, đại Nguyên sinh, đại Trung sinh, đại Cổ sinh, đại Tân sinh.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Người ta chia lịch sử Trái đất thành 5 đại theo thời gian từ trước đến nay là đại Thái cổ, đại Nguyên sinh, đại Cổ sinh, đại Trung sinh, đại Tân sinh.\n\\section{Chọn $B$.}"
+    },
+    {
+        "ID": "Bio_32_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Ở ruồi giấm, xét 1 gen nằm ở vùng không tương đồng trên NST giới tính $\\mathrm{X}$ có 2 alen là $\\mathrm{A}$ và a. Cách viết nào sau đây đúng?\nA. $\\mathrm{X}^{\\mathrm{A}} \\mathrm{Y} ; X Y^{\\mathrm{A}}$.\nB. $X^{\\mathrm{A}} Y^{\\mathrm{A}} ; X^{\\mathrm{a}} Y^{\\mathrm{a}}$.\nC. $X^{\\mathrm{a}} Y ; X Y^{\\mathrm{A}}$.\nD. $X^{\\mathrm{A}} \\mathrm{Y} ; X^{\\mathrm{a}} \\mathrm{Y}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cách viết đúng gen nằm ở vùng không tương đồng trên NST $\\mathrm{X}$ là: $\\mathrm{X}^{\\mathrm{A}} \\mathrm{Y} ; \\mathrm{X}^{\\mathrm{a}} \\mathrm{Y}$.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Phương pháp nào sau đây có thể tạo ra được giống mới mang bộ nhiễm sắc thể song nhị bội?\nA. Công nghệ gen.\nB. Cấy truyền phôi.\nC. Lai tế bào sinh dưỡng.\nD. Gây đột biến gen.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Người ta tạo ra được giống mới mang bộ NST song nhị bội bằng phương pháp lai tế bào sinh dưỡng.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Môi trường sống của các loài giun kí sinh là\nA. môi trường đất.\nB. môi trường trên cạn.\nC. môi trường nước.\nD. môi trường sinh vật.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Môi trường sống của các loài giun kí sinh là môi trường sinh vật.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Theo thuyết tiến hóa hiện đại, nhân tố tiến hóa nào sau đây chỉ làm thay đổi tần số kiểu gen mà không làm thay đổi tần số alen của quần thể?\nA. Đột biến.\nB. Giao phối không ngẫu nhiên.\nC. Chọn lọc tự nhiên.\nD. Các yếu tố ngẫu nhiên.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Nhân tố tiến hóa chỉ làm thay đổi kiểu gen mà không làm thay đổi tần số alen là giao phối không nhẫu nhiên.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Động vật có bề mặt trao đổi khí ở cả phổi và da là\nA. ếch đồng.\nB. rắn.\nC. cá rô phi.\nD. chim cánh cụt.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Động vật có bề mặt trao đổi khí ở cả phổi và da là ếch đồng.\nChọn A"
+    },
+    {
+        "ID": "Bio_32_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Khi nói về nhân đôi ADN, phát biểu nào sau đây sai?\nA. Quá trình nhân đôi $\\mathrm{ADN}$ diễn ra theo nguyên tắc bổ sung và nguyên tắc bán bảo tồn.\nB. Mạch đơn mới được tổng hợp liên tục trên mạch khuôn có chiều 3' $\\rightarrow 5$ '.\nC. Các gen ở trong một tế bào luôn có số lần nhân đôi bằng nhau.\nD. Enzim ADN polimeraza không có chức năng tháo xoắn ADN.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai là: Các gen ở trong một tế bào luôn có số lần nhân đôi bằng nhau.\nVì chỉ có các gen trong nhân tế bào có số lần nhân đôi giống nhau, ngoài ra các gen ngoài nhân nhân đôi độc lập với tế bào.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Khi nói về quá trình hình thành loài mới, phát biểu nào sau đây là đúng?\nA. Cách li địa lí sẽ tạo ra các kiểu gen mới trong quần thể dẫn đến hình thành loài mới.\nB. Hình thành loài bằng cách li địa lí xảy ra một cách chậm chạp, qua nhiều giai đoạn trung gian chuyển tiếp.\nC. Hình thành loài mới bằng con đường cách li địa lí thường xảy ra với các loài động vật ít có khả năng di chuyển.\nD. Quá trình cách li địa lí luôn dẫn đến cách li sinh sản.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu đúng là đáp án $B$.\nA sai. vì cách li địa lí không tạo ra kiểu gen mới, chỉ giúp duy trì sự khác biệt về vốn gen của hai quần thể được tạo ra do tác động của các nhân tố tiến hóa.\nC sai, vì hình thành loài bằng cách li địa lí thường xảy ra với các loài động vật di chuyển nhiều và thực vật phát tán mạnh.\nD sai, vì không phải cách li địa lí luôn dẫn đến cách li sinh sản.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Một phân tử mARN chỉ chứa 3 loại nuclêôtit là ađênin, uraxin và guanin. Trên mạch bổ sung của gen đã phiên mã ra phân tử mARN nói trên, có thể có các bộ ba nào sau đây?\nA. AAG, GTT, TXX, XAA.\nB. AAA, XXA, TAA, TXX\nC. TAG, GAA, ATA, ATG.\nD. ATX, TAG, GXA, GAA.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Nếu phân tử $m A R N$ chỉ chứa $A, U, G$ thì trên mạch bổ sung của gen phiên mã ra phân tử $m A R N$ này chỉ có 3 nucleotit $\\mathrm{A}, \\mathrm{T}, \\mathrm{G}$, vì vậy các bộ ba có thể có là: TAG, GAA, ATA, ATG.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Khi nói về đột biến chuyển đoạn NST, phát biểu nào sau đây sai?\nA. Chuyển đoạn dẫn tới sự trao đổi đoạn trong 1 NST hoặc giữa 2 cặp NST.\nB. Chuyển đoạn làm chuyển 1 đoạn NST từ nhóm gen liên kết này sang nhóm gen liên kết khác.\nC. Các thể đột biến do chuyển đoạn thường mất khả năng sinh sản.\nD. Đột biến chuyển đoạn không có ý nghĩa với tiến hóa và chọn giống.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai là đáp án D.\nTất cả các dạng đột biến cấu trúc NST đều có vai trò trong quá trình chọn giống và tiến hóa.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Trong cơ chế điều hòa hoạt động gen của operon Lac, sự kiện nào sau đây không diễn ra khi môi trường có đường lactose?\nA. ARN polimeraza liên kết với vùng khởi động của operon Lac và tiến hành phiên mã.\nB. Prôtêin ức chế liên kết với vùng vận hành.\nC. Các gen cấu trúc $(\\mathrm{Z}, \\mathrm{Y}, \\mathrm{A})$ phiên mã tạo ra các phân tử mARN tương ứng.\nD. Gen điều hòa (R) có vai trò tổng hợp prôtêin ức chế.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Khi môi trường có đường lactose, protein ức chế không thể gắn với vùng vận hành $(\\mathrm{O})$ do đường lactose là chất cảm ứng liên kết và làm biến đổi cấu trúc của protein ức chế.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Khi nói về tuần hoàn của động vật, phát biểu nào sau đây đúng?\nA. Huyết áp ở mao mạch là nhỏ nhất.\nB. Trong một chu kì tim, tâm thất luôn co trước tâm nhĩ để đẩy máu đến tâm nhĩ.\nC. Khi tâm thất co, máu từ tâm thất phải được đẩy vào động mạch chủ.\nD. Các loài thú, chim, bò sát, ếch nhái có hệ tuần hoàn kép.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu đúng là đáp án $\\mathrm{D}$.\nA sai, vì huyết áp ở tĩnh mạch là nhỏ nhất.\nB sai, vì trong một chu kì tim, tâm nhĩ lúc nào cũng co trước để đẩy máu xuống tâm thất.\nC sai, vì khi tâm thất co, máu từ tâm thất phải đẩy vào động mạch phổi.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Quá trình giảm phân bình thường ở cơ thể dị hợp 2 cặp gen ( $\\mathrm{A}$, $\\mathrm{a}$ và $\\mathrm{B}$, b) đã tạo ra 4 loại giao tử, trong đó loại giao tử $\\mathrm{AB}$ chiếm $10 \\%$. Theo lí thuyết, kiểu gen của cơ thể này và khoảng cách giữa 2 gen đang xét là\nA. $A B / a b$ và $10 \\mathrm{cM}$.\nB. $\\mathrm{AB} / \\mathrm{ab}$ và $20 \\mathrm{cM}$.\nC. $A b / a B$ và 10 cM.\nD. $A b / a B$ và 20 cM.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ giao tử $\\underline{\\mathrm{AB}}=10 \\% \\rightarrow \\underline{\\mathrm{AB}}$ là giao tử hoán vị.\n$\\rightarrow \\mathrm{f}=20 \\%$ và kiểu gen của cơ thể là: $\\mathrm{Ab} / / \\mathrm{aB}$.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Khi nói về quang hợp ở thực vật, phát biểu nào sau đây sai?\nA. Pha sáng của quang hợp diễn ra ở tilacoit, cần có ánh sáng, nước và giải phóng $\\mathrm{O}_{2}$.\nB. Trong quang hợp, $\\mathrm{O}_{2}$ được tạo ra từ $\\mathrm{CO}_{2}$.\nC. Pha sáng tạo ra ATP và NADPH cung cấp cho pha tối.\nD. Pha tối diễn ra ở chất nền lục lạp, cần có $\\mathrm{CO}_{2}$ và tạo ra glucôzơ.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai là đáp án B.\nVì trong quá trình quang hợp, $\\mathrm{O}_{2}$ được tạo ra từ $\\mathrm{H}_{2} \\mathrm{O}$ trong phương trình quang phân li nước.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Khi nói về đặc trưng cơ bản của quần thể, phát biểu nào sau đây đúng?\nA. Mật độ cá thể của quần thể không cố định mà thay đổi theo mùa, năm hoặc tùy theo điều kiện của môi trường sống.\nB. Phân bố đồng đều giữa các cá thể trong quần thể thường gặp khi điều kiện sống trong môi trường phân bố đồng đều và không có sự cạnh tranh gay gắt giữa các cá thể trong quần thể.\nC. Trong điều kiện môi trường bị giới hạn, đường cong tăng trưởng của quần thể có hình chữ $J$.\nD. Kích thước của quần thể là số lượng cá thể của quần thể, luôn ổn định và giống nhau giữa các loài.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu đúng là đáp án $\\mathrm{A}$.\nB sai. Phân bố đồng đều xảy ra ở quần thể mà các cá thể trong quần thể có sự cạnh tranh gay gắt với nhau.\n$\\mathrm{C}$ sai, vì trong điều kiện môi trường bị giới hạn, đường cong tăng trưởng có dạng hình $\\mathrm{S}$.\nD sai, vì kích thước quần thể luôn biến đổi, và khác nhau giữa các loài.\nChọn A"
+    },
+    {
+        "ID": "Bio_32_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Một loài thực vật có bộ NST lưỡng bội 2n = 14, trên mỗi cặp NST chỉ xét 1 cặp gen có 2 alen. Phát biểu nào sau đây sai?\nA. Một cơ thể đực sẽ có tối đa 14 loại giao tử.\nB. Thể ba của loài này có $15 \\mathrm{NST}$.\nC. Loài này có 7 nhóm gen liên kết.\nD. Một tế bào sinh tinh giảm phân sẽ cho tối đa 2 loại giao tử.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai là đáp án $\\mathrm{A}$. Vì cơ thể đực sẽ tạo được tối đa: $2^{7}=128$ (loại giao tử).\nChọn A"
+    },
+    {
+        "ID": "Bio_32_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Ở ruồi, alen $B$ là gen kháng thuốc DDT trội hoàn toàn so với alen b mẫn cảm với thuốc DDT. Một quần thể ruồi ban đầu có thành phần kiểu gen là $0,2 \\mathrm{BB}: 0,2 \\mathrm{Bb}: 0,6$ bb. Để diệt ruồi, người ta phun DDT lên quần thể này. Sau một thời gian quần thể ruồi này có thành phần kiểu gen là $0,49 \\mathrm{BB}: 0,42 \\mathrm{Bb}: 0,09$ bb. Nếu chỉ xét ảnh hưởng của chọn lọc tự nhiên đến quần thể, có bao nhiêu phát biểu về quần thể này là đúng?\nI. Thuốc DDT là tác nhân môi trường có tác dụng chọn lọc lên gen $B$\nII. Yếu tố chọn lọc tự nhiên đã tác động trực tiếp lên từng kiểu gen trong quần thể.\nIII. Trước khi phun DDT, kiểu hình thích nghi là mẫn cảm với DDT, sau khi phun DDT là kiểu hình kháng thuốc. Điều đó chứng tỏ đặc điểm thích nghi chỉ mang tính tương đối.\nIV. Tần số alen mẫn cảm với thuốc giảm so với ban đầu là $50 \\%$.\nA. 3 .\nB. 1 .\nC. 2 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I đúng. thuốc DDT có tác dụng chọn lọc, các cá thể mang gen kháng thuốc sẽ sống sót.\nII sai, vì chọn lọc tự nhiên tác động trực tiếp lên kiểu hình, gián tiếp ảnh hưởng đến kiểu gen của quần thể. III đúng, trước khi phun DDT, kiểu hình thích nghi là kiểu hình mẫn cảm với DDT (vì kiểu gen bb chiếm tỉ lệ lớn nhất); sau khi phun DDT, kiểu hình kháng thuốc là kiểu hình thích nghi.\nIV sai. Trước khi phun thuốc, tần số alen mẫn cảm $b=0,7$; sau khi phun thuốc, tần số alen $\\mathrm{b}$ giảm còn $0,3 \\rightarrow$ Tần số alen mẫn cảm với thuốc giảm $40 \\%$.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Ở ruồi giấm, xét 3 cặp gen: $A, a ; B, b$ và $D, d$; mỗi cặp gen quy định 1 cặp tính trạng, các alen trội là trội hoàn toàn. Phép lai $\\mathrm{P}: \\frac{A b}{a B} \\mathrm{X}^{\\mathrm{M}} \\mathrm{X}^{\\mathrm{m}} \\mathrm{X} \\frac{A B}{a b} \\mathrm{X}^{\\mathrm{M}} \\mathrm{Y}$ cho $\\mathrm{F} 1$ có tỉ lệ kiểu hình lặn về cả ba tính trạng là $1,25 \\%$. Tính theo lí thuyết, tỉ lệ kiểu hình trội về cả 3 tính trạng ở $F 1$ là\nA. $27,5 \\%$.\nB. $41,25 \\%$.\nC. $32,75 \\%$.\nD. $43,85 \\%$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tỉ lệ kiểu hình lặn 3 cặp tính trạng: $\\mathrm{ab} / / \\mathrm{ab} \\mathrm{X}^{\\mathrm{m}} \\mathrm{Y}=1,25 \\% \\rightarrow \\mathrm{ab} / / \\mathrm{ab}=0,05$\nỞ ruồi giấm chỉ xảy ra hoán vị gen ở giới cái $\\rightarrow$ Tỉ lệ giao tử ab ở cái là: 0,1\n$\\rightarrow$ Cơ thể cái ở $\\mathrm{P}$ đã xảy ra hoán vị gen với tần số $\\mathrm{f}=20 \\%$\n$\\rightarrow$ Tỉ lệ kiểu hình trội 3 cặp tính trạng ở $F 1$ là: $A-B-X^{M_{-}}=(0,5+0,1$ x 0,5) x 3/4 = 41,25\\%.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Một loài thực vật có $2 \\mathrm{n}=26 \\mathrm{NST}$. Giả sử có một thể đột biến của loài này chỉ bị đột biến mất đoạn nhỏ không chứa tâm động ở 1 NST thuộc cặp số 2 và bị đột biến đảo đoạn ở 1 NST ở cặp số 8 . Cho biết không phát sinh đột biến mới, thể đột biến này giảm phân bình thường và không xảy ra trao đổi chéo. Theo lí thuyết, phát biểu nào sau đây sai về thể đột biến này?\nA. Trong tổng số giao tử được tạo ra có $25 \\%$ số giao tử không mang NST đột biến.\nB. Mức độ biểu hiện của tất cả các gen ở đoạn NST bị đảo trên NST số 8 đều giảm.\nC. Trong tổng số giao tử được tạo ra có $50 \\%$ số giao tử mang NST số 2 đột biến.\nD. Giao tử được tạo ra từ thể đột biến này có 13 NST.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A đúng.\nỞ cặp NST số 2 , tỉ lệ giao tử bình thường là: 1/2\nỞ cặp NST số 8 , tỉ lệ giao tử bình thường là: 1/2. Ở các cặp NST còn lại, cả 2 chiếc NST đều bình thường.\n$\\rightarrow$ Tỉ lệ giao tử bình thường là: $1 / 2 \\mathrm{x} 1 / 2=1 / 4$.\nB sai. Vì chỉ các gen trong đoạn NST bị đảo mới bị ảnh hưởng tới mức độ hoạt động/ C đúng.\nD đúng. Vì số lượng NST trong thể đột biến vẫn là $26 \\mathrm{NST} \\rightarrow$ Số lượng NST trong mỗi giao tử là: 13 NST.\nChọn B"
+    },
+    {
+        "ID": "Bio_32_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Ở một loài thực vật, alen D quy định hoa đỏ trội hoàn toàn so với alen d quy định hoa trắng. Cho cây hoa đỏ giao phấn với nhau thu được F1 100\\% hoa đỏ, cho F1 giao phấn thu được F2 có cả hoa đỏ và hoa trắng. Kết luận nào sau đây là đúng?\nA. Ở F2 có tỉ lệ kiểu gen là $1: 2: 1$.\nB. Kiểu gen của $P$ là $\\mathrm{Dd} \\times \\mathrm{Dd}$.\nC. Trong số cây F2 tỉ lệ cây hoa đỏ thuần chủng là $37,5 \\%$.\nD. Cho cây hoa đỏ ở $\\mathrm{F} 2$ tự thụ phấn xác suất bắt gặp cây hoa trắng ở $\\mathrm{F} 3$ là $10 \\%$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "P: hoa đỏ x hoa đỏ, F1 cho 100\\% hoa đỏ $\\rightarrow$ Kiểu gen P: DD x DD hoặc DD x Dd mà $\\mathrm{F} 1$ giao phấn thu được $\\mathrm{F} 2$ có kiểu hình hoa trắng\n$\\rightarrow$ Kiểu gen ở $\\mathrm{P}$ là: $\\mathrm{DD} \\mathrm{x} \\mathrm{Dd} \\rightarrow \\mathrm{B}$ sai\n$\\rightarrow \\mathrm{F} 1: 1 \\mathrm{DD}: 1 \\mathrm{Dd}(100 \\%$ hoa đỏ $)$\nF1: giao phấn: $(1 / 2 \\mathrm{DD}: 1 / 2 \\mathrm{Dd}) \\times(1 / 2 \\mathrm{DD}: 1 / 2 \\mathrm{Dd})$\n$\\rightarrow$ F2: 9/16 DD : 6/16 Dd : $1 / 16 \\mathrm{dd}$\n$\\rightarrow$ A sai\n$\\rightarrow \\mathrm{C}$ sai, vì tỉ lệ cây hoa đỏ thuần chủng ở F2 là: 56,25\\%.\nD đúng.\nF2 cây hoa đỏ tự thụ phấn: 9/15 DD : 6/15 DdDd\n9/15 DD tự thụ $\\rightarrow$ F3 không tạo cây hoa trắng\n$6 / 15$ Dd tự thụ $\\rightarrow \\mathrm{F} 3$ hoa trắng $(\\mathrm{dd})=6 / 15 \\times 1 / 4=1 / 10$.\n$\\rightarrow$ Ở $\\mathrm{F} 3$ có tổng số cây hoa trắng là: 1/10.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Cho cây (P) dị hợp 2 cặp gen ( $\\mathrm{A}$, a và $\\mathrm{B}$, b) tự thụ phấn, thu được $\\mathrm{F} 1$ có 10 loại kiểu gen, trong đó tổng tỉ lệ kiểu gen đồng hợp 2 cặp gen trội và đồng hợp 2 cặp gen lặn là 32\\%. Theo lí thuyết, loại kiểu gen có 2 alen trội ở $F 1$ chiếm tỉ lệ ?\nA. $34 \\%$.\nB. $44 \\%$.\nC. $36 \\%$.\nD. $32 \\%$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "F1 cho 10 loại kiểu gen $\\rightarrow$ Hai cặp gen $\\mathrm{Aa}, \\mathrm{Bb}$ di truyền liên kết với nhau, có hoán vị gen 2 bên.\nTỉ lệ $\\mathrm{AABB}+\\mathrm{aabb}=32 \\%$ mà tỉ lệ kiểu gen $\\mathrm{AABB}$ luôn bằng với kiểu gen aabb (vì $\\mathrm{P}$ tự thụ phấn).\n$\\rightarrow \\mathrm{aabb}=0,16$\n$\\rightarrow$ Tỉ lệ giao tử $\\mathrm{ab}=0,4$ (giao tử liên kết)\n$\\rightarrow$ Kiểu gen $P: A B / / a b$ và $f=20 \\%$.\n$\\rightarrow$ Tỉ lệ kiểu gen 2 alen trội ở F1 là: $\\mathrm{AAbb}+\\mathrm{aaBB}+\\mathrm{AaBb}=0,1 \\times 0,1 \\times 4+0,4$ x 0,4 × 2 = 36\\%.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Trong hoạt động của opêron Lac ở vi khuẩn E.coli, gen cấu trúc Z mã hoá enzim galactosidaza. Enzim này tham gia phân giải đường lactozơ thành glucozơ và galactozơ. Giả sử gen cấu trúc Z bị đột biến thay thế một cặp nuclêôtit. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Chuỗi polipeptit do gen đột biến tổng hợp có thể không bị thay đổi thành phần axit amin.\nII. Phân tử mARN do gen đột biến tổng hợp có thể dịch mã tạo enzim $\\beta$ - galactosidaza.\nIII. Chuỗi polipeptit do gen đột biến tổng hợp bị thay đổi 1 axit amin.\nIV. Phân tử mARN do gen đột biến tổng hợp bị thay đổi 1 số codon mã hoá axit amin.\nA. 3 .\nB. 4 .\nC. 2 .\nD. 1",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I, II đúng. Vì nếu đột biến gây biến đổi codon này thành codon khác khác nhưng cùng mã hóa cho 1 loại axit amin $\\rightarrow$ Trình tự axit amin không thay đổi.\nIII sai, vì chuỗi polipeptit do gen quy định không thay đổi hoặc ngắn đi do sự xuất hiện của bộ ba kết thúc.\nIV sai, do đây là đột biến thay thế 1 cặp nucleotit nên chỉ ảnh hưởng tới một codon.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Chiều dài và chiều rộng cánh của một loài ong mật trinh sản được quy định bởi hai gen $\\mathrm{A}$ và gen $\\mathrm{B}$ nằm trên cùng $1 \\mathrm{NST}$, trội lặn hoàn toàn, 2 gen liên kết hoàn toàn với nhau. Tiến hành phép lai ong cái cánh dài, rộng và ong đực cánh ngắn, hẹp (P) thu được $\\mathrm{F} 1$ toàn ong cánh dài, rộng. Cho ong chúa F1 giao phối với các con ong đực $\\mathrm{F} 1$, nếu xét cả giới tính thì ở F2 sẽ thu được bao nhiêu loại kiểu hình?\nA. 5 .\nB. 2 .\nC. 6 .\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "F1 cho toàn ong cánh dài, rộng $\\rightarrow$ Tính trạng cánh dài, rộng là trội so với tính trạng cánh ngắn, hẹp.\n$\\mathrm{P}: \\mathrm{AB} / / \\mathrm{AB} \\times \\mathrm{ab}$\n$\\rightarrow \\mathrm{F} 1: 1 \\mathrm{AB} / / \\mathrm{ab}$ (ong chúa cánh dài, rộng) : $1 \\mathrm{AB}$ (ong đực cánh dài, rộng)\nCho ong chúa $\\mathrm{F} 1$ giao phối với ong đực $\\mathrm{F} 1$ : $\\mathrm{AB} / / \\mathrm{ab} \\times \\mathrm{AB}$\n$\\rightarrow \\mathrm{F} 2: 1 \\mathrm{AB}: 1 \\mathrm{ab}: 1 \\mathrm{AB} / / \\mathrm{ab}$\n$\\rightarrow$ F2 thu được 3 loại kiểu hình.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_36",
+        "Image_Question": "Bio_32/Bio_32_36.png",
+        "Question": "Câu 36:  Hình bên thể hiện tỉ lệ các loại kiểu gen quy định màu lông của 2 quần thể động vật thuộc cùng một loài, alen $\\mathrm{A}$ quy định lông trắng trội hoàn toàn so với alen a quy định lông đen, gen nằm trên nhiễm sắc thể thường. Có bao nhiêu phát biểu sau đây đúng?\nI. Tần số alen $\\mathrm{A}$ và $\\mathrm{a}$ ở cả 2 quần thể $\\mathrm{I}$ và II lần lượt là: 0,$3 ; 0,7$.\nII. Nếu các cá thể ở quần thể I có cùng màu lông giao phối với nhau mà không giao phối với các cá thể khác màu lông của cơ thể mình. Theo lý thuyết, F1 thu được cá thể lông đen là 49/85.\nIII. Cho 2 cá thể đều có màu lông trắng ở quần thể I và II giao phối với nhau thu được F1. Tính theo lý thuyết F1 thu được cá thể lông màu đen là $21 / 136$.\nIV. Cấu trúc di truyền của quần thể II đang ở trạng thái cân bằng.\nA. 1 .\nB. 2 .\nC. 3 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cấu trúc di truyền của quần thể I: $9 \\% \\mathrm{AA}$ : $42 \\% \\mathrm{Aa}: 49 \\%$ aa $\\rightarrow$ Quần thể $\\mathrm{I}$ cân bằng di truyền. Cấu trúc di truyền của quần thể II: $12 \\% \\mathrm{AA}$ : $36 \\% \\mathrm{Aa}: 52 \\%$ aa $\\rightarrow$ Quần thể II không cân bằng.\n$\\rightarrow$ Tần số alen của quần thể $\\mathrm{I}: \\mathrm{A}=0,3 ; \\mathrm{a}=0,7$\nTần số alen của quần thể $\\mathrm{II}: \\mathrm{A}=0,3 ; \\mathrm{a}=0,7$\n$\\rightarrow$ I đúng.\nII đúng. Các cá thể có cùng màu lông của quần thể I giao phối với nhau\nNhóm 1: 0,51 (3/17 AA : 14/17 Aa)\nNhóm 2: 0,49 aa\n$\\rightarrow \\mathrm{F} 1$ aа $=0,51 \\times 48 / 289+0,49=49 / 85$\nIII đúng.\nĐể $\\mathrm{F} 1$ cho kiểu hình lông đen thì $\\mathrm{P}$ : $\\mathrm{Aa} \\mathrm{x} \\mathrm{Aa}$ Ở quần thể I: 3/17 AA ; 14/17 Aa\nỞ quần thể II: $1 / 4 \\mathrm{AA}$ : 3/4 Aa\n$\\rightarrow$ Tỉ lệ F1 aa = 14/17 x 3/4 x 114= 21/136.\nIV sai. Cấu trúc di truyền của quần thể II không cân bằng.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Ở người, gen quy định tính trạng hói đầu bị ảnh hưởng bởi giới tính. Phụ nữ có kiểu gen $\\mathrm{BB}$ bị hói, tuy nhiên phụ nữ $\\mathrm{Bb}$ và bb thì không. Đàn ông có kiểu gen $\\mathrm{BB}$ và $\\mathrm{Bb}$ bị hói, đàn ông bb thì không. Yếu tố $\\mathrm{Rh}$ do gen $\\mathrm{R}$ quy định, kiểu gen của người $\\mathrm{Rh}$ - là rr và của người $\\mathrm{Rh}^{+}$là $\\mathrm{RR}$ hoặc $\\mathrm{Rr}$. Khi một người phụ nữ $\\mathrm{Rh}^{-}$mang thai nhi có $\\mathrm{Rh}^{+}$, hệ miễn dịch của người phụ nữ có thể tạo ra các kháng thể kháng lại $\\mathrm{Rh}^{+}$của thai nhi trong lần mang thai thứ hai, có thể dẫn đến cái chết của thai nhi. Hiện tượng này được gọi là sự không tương thích Rh. Hai gen này cùng nằm trên một cặp nhiễm sắc thể thường và cách nhau $30 \\mathrm{cM}$. Hai vợ chồng Yến và Linh đến một văn phòng tư vấn di truyền và được bác sĩ thu thập dữ liệu như tóm tắt trong bảng dưới đây.\n\\begin{center}\n\\begin{tabular}{|l|c|c|}\n\\hline\n\\multicolumn{1}{|c|}{Người} & Hói đầu & Rh \\\\\n\\hline\nYến (vợ) & Không & $\\mathrm{Rh}^{+}$ \\\\\n\\hline\nMę của Yến & Có & $\\mathrm{Rh}^{+}$ \\\\\n\\hline\nBố của Yến & Không & $\\mathrm{Rh}^{-}$ \\\\\n\\hline\nLinh (chồng) & Có & $\\mathrm{Rh}^{-}$ \\\\\n\\hline\nMẹ của Linh & Có & $\\mathrm{Rh}^{-}$ \\\\\n\\hline\nBố của Linh & Không & $\\mathrm{Rh}^{+}$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCó bao nhiêu kết luận sau đúng?\nI. Có thể xác định chắc chắn kiểu gen của 5 người.\nII. Cặp vợ chồng này có thể sinh con bị hói đầu với tỷ lệ $35 \\%$.\nIII. Xác suất con gái của họ có thể phải đối mặt với sự không tương thích Rh khi những người con này mang thai là $50 \\%$.\nIV. Xác suất con gái của họ có tiềm năng không tương thích Rh đồng thời sẽ bị hói đầu là 3,75\\%.\nA. 1 .\nB. 4 .\nC. 3 .\nD. 2 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|l|l|l|l|}\n\\hline\nNgười & Hói đầu & Rh & Kiểu gen \\\\\n\\hline\nYến & Không & Rh+ & BR/br \\\\\n\\hline\nMẹ của Yến & Có & Rh+ & BBR- \\\\\n\\hline\nBố của Yến & Không & Rh- & bbrr \\\\\n\\hline\nLinh & Có & Rh- & Bbrr \\\\\n\\hline\nMẹ của Linh & Có & Rh- & BBrr \\\\\n\\hline\nBố của Linh & Không & Rh+ & bbRr \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCặp vợ chồng Yến và Linh có kiểu gen: $\\frac{B R}{b r} \\times \\frac{B r}{b r} ; \\mathrm{f}=20 \\%$.\nI đúng. Xác định kiểu gen của 5 người trong gia đình.\nII sai.\nNếu cặp vợ chồng sinh con gái thì $25 \\%$ bị hói đầu\nNếu cặp vợ chồng sinh con trai thì $75 \\%$ bị hói đầu\n$\\rightarrow$ Xác suất sinh con bị hói đầu là: $1 \\frac{12}{2}$ 25\\% + 12 X $75 \\%=50 \\%$\nIII đúng.\nNếu xét riêng tính trạng tương thích $\\mathrm{Rh}: \\mathrm{Rr} \\mathrm{x} \\mathrm{rr} \\rightarrow$ Xác suất con gái không tương thích: 1 ½r IV sai.\nXác suất sinh con gái có tiềm năng không tương thích và bị hói đầu là: 0,1 x 1½ $\\mathrm{1} 12=2.5 \\%$.\nChọn D"
+    },
+    {
+        "ID": "Bio_32_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Covid - 19 là bệnh viêm đường hô hấp cấp do một chủng coronavirus gây ra. Có một số thông tin di truyền về chủng virus này như sau: có tổng số 29903 nucleotit; số nucleotit từng loại A, U, G, X có số lượng lần lượt là 9594, 8954, 5492, 5863; một phân tử mARN quan trọng mã hóa cho vỏ protein của virus có bộ ba mở đầu từ vị trí nuclêôtit thứ 29558 và kết thúc ở vị trí nuclêôtit thứ 29674 . Từ những thông tin trên, có bao nhiêu phát biểu sau đây đúng?\nI. Phần trăm mỗi loại nuclêôtit (A, U, G, X) của virus này lần lượt là 32,08; 29,94; 18,37; $19,61$.\nII. Vật chất di truyền của virus SARS-CoV-2 là một phân tử ARN mạch đơn.\nIII. Đoạn mARN trên có chứa 116 nuclêôtit.\nIV. Phân tử protein cấu trúc do mARN trên mã hóa có tối đa 39 axit amin.\nA. 1 .\nB. 2.\nC. 3\nD. 4",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phần trăm từng loại nucleotit của virus là:\n$\\% \\mathrm{~A}=9594: 29903 \\times 100 \\%=32,08 \\%$\nTương tự, ta có: $\\% \\mathrm{U}=29.94 \\% ; \\% \\mathrm{G}=18,37 \\% ; \\% \\mathrm{X}=19,61 \\% . \\rightarrow$ I đúng.\nII đúng. Vì axit nucleic có mặt của nucleotit loại $U$ và số lượng nucleotit mỗi loại khác nhau $\\rightarrow$ ARN mạch đơn.\nIII sai. Số nucleotit của đoạn mARN là 177.\nIV sai. Số axit amin do đoạn mARN mã hóa là: $117: 3$ - 1 = 38 (axit amin).\nChọn B"
+    },
+    {
+        "ID": "Bio_32_39",
+        "Image_Question": "Bio_32/Bio_32_39.png",
+        "Question": "Câu 39:  Ổ sinh thái dinh dưỡng của năm quần thể A, B, C, D, E thuộc năm loài thú sống trong cùng một môi trường và thuộc cùng một bậc dinh dưỡng được kí hiệu bằng các vòng tròn ở hình bên. Phân tích hình này, có bao nhiêu phát biểu sau đây đúng?\nI. Quần thể $\\mathrm{A}$ có kích thước nhỏ hơn quần thể $\\mathrm{D}$.\nII. Quần thể $\\mathrm{D}$ và $\\mathrm{E}$ có ổ sinh thái trùng nhau.\nIII. Vì quần thể $\\mathrm{A}$ và $\\mathrm{E}$ không trùng ổ sinh thái dinh dưỡng nên chúng không bao giờ xảy ra cạnh tranh.\nIV. So với quần thể $\\mathrm{C}$, quần thể $\\mathrm{B}$ có ổ sinh thái dinh dưỡng trùng lặp với nhiều quần thể hơn.\nA. 3 .\nB. 2.\nC. 1 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I sai. Dựa vào kích thước ổ sinh thái dinh dưỡng không thể khẳng định được loài nào có kích thước lớn hơn. II sai. Ổ sinh thái dinh dưỡng của quần thể $\\mathrm{D}$ và $\\mathrm{E}$ không trùng nhau.\nIII sai. Loài $\\mathrm{A}$ và $\\mathrm{E}$ không trùng ổ sinh thái dinh dưỡng nhưng 2 quần thể này có thể cạnh tranh nhau về các nguồn sống khác như nơi ở.\nIV đúng.\nChọn C"
+    },
+    {
+        "ID": "Bio_32_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Ở một loài thú, alen A quy định thân cao trội hoàn toàn so với a quy định thân thấp, alen $\\mathrm{B}$ quy định lông đen trội hoàn toàn so với $\\mathrm{b}$ quy định lông trắng, alen $\\mathrm{D}$ quy định có sừng trội hoàn toàn so với $\\mathrm{d}$ quy định không sừng. Thực hiện phép lai $\\frac{A b}{a B} \\mathrm{X}^{\\mathrm{D}} \\mathrm{X}^{\\mathrm{d}} \\mathrm{x} \\frac{A B}{a b} \\mathrm{X}^{\\mathrm{D} Y}$ thu được $\\mathrm{F} 1$ có tổng số cá thể thân cao, lông đen, có sừng và cá thể thân cao, lông trắng, không sừng chiếm 46,75\\%. Biết không xảy ra đột biến và có hoán vị gen ở cả hai giới với tần số bằng nhau. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Số cá thể thân thấp, lông trắng, không sừng ở $\\mathrm{F} 1$ chiếm 15\\%.\nII. Ở F1 có số cá thể thân cao, lông đen, không sừng chiếm 14\\%.\nIII. Ở F1 có số cá thể đực thân cao, lông đen, có sừng chiếm 14\\%.\nIV. Trong tổng số cá thể thân cao, lông đen, có sừng ở F1 số cá thể cái đồng hợp cả 3 cặp gen chiếm tỉ lệ 1/28.\nA. 3 .\nB. 1.\nC. 2 .\nD. 4 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "F1 có tổng số cá thể thân cao, lông đen, có sừng và cá thể thân cao, lông trắng, không sừng chiếm 46,75\\%\n$\\rightarrow$ A-B- XD- + A-bb XdY $=46,75 \\%$\n$\\rightarrow 3 / 4 \\mathrm{~A}-\\mathrm{B}-+1 / 4$ aabb $=46,75 \\%(1)$\nmà hoán vị gen xảy ra ở 2 giới với tần số như nhau $\\rightarrow \\mathrm{A}-\\mathrm{B}-+\\mathrm{A}-\\mathrm{bb}=75 \\%$ (2)\nTừ $(1)$ và $(2) \\rightarrow A-B-=56 \\% ; A-b b=19 \\%$.\n$\\rightarrow \\mathrm{aabb}=6 \\%=0,3 \\times 0,2$\n$\\rightarrow \\mathrm{f}=40 \\%$\nI sai. Ở $\\mathrm{F} 1$ tỉ lệ $\\mathrm{ab} / / \\mathrm{ab} \\mathrm{X}^{\\mathrm{d}} \\mathrm{Y}=0,06 \\mathrm{x} 1 / 4=1,5 \\%$.\nII đúng. Ở $F 1$ tỉ lệ $\\mathrm{A}-\\mathrm{B}-\\mathrm{X}^{\\mathrm{d}} \\mathrm{Y}=56 \\% \\times 1 / 4=14 \\%$.\nIII đúng. Ở $\\mathrm{F} 1$ tỉ lệ $\\mathrm{A}-\\mathrm{B}-\\mathrm{X}^{\\mathrm{D}} \\mathrm{Y}=56 \\% \\times 1 \\frac{1}{4}=14 \\%$.\nIV đúng. Ở $\\mathrm{F} 1$ tỉ lệ thân cao, lông đen, có sừng là: $56 \\% \\mathrm{x} 3 / 4=42 \\%$\nTỉ lệ cá thể cái đồng hợp 3 cặp gen: $\\mathrm{AB} / / \\mathrm{AB} \\mathrm{X}^{\\mathrm{D}} \\mathrm{X}^{\\mathrm{D}}=0,3 \\times 0,2 \\times 1 \\frac{1}{4}=0,015$.\n$\\rightarrow$ Tỉ lệ $=0,015: 0,42=1 / 28$.\nChọn A"
+    }
+]

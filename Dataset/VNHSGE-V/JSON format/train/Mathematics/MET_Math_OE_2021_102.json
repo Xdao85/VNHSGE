@@ -1,0 +1,402 @@
+[
+    {
+        "ID": "MET_Math_OE_2021_102_1",
+        "Image_Question": "",
+        "Question": "Câu 1. Trên khoảng $(0 ;+\\infty)$, đạo hàm của hàm số $y=x^{\\frac{5}{4}}$ là\nA. $\\frac{4}{9} X^{\\frac{9}{4}}$\nB. $\\frac{4}{5} x^{\\frac{1}{4}}$\nC. $\\frac{5}{4} X^{\\frac{1}{4}}$\nD. $\\frac{5}{4} x^{-\\frac{1}{4}}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "$\\left(x^{\\frac{5}{4}}\\right)^{\\prime}=\\frac{5}{4} x^{\\frac{1}{4}}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_2",
+        "Image_Question": "",
+        "Question": "Câu 2. Cho khối chóp có diện tích đáy $B=3 a^{2}$ và chiều cao $h=a$. Thể tích của khối chóp đã cho bằng\nA. $\\frac{3}{2} a^{3}$.\nB. $3 a^{3}$\nC. $\\frac{1}{3} a^{3}$.\nD. $a^{3}$",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Thể tích của khối chóp đã cho bằng $V=\\frac{1}{3} B \\cdot h=\\frac{1}{3} \\cdot 3 a^{2} \\cdot a=a^{3}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_3",
+        "Image_Question": "",
+        "Question": "Câu 3. Nếu $\\int_{1}^{4} f(x) d x=6$ và $\\int_{1}^{4} g(x) d x=-5$ thì $\\int_{1}^{4} [f(x)-g(x)] d x$  bằng\nA. -1 .\nB. -11 .\nC. 1 .\nD. 11 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\int_{1}^{4} [f(x)-g(x)] d x$  = $\\int_{1}^{4} f(x) d x - $\\int_{1}^{4} g(x) d x$  = 6-(-5) = 11"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_4",
+        "Image_Question": "",
+        "Question": "Câu 4. Tập xác định của hàmsố $y=7^{x}$ là\nA. $\\mathbb{R} \\backslash\\{0\\}$.\nB. $[0 ;+\\infty)$.\nC. $(0 ;+\\infty)$.\nD. $\\mathbb{R}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Hàm số mũ y=a^x, 0< a, có tập xác định là $\\mathbb{R}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_5",
+        "Image_Question": "MET_Math_OE_2021_102/image001.png",
+        "Question": "Câu 5. Cho hàmsố $y=f(x)$ có bảng biến thiên như sau\nx | -\\infty -1 1 +\\infty\nf’ | + 0 – 0 +\nf | -\\infty \\nearrow 3 \\searrow -5 \\nearrow +\\infty\nGiá trị cực đại của hàm số đã cho là\nA. 3\nB. -1 .\nC. -5\nD. 1 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng biến thiên, giá trị cực đại của hàm số là $y=f(-1)=3$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_6",
+        "Image_Question": "",
+        "Question": "Câu 6. Diện tích $S$ của mặt cầu bán kính $R$ được tính theo công thức nào dưới đây?\nA. $S=4 \\pi R^{2}$\nB. $S=16 \\pi R^{2}$\nC. $S=\\frac{4}{3} \\pi R^{2}$\nD. $S=\\pi R^{2}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Công thức diện tích mặt cầu: $S=4 \\pi R^{2}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_7",
+        "Image_Question": "",
+        "Question": "Câu 7. Trong không gian Oxyz, cho đường thẳng $d$ đi qua $M(2 ; 2 ; 1)$ và có một vectơ chỉ phương $\\vec{u}=(5 ; 2 ;-3)$. Phương trình của $d$ là:\nA. $\\left\\{\\begin{array}{l}x=2+5 t \\\\ y=2+2 t \\\\ z=-1-3 t\\end{array}\\right.$\nB. $\\left\\{\\begin{array}{l}x=2+5 t \\\\ y=2+2 t \\\\ z=1+3 t\\end{array}\\right.$\nC. $\\left\\{\\begin{array}{l}x=2+5 t \\\\ y=2+2 t \\\\ z=1-3 t\\end{array}\\right.$\nD. $\\left\\{\\begin{array}{l}x=5+2 t \\\\ y=2+2 t \\\\ z=-3+t\\end{array}\\right.$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Phương trình của $d$ đi qua $M(2 ; 2 ; 1)$ và có một vectơ chỉ phương $\\vec{u}=(5 ; 2 ;-3)$ là:\n$\\left\\{\\begin{array}{l}x=2+5 t \\\\ y=2+2 t \\quad \\mathbf{z}-1 \\\\ z=1-3\\end{array}\\right.$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_8",
+        "Image_Question": "MET_Math_OE_2021_102/image002.png",
+        "Question": "Câu 8. Cho hàm số $y=f(x)$ có đồ thị là đường cong trong hình bên. Hàm số đã cho đồng biến trên khoảng nào dưới đây?\n A. $(-1 ; 1)$\nB. $(-\\infty ; 0)$.\nC. $(0 ; 1)$.\nD. $(0 ;+\\infty)$.",
+        "Choice": "C",
+        "Image_Answer": "MET_Math_OE_2021_102/image003.png",
+        "Explanation": "Nhìn đồ thị ta thấy hàmsố đã cho đồng biến trên $(0 ; 1)$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_9",
+        "Image_Question": "",
+        "Question": "Câu 9. Với $n$ là số nguyên dương bất kì $n \\geq 5$, công thức nào dưới đây đúng?\nA. $A_{n}^{5}=\\frac{n !}{5 !(n-5) !}$.\nB. $A_{n}^{5}=\\frac{5 !}{(n-5) !}$.\nC. $A_{n}^{5}=\\frac{n !}{(n-5) !}$.\nD. $A_{n}^{5}=\\frac{(n-5) !}{n !}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $A_{h}^{5}=\\frac{n !}{(n-5) !}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_10",
+        "Image_Question": "",
+        "Question": "Câu 10. Thể tích của khối lập phương cạnh $4 \\mathrm{a}$ bằng\nA. $64 a^{3}$.\nB. $32 a^{3}$.\nC. $16 a^{3}$\nD. $8 a^{3}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thể tích của khối lập phương cạnh $4 a$ là $V=(4 a)^{3}=64 a^{3}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_11",
+        "Image_Question": "",
+        "Question": "Câu 11. Cho hàm số $f(x)=x^{2}+3$. Khẳng định nào sau đây đúng?\nA. $\\int f(x) d x=x^{2}+3 x+C$\nB. $\\int f(x) d x=\\frac{x^{3}}{3}+3 x+C$.\nC. $\\int f(x) d x=x^{3}+3 x+C$.\nD. $\\int f(x) d x=2 x+C$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\int f(x) d x=\\int\\left(x^{2}+3\\right) d x=\\frac{x^{3}}{3}+3 x+C$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_12",
+        "Image_Question": "",
+        "Question": "Câu 12. Trên mặt phẳng tọa độ, điểm $M(-3 ; 2)$ là điểm biểu diễn của số phức nào dưới đây?\nA. $Z_{3}=3-2 i$\nB. $z_{4}=3+2 i$.\nC. $z_{1}=-3-2 i$.\nD. $z_{2}=-3+2 i$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trên mặt phẳng tọa độ, điểm $M(-3 ; 2)$ là điểm biểu diễn của số phức $z_{2}=-3+2 i$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_13",
+        "Image_Question": "",
+        "Question": "Câu 13. Trong không gian $\\mathrm{Oxyz}$, cho mặt phẳng $(P):-2 x+5 y+z-3=0$. Véctơ nào dưới đây là một véctơ pháp tuyến của $(P)$ ?\nA. $\\cdot \\vec{n}_{2}=(-2 ; 5 ; 1)$\nB. $\\vec{n}_{1}=(2 ; 5 ; 1)$\nC. $\\vec{n}_{4}=(2 ; 5 ;-1)$\nD. $\\vec{n}_{3}=(2 ;-5 ; 1)$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $(P):-2 x+5 y+z-3=0 \\Rightarrow$ véc tơ chỉ phương là $\\vec{n}_{2}=(-2 ; 5 ; 1)$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_14",
+        "Image_Question": "",
+        "Question": "Câu 14. Trong không gian $O x y z$, cho điểm $A(4 ;-1 ; 3)$. Tọa độ vectơ $\\overrightarrow{O A}$ là\nA. $(-4 ; 1 ; 3)$\nB. $(4 ;-1 ; 3)$\nC. $(-4 ; 1 ;-3)$\nD. $(4 ; 1 ; 3)$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\overrightarrow{O A}=(4 ;-1 ; 3)$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_15",
+        "Image_Question": "MET_Math_OE_2021_102/image004.png",
+        "Question": "Câu 15. Đồ thị của hàm số nào dưới đây có dạng như đường cong trong hình bên?\nA. $y=x^{3}-3 x+1$\nB. $y=-2 x^{4}+4 x^{2}+1$\nC. $y=-x^{3}+3 x+1$.\nD. $y=2 x^{4}-4 x^{2}+1$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đây là đồ thị hàm số bậc 4 với hệ số $a>0$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_16",
+        "Image_Question": "",
+        "Question": "Câu 16. Cho cấp số nhân $\\left(u_{n}\\right)$ với $u_{1}=3$ và $u_{2}=12$. Công bội của cấp số nhân đã cho bằng\nA. 9\nB. -9\nC. $\\frac{1}{4}$.\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $u_{2}=u_{1} \\cdot q \\Rightarrow q=\\frac{12}{3}=4$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_17",
+        "Image_Question": "",
+        "Question": "Câu 17. Cho $a>0$ và $a \\neq 1$ khi đó $\\log _{a} \\sqrt[3]{a}$ bằng\nA. -3\nB. $\\frac{1}{3}$\nC. $-\\frac{1}{3}$\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$\\log _{a} \\sqrt[3]{a}=\\frac{1}{3} \\log _{a} a=\\frac{1}{3}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_18",
+        "Image_Question": "",
+        "Question": "Câu 18. Đồ thị của hàm số $y=-x^{4}-2 x^{2}+3$ cat trục tung tại điểm có tung độ bằng\nA. 1\nB. 0\nC. 2\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Giả sử $y=-x^{4}-2 x^{2}+3 C$.\nGọi $(C) \\cap O y=M\\left(x_{0} ; y_{0}\\right) \\Rightarrow x_{0}=0 \\Rightarrow y_{0}=3$\nVậy đồ thị của hàm số $y=-x^{4}-2 x^{2}+3$ cắt trục tung tại điểm có tung độ bằng 3 ."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_19",
+        "Image_Question": "",
+        "Question": "Câu 19. Cho hai số phức $z=5+2 i$ và $w=1-4 i$. Số phức $z+w$ bằngA. $6+2 i$\nB. $4+6 i$\nC. $6-2 i$\nD. $-4-6 i$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $z+w=(5+2 i)+(1-4 i)=6-2 i$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_20",
+        "Image_Question": "",
+        "Question": "Câu 20. Cho hàm số $f(x)=e^{x}+1$. Khẳng định nào dưới đây đúng?\nA. $\\int f(x) d x=e^{x-1}+C$\nB. $\\int f(x) d x=e^{x}-x+C$.\nC. $\\cdot \\int f(x) d x=e^{x}+x+C$.\nD. $\\int f(x) d x=e^{x}+C$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có : $\\int f(x) d x=\\int\\left(e^{x}+1\\right) d x=e^{x}+x+C$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_21",
+        "Image_Question": "MET_Math_OE_2021_102/image005.png",
+        "Question": "Câu 21. Cho hàm số $y=f(x)$ có bảng xét dấu của đạo hàm như sau\nx | -\\infty -3 -2 3 5 +\\infty\ny’ | - 0 + 0 – 0 + 0 -\nSố điểm cực trị của hàm số đã cho là\nA. 5 .\nB. 3 .\nC. 2 .\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng xét dấu suy ra đạo hàm của hàm $y=f(x)$ đổi dấu 4 lần nên hàm số đã cho có 4 điểm cực trị."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_22",
+        "Image_Question": "",
+        "Question": "Câu 22. Nếu $\\int_{0}^{3} f(x) d x=3$ thì $\\int_{0}^{3} 2 f(x) d x$ bằng\nA. 3\nB. 18\nC. 2 .\nD. 6 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\int_{0}^{3} 2 f(x) d x=2 \\int_{0}^{3} f(x) d x=2 \\cdot 3=6$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_23",
+        "Image_Question": "",
+        "Question": "Câu 23. Tiệm cận đứng của đồ thị hàm số $y=\\frac{x+1}{x-2}$ là đường thẳng có phương trình\nA. $x=-1$.\nB. $X=-2$.\nC. $x=2$.\nD. $X=1$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $\\lim _{x \\rightarrow 2^{+}} y=\\lim _{x \\rightarrow 2^{+}} \\frac{x+1}{x-2}=+\\infty$ (hoặc $\\lim _{x \\rightarrow 2} y=\\lim _{x \\rightarrow 2} \\frac{x+1}{x-2}=-\\infty$ ).\nVậy $x=2$ là tiệm cận đứng của đồ thị hàm số."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_24",
+        "Image_Question": "",
+        "Question": "Câu 24. Trong không gian Oxyz, cho mặt cầu $(\\mathrm{S})$ có tâm $\\mathrm{I}(0 ;-2 ; 1)$ và bán kính bằng 2 . Phương trình của $(S)$ là\nA. $x^{2}+(y+2)^{2}+(z-1)^{2}=2$.\nB. $x^{2}+(y-2)^{2}+(z+1)^{2}=2$\nC. $x^{2}+(y+2)^{2}+(z+1)^{2}=4$.\nD. $x^{2}+(y+2)^{2}+(z-1)^{2}=4$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Mặt cầu $(\\mathrm{S})$ có tâm I $(0 ;-2 ; 1)$ và bán kính bằng 2 có phương trình là $x^{2}+(y+2)^{2}+(z-1)^{2}=4$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_25",
+        "Image_Question": "",
+        "Question": "Câu 25. Phần thực của số phức $z=6-2 i$ bằng\nA. -2 .\nB. 2 .\nC. 6 .\nD. -6 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $z=6-2 i$ có phần thực là 6 ."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_26",
+        "Image_Question": "",
+        "Question": "Câu 26. Tập nghiệm của bất phương trình $2^{x}<5$ là\nA. $\\cdot\\left(-\\infty ; \\log _{2} 5\\right)$.\nB. $\\left(\\log _{2} 5 ;+\\infty\\right)$\nC. $\\left(-\\infty ; \\log _{5} 2\\right)$.\nD. $\\left(\\log _{5} 2 ;+\\infty\\right)$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $2^{x}<5 \\Leftrightarrow x<\\log _{2} 5$\nVậy tập nghiệm $S=\\left(-\\infty ; \\log _{2} 5\\right)$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_27",
+        "Image_Question": "",
+        "Question": "Câu 27. Nghiệm của phương trình $\\log _{5}(3 x)=2$ là\nA. $x=25$\nB. $x=\\frac{32}{3}$.\nC. $x=32$\nD. $x=\\frac{25}{3}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện: $x>0$.\nVới điều kiện phương trình đã cho tương đương $3 x=5^{2}=25 \\Leftrightarrow x=\\frac{25}{3}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_28",
+        "Image_Question": "",
+        "Question": "Câu 28. Cho khối trụ có bán kính đáy bằng 4 và chiều cao $h=3$. Thể tích của khối trụ đã cho bằng\nA. $16 \\pi$\nB. $48 \\pi$\nC. $36 \\pi$\nD. $12 \\pi$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Thể tích của khối trụ là $V=\\pi r^{2} h=\\pi \\cdot 4^{2} \\cdot 3=48 \\pi$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_29",
+        "Image_Question": "MET_Math_OE_2021_102/image006.png",
+        "Question": "Câu 29. Cho hình lăng trụ đứng $A B C . A^{\\prime} B^{\\prime} C^{\\prime}$ có tất cả các cạnh bằng nhau (tham khảo hình bên).\nGóc giữa hai đường thẳng $A A^{\\prime}$ và $B^{\\prime} C$ bằng\nA. $90^{\\circ}$.\nB. $45^{\\circ}$.\nC. $30^{\\circ}$.\nD. $60^{\\circ}$.",
+        "Choice": "B",
+        "Image_Answer": "MET_Math_OE_2021_102/image007.png",
+        "Explanation": "Ta có: AA'//CC' nên:\n$\\Rightarrow\\left(A A^{\\prime}, B^{\\prime} C\\right)=\\left(C C^{\\prime}, B^{\\prime} C\\right)$\nMặt khác tam giác $B C C^{\\prime}$ vuông tại $C^{\\prime}$ có $C C^{\\prime}=B^{\\prime} C^{\\prime}$ nên là tam giác vuông cân. Vậy góc giữa hai đường thẳng $A A^{\\prime}$ và $B^{\\prime} C$ bằng $45^{\\circ}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_30",
+        "Image_Question": "",
+        "Question": "Câu 30. Trên không gian $\\mathrm{Oxyz}$, cho hai điểm $A(0 ; 0 ; 1)$ và $B(2 ; 1 ; 3)$. Mặt phẳng đi qua $A$ và vuông góc với $A B$ có phương trình là\nA. $2 x+y+2 z-11=0$\nB. $2 x+y+2 z-2=0$.\nC. $2 x+y+4 z-4=0$\nD. $2 x+y+4 z-17=0$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $\\overline{A B}=(2 ; 1 ; 2)$.\nMặt phẳng đi qua $A(0 ; 0 ; 1)$ và vuông góc với $A B$ nên nhận $\\overrightarrow{A B}=(2 ; 1 ; 2)$ làm vectơ pháp tuyến\nPhương trình mặt phẳng là: $2(x-0)+1(y-0)+2(z-1)=0 \\Leftrightarrow 2 x+y+2 z-2=0$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_31",
+        "Image_Question": "",
+        "Question": "Câu 31. Từ một hộp chứa 10 quả bóng gồm 4 quả màu đỏ và 6 quả màu xanh, lấy ngẫu nhiên đồng thời 3 quả. Xác suất để lấy được 3 quả màu xanh bằng\nA. $\\frac{1}{6}$\nB. $\\frac{1}{30}$.\nC. $\\frac{3}{5}$\nD. $\\frac{2}{5}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Lấy ngau nhiên đồng thời 3 quả cầu từ 10 quả bóng đã cho có $C_{10}^{3}$ cách.\nLấy được 3 quả màu xanh từ 6 quả màu xanh đã cho có $C_{6}^{3}$ cách\nVậy xác suất để lấy được 3 quả màu xanh là $P=\\frac{C_{6}^{3}}{C_{10}^{3}}=\\frac{1}{6}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_32",
+        "Image_Question": "",
+        "Question": "Câu 32. Cho số phức $z$ thỏa mãn $i z=6+5 i$. Số phức liên hợp của $z$ là\nA. $\\bar{Z}=5-6 i$\nB. $\\bar{Z}=-5+6 i$\nC. $\\bar{Z}=5+6 i$\nD. $\\bar{Z}=-5-6 i$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $i z=6+5 i \\Rightarrow z=5-6 i \\Rightarrow \\bar{Z}=5+6 i$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_33",
+        "Image_Question": "MET_Math_OE_2021_102/image008.png",
+        "Question": "Câu 33. Biết hàm số $y=\\frac{x+a}{x+1}$ (a là số thực cho trước, $a \\neq-1$ ) có đồ thị như hình bên. Mệnh đề nào dưới đây là đúng?\nA. $y^{\\prime}<0 \\forall x \\in \\mathbb{R}$\nB. $y^{\\prime}>0 \\forall x \\neq-1$\nC. $y^{\\prime}<0 \\forall x \\neq-1$.\nD. $y^{\\prime}>0 \\forall x \\in \\mathbb{R}$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định $D=\\mathbb{R} \\backslash\\{-1\\}$.\nTừ đồ thị hàm số, ta thấy hàmsố nghịch biến trên từng khoảng xác định.\nDo đó $y^{\\prime}<0 \\forall x \\neq-1$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_34",
+        "Image_Question": "",
+        "Question": "Câu 34. Trong không gian $O x y z$, cho điểm $M(2 ; 1 ;-1)$ và mặt phẳng $(P): x-3 y+2 z+1=0$. Đường thẳng đi qua $M$ và vuông góc với $(P)$ có phương trình là:\nA. $\\frac{x-2}{1}=\\frac{y-1}{-3}=\\frac{z+1}{1}$\nB. $\\frac{x-2}{1}=\\frac{y-1}{-3}=\\frac{z+1}{2}$\nC. $\\frac{x+2}{1}=\\frac{y+1}{-3}=\\frac{z-1}{1}$\nD. $\\frac{x+2}{1}=\\frac{y+1}{-3}=\\frac{z-1}{2}$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Đường thẳng đi qua $M(2 ; 1 ;-1)$ và vuông góc với $(\\mathrm{P})$ nhận VTPT $\\vec{n}=(1 ;-3 ; 2)$ của $(P)$ làm VTCP nên có phương trình là: $\\frac{x-2}{1}=\\frac{y-1}{-3}=\\frac{z+1}{2}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_35",
+        "Image_Question": "",
+        "Question": "Câu 35. Trên đoạn $[-2 ; 1]$, hàm số $y=x^{3}-3 x^{2}-1$ đạt giá trị lớn nhất tại điểm\nA. $X=-2$.\nB. $X=0$.\nC. $x=-1$.\nD. $x=1$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=3 x^{2}-6 x \\Rightarrow y^{\\prime}=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x=2\\end{array}\\right.$. Ta đang xét trên đoạn $[-2 ; 1]$ nên loại $x=2$. Ta có $f^{\\prime}(-2)=-21 ; f^{\\prime}(0)=-1 ; f^{\\prime}(1)=-3$. Do đó giá trị lớn nhất của hàm số trên đoạn $[-2 ; 1]$\nlà -1 , tại $x=0$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_36",
+        "Image_Question": "",
+        "Question": "Câu 36. Cho hình chóp $\\mathrm{S} . \\mathrm{ABC}$ có đáy là tam giác vuông cân tại $C, A C=3 a$ và $\\mathrm{SA}$ vuông góc với mặt phẳng đáy. Khoảng cách từ $B$ đến mặt phẳng $(S A C)$ bằng\nA. $\\frac{3}{2} a$.\nB. $\\frac{3 \\sqrt{2}}{2} a$\nC. 3 .\nD. $3 \\sqrt{2} a$",
+        "Choice": "C",
+        "Image_Answer": "MET_Math_OE_2021_102/image009.png",
+        "Explanation": "Ta có $\\triangle A B C$ vuông cân tại $C$ nên $B C \\perp A C(1)$ và $A C=B C=3 a$.\nMặt khác $S A \\perp(A B C) \\Rightarrow S A \\perp B C(2)$.\nTừ (1) và (2)suyraBC $\\perp(S A C) \\Rightarrow d(B,(S A C))=B C=3 a$.\nVậy khoảng cách từ $B$ đến mặt phẳng $(S A C)$ bằng $3 a$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_37",
+        "Image_Question": "",
+        "Question": "Câu 37. Nếu $\\int_{0}^{2} f(x) d x=3$ thì (Tex translation failed) bằng\nA. 6 .\nB. 4 .\nC. 8 .\nD. 5 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$$\n\\int_{0}^{2}[2 f(x)-1] \\mathrm{d} x=2 \\int_{0}^{2} f(x) \\mathrm{dx}-\\int_{0}^{2} \\mathrm{dx}=6-2=4\n$$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_38",
+        "Image_Question": "",
+        "Question": "Câu 38. Với mọi a, b thỏa mãn $\\log _{2} a^{3}+\\log _{2} b=8$. Khẳng định nào dưới đây đúng?\nA. $a^{3}+b=64$\nB. $a^{3} b=256$\nC. $a^{3} b=64$\nD. $a^{3}+b=256$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\log _{2} a^{3}+\\log _{2} b=8 \\Rightarrow \\log _{2}\\left(a^{3} b\\right)=8 \\Leftrightarrow a^{3} b=2^{8}=256$\nVậy $a^{3} b=256$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_39",
+        "Image_Question": "",
+        "Question": "Câu 39. Có bao nhiêu số nguyên $x$ thỏa mãn $\\left(3^{x^{2}}-9^{x}\\right)\\left[\\log _{2}(x+30)-5\\right] \\leq 0$ ?\nA. 30\nB. Vô số.\nC. 31 .\nD. 29 .",
+        "Choice": "C",
+        "Image_Answer": "MET_Math_OE_2021_102/image010.png",
+        "Explanation": "Xét hàm số: $f(x)=\\left(3^{x^{2}}-9^{x}\\right)\\left[\\log _{2}(x+30)-5\\right]$, với $x>-30$.\nCho: $f(x)=0 \\Leftrightarrow\\left[\\begin{array}{l}3^{x^{2}}-9^{x}=0 \\\\ \\log _{2}(x+30)-5=0\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}3^{x^{2}}=3^{2 x} \\\\ x+30=2^{5}\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}x=2 \\\\ x=0\\end{array}\\right.\\right.\\right.$\nTa có bảng xét dấu như sau:\nSuy ra $f(x) \\leq 0 \\Leftrightarrow\\left[\\begin{array}{l}-30<x \\leq 0 \\\\ x=2\\end{array}\\right.$\nMặt khác $x \\in \\mathbb{Z}$ nên $x \\in\\{-29 ;-28 ;-27 ; \\ldots . . ;-2 ;-1 ; 0 ; 2\\}$.\nVậy có 31 số nguyên $x$ thỏa mãn."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_40",
+        "Image_Question": "",
+        "Question": "Câu 40. Cho hàm số $f(x)=\\left\\{\\begin{array}{l}2 x-1 \\text { khi } x \\geq 1 \\\\ 3 x^{2}-2 \\text { khi } x<1\\end{array}\\right.$. Giả sử $F$ là nguyên hàm của $f$ trên $\\mathbb{R}$ thỏa mãn $F(0)=2$. Giá trị của $F(-1)+2 F(2)$ bằng\nA. 9 .\nB. 15 .\nC. 11\nD. 6",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tập xác định: $D=\\mathbb{R}$.\nVới $x>1$ hay $x<1$ thì hàm số $f(x)$ là hàm đa thức nên liên tục.\nMặt khác: $\\lim _{x \\rightarrow 1^{-}} f(x)=\\lim _{x \\rightarrow 1^{1}}\\left(3 x^{2}-2\\right)=1 ; \\lim _{x \\rightarrow 1^{+}} f(x)=\\lim _{x \\rightarrow 1^{+}}(2 x-1)=1$.\nTa có: $\\lim _{x \\rightarrow 1^{-}} f(x)=\\lim _{x \\rightarrow 1^{+}} f(x)=f(1)=1$ nên hàmsố $f(x)$ liên tục tại điểm $x=1$.\nSuy ra hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Với $x \\geq 1$ thì $\\int f(x) d x=\\int(2 x-1) d x=x^{2}-x+C_{1}$\nVới $x<1$ thì $\\int f(x) d x=\\int\\left(3 x^{2}-2\\right) d x=x^{3}-2 x+C_{2}$\nMà $F(0)=2$ nên $C_{2}=2$.\nKhi đó $F(x)= \\begin{cases}x^{2}-x+C_{1} & \\text { khi } x \\geq 1 \\\\ x^{3}-2 x+2 & \\text { khi } x<1\\end{cases}$\nĐồng thời $F(x)$ cũng liên tục trên $\\mathbb{R}$ nên: $\\lim _{x \\rightarrow 1^{-}} F(x)=\\lim _{x \\rightarrow 1^{+}} F(x)=F(1)=1 \\Leftrightarrow C_{1}=1$ Do đó $F(x)=\\left\\{\\begin{array}{l}x^{2}-x+1 \\quad \\text { khi } x \\geq 1 \\\\ x^{3}-2 x+2 \\text { khi } x<1\\end{array}\\right.$\nDo đó $F(x)=\\left\\{\\begin{array}{c}x^{2}-x+1 \\text { khi } x \\geq 1 \\\\ x^{3}-2 x+2 \\text { khi } x<1\\end{array}\\right.$\nVậy: $F(-1)+2 F(2)=3+2.3=9$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_41",
+        "Image_Question": "MET_Math_OE_2021_102/image011.png",
+        "Question": "Câu 41. Cho hàm số bậc ba $y=f(x)$ có đồ thị là đường cong trong hình bên. Số nghiệm thực phân biệt của phương trình $f(f(x))=1$ là\nA. 9 .\nB. 7 .\nC. 3 .\nD. 6 .",
+        "Choice": "B",
+        "Image_Answer": "MET_Math_OE_2021_102/image012.png, MET_Math_OE_2021_102/image013.png, MET_Math_OE_2021_102/image014.png, MET_Math_OE_2021_102/image015.png",
+        "Explanation": "Dựa vào đồ thị hàm số $y=f(x)$ suy ra $f(f(x))=1 \\Leftrightarrow\\left[\\begin{array}{c}f(x)=a(a<-1) \\\\ f(x)=0 \\\\ f(x)=b(1<b<2)\\end{array}\\right.$\nTH1\n$f(x)=a(a<-1) \\Rightarrow$ phương trình có một nghiệm\nTH2\n$f(x)=0 \\Rightarrow$ phương trình có ba nghiệm phân biệt\nTH3\n$f(x)=b(1<b<2) \\Rightarrow$ phương trình có ba nghiệm phân biệt\nCác nghiệm của (1);(2); (3) là đôi một khác nhau.\nVậy $f(f(x))=1$ có 7 nghiệmnghiệm phân biệt"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_42",
+        "Image_Question": "",
+        "Question": "Câu 42. Xét các số phức $z, w$ thỏa mãn $z=1$ và $\\left|n_{1}=2 . K h i\\right| z+i \\bar{w}+6-8 \\mathrm{i}$ đạt giá trị nhỏ nhất, $\\left.z-u \\backslash\\right\\}$ bằng\nA. $\\sqrt{5}$\nB. $\\frac{\\sqrt{221}}{5}$\nC. 3 .\nD. $\\frac{\\sqrt{29}}{5}$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $|z+i \\bar{w}+6-8 i| \\geq|6-8 i|-|z|-|i \\bar{w}|=10-1-2=7$\nDấu \" \" \" xảy ra khi\n$\\left\\{\\begin{array}{c}z=t(6-8 i) \\\\ i \\bar{w}=t^{\\prime}(6-8 i), \\forall t, t^{\\prime} \\leq 0 \\\\ |z|=1,|w|=2\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{c}z=-\\frac{1}{10}(6-8 i) \\\\ i \\bar{w}=-\\frac{2}{10}(6-8 i)\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{c}z=-\\frac{1}{10}(6-8 i) \\\\ \\bar{w}=\\frac{1}{5}(8+6 i)\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{c}z=-\\frac{1}{10}(6-8 i) \\\\ w=\\frac{1}{5}(8-6 i)\\end{array}\\right.\\right.\\right.\\right.$\nKhi đó $|Z-w|=\\frac{\\sqrt{221}}{5}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_43",
+        "Image_Question": "",
+        "Question": "Câu 43. Cho hàm số $f(x)=x^{3}+a x^{2}+b x+C$ với $a, b, C$ là các số thựC. Biết hàm số $g(x)=f(x)+f^{\\prime}(x)+f^{\\prime \\prime}(x)$ có hai giá trị cực trị là -4 và 2 . Diện tích hình phẳng giới hạn bởi các đường $y=\\frac{f(x)}{g(x)+6}$ và $y=1$ bằng\nA. $2 \\ln 2$.\nB. $\\ln 6$\nC. $3 \\ln 2$\nD. $\\ln 2$",
+        "Choice": "A",
+        "Image_Answer": "MET_Math_OE_2021_102/image016.png",
+        "Explanation": "Ta có: $f(x)=x^{3}+a x^{2}+b x+c \\Rightarrow f^{\\prime}(x)=3 x^{2}+2 a x+b ; f^{\\prime \\prime}(x)=6 x+2 a$ và $f^{\\prime \\prime}(x)=6$.\nPhương trình hoành độ giao điểm của các đường $y=\\frac{f(x)}{g(x)+6}$ và $y=1$ là:\n$\\frac{f(x)}{g(x)+6}=1 \\Leftrightarrow f(x)=g(x)+6$\n$\\Leftrightarrow x^{3}+a x^{2}+b x+c=\\left(x^{3}+a x^{2}+b x+c\\right)+\\left(3 x^{2}+2 a x+b\\right)+(6 x+2 a)+6$\n$\\Leftrightarrow 3 x^{2}+(2 a+6) x+2 a+b+6=0\\left(^{*}\\right)$\nGọi 2 nghiệm của phương trình (*) là $x_{1}$ và $x_{2}$.\nNhận xét: $g(x)=f(x)+f^{\\prime}(x)+f^{\\prime \\prime}(x)$ $\\Rightarrow g^{\\prime}(x)=f^{\\prime}(x)+f^{\\prime \\prime}(x)+f^{\\prime \\prime \\prime}(x)$\n$\\Leftrightarrow g^{\\prime}(x)=\\left(3 x^{2}+2 a x+b\\right)+(6 x+2 a)+6=3 x^{2}+(2 a+6) x+2 a+b+6$\n$\\Rightarrow g^{\\prime}(x)=0 \\Leftrightarrow\\left[\\begin{array}{l}x=x_{1} \\\\ x=x_{2}\\end{array}\\right.$\nDiện tích hình phẳng giới hạn bởi các đường $y=\\frac{f(x)}{g(x)+6}$ và $y=1$ là\n$S=\\left|\\int_{x_{1}}^{x}\\left(\\frac{f(x)}{g(x)+6}-1\\right) d x\\right|=\\left|\\int_{x_{1}}^{x_{x}} \\frac{f(x)-g(x)-6}{g(x)+6} d x\\right|=\\left|\\int_{x_{1}}^{x_{2}} \\frac{g^{\\prime}(x)}{g(x)+6} d x\\right|=|\\ln | g(x)+\\left.G\\right|_{x_{1}} ^{x_{2}} \\mid$\n$=|\\ln | g\\left(x_{2}\\right)+6|-\\ln | g\\left(x_{1}\\right)+6 \\|=\\ln 8-\\ln 2=2 \\ln 2$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_44",
+        "Image_Question": "",
+        "Question": "Câu 44. Cho khối hộp chữ nhật $A B C D \\cdot A^{\\prime} B^{\\prime} C^{\\prime} D^{\\prime}$ có đáy là hình vuông, $B D=4 a$, góc giữa hai mặt phẳng $\\left(A^{\\prime} B D\\right)$ và $(A B C D)$ bằng $30^{\\circ}$. Thể tích của khối hộp chữ nhậtbằng\nA. $\\frac{16 \\sqrt{3}}{9} a^{3}$\nB. $48 \\sqrt{3} a^{3}$\nC. $\\frac{16 \\sqrt{3}}{3} a^{3}$\nD. $16 \\sqrt{3} a^{3}$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Theo giả thiết $A B C D$ là hình vuông nên có $2 A B^{2}=B D^{2} \\Rightarrow A B=2 \\sqrt{2} a$.\n\\end{itemize}\nDo đó $S_{A B C D}=A B^{2}=8 a^{2}$\n\\begin{itemize}\n\\item Gọi $O$ là tâm của đáy $A B C D \\Rightarrow O A \\perp B D$ và $O A=\\frac{1}{2} B D=2 a$.\n\\end{itemize}\n$A^{\\prime} A \\perp(A B C D) \\Rightarrow A^{\\prime} A \\perp B D \\Rightarrow B D \\perp\\left(A^{\\prime} A O\\right)$. Do đó góc giữa $\\left(A^{\\prime} B D\\right)$ và mặt phẳng\n$(A B C D)$ là góc $A^{\\prime} O A \\Rightarrow A^{\\prime} O A=30^{\\circ}$\n\\begin{itemize}\n\\item Tam giác Alprime OA vuông tại $A$ có $A^{\\prime} A=O A \\tan A^{\\prime} O A=\\frac{2 a \\sqrt{3}}{3}$.\n\\end{itemize}\nVậy $V_{A B C D \\cdot A^{\\prime} B^{\\prime} C D^{\\prime}}=8 a^{2} \\cdot \\frac{2 a \\sqrt{3}}{3}=\\frac{16 \\sqrt{3}}{3} a^{3}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_45",
+        "Image_Question": "",
+        "Question": "Câu 45. Có bao nhiêu số nguyên y sao cho tồn tại $x \\in\\left(\\frac{1}{3} ; 4\\right)$ thỏa mãn $27^{3 x^{2}+x y}=(1+x y) \\cdot 27^{12 x}$ ?A. 27 .\nB. 15\nC. 12\nD. 14 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Xét $f(x)=27^{3 x^{2}+x y-12 x}-(1+x y)$.\nÁp dụng bất đẳng thức: $a^{x} \\geq x(a-1)+1$, ta có\n$$\nf(x) \\geq 26\\left(3 x^{2}+x y-12 x\\right)+1-(1+x y)=78 x^{2}+(25 y-312) x>0, \\forall y \\geq 13\n$$\nDo đó $y \\leq 12$.\n$y=0 \\Rightarrow 27^{3 x^{2}-12 x}=1 \\Leftrightarrow 3 x^{2}-12 x=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x=4\\end{array}\\right.$\n$y \\leq-3 \\Rightarrow x y<-1 \\Rightarrow V P<0$ (loại)\n$y=-1, y=-2$ : thỏa mãn\nXét $y>0$ có $f(4)=27^{4 y}-(1+4 y) \\geq 0, \\forall y>0$ và\n$f\\left(\\frac{1}{3}\\right)=f(x)=3^{y-11}-\\frac{y}{3}-1<0, \\forall y \\in\\{1 ; 2 ; \\ldots ; 12\\}$ Do đó phương trình $f(x)=0$ có nghiệm $x \\in\\left(\\frac{1}{3} ; 4\\right), \\forall y \\in\\{1 ; 2 ; \\ldots ; 12\\}$\nVậy $y \\in\\{-2 ;-1 ; 0 ; 1 ; 2 ; \\ldots ; 12\\}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_46",
+        "Image_Question": "",
+        "Question": "Câu 46. Trong không gian Oxyz, cho đường thẳng $d: \\frac{x+1}{1}=\\frac{y}{1}=\\frac{Z-1}{2}$ và mặt phẳng $(P): 2 x+y-z+3=0$. Hình chiếu vuông góc của $d$ trên $(P)$ là đường thẳng có phương trình\nA. $\\frac{x+1}{4}=\\frac{y}{5}=\\frac{z-1}{13}$.\nB. $\\frac{x+1}{3}=\\frac{y}{-5}=\\frac{z-1}{1}$.\nC. $\\frac{\\mathrm{x}-1}{3}=\\frac{y}{-5}=\\frac{\\mathrm{z}+1}{1}$.\nD. $\\frac{\\mathrm{x}-1}{4}=\\frac{y}{5}=\\frac{\\mathrm{z}+1}{13}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đường thẳng $d$ qua điểm $A(-1 ; 0 ; 1)$ và có véc-tơ chỉ phương $\\vec{u}_{d}=(1 ; 1 ; 2)$.\nMặt phẳng $(P)$ có véc-tơ pháp tuyến $\\vec{n}_{P)}=(2 ; 1 ;-1)$.\nGọi $(Q)$ là mặt phẳng chứa $d$ và vuông góc với $(P)$, khi đó $(Q)$ có một véc-tơ pháp tuyến là $\\vec{n}_{(Q)}=\\left[\\vec{u}_{d}, \\vec{n}(P)\\right]=(-3 ; 5 ;-1)$\nGọi $\\Delta$ là giao tuyến của hai mặt phẳng $(P)$ và $(Q)$ suy ra $\\Delta$ là hình chiếu của $d$ trên $(P)$.\nKhi đó $\\Delta$ có một véc-tơ chỉ phương là $\\left.\\vec{u}=\\left[\\vec{n}_{P}\\right), \\vec{n}(Q)\\right]=(4 ; 5 ; 13)$.\nTa có $A \\in d \\subset(Q) \\Rightarrow A \\in(Q)$ và dễ thấy tọa độ $A$ thỏa phương trình $(P) \\Rightarrow A \\in(P)$.Do đó $A \\in \\Delta$.\nVậy phương trình đường thẳng $\\Delta$ là $\\frac{x+1}{4}=\\frac{y}{5}=\\frac{z-1}{13}$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_47",
+        "Image_Question": "",
+        "Question": "Câu 47. Cắt hình nón (\\$) bởi mặt phẳng đi qua đỉnh và tạo với mặt phẳng chứa đáy một góc $60^{\\circ}$ ta được thiết diện là tam giác đều có cạnh $2 a$. Diện tích xung quanh của (§) bằng\nA. $\\sqrt{7} \\pi a^{2}$.\nB. $\\sqrt{13} \\pi a^{2}$.\nC. $2 \\sqrt{7} \\pi a^{2}$\nD. $2 \\sqrt{13} \\pi a^{2}$",
+        "Choice": "A",
+        "Image_Answer": "MET_Math_OE_2021_102/image017.png",
+        "Explanation": "Giả sử hình nón có $S$ là đỉnh và $O$ là tâm đường tròn đáy.\nGiả sử mặt phẳng đề cho cắt nón theo thiết diện là tam giác đều $S A B$, khi đó ta có $l=S A=2 a$.\nGọi $H$ là trung điểm $A B \\Rightarrow S H=2 a \\cdot \\frac{\\sqrt{3}}{2}=a \\sqrt{3}$\nTa có góc giữa ( $S A B$ ) và mặt phẳng chứa đáy là góc $S H O=60^{\\circ}$.\nXét $\\triangle S H O$ vuông tại $O$ có $O H=S H \\cdot \\cos 60^{\\circ}=a \\sqrt{3} \\cdot \\frac{1}{2}=\\frac{a \\sqrt{3}}{2}$\nXét $\\triangle \\mathrm{OAH}$ vuông tại $H$ có bán kính đường tròn\nđáy\nlà\n$R=O A=\\sqrt{A H^{2}+O H^{2}}=\\sqrt{a^{2}+\\frac{3 a^{2}}{4}}=\\frac{a \\sqrt{7}}{2}$\nVậy diện tích xung quanh của hình nón $\\left(\\aleph\\right.$ ) là $\\left.S_{x q}=\\pi R\\right]=\\pi \\cdot \\frac{a \\sqrt{7}}{2} \\cdot 2 a=\\sqrt{7} \\pi a^{2}$"
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_48",
+        "Image_Question": "",
+        "Question": "Câu 48. Trên tập hợp số phức, xét phương trình $z^{2}-2(m+1) z+m^{2}=0$ ( $m$ là tham số thực). Có bao nhiêu giá trị của tham số $m$ để phương trình đó có nghiệm $z_{0}$ thỏa mãn $\\left|z_{0}\\right|=5$ ?\nA. 2\nB. 3 .\nC. 1\nD. 4",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cách 1. Ta có $\\Delta^{\\prime}=(m+1)^{2}-m^{2}=2 m+1$.\nNếu $\\Delta^{\\prime}=0 \\Leftrightarrow m=-\\frac{1}{2}$ thì phương trình có nghiệm $z_{1}=z_{2}=\\frac{1}{2}$ (không thỏa mãn). Nếu $\\Delta^{\\prime}>0 \\Leftrightarrow m>-\\frac{1}{2}$ thì phương trình có hai nghiệm phân biệt $z_{1}=m+1+\\sqrt{2 m+1}$ và $z_{2}=m+1-\\sqrt{2 m+1}$\nTrường hợp 1. $\\left|z_{1}\\right|=5 \\Leftrightarrow m+1+\\sqrt{2 m+1}=5 \\Leftrightarrow \\sqrt{2 m+1}=4-m \\Leftrightarrow\\left\\{\\begin{array}{l}4-m \\geq 0 \\\\ 2 m+1=(4-m)^{2}\\end{array}\\right.$\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_04_09_75c8eae25df971f91039g-14}\n\\end{center}\nTrường hợp 2. $\\left|z_{2}\\right|=5 \\Leftrightarrow|m+1-\\sqrt{2 m+1}|=5 \\Leftrightarrow\\left[\\begin{array}{l}m+1-\\sqrt{2 m+1}=5 \\\\ m+1-\\sqrt{2 m+1}=-5\\end{array}\\right.$\n$m+1-\\sqrt{2 m+1}=5 \\Leftrightarrow \\sqrt{2 m+1}=m-4 \\Leftrightarrow\\left\\{\\begin{array}{l}m \\geq 4 \\\\ 2 m+1=(m-4)^{2}\\end{array}\\right.$\n$\\Leftrightarrow\\left\\{\\begin{array}{l}m \\geq 4 \\\\ m^{2}-10 m+15=0\\end{array} \\Leftrightarrow m=5+\\sqrt{10}\\right.$\n$m+1-\\sqrt{2 m+1}=-5 \\Leftrightarrow \\sqrt{2 m+1}=m+6 \\Leftrightarrow\\left\\{\\begin{array}{l}m \\geq-6 \\\\ 2 m+1=(m+6)^{2}\\end{array}\\right.$\n$\\Leftrightarrow\\left\\{\\begin{array}{l}m \\geq-6 \\\\ m^{2}+10 m+35=0\\end{array}\\right.$ (vô nghiệm).\nNếu $\\Delta^{\\prime}<0 \\Leftrightarrow m<-\\frac{1}{2}$ thì phương trình ban đầu có hai nghiệmphức $z_{1}, z_{2}$ và $\\left|z_{1}\\right|=\\left|z_{2}\\right|=5$\nTheo giả thiết, ta có $\\left|z_{1} \\cdot z_{2}\\right|=\\left|z_{1}\\right| \\cdot\\left|z_{2}\\right|=25 \\Leftrightarrow m^{2}=25 \\Leftrightarrow\\left[\\begin{array}{rr}m=5 & \\text { (Loai) } \\\\ m=-5\\end{array}\\right.$.\nVậy có 3 giá trị của tham số $m$ thỏa mãn yêu cầu bài toán.\nCách 2. Đặt $z_{0}=x+y i(x, y \\in \\mathbb{R})$ là nghiệm của phương trình ban đầu.\nTheo giả thiết, ta có $\\left|z_{0}\\right|=5 \\Leftrightarrow x^{2}+y^{2}=25(1)$.\nThay $Z_{0}$ vào phương trình ban đầu, ta có\n$(x+y i)^{2}-2(m+1)(x+y i)+m^{2}=0 \\Leftrightarrow\\left(x^{2}-y^{2}-2 m x-2 x+m^{2}\\right)+(2 x y-2 m y-2 y) i=0$\n$\\Leftrightarrow\\left\\{\\begin{array}{l}x^{2}-y^{2}-2 m x-2 x+m^{2}=0 \\\\ 2 x y-2 m y-2 y=0\\end{array} \\Leftrightarrow \\Leftrightarrow\\left\\{\\begin{array}{l}x^{2}-y^{2}-2 m x-2 x+m^{2}=0 \\\\ y(x-m-1)=0\\end{array}\\right.\\right.$\n$(3) \\Leftrightarrow\\left[\\begin{array}{l}y=0 \\\\ x=m+1\\end{array}\\right.$\nTrường hợp 1 . Với $y=0 \\Rightarrow(1) \\Leftrightarrow x^{2}=25 \\Leftrightarrow x= \\pm 5$.\nNếu $x=5 \\Rightarrow(2) \\Leftrightarrow m^{2}-10 m+15=0 \\Leftrightarrow m=5 \\pm \\sqrt{10}$\nNếu $x=-5 \\Rightarrow(2) \\Leftrightarrow m^{2}+10 m+35=0$ (vô nghiệm).\nTrường hợp 2. $x=m+1 \\Rightarrow(1) \\Leftrightarrow y^{2}=25-(m+1)^{2}(-6 \\leq m \\leq 4)$.\n$(2) \\Leftrightarrow(m+1)^{2}-25+(m+1)^{2}-2 m(m+1)-2(m+1)+m^{2}=0 \\Leftrightarrow m^{2}-25=0 \\Leftrightarrow\\left[\\begin{array}{l}m=-5 \\\\ m=5(L)\\end{array}\\right.$ Vậy có 3 giá trị của tham số $m$ thỏa mãn."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_49",
+        "Image_Question": "",
+        "Question": "Câu 49. Cho hàm số $y=f(x)$ có đạo hàm $f^{\\prime}(x)=(x-8)\\left(x^{2}-9\\right), \\forall x \\in \\mathbb{R}$. Có bao nhiêu giá trị nguyên dương của tham số $m$ để hàmsố $g(x)=f\\left(\\left|x^{3}+6 x\\right|+m\\right)$ có ít nhất 3 điểm ac trị?\nA. 5\nB. 8 .\nC. 6\nD. 7 .",
+        "Choice": "D",
+        "Image_Answer": "MET_Math_OE_2021_102/image018.png, MET_Math_OE_2021_102/image019.png",
+        "Explanation": "Cách 1:\n$g(x)=f\\left(\\left|x^{3}+6 x\\right|+m\\right) \\Rightarrow g^{\\prime}(x)=\\left(\\left|x^{3}+6 x\\right|+m\\right)^{\\prime} \\cdot f^{\\prime}\\left(\\left|x^{3}+6 x\\right|+m\\right)$\n$=\\frac{\\left(x^{3}+6 x\\right) \\cdot\\left(3 x^{2}+6\\right)}{\\left|x^{3}+6 x\\right|} \\cdot f^{\\prime}\\left(\\left|x^{3}+6 x\\right|+m\\right)$\nTa thấy $x=0$ là một điểm tới hạn của hàm số $g(x)$.\nMặt khác $f^{\\prime}\\left(\\left|x^{3}+6 x\\right|+m\\right)=0 \\Leftrightarrow\\left[\\begin{array}{l}\\left|x^{3}+6 x\\right|+m=8 \\\\ \\left|x^{3}+6 x\\right|+m=3\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}\\left|x^{3}+6 x\\right|=8-m \\\\ \\left|x^{3}+6 x\\right|=3-m\\end{array}\\right.\\right.$\nXét hàm số $h(x)=x^{3}+6 x$, vì $h^{\\prime}(x)=3 x^{2}+6>0, \\forall x \\in \\mathbb{R}$ nên $h(x)$ đồng biến trên $\\mathbb{R}$. Ta có bảng biến thiên của hàm số $k(x)=|h(x)|=\\left|x^{3}+6 x\\right|$ như sau:\nHàm số $g(x)=f\\left(\\left|x^{3}+6 x\\right|+m\\right)$ có ít nhất 3 điểm ac trị khi phương trình $f^{\\prime}\\left(\\left|x^{3}+6 x\\right|+m\\right)=0$ có ít nhất hai nghiệm khác 0 . Điều này xảy ra khi và chỉ khi $8-m>0$ hay $m<8$. Kết hợp điều kiện $m$ nguyên dương ta đượC $m \\in\\{1 ; 2 ; 3 \\ldots ; 7\\}$. Vậy có 7 giá trị của $m$ thoả mãn.\nCách 2:\nNhận thấy hàm $g(x)=f\\left(\\left(x^{2}+6\\right)|x|+m\\right)$ là hàm số chan nên đồ thị đối xứng qua trục tung. Để hàm $g(x)=f\\left(\\left|x^{3}+6 x\\right|+m\\right)$ có ít nhất 3 điểm ac trị thì hàm số\n$h(x)=f\\left(x^{3}+6 x+m\\right)$ có ít nhất 1 điểm cực trị có hoành độ dương, tứC\n$h^{\\prime}(x)=\\left(3 x^{2}+6\\right) f^{\\prime}\\left(x^{3}+3 x+m\\right)=0$ có nghiệm dương bội lẻ hay\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_04_09_75c8eae25df971f91039g-15}\n\\end{center}\nTa có bảng biến thiên (gộp)\nTừ bảng biến thiên suy ra $\\left\\{\\begin{array}{l}m>0 \\\\ -m>-8\\end{array} \\Leftrightarrow 0<m<8\\right.$."
+    },
+    {
+        "ID": "MET_Math_OE_2021_102_50",
+        "Image_Question": "",
+        "Question": "Câu 50. Trong không gian, cho hai điểm $A(1 ;-3 ; 2)$ và $B(-2 ; 1 ;-3)$. Xét hai điểm $M$ và $N$ thay đổi thuộc mặt phẳng $(\\mathrm{Oxy})$ sao cho $M N=1$. Giá trị lớn nhất của $|A M-B N|$ bằng\nA. $\\sqrt{17}$\nB. $\\sqrt{41}$.\nC. $\\sqrt{37}$\nD. $\\sqrt{61}$.",
+        "Choice": "C",
+        "Image_Answer": "MET_Math_OE_2021_102/image020.png",
+        "Explanation": "Nhận xét: Avà $\\mathrm{B}$ nằmkhác phía so với mặt phẳng (Oxy).\nGọi $(P)$ là mặt phẳng qua $A$ và song song với mặt phẳng $(O x y) \\Rightarrow(P): z=2$.\n$B^{\\prime}$ đối xứng với $(P)$ qua mặt phẳng $(O x y) \\Rightarrow B^{\\prime}(-2 ; 1 ; 3)$.\n$B$ là hình chiếu của $B \\backslash$ prime trên mặt phẳng $P) \\Rightarrow B_{1}(-2 ; 1 ; 2)$.\nGọi $A^{\\prime}=T_{\\bar{M} N} A . \\Rightarrow\\left\\{\\begin{array}{l}A A^{\\prime}=1 \\\\ A A^{\\prime} / /(O x y)\\end{array}\\right.$\n$\\Rightarrow A^{\\prime}$ thuộc đường tròn $(C)$ có tâm $A$ và bán kinhR $=1,(C)$ nằm trên mặt phẳng $(P)$.\nTa có: $|A M-B N|=\\left|A^{\\prime} N-B N\\right|=\\left|A^{\\prime} N-B^{\\prime} N\\right| \\leq A^{\\prime} B^{\\prime}$\n$A B_{1}=5>R \\Rightarrow B_{1}$ nằm ngoài đường tròn $(C)$.\nDo $A^{\\prime} \\in(P), B^{\\prime} \\notin(P)$ mà $(P) / /(O x y)$ suy ra $A^{\\prime} B^{\\prime}$ luôn cắtmặt phẳng $(O x y)$.\nTa lại có: $A^{\\prime} B^{\\prime}=\\sqrt{B_{1} B^{\\prime 2}+A^{\\prime} B_{1}^{2}}$ mà $B^{\\prime} B_{1}=1 ; A B_{1}=5 \\Rightarrow A^{\\prime} B_{\\max }{ }^{\\prime} \\Leftrightarrow A^{\\prime} B_{1 \\max }=A B_{1}+R=6$\n$\\Rightarrow|A M-B N|_{\\max }=\\sqrt{37}$. Dấu $\\left\\{\\wedge^{\\prime \\prime}=\"\\right\\}$ \"xảy ra khi $A^{\\prime}$ là giao điểm của $A B_{1}$ với đường tròn $(C)$\n$\\mathrm{A}$ ở giữa $A^{\\prime}$ và $B_{1}$ và $N$ là giao điểm của $A^{\\prime} B^{\\prime}$ với mặt phẳng $(O x y)$."
+    }
+]

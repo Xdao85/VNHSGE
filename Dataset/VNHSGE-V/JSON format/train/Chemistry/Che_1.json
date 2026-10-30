@@ -1,0 +1,226 @@
+[
+    {
+        "ID": "Che_1_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Trường hợp nào sau đây các ion không cùng tồn tại trong một dung dịch?\nA. ${Ca}^{2+}, {Cl}^{-}, {CO}_{3}^{2-}, {Na}^{+}$.\nB. ${Na}^{+}, {SO}_{4}^{2-}, {Cl}^{-}, {Mg}^{2+}$.\nC. ${Mg}^{2+}, {NO}_{3}^{-}, {Br}^{-}, {K}^{+}$.\nD. ${Ba}^{2+}, {K}^{+}, {Cl}^{-}, {NO}_{3}^{-}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "${Ca}^{2+}, {Cl}^{-}, {CO}_{3}^{2-}, {Na}^{+}$không cùng tồn tại trong một dung dịch.\n${Do} {Ca}^{2+}+{CO}_{3}^{2-} \\rightarrow {CaCO}_{3}$\nChọn A"
+    },
+    {
+        "ID": "Che_1_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Có bốn lọ đựng bốn khí riêng biệt là nitơ, amoniac, hiđroclorua và oxi. Sau khi cho vào mỗi lọ một mẫu giấy quỳ tím ẩm, số chất khí tối đa có thể nhận biết được là\nA. 2 .\nB. 1 .\nC. 2 .\nD. 4 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Quỳ tím ẩm chuyển xanh là ${NH}_{3}$\nQuỳ tím ẩm chuyển đổ là ${HCl}$\nQuỳ tím không đổi màu là ${N}_{2}$ và ${O}_{2}$\nVậy tối đa nhận biết được 2 khí\nChọn C"
+    },
+    {
+        "ID": "Che_1_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Một loại khí gas có thành phần propan và butan theo tỉ lệ thể tích là 1:1. Loại khí gas trên nặng gấp bao nhiêu lần không khí?\nA. 1,57 .\nB. 1,76.\nC. 1,86.\nD. 1,27.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Gọi số mol của propan và butan là ${x}$\nCó ${M}_{{khí}}=(44 {x}+58 {x}) /({x}+{x})=51$\n$\\Rightarrow {d}_{{khí} / {kk}}=51 / 29=1,76$\nChọn B"
+    },
+    {
+        "ID": "Che_1_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Cồn được sử dụng rộng rãi để pha chế nước rửa tay khô. Trên nhãn một chai cồn y tế ghi \"Cồn $70^{\\circ}$. Phát biểu nào sau đây là đúng về loại cồn này?\nA. Cứ $100 {ml}$ cồn trong chai có $70 {ml}$ etanol nguyên chất.\nB. Cứ $100 {ml}$ cồn trong chai có 70 gam etanol nguyên chất.\nC. Cứ $100 {ml}$ cồn trong chai có 70 gam nước.\nD. Nhiệt độ sôi của cồn này là $70^{\\circ} {C}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu đúng: Cứ $100 {ml}$ cồn trong chai có $70 {ml}$ etanol nguyên chất.\nChọn A"
+    },
+    {
+        "ID": "Che_1_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Bộ dụng cụ như hình dưới đây mô tả quá trình tách hai chất lỏng nào sau đây?\nA. Etyl axetat và nước cất.\nB. Metanol và etanol.\nC. Amilin và dung dịch ${HCl}$.\nD. Axit axetic và etanol.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Bộ dụng cụ mô tả quá trình tách hai chất lỏng etyl axetat và nước cất.\nChọn A"
+    },
+    {
+        "ID": "Che_1_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Phản ứng hoá học nào sau đây xảy ra thuận nghịch?\nA. Thuỷ phân etyl axetat trong môi trường axit, đun nóng.\nB. Trùng hợp metyl metacrylat.\nC. Thuỷ phân etyl axetat bằng dung dịch ${NaOH}$, đun nóng.\nD. Đốt cháy etyl axetat.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thuỷ phân etyl axetat trong môi trường axit, đun nóng là phản ứng thuận nghịch.\nChọn A"
+    },
+    {
+        "ID": "Che_1_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Trong công nghiệp thực phẩm, saccarozo được sử dụng phổ biến làm nguyên liệu để sản xuất bánh kẹo, nước giải khát,... Phát biểu nào sau đây là sai?\nA. Saccarozơ thuộc loại đisaccarit.\nB. Dung dịch saccarozo hòa tan được ${Cu}({OH})_{2}$ cho dung dịch màu xanh lam.\nC. Thủy phân saccarozơ chỉ thu được glucozơ.\nD. Saccarozo được sản xuất từ cây mía, củ cải đường hoặc hoa thốt nốt.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "C sai, vì thủy phân saccarozơ thu được glucozơ và fructozơ.\nChọn C"
+    },
+    {
+        "ID": "Che_1_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Một tấm kính hình chữ nhật chiều dài 2,4 m, chiều rộng 2,0 m được tráng lên một mặt bởi lớp bạc có bể dày là $0,1 \\mu {m}$. Để tráng bạc lên 1000 tấm kính trên người ta phải dùng ${V}$ lít dung dịch glucozơ 1 M. Biết: hiệu suất tráng bạc tính theo glucozo là $80 \\%$, khối lượng riêng của bạc là $10,49 {~g} / {cm}^{3}, 1 \\mu {m}=10^{-6} {~m}$. Giá trị gần nhất của V là\nA. 23.31 lít.\nB. 23,53 lít.\nC. 22.24 lít.\nD. 29,14 lít.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$V_{\\text {lóp bạc củaltấm kính }}=0,1 \\cdot 10^{-6} \\cdot 2,4 \\cdot 2=4,8 \\cdot 10^{-7} {~m}^{3}$\n$V_{\\text {lóp bạc của } 1000 \\text { tấm kính }}=4,8.10^{-4} {~m}^{3}$\n$\\Rightarrow {m}_{\\text {bạc của } 1000 \\text { tấm kính }}=10,49 \\cdot 4,8 \\cdot 10^{-4} \\cdot 10^{6}=5035,2$ gam\n$\\Rightarrow {n}_{\\text {glucozo }}=\\frac{5035,2}{108 \\cdot 2 \\cdot 0,8}=29,14 {~mol}$\n${V}_{\\text {glucozo }}=29,14 {M}$\nChọn D"
+    },
+    {
+        "ID": "Che_1_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Giải Nobel Hóa học năm 2021 được trao cho 2 nhà khoa học Benjamin List và David W.C. MacMIllan''cho sự phát triển quá trình xúc tác hữu cơ bất đối xứng\", mở ra các ứng dụng trong việc xây dụng phân tử. Trong đó Benjamin List đã sử dụng prolin làm xúc tác cho phản ứng cộng andol. Prolin có công thức cầu tạo như sau:\nPhát biểu nào sau đây là đúng?\nA. Prolin có chứa một nhóm chức ancol.\nB. Prolin có chứa một nhóm chức amin bậc hai.\nC. Một phân tử prolin có chứa 6 nguyên tử cacbon.\nD. Prolin là hợp chất đa chức.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A sai, vì prolin có chứa một nhóm chức axit cacboxylic và amin B đúng. C sai, vì một phân tử prolin có chứa 5 nguyên tử cacbon.\nD sai, vì prolin là hợp chất tạp chức.\nChọn B"
+    },
+    {
+        "ID": "Che_1_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Insulin là hoocmon của cơ thể có tác dụng điều tiết lượng đường trong máu. Thủy phân một phần insulin thu được heptapeptit $({X})$. Khi thủy phân không hoàn toàn ${X}$ thu được hỗn hợp các peptit trong đó có các peptit sau: Ser-His-Leu; Val-Glu-Ala; His-Leu-Val; Gly-Ser-His. Nếu đánh số amino axit đầu ${N}$ trong ${X}$ là số 1 thì amino axit ở vị trí số 2 và số 6 lần lượt là:\nA. Ser và Glu.\nB. His và Ser.\nC. Val và His.\nD. Glu và Leu.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Công thức của X là: Gly-Ser-His-Leu-Val-Glu-Ala\nNếu đánh số amino axit đầu ${N}$ trong ${X}$ là số 1 thì amino axit ở vị trí số 2 và số 6 lần lượt là: Ser và Glu.\nChọn A"
+    },
+    {
+        "ID": "Che_1_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Dưới đáy chai hoặc các vật dụng bằng nhựa thường có kí hiệu các con số. Số 6 là kí hiệu của nhựa polistiren (PS). Loại nhựa này đang được sử dụng để sản xuất đồ nhựa như cốc, chén dùng một lần hoặc hộp đựng thức ăn mang về. Ở nhiệt độ cao, nhựa PS bị phân hủy sinh ra các chất có hại cho sức khỏe. Phát biểu nào sau đây là sai?\nA. Nhựa PS được sử dụng đựng thực phẩm hoặc đồ uống ở nhiệt độ thường.\nB. Nhựa PS được khuyến cáo không nên dùng trong lò vi sóng.\nC. Polistiren được tạo ra từ phản ứng trùng hợp stiren.\nD. Polistiren thuộc loại polime thiên nhiên.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "D sai, vì polistiren thuộc loại polime tổng hợp.\nChọn D"
+    },
+    {
+        "ID": "Che_1_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Chất liệu chính của đồng tiền polime là polipropilen (PP). Một đoạn mạch PP có khối lượng 6300000u có chứa số mắt xích là\nA. 120000 .\nB. 160000 .\nC. 150000 .\nD. 130000 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "1 mắt xích polipropilen có ${M}=42\\left({C}_{3} {H}_{6}\\right)$\nSố mắt xích $=6300000 / 42=150000$\nChọn C"
+    },
+    {
+        "ID": "Che_1_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Quá trình làm sữa chua bằng cách lên men sữa tươi có sinh ra axit lactie. Axit lactic có công thức phân tử ${C}_{3} {H}_{6} {O}_{3}$ và chứa chức ancol $(-{OH})$, cacboxyl (-COOH). Cấu tạo thu gọn của axit lactic là\nA. ${HOCH}_{2} {COOH}$.\nB. ${CH}_{3} {COOCH}_{2} {OH}$\nC. ${CH}_{3} {CH}({OH}) {COOH}$.\nD. ${CH}_{3} {OCH}_{2} {COOH}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cấu tạo thu gọn của axit lactic là ${CH}_{3} {CH}({OH}) {COOH}$.\nChọn C"
+    },
+    {
+        "ID": "Che_1_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Quá trình điều chế dầu chuối (isoamyl axetat) được thực hiện bằng cách đun hồi lưu hỗn hợp axit axetic với ancol isoamylie có mặt ${H}_{2} {SO}_{4}$ đặc. Phát biểu nào sau đây sai khi nói về quá trình điều chế dầu chuối?\nA. Axit sunfuric đặc đóng vai trò là chất xúc tác.\nB. Hỗn hợp thu được sau phản ứng gồm este, axit axetic và ancol.\nC. Phản ứng este hóa là phản ứng thuận nghịch.\nD. Đề nguội hỗn hợp sau phản ứng sẽ thấy tách thành hai lớp, trong đó lớp este ở phía dưới.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "D sai, vì este sẽ ở phía trên.\nChọn D"
+    },
+    {
+        "ID": "Che_1_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Hiện nay, xăng sinh học E5 (xăng chứa 5\\% etanol về thể tích) đang được sử dụng ở nước ta để thay thế một phần xăng truyền thống. Trong một nhà máy, etanol được sản xuất từ xenlulozo theo sơ đồ sau (với hiệu suất của cả quá trình là $60 \\%$ ):\n$\\left(C_{6} {H}_{10} {O}_{5}\\right)_{n} \\stackrel{{H}^{+}, t^{\\circ}}{\\longrightarrow} {C}_{6} {H}_{12} {O}_{6} \\underset{30-35^{\\circ} {C}}{\\stackrel{\\text { men }}{\\longrightarrow}} {C}_{2} {H}_{5} {OH}$\nToàn bộ lượng etanol thu được từ 1,62 tấn mùn cưa (chứa 50\\% xenlulozo) dùng đề pha chế thành ${V}$ lít xăng E5. Biết etanol có khối lượng riêng là $0,8 {~g} / {ml}$. Giá trị của ${V}$ là\nA. 6900 lít.\nB. 13800 lít.\nC. 11500 lít.\nD. 12000 lít.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "${n}_{\\text {xenlulozo }}=0,5 \\cdot 1,62 \\cdot 10^{6} \\cdot 0,6 / 162=3000 {~mol}$\n$\\Rightarrow {n}_{{C} 2 {H} 5 {OH}}=3000.2=6000 {~mol}$\n${V}_{{C2H5OH}}=6000.46 / 0,8=345000 {~mL}=345$ lít\n${V}_{\\text {xăng }}=345.100 / 5=6900$ lít\nChọn A"
+    },
+    {
+        "ID": "Che_1_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Cho sơ đồ chuyển hóa sau:\n$CH_3OH \\xrightarrow[\\text{xúc tác},t^0]{+CO} X \\xrightarrow[\\text{xúc tác} H_2SO_4,t^0]{+CH_3OH} Y$\nCác chất ${X}$ và ${Y}$ lần lượt là\nA. axit axetic và metyl axetat.\nB. etanol và etyl metylete.\nC. etanal và metyl fomat.\nD. axit axetic và ancol etylic.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Các chất ${X}$ và ${Y}$ lần lượt là axit axetic và metyl axetat.\nChọn A"
+    },
+    {
+        "ID": "Che_1_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Quá trình điện phân dung dịch được thường ứng dụng trong công nghệ mạ hoặc tách các kim loại ra khỏi hỗn hợp. Thực hiện thí nghiệm điện phân dung dịch ${CuSO}_{4}$ với các điện cực trơ. Phát biểu nào sau đây là sai?\nA. Ở catot xảy ra quá trình oxi hóa ion ${Cu}^{2+}$.\nB. Nước bị điện phân ở anot, tạo ra khí ${O}_{2}$.\nC. Sau quá trình điện phân, ${pH}$ của dung dịch giảm.\nD. Trong quá trình điện phân, màu xanh của dung dịch bị nhạt dần.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A sai, vì ở catot xảy ra quá trình khử ion ${Cu}^{2+}$.\nChọn A"
+    },
+    {
+        "ID": "Che_1_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Cho một đinh sắt có khối lượng 4,520 gam vào $20 {ml}$ dung dịch ${CuSO}_{4} {a} {mol} / {leến} {khi}$ dung dịch mất màu xanh hoàn toàn. Giả thiết toàn bộ lượng đồng sinh ra đều bám vào đinh sắt. Sau phản ứng, đem sấy khô đinh sắt, cân lại được khối lượng 4,544 gam. Giá trị của a là\nA. 0,150.\nB. 0,015 .\nC. 0,019 .\nD. 0,190.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Có $4,544-4,520=m_{{Cu}}-{m}_{{Fe}}=0,024$ gam\n$\\Rightarrow {n}_{{CuSO} 4}=0,024 /(64-56)=0,003 {~mol}$\n$\\Rightarrow {a}=0,15 {M}$\nChọn A"
+    },
+    {
+        "ID": "Che_1_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  ${NaHCO}_{3}$ được sử dụng làm bột nở do dễ phân huỷ thành khí và hơi tạo ra các lỗ xốp trong bánh. Nếu sử dụng 8,4 gam ${NaHCO}_{3}$ thì có thể tạo ra tối đa bao nhiêu lít khí ${CO}_{2}$ (ở đktc)?\nA. 4,48 lít.\nB. 1,12 lít.\nC. 3,36 lít.\nD. 2,24 lít.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "${n}_{{NaHCO}}=0,1 {~mol}$\n$2 {NaHCO}_{3} \\stackrel{t^{0}}{\\longrightarrow} {Na}_{2} {CO}_{3}+{CO}_{2}+{H}_{2} {O}$\n$\\Rightarrow {n}_{{CO} 2}=0,05 {~mol}$\n$$\n{V}_{{CO} 2}=0,05.22,4=1,12 \\text { lít }\n$$\nChọn B"
+    },
+    {
+        "ID": "Che_1_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Có các phát biểu sau:\n(a) Những kim loại như ${Na}, {K}, {Ba}, {Ca}$ được điều chế bằng phương pháp điện phân nóng chảy.\n(b) Hầu hết các hợp chất của ${Na}, {K}$ đều phản ứng mãnh liệt với nước.\n(c) Muối ${NaHCO}_{3}$ được dùng làm thuốc chữa đau dạ dày do thừa axit.\n(d) Kim loại kiềm được bảo quản bằng cách ngâm trong dầu hỏa.\nSố phát biểu đúng là\nA. 3 .\nB. 4 .\nC. 2 .\nD. 1 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "(a) đúng.\n(b) sai, vì ${VD} {NaCl}, {KNO}_{3} \\ldots$ không phản ứng với nước.\n(c) đúng.\n(d) đúng.\nChọn A"
+    },
+    {
+        "ID": "Che_1_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Gang có thành phần chính là sắt và được sản suất từ quá trình khử oxit trong lò cao. Quá trình luyện gang được thực hiện bằng phương pháp\nA. điện phân.\nB. nhiệt luyện.\nC. nhiệt nhôm.\nD. thủy luyện.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Quá trình luyện gang được thực hiện bằng phương pháp nhiệt luyện.\nChọn B"
+    },
+    {
+        "ID": "Che_1_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Năm 1898, Hans Goldschmidt đã sử dụng phản ứng nhiệt nhôm (bằng cách đốt cháy hỗn hợp của bột oxit kim loại mịn và bột nhôm bằng một phản ứng khởi động mà không làm nóng hỗn hợp từ bên ngoài) để ứng dụng hàn đường sắt tại chỗ. Đề hàn vị trí mẻ vỡ của đường sắt, người ta đã trộn 810 gam bột ${Al}$ với 2610 gam ${Fe}_{3} {O}_{4}$ rồi tiến hành phản ứng nhiệt nhôm. Biết: chỉ xảy ra phản ứng khử ${Fe}_{3} {O}_{4}$ thành ${Fe}$, hiệu suất phản ứng là $80 \\%$. Khối lượng sắt tạo thành là\nA. 1890,0 gam.\nB. 1512,0 gam.\nC. 630.0 gam.\nD. 2362,5 gam.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$8 {Al}+3 {Fe}_{3} {O}_{4} \\stackrel{t^{0}}{\\longrightarrow} 9 {Fe}+4 {Al}_{2} {O}_{3}$\n${n}_{{Al}}=30 {~mol}$\n${n}_{{Fe} 3 {O} 4}=11,25 {~mol}$\nXét $30 / 8=11,25 / 3$\n$\\Rightarrow {Al}$ và ${Fe}_{3} {O}_{4}$ phản ứng vừa đủ\n$\\Rightarrow {m}_{{Fe}}=9 \\cdot 30 \\cdot 0 \\cdot 8 \\cdot 56 / 8=1512,0$ gam\nChọn B"
+    },
+    {
+        "ID": "Che_1_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Khí thải từ sản suất công nghiệp, từ các động cơ ô tô và xe máy,... là nguyên nhân gây ra mưa axit. Những chất khí chủ yếu trong khí thải trực tiếp gây ra mưa axit là\nA. ${SO}_{2}, {CO}$.\nB. ${SO}_{2}, {NO}_{2}$.\nC. ${CO}_{2}, {CO}$.\nD. ${NO}_{2}, {CO}_{2}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Khí ${SO}_{2}, {NO}_{2}$ gây ra mưa axit.\nChọn B"
+    },
+    {
+        "ID": "Che_1_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Quá trình thực tiễn nào sau đây có sản phẩm là một oxit bazơ?\nA. Nhiệt phân đá vôi trong lò nung vôi.\nB. Đốt cháy than đá ở nhà máy nhiệt điện.\nC. Khử hoàn toàn oxit sắt thành sắt ở lò cao.\nD. Dẫn hơi nước đi qua than nóng đỏ.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "${CaCO}_{3} \\stackrel{t^{0}}{\\longrightarrow} {CaO}+{CO}_{2}$\nChọn A"
+    },
+    {
+        "ID": "Che_1_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Hòa tan bột sắt vào dung dịch ${H}_{2} {SO}_{4}$ (loãng, dư), thu được dung dịch ${X}$. Để chứng tỏ ${X}$ chứa ${FeSO}_{4}$ người ta nhỏ vài giọt dung dịch ${Y}$ vào ${X}$ thì xảy ra phản ứng làm ${Y}$ mất màu. ${Y}$ là dung dịch chất nào sau đây?\nA. ${MgSO}_{4}$.\nB. ${KMnO}_{4}$.\nC. HCl.\nD. ${CuSO}_{4}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "${Fe}+{H}_{2} {SO}_{4}\\left(\\right.$ loãng) $\\rightarrow {FeSO}_{4}+{H}_{2}$\n${X}$ là ${FeSO}_{4}, {H}_{2} {SO}_{4}$ (loãng dư)\n$2 {KMnO}_{4}+10 {FeSO}_{4}+8 {H}_{2} {SO}_{4} \\rightarrow 5 {Fe}_{2}\\left({SO}_{4}\\right)_{3}+2 {MnSO}_{4}+{K}_{2} {SO}_{4}+8 {H}_{2} {O}$\nChọn B"
+    },
+    {
+        "ID": "Che_1_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Cho dãy các chất: ${Fe}, {NaHCO}_{3}, {MgO}, {Al}({OH})_{3}$. Số chất trong dãy tác dụng được với dung dịch ${H}_{2} {SO}_{4}$ loãng là\nA. 3 .\nB. 2 .\nC. 1 .\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "${Fe}+{H}_{2} {SO}_{4}$ (loãng) $\\longrightarrow {FeSO}_{4}+{H}_{2}$\n$2 {NaHCO}_{3}+{H}_{2} {SO}_{4} \\rightarrow {Na}_{2} {SO}_{4}+{CO}_{2}+2 {H}_{2} {O}$\n${MgO}+{H}_{2} {SO}_{4} \\rightarrow {MgSO}_{4}+{H}_{2} {O}$\n$2 {Al}({OH})_{3}+3 {H}_{2} {SO}_{4} \\rightarrow {Al}_{2}\\left({SO}_{4}\\right)_{3}+6 {H}_{2} {O}$\nChọn D"
+    },
+    {
+        "ID": "Che_1_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Trong công nghiệp, quá trình sản xuất hai muối ${Y}_{1}, {Y}_{2}$ từ nguyên liệu ${X}, {Y}$ được tiến hành theo các phản ứng hoá học sau:\n(a) ${X} \\stackrel{t^{0}}{\\longrightarrow} {X}_{1}+{X}_{2}$\n(b ${Y}+{X}_{2}+{NH}_{3}+{H}_{2} {O} \\rightarrow {Y}_{1}+{NH}_{4} {Cl}$\n(c) ${Y}_{1} \\stackrel{t^{\\circ}}{\\longrightarrow} {Y}_{2}+{X}_{2}+{H}_{2} {O}$\nNguyên liệu $X, Y$ thỏa mãn sơ đồ lần lượt là\nA. Natri hiđrocacbonat, axit clohiđric.\nB. Natri hiđrocacbonat, clo.\nC. Canxi cacbonat, natri clorua.\nD. Canxi cacbonat, axit clohiđric.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "${X}$ là ${CaCO}_{3}, {Y}$ là ${NaCl}$\n${CaCO}_{3} \\stackrel{t^{0}}{\\longrightarrow} {CO}_{2}+{H}_{2} {O}$\n${NaCl}+{CO}_{2}+{NH}_{3}+{H}_{2} {O} \\longrightarrow {NaHCO}_{3}+{NH}_{4} {Cl}$\n$2 {NaHCO}_{3} \\stackrel{t^{0}}{\\longrightarrow} {Na}_{2} {CO}_{3}+{CO}_{2}+{H}_{2} {O}$\nChọn C"
+    },
+    {
+        "ID": "Che_1_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Hai học sinh tiến hành điều chế khí H ${H}_{2}$ bằng cách cho một miếng nhôm và một miếng kẽm có thể tích bằng nhau lần lượt vào cốc (1) và (2) đều đựng dung dịch ${HCl}$ dư. Sau khi các phản ứng hoàn toàn, số mol khí ${H}_{2}$ thu được ở cốc (1) bằng ${k}$ lần cốc (2). Cho khối lượng riêng của nhôm và kẽm tương ứng là $2,70 {~g} / {cm}^{3}$ và $7,14 {~g} / {cm}^{3}$. Giá trị của ${k}$ là\nA. 0,91\nB. 2.64 .\nC. 0,38 .\nD. 1,36 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Gọi thể tích của miếng nhôm và kẽm là ${V}$\nCó ${V}_{{Zn}}={V}_{{Al}}$\n$\\Rightarrow {m}_{{Al}}=2,7 {~V} \\Rightarrow {n}_{{Al}}=0,1 {~V}$\n${m}_{{Zn}}=7,14 {~V} \\Rightarrow {n}_{{Zn}}=0,11 {~V}$\nBảo toàn ${e} \\Rightarrow 3.0,1 {~V} / 2={k} .0,11 {~V}$\n$\\Rightarrow {k}=1,36$\nChọn D"
+    }
+]

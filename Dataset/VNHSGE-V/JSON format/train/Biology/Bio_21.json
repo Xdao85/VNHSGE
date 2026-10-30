@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_21_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Cơ thể có kiểu gen AaBbddEe tạo giao tử abde với tỉ lệ bao nhiêu?\nA. $\\frac{1}{8}$.\nB. $\\frac{1}{16}$\nC. $\\frac{1}{4}$\nD. $\\frac{1}{6}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Cơ thể có kiểu gen AaBbddEe tạo giao tử abde với tỉ lệ $=\\frac{1}{2} \\cdot \\frac{1}{2} \\cdot 1 \\cdot \\frac{1}{2}=\\frac{1}{8}$\nChọn A"
+    },
+    {
+        "ID": "Bio_21_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Quần thể nào sau đây có tần số alen a thấp nhất?\nA. $0.2 \\mathrm{AA}$ : 0,5Aa : 0,3aa\nB. $0,3 \\mathrm{AA}:$ 0,6Aa : 0,laa.\nC. $0,1 \\mathrm{AA}: 0,8 \\mathrm{Aa}: 0,1 \\mathrm{aa}$\nD. $0.4 \\mathrm{AA}$ : 0,6aa.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|l|l|}\n\\hline\nQuần thể & Tẩn sô alen a \\\\\n\\hline\nA & 0,55 \\\\\n\\hline\nB & 0,4 \\\\\n\\hline\nC & 0,5 \\\\\n\\hline\nD & 0,6 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nChọn B"
+    },
+    {
+        "ID": "Bio_21_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Một đoạn của phân tử ADN mang thông tin mã hoá cho một chuỗi polipeptit hay một phân tử $\\mathrm{ARN}$ được gọi là:\nA. Gen\nB. Anticodon\nC. Codon\nD. Mã di truyền",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Một đoạn của phân tử ADN mang thông tin mã hoá cho một chuỗi polipeptit hay một phân tử ARN được gọi là gen.\nChọn A"
+    },
+    {
+        "ID": "Bio_21_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Ý nào sau đây không phải là bằng chứng sinh học phân tử?\nA. Sự thống nhất về cấu tạo và chức năng của $\\mathrm{ADN}$ của các loài.\nB. Sự thống nhất về cấu tạo và chức năng của protein của các loài.\nC. Sự thống nhất về cấu tạo và chức năng của mã di truyền của các loài.\nD. Sự thống nhất về cấu tạo và chức năng của nhiễm sắc thể của các loài.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ý sai là $\\mathrm{D}$, vì cấu tạo và chức năng của các NST ở các loài là khác nhau.\nChọn D"
+    },
+    {
+        "ID": "Bio_21_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Theo Đacuyn, động lực của chọn lọc tự nhiên là:\nA. Nhu cầu thị hiếu của con người.\nB. Thức ăn, kẻ thù, các nhân tố vô sinh.\nC. Hình thành loài mới.\nD. Cuộc đấu tranh sinh tồn của sinh vật.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Theo Đacuyn, động lực của chọn lọc tự nhiên là cuộc đấu tranh sinh tồn của sinh vật.\nChọn D"
+    },
+    {
+        "ID": "Bio_21_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Người ta dự định nuôi các hạt phấn của một số cây cùng loài sau đó gây lưỡng bội hoá nhằm tạo ra các dòng thuần. Để thu được nhiều dòng thuần nhất nên chọn cây nào trong số các cây có kiểu gen sau để thực hiện?\nA. AabbDDEE\nB. AAbbDdEe\nC. AaBbDdEe\nD. AaBBDdEe",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Để thu được nhiều dòng thuần nhất nên chọn cây có kiểu gen AaBbDdEe để thực hiện\nChọn C"
+    },
+    {
+        "ID": "Bio_21_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Bạn đang nghiên cứu một quần thể thằn lằn và ghi nhận rằng số lượng các cá thể trưởng thành tăng và cao hơn số lượng các cá thể trưởng thành thu được trước đó. Một trong số nguyên nhân dẫn đến hiện tượng này là:\nA. tăng tỉ lệ sinh\nB. tăng số lượng nhập cư\nC. tăng số lượng di cư\nD. giảm số lượng di cư",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Một trong số nguyên nhân dẫn đến hiện tượng này là tăng số lượng nhập cư\nChọn B"
+    },
+    {
+        "ID": "Bio_21_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Một người đàn ông nhóm máu $\\mathrm{B}$, lấy người vợ nhóm máu $\\mathrm{AB}$, đứa con nào sau đây không thể là con của cặp vợ chồng này?\nA. Nhóm A\nB. Nhóm B.\nC. Nhóm AB\nD. Nhóm O.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta thấy con có nhóm máu $\\mathrm{O}$ nhận từ mỗi cơ thể một giao tử IO mà mẹ không thể cho $\\mathrm{IO}$\n$\\rightarrow$ Đời con không thể có nhóm máu $\\mathrm{O}$\nChọn D"
+    },
+    {
+        "ID": "Bio_21_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Trong quá trình sinh sản hữu tính, trong điều kiện không phát sinh đột biến, cấu trúc nào sau đây được bố mẹ truyền nguyên vẹn cho con?\nA. Cặp nhiễm sắc thể.\nB. Tính trạng.\nC. Alen\nD. Nhân tế bào",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Alen sẽ được truyền đạt nguyên vẹn từ đời bố mẹ cho đời con.\nChọn C"
+    },
+    {
+        "ID": "Bio_21_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Người ta đã dùng một loại thuốc xịt muỗi mới để diệt muỗi trong một thời gian dài, lần xịt đầu tiên đã diệt được hầu hết các con muỗi nhưng những lần xịt sau đó thì quần thể muỗi ngày càng tăng dần kích thước. Giải thích nào sau đây là đúng:\nA. Thuốc diệt muỗi đã gây ra một đột biến đa hiệu vừa có khả năng kháng thuốc, vừa làm tăng sức sinh sản của những con muỗi cái.\nB. Thuốc diệt muỗi đã làm tăng tần số alen kháng thuốc vốn đã xuất hiện từ trước trong quần thể muỗi.\nC. Thuốc diệt muỗi tạo điều kiện cho những đột biến mới phát sinh và được tích lũy, làm tăng tần số alen kháng thuốc trong quần thể.\nD. Thuốc diệt muỗi là một loại tác nhân gây đột biến, đã làm xuất hiện alen kháng thuốc trong quần thể muỗi.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong quần thể muỗi có nhiều biến dị có những biến dị có khả năng tồn tại được khi bị xịt muỗi và những cá thể phát triển bình thường.\nViệc xịt muỗi gây ra sự chọn lọc, phân hóa khả năng sống sót và sinh sản của các đột biến, từ đó làm tăng tần số alen kháng thuốc trong quần thể\nChọn B"
+    },
+    {
+        "ID": "Bio_21_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Ở người bình thường,gen nằm ở vị trí nào sau đây sẽ luôn tồn tại thành từng cặp alen?\nA. Trong ti thể.\nB. Trên NST thường\nC. Trong lục lạp\nD. Trên NST giới tính $X$",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ở người bình thường,gen nằm ở trên NST thường sẽ luôn tồn tại thành từng cặp alen\nChọn B"
+    },
+    {
+        "ID": "Bio_21_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Ở người, alen $\\mathrm{A}$ nằm trên nhiễm sắc thể $\\mathrm{X}$ quy định mắt nhìn màu bình thường là trội hoàn toàn so với alen a quy định bệnh mù màu. Kiểu gen nào sau đây là người nam bị mù màu?\nA. $\\mathrm{XaXa}$\nB. $\\mathrm{XaY}$\nC. XAXa\nD. XAY",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Kiểu gen XaY là người nam bị mù màu\nChọn B"
+    },
+    {
+        "ID": "Bio_21_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Những dạng đột biến nào sau đây dùng để xác định vị trí của gen trên NST\nA. Lặp đoạn và mất đoạn\nB. Chuyển đoạn và lặp đoạn\nC. Mất đoạn và lệch bội\nD. Chuyển đoạn và lệch bội",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Những dạng đột biến dùng để xác định vị trí của gen trên NST: Mất đoạn và lệch bội\nChọn C"
+    },
+    {
+        "ID": "Bio_21_14",
+        "Image_Question": "Bio_21/Bio_21_14.png",
+        "Question": "Câu 14:  Dựa vào cây phát sinh chủng loại sau, hãy cho biết loài nào có mối quan hệ gần gũi nhất\nA. 1 và 4\nB. 6 và 2\nC. 3 và 1\nD. 4 và 5",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào cây phát sinh chủng loại ta thấy loài 4 và 5 có mối quan hệ gần gũi nhất\nChọn D"
+    },
+    {
+        "ID": "Bio_21_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Một cá thể đực có kiểu gen $\\frac{B D}{b d}$ giảm phân bình thường. Theo lí thuyết, tỉ lệ giao tử nào sau đây không phù hợp với quá trình giảm phân của cơ thể trên?\nA. $1: 1$\nB. $1: 1: 1: 1$\nC. 3:1\nD. $4: 4: 1: 1$",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Khi không có hoán vị thì cơ thể có kiểu gen $\\frac{B D}{b d}$ giảm phân sẽ tạo ra 2 loại giao tử với tỉ lệ bằng nhau $\\rightarrow$ Tỉ lệ $3: 1$ là không thể xảy ra\nChọn C"
+    },
+    {
+        "ID": "Bio_21_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Loài động vật nào sau đây có hệ tuần hoàn kép?\nA. Tôm\nB. Ốc\nC. Cá chép\nD. Cá heo",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cá heo có hệ tuần hoàn kép\nChọn D"
+    },
+    {
+        "ID": "Bio_21_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Trong quá trình sinh trưởng của cây, ánh sáng ít có tác động nhất vào giai đoạn nào\nA. Cây non\nB. Sinh trưởng\nC. Nảy mầm\nD. Ra hoa",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ánh sáng ít tác động đến quá trình nảy mầm của hạt.\nChọn C"
+    },
+    {
+        "ID": "Bio_21_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Tiến hoá nhỏ là quá trình\nA. hình thành các đơn vị phân loại trên loài, diễn ra trên quy mô rộng, thời gian dài\nB. đổi cấu trúc di truyền của quần thể dẫn tới sự hình thành loài mới.\nC. biến đổi kiểu hình của quần thể dẫn tới sự hình thành loài mới.\nD. biến đổi thành phần kiểu gen của quần thể dẫn tới sự biến đổi kiểu hình.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tiến hoá nhỏ là quá trình biến đổi cấu trúc di truyền của quần thể (biến đổi về tần số alen và thành phần kiểu gen của quần thể)\nChọn B"
+    },
+    {
+        "ID": "Bio_21_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Khi nói về quá trình vận chuyển các chất trong cây, phát biểu nào sau đây đúng?\nA. Mạch gỗ vận chuyển đường glucose, mạch rây vận chuyển chất hữu cơ khác\nB. Mạch gỗ vận chuyển các chất từ rễ lên lá, mạch rây vận chuyển các chất từ lá xuống rễ\nC. Vận chuyển trong mạch gỗ là chủ động, còn trong mạch rây là bị động\nD. Dòng mạch gỗ luôn vận chuyển các chất vô cơ, dòng mạch rây luôn vận chuyển các chất hữu cơ",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ý C sai vì vận chuyển trong mạch rây là chủ động\nÝ A sai vì dòng mạch gỗ cũng có thể mang theo các chất hữu cơ, đó là các chất được rễ tổng hợp vận chuyển lên cho thân cây, lá cây. Ngoài ra, ở những cây như củ cải đường, đến giai đoạn ra hoa thì chất dinh dưỡng được vận chuyển từ củ theo mạch gỗ lên để nuôi hoa, hạt.\nÝ D sai vì mạch gỗ chủ yếu vận chuyển nước và ion khoáng, hầu như không vận chuyển đường glucôzơ.\nChọn B"
+    },
+    {
+        "ID": "Bio_21_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Đột biến thay thế một cặp nuclêotit xảy ra vùng khởi động của Operon Lac ở vi khuẩn E Coli thì không xảy ra khả năng\nA. Gen cấu trúc không được phiên mã khi môi trường không có lactose.\nB. Các gen cấu trúc vẫn biểu hiện bình thường.\nC. Tăng sự biểu hiện của các gen cấu trúc.\nD. Các gen cấu trúc không được phiên mã",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Đột biến thay thế một cặp nuclêôtit xảy ra vùng khởi động của Operon Lac ở vi khuẩn $\\mathrm{E}$ Coli thì không xảy ra khả năng tăng sự biểu hiện của các gen cấu trúc.\nChọn C"
+    },
+    {
+        "ID": "Bio_21_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Thực chất của tương tác gen là:\nA. Sản phẩm của các gen tác động lại với nhau trong sự hình thành tính trạng.\nB. Sản phẩm của gen này tác động lên sự biểu hiện của một gen khác trong một kiểu gen.\nC. Các tính trạng do gen quy định tác động lại với nhau trong một kiểu gen.\nD. Các gen tác động lại với môi trường trong sự hình thành một kiểu hình",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Thực chất của tương tác gen là sản phẩm của các gen tác động lại với nhau trong sự hình thành tính trạng.\nChọn A"
+    },
+    {
+        "ID": "Bio_21_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Chức năng chính của hệ tuần hoàn là:\nA. Hấp thụ chất dinh dưỡng trong thức ăn vào cơ thể.\nB. Phân giải các chất cung cấp năng lượng ATP cho tế bào.\nC. Trao đổi khí giữa cơ thể với môi trường bên ngoài.\nD. Vận chuyển các chất đến các bộ phận trong cơ thể.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chức năng chính của hệ tuần hoàn là: vận chuyển các chất đến các bộ phận trong cơ thể.\nChọn D"
+    },
+    {
+        "ID": "Bio_21_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Một nuclêoxôm có cấu trúc gồm\nA. 8 phân tử histon được hai đoạn ADN chứa 150 cặp nuclêôtit quấn quanh $1 \\frac{3}{4}$ vòng xoắn.\nB. lõi 8 phân tử histon được một đoạn ADN chứa 146 cặp nuclêôtit quấn quanh $1 \\frac{3}{4}$ vòng xoắn.\nC. phân tử histon được quấn bởi một đoạn ADN dài 156 cặp nuclêôtit\nD. lõi là một đoạn ADN chứa 146 cặp nuclêôtit được bọc ngoài bởi 8 phân tử prôtêin histôn.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Một nucleoxome gồm một đoạn $\\mathrm{ADN}$ dài 146 cặp nucleotide quấn $1 \\frac{3}{4}$ vòng quanh 1 khối cầu gồm 8 phân tử protein loại histon.\nChọn B"
+    },
+    {
+        "ID": "Bio_21_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Ánh sáng, nhiệt độ, độ pH, đất, nước\nA. là các nhân tố sinh thái vô sinh\nB. là các nhân tố sinh thái hữu sinh\nC. tạo nên môi trường sống của sinh vật\nD. tạo nên ổ sinh thái của sinh vật",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ánh sáng, nhiệt độ, độ $\\mathrm{pH}$, đất, nước là các nhân tố sinh thái vô sinh\nChọn A"
+    },
+    {
+        "ID": "Bio_21_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Loại đột biến nào sau đây làm thay đổi số lượng nhiễm sắc thể trong tế bào?\nA. Đột biến gen\nB. Đột biến đảo đoạn\nC. Đột biến lặp đoạn\nD. Đột biến đa bội",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đột biến đa bội làm thay đổi số lượng NST trong tế bào\nChọn D"
+    },
+    {
+        "ID": "Bio_21_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Trường hợp nào sau đây không phải là hóa thạch\nA. Than đá có vết lá dương xỉ\nB. Dấu chân khủng long trên than bùn\nC. Mũi tên đồng, trống đồng Đông Sơn\nD. Xác côn trùng trong hổ phách hàng nghìn năm.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Mũi tên đồng, trống đồng Đông Sơn không phải là hóa thạch\nChọn C"
+    },
+    {
+        "ID": "Bio_21_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Gen dài 306nm, có tỷ lệ $\\mathrm{A}: \\mathrm{G}=3: 7$. Sau đột biến chiều dài gen không đổi và có tỷ lệ A:G=89 : 211.Số liên kết hiđrô của gen đột biến là:\nA. 2430\nB. 2427\nC. 2067\nD. 2433",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tổng nucleotit của gen: $3060: 3,4 \\times 2=1800$\nTa có $A: G=3: 7=42,86 \\%$ và $A+G=900 \\rightarrow A=270, G=630$\n$\\rightarrow$ gen đột biến có số $A=267$ và $G=633$\nSố liên kết hidro của gen đột biến: $267 \\times 2+633 \\times 3=2433$\nChọn A"
+    },
+    {
+        "ID": "Bio_21_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Cho các nhân tố sau: Có mấy nhân tố có thể làm nghèo vốn gen của quần thể ?\n(1) Biến động di truyền.\n(2) Đột biến.\n(3) Giao phối không ngẫu nhiên.\n(4) Giao phối ngẫu nhiên.\n(5) Di -nhập gen\nA. 5\nB. 3\nC. 4\nD. 2",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "(1) Đúng. Biến động di truyền (các yếu tố ngẫu nhiên) gây chết hàng loạt, làm giảm hoặc mất hẳn một hay nhiều loại alen nào đó. Qua đó làm nghèo vốn gen của quần thể.\n(2) Sai. Đột biến gen luôn làm tăng tính đa dạng của quần thể.\n(3) Đúng. Giao phối không ngẫu nhiên làm tăng tỉ lệ đồng hợp, giảm tỉ lệ dị hợp qua đó làm nghèo vốn gen của quần thể.\n(4) Sai. Giao phối ngẫu nhiên tạo ra nhiều tổ hợp gen qua đó làm giàu vốn gen của quần thể.\n(5) Đúng. Di gen có thể làm nghèo vốn gen của quần thể\nChọn B"
+    },
+    {
+        "ID": "Bio_21_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Người ta mang 9 tế bào E.coli từ môi trường nuôi cấy chứa đồng vị phóng xạ $\\mathrm{P} 32$ sang nuôi ở môi trường bình thường. Giả thiết các tế bào này phân chia cùng nhau, cùng thời điểm, sau một thời gian, người ta tách chiết $\\mathrm{ADN}$ nhân và các phân tử $\\mathrm{ADN}$ này được tách chiết nguyên vẹn. Kết quả cho thấy tỷ lệ số phân tử $\\mathrm{ADN}$ còn chứa $\\mathrm{P} 32$ là 3,125\\%. Vậy tổng số tế bào được tách chiết $\\mathrm{ADN}$ và số lần phân chia của mỗi tế bào ban đầu tương ứng là:\nA. 288; 6\nB. 288 ; 5\nC. 576 ; 6\nD. 576 ; 4",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Tổng số tế bào được tách chiết $\\mathrm{ADN}$ là: $2 \\times 9: 3,125 \\%=576$ tế bào\nSố tế bào con được tạo ra là: $576: 9=64=2^{6}$\nVậy tế bào phân chia 6 lần\nChọn C"
+    },
+    {
+        "ID": "Bio_21_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Ở một loài thực vật, chiều cao cây do hai cặp gen $A$, a và $B, b$ tương tác cộng gộp cùng quy định, sự có mặt của mỗi alen trội $\\mathrm{A}$ hoặc $\\mathrm{B}$ đều làm cây thấp đi $5 \\mathrm{~cm}$, khi trưởng thành cây cao nhất có chiều cao $200 \\mathrm{~cm}$. Hình dạng quả do một gen có alen quy định, trong đó $\\mathrm{D}$ quy định quả tròn trội hoàn toàn với quy định quả dài. Cho phép lai bố mẹ có kiểu gen: Aa $\\mathrm{BD} / \\mathrm{bd} \\mathrm{x} \\mathrm{Aa} \\mathrm{Bd} / \\mathrm{bD}$ thu được F1 số cây cao $180 \\mathrm{~cm}$, quả tròn chiếm tỉ lệ 4,9375\\%. Biết không có đột biến nhưng xảy ra hoán vị gen cả 2 bên với tần số như nhau.Theo lý thuyết,có bao nhiêu nhận định dưới đây về phép lai trên là đúng?\nI.Tần số hoán vị gen của (P) là $30 \\%$.\nII.Tỷ lệ cây cao $180 \\mathrm{~cm}$, quả dài ở F1là $1,5 \\%$.\nIII.Tỉ lệ cây cao $190 \\mathrm{~cm}$, quả tròn ở F1 là 17,75\\%.\nIV.Có 7 kiểu gen quy định cây chiều cao $190 \\mathrm{~cm}$, quả tròn\nA. 1\nB. 3\nC. 2\nD. 4",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Cây cao nhất có có kiểu gen đồng hợp lặn (aa, bb)\n\\item Cây thấp nhất có kiểu gen đồng hợp trội $(\\mathrm{AA}, \\mathrm{BB})$\n\\end{itemize}\n$+(\\mathrm{P})$ : Aa $\\frac{B d}{B d} \\times$ Aa $\\frac{B d}{b D}$\n\\begin{itemize}\n\\item Cây cao $180 \\mathrm{~cm}$, quả tròn $\\mathrm{AA}\\left(\\mathrm{BB}, \\mathrm{D}_{-}\\right)=4,937 \\%$\n\\end{itemize}\n$\\rightarrow \\mathrm{BB}, \\mathrm{D}_{-}=4,9375 \\%: 0,25=0,1975$\n\\begin{itemize}\n\\item Giả sử $\\mathrm{BD} / \\mathrm{bd}$ cho giao tử: $\\underline{\\mathrm{BD}}=\\underline{\\mathrm{bd}}=\\mathrm{m}$\n\\end{itemize}\n$\\rightarrow \\underline{\\mathrm{bD}}=\\underline{\\mathrm{Bd}}=0,5-\\mathrm{m}$\n$\\rightarrow \\mathrm{Bd} / \\mathrm{bD}$ cho giao tử: $\\mathrm{BD}=\\mathrm{bd}=0,5-\\mathrm{m}$\n$\\rightarrow \\underline{\\mathrm{bD}}=\\underline{\\mathrm{Bd}}=\\mathrm{m}$\n$\\rightarrow 0,1975(\\mathrm{BB}, \\mathrm{D}-)=\\frac{B D}{B D}+\\frac{B d}{B d}=m(0,5-m)+m^{2}+(0,5-m)^{2} \\rightarrow m=0,15 ; m=0,35$\n$\\rightarrow \\mathrm{f}=30 \\% \\rightarrow$ Ý I đúng\n\\begin{itemize}\n\\item Tỉ lệ cây cao $180 \\mathrm{~cm}$, quả dài là $\\mathrm{F} 1: \\mathrm{AA} \\frac{B d}{B d}=\\frac{1}{4} \\times 0,15 \\times 0,35=0,013125 \\rightarrow$ Ý II sai\n\\item Tỉ lệ cây cao $190 \\mathrm{~cm}$, quả tròn ở $\\mathrm{F} 1$ :\n\\end{itemize}\n= AA(bb,D\\_ $)+\\mathrm{aa}\\left(\\mathrm{BB}, \\mathrm{D}_{-}\\right)+\\mathrm{Aa}\\left(\\mathrm{Bb}, \\mathrm{D}_{-}\\right)$\n$\\mathrm{AA}\\left(\\mathrm{bb}, \\mathrm{D}_{-}\\right)=\\frac{1}{4} \\times\\left(0,15 \\times 0,35+\\frac{0,15}{2}+\\frac{0,35}{2}\\right)=0,049375$\naa(BB,\\_\\_\\_ $)=\\frac{1}{4} \\times 0,1975=0,049375$\n$\\mathrm{Aa}\\left(\\mathrm{Bb}, \\mathrm{D}_{-}\\right)=\\frac{1}{2} \\times\\left(\\frac{B D}{b D}+\\frac{B D}{b d}+\\frac{B d}{b D}\\right)=\\frac{1}{2} \\times(0,152+0,35+0,15 \\times 0,35 \\times 2+0,15 \\times 0,35 \\times 2)=0,1775$\n$\\rightarrow$ Tỉ lệ cây cao $190 \\mathrm{~cm}$, quả tròn ở $F 1=0,049375+0,049375+0,1775=0,27625$\n$\\rightarrow$ Ý III sai\n$\\rightarrow$ Có 7 kiểu gen quy định cây cao $190 \\mathrm{~cm}$, quả tròn\n$\\rightarrow$ Ý IV đúng\nChọn C."
+    },
+    {
+        "ID": "Bio_21_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Ở một loài thực vật, cho giao phấn giữa cây hoa đỏ thuần chủng với cây hoa trắng được F1 toàn hoa đỏ. Tiếp tục cho F1 lai với cơ thể đồng hợp lặn được thế hệ con có tỉ lệ 3 cây hoa trắng: 1 cây hoa đỏ. Cho cây $F 1$ tự thụ phấn được các hạt là F2. Cho các cây $F 2$ tự thụ, xác suất để $F 3$ chắc chắn không có sự phân tính\nA. $\\frac{4}{16}$\nB. $\\frac{3}{16}$\nC. $\\frac{2}{16}$\nD. $\\frac{7}{16}$",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "3 cây hoa trắng: 1 cây hoa đỏ tương tác bổ sung\nF1: $100 \\%$ đỏ đỏ trội (A: đỏ; a: trắng)\nP: AA $x$ aa\nF1: Aa\nF1 lai với cơ thể đồng hợp lặn cho ra 4 loại tổ hợp $\\Rightarrow \\mathrm{F} 1$ dị hợp hai cặp gen $\\mathrm{AaBb}$ (hoa đỏ). $\\mathrm{AaBb} \\times \\times$ aabb $\\Rightarrow$ 3 trắng : 1 đỏ.\nQuy ước gen: $\\mathrm{A}_{-} \\mathrm{B}_{-}$: hoa đỏ; $\\mathrm{A} \\_\\mathrm{bb}+\\mathrm{aaB} \\_+\\mathrm{aabb}$ : hoa trắng\nF1 tự thụ: $\\mathrm{AaBb} \\times \\mathrm{AaBb} \\mathrm{KH}$ : 9 đỏ : 7 trắng\nMuốn F3 không phân tính khi đem F2 tự thụ thì: F2 có KG đồng hợp\n$\\mathrm{AABB}=\\frac{1}{16}$\n$\\mathrm{AAbb}=\\frac{1}{16}$\n$\\mathrm{aaBB}=\\frac{1}{16}$\naabb $=\\frac{1}{16}$\nTổng số $=\\frac{4}{16}$\nChọn A"
+    },
+    {
+        "ID": "Bio_21_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Thế hệ xuất phát của một quần thể ngẫu phối có 200 cá thể đực mang kiểu $\\mathrm{AA}, 300$ cá thể đực mang kiểu gen Aa, 500 cá thể cái mang kiểu gen aa. Khi đạt trạng thái cân bằng di truyền, cấu trúc di truyền của quần thể là\nA. 0,4225AA: 0,455Aa: 0,1225aa.\nB. $0,1225 A A: 0,455 A a: 0,4225 a a$.\nC. 0,5625AA: 0,375Aa: 0,0625aa.\nD. 0,0625AA: 0,375Aa: 0,5625aa.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Giới cái: $\\mathrm{qa}=1$.\nGiới đực: $\\mathrm{qa}=300: 2 \\mathrm{x}(200+300)=0,3 \\rightarrow \\mathrm{pA}=0,7$.\n$\\rightarrow$ Khi cân bằng: $\\mathrm{pA}=0,7 / 2=0,35 ; \\mathrm{qa}=0,65$\n$\\rightarrow$ Thành phần kiểu gen khi cân bằng: $\\mathrm{AA}=0,35.0,35=0,1225 ; \\mathrm{aa}=0,65.0,65=0,4225 ; \\mathrm{Aa}=0,455$\nChọn B"
+    },
+    {
+        "ID": "Bio_21_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Một phân tử mARN chỉ chứa 3 loại ribonucleotit là Ađênin, Uraxin và Guanin. Có bao nhiêu bộ ba sau đây có thể có trên mạch bổ sung của gen đã phiên mã ra mARN nói trên?\n(1) ATX, (2) GXA, (3) TAG, (4) AAT ,(5) AAA , (6) TXX\nA. 4\nB. 1\nC. 2\nD. 3",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Trên mARN có 3 loại ribonucleotit $A, U, G$.\n\\item Trên mạch gốc của gen có 3 loại nucleotit $T, A, X$.\n\\item Trên mạch bổ sung của gen có 3 loại nucleotit $A, T, G$.\n\\end{itemize}\n$\\rightarrow$ trên mạch bổ sung của gen là (3), (4), (5).\nChọn D"
+    },
+    {
+        "ID": "Bio_21_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Ở một loài thực vật. Xét 3 cặp gen Aa, Bb, Dd di truyền phân độc lập, mỗi gen quy định một tính trạng, alen trội là trội hoàn toàn. Thế hệ xuất phát của một quần thể thì có tỉ lệ kiểu gen là: 0,4AaBBDd : 0,6aaBBDd. Giả sử quần thể không chịu tác động của các nhân tố tiến hóa. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Nếu các cá thể giao phấn ngẫu nhiên thì ở F2, kiểu hình trội về 3 tính trạng chiếm $27 \\%$.\nII. Nếu các cá thể tự thụ phấn thì ở F2, kiểu gen dị hợp 2 cặp gen chiếm $10 \\%$.\nIII. Nếu các cá thể tự thụ phấn thì ở F3, kiểu hình lặn về 2 tính trạng chiếm 28,125\\%\nIV. Nếu cá thể tự thụ phấn thì lấy ngẫu nhiên 1 cá thể có kiểu hình trội về 3 tính trạng ở F3, xác suất thu được cá thể thuần chủng là $31 \\%$\nA. 1\nB. 2\nC. 3\nD. 4",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Có 1 phát biểu đúng, đó là $\\mathrm{I}$.\nI đúng. Vì khi giao phối ngẫu nhiên thì kiểu hình A-B- có tỉ lệ = $(1-\\mathrm{aa})(1-\\mathrm{bb})=(1-0,64)(1-0,25)$ = 0,27 = $27 \\%$.\nII sai. Vì ở F2, kiểu gen dị hợp 2 cặp gen $=0,4 \\times \\frac{1}{16}=0,025=2,5 \\%$.\nIII sai. Vì ở F3, kiểu hình lặn về 2 tính trạng $=0,4 \\times\\left(\\frac{7}{16}\\right)^{2}+0,6 \\times\\left(\\frac{7}{16}\\right)=\\frac{217}{640}$\nIV sai. Vì ở F3, xác suất $=\\left(\\frac{7}{9}\\right)^{2}=\\frac{49}{81}=0,6$.\nChọn A"
+    },
+    {
+        "ID": "Bio_21_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Cho các thành tựu sau: Các thành tựu được tạo ra bằng công nghệ gen là\n(1) Tạo giống cà chua có gen làm chín quả bị bất hoạt.\n(2) Tạo giống dâu tằm tứ bội.\n(3) Tạo giống lúa \"gạo vàng\" có khả năng tổng hợp $\\beta$-caroten trong hạt.\n(4) Tạo giống dưa hấu đa bội.\nA. (2) và (4)\nB. (3) và (4)\nC. (1) và (2)\nD. (1)và (3)",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Các thành tựu được tạo ra bằng phương pháp gây đột biến là:\n\\begin{itemize}\n\\item Tạo giống dâu tằm tứ bội $(4 \\mathrm{n})$\n\\item Tạo giống dưa hấu đa bội (3n, 4n).\n\\end{itemize}\nChọn D"
+    },
+    {
+        "ID": "Bio_21_36",
+        "Image_Question": "Bio_21/Bio_21_36.png",
+        "Question": "Câu 36:  Phả hệ ở hình bên mô tả sự di truyền của bệnh $\\mathrm{M}$ và bệnh $\\mathrm{N}$ ở người, mỗi bệnh đều do 1 trong 2 alen của một gen quy định. Cả hai gen này đều nằm ở vùng không tương đồng trên nhiễm sắc thể giới tính $X$.\nBiết rằng không xảy ra đột biến và không có hoán vị gen. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Người số 1 dị hợp về cả hai cặp gen\nII. Xác suất sinh con thứ hai bị bệnh của cặp $9-10$ là $\\frac{1}{2}$\nIII. Xác định được tối đa kiểu gen của 9 người trong phả hệ\nIV. Xác suất sinh con thứ hai là con trai bị bệnh của cặp $7-8$ là $\\frac{1}{4}$\nA. 1\nB. 2\nC. 4\nD. 3",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Do không có HVG: Người 9 sinh con bị bệnh $\\mathrm{N} \\rightarrow \\operatorname{mang} X^{\\mathrm{Mn}}$; có bố (4) bị bệnh $\\mathrm{M}$ nên phải mang $X^{\\mathrm{mN}} \\rightarrow$ người 9: $X^{M N} X^{M n}$\n(1) sai, người 1 sinh con trai bị bệnh $\\mathrm{N}$ và con trai bình thường nên phải có kiểu gen: $X^{M N} X^{M n}$\n(2) đúng, cặp vợ chồng 9 - 10 luôn sinh con trai bị bệnh $\\rightarrow$ luôn sinh con gái bình thường $\\rightarrow$ Xác suất sinh con bình thường là $\\frac{1}{2}$\n(3) sai, chỉ có người 7 chưa xác định được kiểu gen.\n(4) sai. Xét cặp vợ chồng 7 - 8:\nNgười (7) sinh con trai bình thường nên mang $X^{M N}$, có mẹ (1) có kiểu gen $X^{M N} X^{M n}$\n$\\rightarrow$ nên người 7 có kiểu gen: $\\left(1 X^{M N} X^{M n}: 1 X^{M N} X^{M n}\\right)$\nNgười 8 bình thường nên có kiểu gen $X^{M N} Y$.\nXác suất họ sinh thêm 2 con trai bị bệnh là: $\\frac{1}{2} x\\left(\\frac{1}{2} x \\frac{1}{2}\\right)^{2}=\\frac{1}{32}$\nChọn A"
+    },
+    {
+        "ID": "Bio_21_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  l\n\\begin{center}\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nThế hệ & $\\mathrm{P}$ & $\\mathrm{F}_{1}$ & $\\mathrm{~F}_{2}$ & $\\mathrm{~F}_{3}$ \\\\\n\\hline\nTần số kiểu gen $\\mathrm{AA}$ & $2 / 5$ & $9 / 16$ & $16 / 25$ & $25 / 36$ \\\\\n\\hline\nTần số kiểu gen $\\mathrm{Aa}$ & $2 / 5$ & $6 / 16$ & $8 / 25$ & $10 / 36$ \\\\\n\\hline\nTần số kiểu gen aa & $1 / 5$ & $1 / 16$ & $1 / 25$ & $1 / 36$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nCho rằng quần thể này không chịu tác động của các nhân tố đột biến, di-nhập gen và các yếu tố ngẫu nhiên. Phân tích bảng số liệu trên, phát biểu nào sau đây đúng?\nA. Cây hoa đỏ không có khả năng sinh sản và quần thể này giao phấn ngẫu nhiên\nB. Cây hoa trắng không có khả năng sinh sản và quần thể này giao phấn ngẫu nhiên\nC. Cây hoa hồng không có khả năng sinh sản và quần thể này tự thụ phấn nghiêm ngặt\nD. Cây hoa trắng không có khả năng sinh sản và quần thể này tự thụ phấn nghiêm ngặt",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Nhìn vào số liệu được cho ở bảng quần thể trên giao phấn ngẫu\nnhiên $\\rightarrow$ loại C,D.\nCác kiểu gen $\\mathrm{AA}, \\mathrm{Aa}$ vẫn được duy trì qua các thế hệ nên không thể là cây hoa đỏ không có khả năng sinh sản.\nChọn B"
+    },
+    {
+        "ID": "Bio_21_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Cho các thông tin sau đây, những thông tin đúng với cả tế bào nhân thực và tế bào nhân sơ là: (1)Trong quá trình nhân đôi $\\mathrm{ADN}$, trên cùng một phân tử $\\mathrm{ADN}$, nhưng có nhiều chỗ đồng thời chịu tác động của các enzim tháo xoắn (mỗi chỗ tạo nên một đơn vị nhân đôi).\n(2)Trong quá trình phiên mã, khi ARN polimeraza di chuyển tới cuối gen, gặp tín hiệu kết thúc thì nó dừng phiên mã.\n(3)Trong quá trình dịch mã, mARN thường không gắn với từng riboxom riêng rẽ mà đồng thời gắn với một nhóm ribôxôm.\n(4) Quá trình phiên mã, dịch mã tạo ra protein cho cấu trúc hoặc hoạt động của tế bào, còn quá trình nhân đôi $\\mathrm{ADN}$ tạo ra 2 cromatit trong nhiễm sắc thể để chuẩn bị phân chia tế bào.\nA. (2) và (3)\nB. (1); (3) và (4)\nC. (2); (3) và (4)\nD. (1) và (4)",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "(1) Sai, nhân sơ chỉ có 1 đơn vị sao chép\n(2) Đúng\n(3) Đúng\n(4) Sai, nhân đôi tạo ra ADN con tạo vật chất di truyền\nChọn A"
+    },
+    {
+        "ID": "Bio_21_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  : Cho biết:\n5'XXU3'; '5'XXX3';5' XXA3'; '5'XXG3'quy định Pro;\n5'AXU3';5'AXX3';5'XXU 3'; 5'AXA3';5'AXG3'quy định Thr.\nMột đột biến điểm xảy ra ở giữa alen làm cho alen $\\mathrm{A}$ thành alen $a$,trong đó chuỗi mARN của alen a bị thay đổi cấu trúc ở một bộ ba dẫn tới axit amin Pro được thay bằng axit amin Thr. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\n\\begin{enumerate}\n\\item Alen a có thể có chiều dài lớn hơn chiều dài của alen $\\mathrm{A}$.\n\\item Đột biến thể cặp $G-X$ bằng cặp $T-A$ đã làm cho alen $A$ thành alen $a$.\n\\item Nếu alen $A$ có $200 T$ thì alen a sẽ có $201 \\mathrm{~A}$.\n\\item Nếu alen A phiên mã một lần cần môi trường cung cấp $99 \\mathrm{X}$ thì alen a phiên mã 1 lần cũng cần môi trường cung cấp $100 X$\nA. 1\nB. 2\nC. 4\nD. 3\n\\end{enumerate}",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Quan sát các bộ ba, chúng ta thấy đột biến làm cho Pro trở thành Thr là do ở mỗi bộ ba đã thay $\\mathrm{X}$ bằng $\\mathrm{A}$ ở nucleotit đầu tiên.\n$\\rightarrow$ Trên gen, đây là đột biến thay thế cặp G-X bằng cặp T-A. Từ suy luận này, chúng ta tiến hành làm các phát biểu.\nI sai. Vì đây là đột biến thay thế nên không làm thay đổi chiều dài.\nII đúng.\nIII đúng. Vì thay cặp G-X bằng cặp T-A cho nên alen a nhiều hơn alen $\\mathrm{A} 1$ cặp A-T.\nIV sai. Vì giảm 1 cặp G-X nên khi phiên mã thì sẽ giảm 1 nucleotit loại $X$.\nChọn B"
+    },
+    {
+        "ID": "Bio_21_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Ở một loài thực vật, xét 3 cặp gen phân li độc lập. Biết mỗi gen quy định 1 tính trạng, alen trội là trội hoàn toàn. Theo lí thuyết, có tối đa bao nhiêu phép lai cho đời có kiểu hình phân li theo tỉ 1ệ $3: 3: 1: 1$ ?\nA. 18\nB. 16\nC. 36\nD. 48",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta thấy: $(3: 3: 1: 1)=(3: 1)(1: 1) .1$\n$3: 1$ là kết quả của 1 phép lai $A a x A a$\n1:1 là kết quả của 1 phép lai $\\mathrm{Bb} \\times \\mathrm{bb}$\n1 là kết quả của phép lai $\\mathrm{DD} \\times \\mathrm{DD}, \\mathrm{DD} \\times \\mathrm{Dd} ; \\mathrm{DD} \\times \\mathrm{dd}, \\mathrm{dd} \\times \\mathrm{dd}$\nCó tổng số phép lai là: $3 ! \\cdot(1 \\times 4+1 \\times 2)=36$\nChọn C"
+    }
+]

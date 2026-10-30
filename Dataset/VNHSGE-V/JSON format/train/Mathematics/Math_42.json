@@ -1,0 +1,402 @@
+[
+    {
+        "ID": "Math_42_1",
+        "Image_Question": "",
+        "Question": "Câu 1: Hình chóp tứ giác có bao nhiêu mặt?\nA. 6 .\nB. 5 .\nC. 3 .\nD. 4 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Hình chóp tứ giác có 5 mặt"
+    },
+    {
+        "ID": "Math_42_2",
+        "Image_Question": "",
+        "Question": "Câu 2: Công thức tính diện tích xung quanh $S_{x q}$ của hình trụ có bán kính đáy $r$ và chiều cao $h$ là\nA. $S_{\\mathrm{xq}}=\\pi r h$.\nB. $S_{\\mathrm{xq}}=2 \\pi r h$.\nC. $S_{\\mathrm{xq}}=\\frac{1}{3} \\pi r h$.\nD. $S_{\\mathrm{xq}}=\\frac{1}{3} \\pi r^{2} h$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Công thức tính diện tích xung quanh $S_{x q}$ của hình trụ có bán kính đáy $r$ và chiều cao $h$ là $S_{\\mathrm{xq}}=2 \\pi r h$."
+    },
+    {
+        "ID": "Math_42_3",
+        "Image_Question": "",
+        "Question": "Câu 3: Tập xác định của hàm số $y=(x+1)^{\\frac{1}{2}}$ là\nA. $(-1 ;+\\infty)$.\nB. $\\mathbb{R} \\backslash\\{-1\\}$.\nC. $[-1 ;+\\infty)$.\nD. $\\mathbb{R}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\frac{1}{2} \\notin \\mathbb{Z}$ nên điều kiện xác định của hàm số là $x+1>0 \\Leftrightarrow x>-1$."
+    },
+    {
+        "ID": "Math_42_4",
+        "Image_Question": "",
+        "Question": "Câu 4: Với $x>0$, đạo hàm của hàm số $y=\\log _{2023} x$\nA. $\\frac{1}{x}$.\nB. $x \\cdot \\ln 2023$.\nC. $\\frac{\\ln 2023}{x}$.\nD. $\\frac{1}{x \\cdot \\ln 2023}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $x>0 \\Rightarrow y^{\\prime}=\\frac{1}{x \\cdot \\ln 2023}$."
+    },
+    {
+        "ID": "Math_42_5",
+        "Image_Question": "",
+        "Question": "Câu 5: Họ nguyên hàm của hàm số $f(x)=\\mathrm{e}^{3 x}+\\cos 2 x$ là\nA. $3 e^{3 x}-\\sin 2 x+C$.\nB. $\\frac{1}{3} \\mathrm{e}^{3 x}+\\frac{1}{2} \\sin 2 x+C$.\nC. $\\frac{1}{3} \\mathrm{e}^{3 x}-\\frac{1}{2} \\sin 2 x+C$.\nD. $3 \\mathrm{e}^{3 x}-\\sin 2 x+C$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\int f(x) \\mathrm{d} x=\\int\\left(\\mathrm{e}^{3 x}+\\cos 2 x\\right) \\mathrm{d} x=\\frac{1}{3} \\mathrm{e}^{3 x}+\\frac{1}{2} \\sin 2 x+C$."
+    },
+    {
+        "ID": "Math_42_6",
+        "Image_Question": "Math_42/image001.png",
+        "Question": "Câu 6: Cho hàm số $f(x)$ có bảng xét dấu của $f^{\\prime}(x)$ như sau: \nHàm số đã cho đồng biến trên khoảng nào dưới đây?\nA. $(-\\infty ;-1)$.\nB. $(-1 ; 1)$.\nC. $(1 ;+\\infty)$.\nD. $(-1 ;+\\infty)$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Hàm số đã cho đồng biến trên khoảng $(-1 ; 1)$."
+    },
+    {
+        "ID": "Math_42_7",
+        "Image_Question": "",
+        "Question": "Câu 7: Có bao nhiêu cách chọn ra 3 học sinh từ một nhóm có 6 học sinh?\nA. 6 ! .\nB. $C_{6}^{3}$.\nC. $6^{3}$.\nD. $A_{6}^{3}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Số cách chọn ra 3 học sinh từ một nhóm có 6 học sinh là $C_{6}^{3}$."
+    },
+    {
+        "ID": "Math_42_8",
+        "Image_Question": "",
+        "Question": "Câu 8: Cho cấp số cộng $\\left(u_{n}\\right)$ với $u_{1}=7$, công sai $d=-2$. Giá trị $u_{2}$ bằng\nA. -14 .\nB. 9 .\nC. $-\\frac{7}{2}$.\nD. 5 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $u_{2}=u_{1}+d=7-2=5$."
+    },
+    {
+        "ID": "Math_42_9",
+        "Image_Question": "",
+        "Question": "Câu 9: Số cạnh của hình bát diện đều là\nA. 20 .\nB. 6\nC. 12 .\nD. 8 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Số cạnh của hình bát diện đều là 12"
+    },
+    {
+        "ID": "Math_42_10",
+        "Image_Question": "",
+        "Question": "Câu 10: Thể tích $V$ của khối cầu bán kính $r$ được tính theo công thức nào dưới đây?\nA. $V=4 \\pi r^{3}$.\nB. $V=\\frac{4}{3} \\pi r^{3}$.\nC. $V=\\frac{1}{3} \\pi r^{3}$.\nD. $V=2 \\pi r^{3}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Thể tích $V$ của khối cầu bán kính $r$ được tính theo công thức $V=\\frac{4}{3} \\pi r^{3}$."
+    },
+    {
+        "ID": "Math_42_11",
+        "Image_Question": "",
+        "Question": "Câu 11: Với $a$ là số thực dương tùy ý, $\\log _{2} a^{3}$ bằng\nA. $\\frac{1}{3}+\\log _{2} a$.\nB. $3 \\log _{2} a$.\nC. $3+\\log _{2} a$.\nD. $\\frac{1}{3} \\log _{2} a$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Với $a$ là số thực dương tùy ý, $\\log _{2} a^{3}$ bằng B. $3 \\log _{2} a$."
+    },
+    {
+        "ID": "Math_42_12",
+        "Image_Question": "Math_42/image002.png",
+        "Question": "Câu 12: Cho hàm số $y=f(x)$ có bảng biến thiên như sau:\nGiá trị cực tiểu $y=f(x)$ của hàm số là\nA. 1 .\nB. 4 .\nC. -3 .\nD. -4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Giá trị cực tiểu $y=f(x)$ của hàm số là D"
+    },
+    {
+        "ID": "Math_42_13",
+        "Image_Question": "",
+        "Question": "Câu 13: Cho khối nón có bán kính đáy $r=5$ và chiều cao $h=6$. Thể tích của khối nón đã cho bằng\nA. $60 \\pi$.\nB. $50 \\pi$.\nC. $30 \\pi$.\nD. $150 \\pi$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Thể tích khối nón $V=\\frac{1}{3} \\pi r^{2} h=\\frac{1}{3} \\pi .5^{2} \\cdot 6=50 \\pi$."
+    },
+    {
+        "ID": "Math_42_14",
+        "Image_Question": "",
+        "Question": "Câu 14: Cho khối chóp có diện tích đáy $B$ và chiều cao $h$. Thể tích $V$ của khối chóp đã cho được tính theo công thức nào dưới đây?\nA. $V=\\frac{1}{6} B h$.\nB. $V=B h$.\nC. $V=\\frac{1}{3} B h$.\nD. $V=\\frac{4}{3} B h$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Thể tích $V$ của khối chóp đã cho được tính theo công thức $V=\\frac{1}{3} B h$."
+    },
+    {
+        "ID": "Math_42_15",
+        "Image_Question": "Math_42/image003.png",
+        "Question": "Câu 15: Cho hàm số bậc ba $y=f(x)$ có đồ thị là đường cong như hình vẽ. Số nghiệm thực của phương trình $f(x)=2$ là:\nA. 0 .\nB. 3 .\nC. 1 .\nD. 2 .",
+        "Choice": "B",
+        "Image_Answer": "Math_42/image004.png",
+        "Explanation": "Số nghiệm của phương trình $f(x)=2$ bằng số giao điểm của đồ thị $y=f(x)$ và đường thẳng $y=2$.\nTừ hình vẽ ta thấy đồ thị $y=f(x)$ cắt đường thẳng $y=2$ tại 3 điểm phân biệt nên phương trình $f(x)=2$ có 3 nghiệm phân biệt."
+    },
+    {
+        "ID": "Math_42_16",
+        "Image_Question": "",
+        "Question": "Câu 16: Tiệm cận ngang của đồ thị hàm số $y=\\frac{2 x+5}{x-1}$ là\nA. $x=-1$.\nB. $x=1$.\nC. $y=-5$.\nD. $y=2$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Ta có $\\lim _{x \\rightarrow \\pm \\infty} y=\\lim _{x \\rightarrow \\pm \\infty} \\frac{2 x+5}{x-1}=2 \\Rightarrow$ đường thẳng $y=2$ là tiệm cận ngang của đồ thị hàm số $y=\\frac{2 x+5}{x-1}$"
+    },
+    {
+        "ID": "Math_42_17",
+        "Image_Question": "",
+        "Question": "Câu 17: Cho khối lăng trụ có diện tích đáy bằng 7 và chiều cao bằng 6 . Thể tích khối ăng trụ đã cho bằng\nA. 26 .\nB. 39 .\nC. 14 .\nD. 42 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Bán kính mặt cầu ngoại tiếp khối hộp chữ nhật là: $R=\\sqrt{a^{2}+(a \\sqrt{3})^{2}+(2 a)^{2}}=2 a \\sqrt{2}$.\nVậy diện tích mặt cầu là: $S=4 \\pi R^{2}=8 \\pi a^{2}$."
+    },
+    {
+        "ID": "Math_42_18",
+        "Image_Question": "",
+        "Question": "Câu 18: Nghiệm của phương trình $\\log _{2}(x-1)=3$ là\nA. $x=5$.\nB. $x=10$.\nC. $x=9$.\nD. $x=3$.",
+        "Choice": "C",
+        "Image_Answer": "Math_42/image005.png",
+        "Explanation": "Ta có $: f^{\\prime}(x)=0 \\Leftrightarrow x(1-x)^{2}(3-x)^{3}(x-2)^{4}=0 \\Leftrightarrow\\left[\\begin{array}{l}x=0 \\\\ x=1 \\\\ x=3 \\\\ x=2\\end{array}\\right.$\nBảng xét dấu $f^{\\prime}(x)$\nVậy điểm cực tiểu của hàm số là $x=0$."
+    },
+    {
+        "ID": "Math_42_19",
+        "Image_Question": "",
+        "Question": "Câu 19: Tập nghiệm của bất phương trình $\\left(\\frac{1}{3}\\right)^{x-2} \\leq \\frac{1}{27}$ là\nA. $[5 ;+\\infty)$.\nB. $(-\\infty ;-1)$.\nC. $[4 ;+\\infty)$.\nD. $(-\\infty ; 5]$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tập nghiệm của bất phương trình $\\left(\\frac{1}{3}\\right)^{x-2} \\leq \\frac{1}{27}$ là $[5 ;+\\infty)$."
+    },
+    {
+        "ID": "Math_42_20",
+        "Image_Question": "",
+        "Question": "Câu 20: Họ nguyên hàm của hàm số $f(x)=3 x^{2}+2$ là\nA. $2 x+C$.\nB. $3 x^{2}+2 x+C$.\nC. $x^{3}+C$.\nD. $x^{3}+2 x+C$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Họ nguyên hàm của hàm số $f(x)=3 x^{2}+2$ là $3 x^{2}+2 x+C$."
+    },
+    {
+        "ID": "Math_42_21",
+        "Image_Question": "",
+        "Question": "Câu 21: Số giao điểm của đồ thị hàm số $y=x^{3}-2 x^{2}$ và đồ thị hàm số $y=-2 x^{2}+7 x$.\nA. 1 .\nB. 0 .\nC. 2 .\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Xét phương trình $x^{3}-2 x^{2}=-2 x^{2}+7 x \\Leftrightarrow x^{3}=7 x \\Rightarrow x=0 ; x= \\pm \\sqrt{7}$.\nPhương trình có 3 nghiệm nên hai đồ thị có 3 giao điểm."
+    },
+    {
+        "ID": "Math_42_22",
+        "Image_Question": "",
+        "Question": "Câu 22: Tổng tất cả các nghiệm thực của phương trình $\\log _{2} x \\cdot \\log _{2}(64 x)+8=0$ là\nA. $\\frac{7}{16}$.\nB. $\\frac{5}{16}$.\nC. $\\frac{1}{2}$.\nD. $\\frac{1}{32}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Điều kiện: $x>0$\n$\\log _{2} x \\cdot \\log _{2}(64 x)+8=0 \\Leftrightarrow \\log _{2} x \\cdot\\left(6+\\log _{2} x\\right)+8=0$\n$\\Leftrightarrow\\left(\\log _{2} x\\right)^{2}+6 \\log _{2} x+8=0 \\Leftrightarrow\\left[\\begin{array}{l}\\log _{2} x=-2 \\\\ \\log _{2} x=-4\\end{array} \\Leftrightarrow\\left[\\begin{array}{l}x=\\frac{1}{4} \\\\ x=\\frac{1}{16}\\end{array}\\right.\\right.$\nTổng hai nghiệm là $\\frac{1}{4}+\\frac{1}{16}=\\frac{5}{16}$."
+    },
+    {
+        "ID": "Math_42_23",
+        "Image_Question": "",
+        "Question": "Câu 23: Cắt hình trụ $(T)$ bởi một mặt phẳng qua trục của nó ta được thiết diện là hình vuông cạnh bằng 4. Diện tích xung quanh của hình trụ $(T)$ đã cho bằng\nA. $4 \\pi$.\nB. $20 \\pi$.\nC. $16 \\pi$.\nD. $8 \\pi$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cắt hình trụ $(T)$ bởi một mặt phẳng qua trục, ta được thiết diện là hình vuông cạnh bằng 4 nên bán kính hình trụ bằng 2 và chiều cao hình trụ bằng độ dài đường sinh bằng 4 .\nDiện tích xung quanh của hình trụ $(T)$ đã cho bằng $S_{x q}=2 \\pi \\cdot r . l=16 \\pi$."
+    },
+    {
+        "ID": "Math_42_24",
+        "Image_Question": "",
+        "Question": "Câu 24: Cho hình chóp $S . A B C$ có đáy là tam giác đều cạnh $a$. Biết $S A \\perp(A B C)$ và $S A=a \\sqrt{3}$. Thể tích khối chóp $S . A B C$ bằng\nA. $\\frac{3 a^{3}}{4}$.\nB. $a^{3}$.\nC. $\\frac{a^{3}}{4}$\nD. $\\frac{a^{3}}{2}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hình chóp $S . A B C$ có đáy là tam giác đều cạnh $a$ nên diện tích đáy $\\triangle A B C$ bằng $\\frac{a^{2} \\sqrt{3}}{4}$,\nChiều cao hình chóp là $S A=a \\sqrt{3}$.\nThể tích khối chóp $S . A B C$ bằng $V=\\frac{1}{3} a \\sqrt{3} \\cdot \\frac{a^{2} \\sqrt{3}}{4}=\\frac{a^{3}}{4}$."
+    },
+    {
+        "ID": "Math_42_25",
+        "Image_Question": "",
+        "Question": "Câu 25: Số nghiệm nguyên của bất phương trình $2^{x}+8.2^{-x}<9$ là\nA. 3 .\nB. 0 .\nC. 2 .\nD. 1 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Bất phương trình $2^{x}+8.2^{-x}<9 \\Leftrightarrow 2^{2 x}-9.2^{x}+8<0 \\Leftrightarrow 1<2^{x}<8 \\Leftrightarrow 0<x<3$.\nSố nghiệm nguyên của bất phương trình là 2 ."
+    },
+    {
+        "ID": "Math_42_26",
+        "Image_Question": "",
+        "Question": "Câu 26: Cho tam giác $A B C$ vuông tại $A$ có $A B=3, A C=4$. Diện tích xung quanh của hình nón tạo thành khi quay tam giác $A B C$ quanh trục $A B$ bằng\nA. $20 \\pi$.\nB. $40 \\pi$.\nC. $15 \\pi$.\nD. $12 \\pi$.",
+        "Choice": "A",
+        "Image_Answer": "Math_42/image006.png",
+        "Explanation": "Hình nón tạo thành khi quay tam giác $A B C$ quanh trục $A B$ có bán kính đáy là $r=A C=4$ và chiều cao là $h=A B=3$.\nSuy ra đường $\\sinh l=\\sqrt{r^{2}+h^{2}}=5$.\nDiện tích xung quanh của hình nón là $S=\\pi r l=20 \\pi$."
+    },
+    {
+        "ID": "Math_42_27",
+        "Image_Question": "Math_42/image007.png",
+        "Question": "Câu 27: Cho hàm số bậc ba $y=f(x)$ có bảng biến thiên như sau:\nHàm số đã cho đồng biến trên khoảng nào dưới đây?\nA. $(-\\infty ; 3)$.\nB. $(0 ; 3)$.\nC. $(-\\infty ; 0)$.\nD. $(2 ;+\\infty)$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hàm số đã cho đồng biến trên khoảng $(-\\infty ; 0)$."
+    },
+    {
+        "ID": "Math_42_28",
+        "Image_Question": "",
+        "Question": "Câu 28: Cho hàm số $f(x)$ có đạo hàm trên $\\mathbb{R} \\backslash\\{0\\}$ thỏa mãn $f^{\\prime}(x)=a x+\\frac{b}{x^{2}}, f^{\\prime}(1)=0, f(1)=1$ và $f(-1)=2$. Giá trị $f(2)$ bằng\nA. $\\frac{1}{2}$.\nB. -1 .\nC. $-\\frac{3}{2}$.\nD. 2 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $f^{\\prime}(x)=a x+\\frac{b}{x^{2}} \\Rightarrow f(x)=\\frac{a x^{2}}{2}-\\frac{b}{x}+c$. Khi đó $f^{\\prime}(1)=0 \\Rightarrow a+b=0$; $f(1)=1 \\Rightarrow \\frac{a}{2}-b+c=1$\n$f(-1)=2 \\Rightarrow \\frac{a}{2}+b+c=2$\nSuy ra $\\left\\{\\begin{array}{l}\\frac{a}{2}+b+c=2 \\\\ a+b=0 \\\\ \\frac{a}{2}-b+c=1\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}a=-\\frac{1}{2} \\\\ b=\\frac{1}{2} \\\\ c=\\frac{7}{4} .\\end{array}\\right.\\right.$\nDo đó $f(x)=-\\frac{x^{2}}{4}-\\frac{1}{2 x}+\\frac{7}{4}$. Vậy $f(2)=\\frac{1}{2}$."
+    },
+    {
+        "ID": "Math_42_29",
+        "Image_Question": "",
+        "Question": "Câu 29: Cho khối đa diện đều loại $\\{4 ; 3\\}$ có cạnh bằng 3. Tổng diện tích các mặt của khối đa diện đã cho bằng\nA. 12 .\nB. 54 .\nC. 64 .\nD. 16 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Khối đa diện đều loại $\\{4 ; 3\\}$ là hình lập phương và có cạnh bằng 3 .\nNên tổng diện tích các mặt của hình lập phương là: $S=6.3^{2}=54$."
+    },
+    {
+        "ID": "Math_42_30",
+        "Image_Question": "",
+        "Question": "Câu 30: Cho hình trụ có bán kính đáy bằng $2 a$, chiều cao bằng $4 a$. Mặt phẳng $(\\alpha)$ song song và cách trục của hình trụ một khoảng bằng $a$. Diện tích thiết diện của hình trụ cắt bởi mặt phẳng $(\\alpha)$ bằng\nA. $4 \\sqrt{2} a^{2}$.\nB. $8 \\sqrt{3} a^{2}$.\nC. $12 \\sqrt{2} a^{2}$.\nD. $4 \\sqrt{3} a^{2}$.",
+        "Choice": "B",
+        "Image_Answer": "Math_42/image008.png",
+        "Explanation": "Giả sử mặt phẳng $(\\alpha)$ cắt hình trụ như hình vẽ. Hạ $O I \\perp A B(I \\in A B)$\n$$\n\\Rightarrow\\left\\{\\begin{array}{l}\nO I \\perp A B \\\\\nO I \\perp A D\n\\end{array} \\Rightarrow O I \\perp(\\alpha) \\Rightarrow O I=a \\Rightarrow A I=B I=\\sqrt{O A^{2}-O I^{2}}=a \\sqrt{3} \\Rightarrow A B=2 \\sqrt{3} a\\right.\n$$\nVậy $S_{A B C D}=A B \\cdot A D=2 \\sqrt{3} a \\cdot 4 a=8 \\sqrt{3} a^{2}$."
+    },
+    {
+        "ID": "Math_42_31",
+        "Image_Question": "",
+        "Question": "Câu 31: Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số $y=\\log \\left(x^{2}-2 m x+9\\right)$ có tập xác định là $\\mathbb{R}$ ?\nA. 5 .\nB. 4 .\nC. 6 .\nD. 7 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Để hàm số có tập xác định $D=\\mathbb{R}$ thì: $x^{2}-2 m x+9>0 \\forall x \\in \\mathbb{R} \\Leftrightarrow m^{2}-9<0 \\Leftrightarrow-3<m<3$ Vậy có 5 giá trị nguyên $m$ thỏa mãn."
+    },
+    {
+        "ID": "Math_42_32",
+        "Image_Question": "",
+        "Question": "Câu 32: Một chiếc máy có hai động cơ $I$ và động cơ $I I$ chạy độc lập với nhau. Xác suất để động cơ $I$ và động cơ $I I$ chạy tốt lần lượt là 0,8 và 0,6 . Xác suất để ít nhất một động cơ chạy tốt bằng\nA. 0,86 .\nB. 0,78 .\nC. 0,92 .\nD. 0,94 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Xác suất để ít nhất một động cơ chạy tốt: $0,8.0,6+0,8.0,4+0,2.0,6=0,92$."
+    },
+    {
+        "ID": "Math_42_33",
+        "Image_Question": "",
+        "Question": "Câu 33: Cắt mặt cầu $(S)$ bởi mặt phẳng $(P)$ cách tâm mặt cầu một khoảng bằng $a$ ta được thiết diện là một đường tròn có đường kính bằng $2 \\sqrt{2} a$. Diện tích mặt cầu đã cho bằng\nA. $12 \\pi a^{2}$.\nB. $36 \\pi a^{2}$.\nC. $4 \\pi a^{2}$.\nD. $8 \\pi a^{2}$.",
+        "Choice": "A",
+        "Image_Answer": "Math_42/image009.png",
+        "Explanation": "Bán kính đường tròn giao tuyến $r=\\frac{1}{2} \\cdot 2 \\sqrt{2} a=\\sqrt{2} a$.\nBán kính mặt cầu $R=\\sqrt{d^{2}+r^{2}}=\\sqrt{3} a$.\nKhi đó diện tích mặt cầu đã cho là $S=4 \\pi(\\sqrt{3} a)^{2}=12 \\pi a^{2}$."
+    },
+    {
+        "ID": "Math_42_34",
+        "Image_Question": "Math_42/image010.png",
+        "Question": "Câu 34: Cho hàm số $y=f(x)$ có bảng biến thiên như hình vẽ\nTổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số đã cho là\nA. 3 .\nB. 1 .\nC. 0 .\nD. 2 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Dựa vào bảng biến thiên ta có $\\lim _{x \\rightarrow-1^{+}} f(x)=-\\infty$ nên suy ra đường tiệm cận đứng của đồ thị hàm số là $x=-1$.\nDựa vào bảng biến thiên ta có $\\lim _{x \\rightarrow+\\infty} f(x)=2$ nên suy ra đường tiệm cận đứng của đồ thị hàm số là $y=2$.\nDựa vào bảng biến thiên ta có $\\lim _{x \\rightarrow-\\infty} f(x)=1$ nên suy ra đường tiệm cận đứng của đồ thị hàm số là $y=1$.\nVậy đồ thị hàm số có 3 đường tiệm cận."
+    },
+    {
+        "ID": "Math_42_35",
+        "Image_Question": "",
+        "Question": "Câu 35: Giá trị nhỏ nhất của hàm số $f(x)=x^{3}-24 x$ trên đoạn [2;19] bằngA. $32 \\sqrt{2}$.\nB. $-32 \\sqrt{2}$.\nC. -45 .\nD. -40 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Hàm số $f(x)$ liên tục trên đoạn $[2 ; 19]$.\nTa có $f^{\\prime}(x)=3 x^{2}-24, f^{\\prime}(x)=0 \\Leftrightarrow\\left[\\begin{array}{l}x=2 \\sqrt{2} \\in[2 ; 19] \\\\ x=-2 \\sqrt{2} \\notin[2 ; 19]\\end{array}\\right.$.\nTa có $f(2)=-40, f(2 \\sqrt{2})=-32 \\sqrt{2}, f(19)=6403$.\nVậy $\\min _{x \\in[2 ; 19]} f(x)=f(2)=-40$."
+    },
+    {
+        "ID": "Math_42_36",
+        "Image_Question": "",
+        "Question": "Câu 36: Cho hàm số $y=-x^{3}-6 x^{2}+(4 m-9) x+4$. Số giá trị nguyên của tham số $m$ thuộc đoạn $[-8 ; 8]$ để hàm số đã cho nghịch biến trên khoảng $(-\\infty ;-1)$ là\nA. 8 .\nB. 7 .\nC. 10 .\nD. 9 .",
+        "Choice": "A",
+        "Image_Answer": "Math_42/image011.png",
+        "Explanation": "Ta có $y^{\\prime}=-3 x^{2}-12 x+4 m-9$.\nHàm số nghịch biến trên khoảng $(-\\infty ;-1)$ khi và chỉ khi $y^{\\prime} \\leq 0 \\quad \\forall x \\in(-\\infty ;-1)$\n$$\n\\begin{aligned}\n& \\Leftrightarrow-3 x^{2}-12 x+4 m-9 \\leq 0 \\forall x \\in(-\\infty ;-1) \\\\\n& \\Leftrightarrow 4 m \\leq 3 x^{2}+12 x+9 \\forall x \\in(-\\infty ;-1)(*)\n\\end{aligned}\n$$\nĐặt $g(x)=3 x^{2}+12 x+9$ trên $(-\\infty ;-1)$.\nTa có $g^{\\prime}(x)=6 x+12, g^{\\prime}(x)=0 \\Leftrightarrow x=-2 \\in(-\\infty ;-1)$\nBảng biến thiên\nDựa vào bảng biến thiên\n$(*) \\Leftrightarrow 4 m \\leq \\min _{x \\in(-\\infty ;-1)} g(x)=g(-2)=-3 \\Leftrightarrow m \\leq-\\frac{3}{4}$.\nMà $m \\in \\mathbb{Z}$ và $m \\in[-8 ; 8]$ nên suy ra $m \\in\\{-8 ;-7 ;-6 ;-5 ;-4 ;-3 ;-2 ;-1\\}$.\nVậy có 8 giá trị nguyên $m$ thỏa đề."
+    },
+    {
+        "ID": "Math_42_37",
+        "Image_Question": "",
+        "Question": "Câu 37: Cho các số thực $a, b, c$ thuộc khoảng $(1 ;+\\infty)$ và $\\log _{\\sqrt{a}}^{2} b+\\log _{b} c \\cdot \\log _{b} \\frac{c^{2}}{b}+9 \\log _{a} c=4 \\log _{a} b$. Giá trị của biểu thức $\\log _{a} b+\\log _{b} c^{2}$ bằng\nA. $\\frac{1}{2}$.\nB. 1 .\nC. 2 .\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "$$\n\\begin{aligned}\n& \\log _{\\sqrt{a}}^{2} b+\\log _{b} c \\cdot \\log _{b} \\frac{c^{2}}{b}+9 \\log _{a} c=4 \\log _{a} b \\\\\n& \\Leftrightarrow 4 \\log _{a}^{2} b+\\frac{1}{2} \\log _{b} c^{2}\\left(\\log _{b} c^{2}-1\\right)+\\frac{9}{2} \\log _{a} c^{2}-4 \\log _{a} b=0 \\\\\n& \\Leftrightarrow 8 \\log _{a}^{2} b+\\log _{b}^{2} c^{2}-\\log _{b} c^{2}+9 \\log _{a} b \\cdot \\log _{b} c^{2}-8 \\log _{a} b=0 \\\\\n& \\Leftrightarrow 8 \\log _{a}^{2} b-8 \\log _{a} b+8 \\log _{a} b \\cdot \\log _{b} c^{2}+\\log _{b}^{2} c^{2}-\\log _{b} c^{2}+\\log _{a} b \\cdot \\log _{b} c^{2}=0 \\\\\n& \\Leftrightarrow 8 \\log _{a} b\\left(\\log _{a} b-1+\\log _{b} c^{2}\\right)+\\log _{b} c^{2}\\left(\\log _{b} c^{2}-1+\\log _{a} b\\right)=0 \\\\\n& \\Leftrightarrow\\left(\\log _{a} b+\\log _{b} c^{2}-1\\right)\\left(8 \\log _{a} b+\\log _{b} c^{2}\\right)=0 \\\\\n& \\Leftrightarrow\\left[\\begin{array}{l}\n\\log _{a} b+\\log _{b} c^{2}=1 \\\\\n8 \\log _{a} b+\\log _{b} c^{2}=0\n\\end{array}\\right.\n\\end{aligned}\n$$\nVậy $\\log _{a} b+\\log _{b} c^{2}=1$."
+    },
+    {
+        "ID": "Math_42_38",
+        "Image_Question": "",
+        "Question": "Câu 38: Cho hình chóp tam giác đều có tất cả các cạnh bằng $a$. Côsin của góc giữa mặt bên và mặt đáy của hình chóp đã cho bằng:\nA. $\\frac{1}{3}$.\nB. $\\frac{2 \\sqrt{2}}{3}$.\nC. $\\frac{1}{2}$.\nD. $\\frac{\\sqrt{3}}{2}$.",
+        "Choice": "A",
+        "Image_Answer": "Math_42/image012.png",
+        "Explanation": "Xét chóp tam giác đều $S . A B C$ có tất cả các cạnh bằng $a$ $\\cos ((S A B) ;(A B C))=\\frac{S_{\\triangle O A B}}{S_{\\triangle S B C}}=\\frac{\\frac{1}{3} S_{\\triangle A B C}}{S_{\\triangle A B C}}=\\frac{1}{3}$"
+    },
+    {
+        "ID": "Math_42_39",
+        "Image_Question": "",
+        "Question": "Câu 39: Cho tháp nước được thiết kế gồm thân tháp có dạng hình trụ, phần mái phía trên dạng hình nón và đáy là nửa hình cầu. Không gian bên trong toàn bộ tháp nước được minhh họa theo hình vẽ với đường kính đáy hình trụ, hình cầu và đường kính đáy của hình nón đều bằng $3 \\mathrm{~m}$, chiều cao của hình trụ là $2 m$, chiều cao của hình nón là $1 \\mathrm{~m}$. Thể tích phần không gian bên trong tháp nước bằng\nA. $\\frac{25 \\pi}{4} m^{3}$.\nB. $\\frac{15 \\pi}{2} m^{3}$.\nC. $\\frac{25 \\pi}{2} m^{3}$.\nD. $\\frac{23 \\pi}{4} m^{3}$.\n\\section{Chọ B.}",
+        "Choice": "B",
+        "Image_Answer": "Math_42/image013.png",
+        "Explanation": "Thể tích của phần không gian nửa hình cầu là: $V_{1}=\\frac{1}{2} \\cdot \\frac{4}{3} \\pi\\left(\\frac{3}{2}\\right)^{3}=\\frac{9}{4} \\pi\\left(\\mathrm{m}^{3}\\right)$.\nThể tích của phần không gian hình trụ là: $V_{2}=\\pi\\left(\\frac{3}{2}\\right)^{2} \\cdot 2=\\frac{9}{2} \\pi\\left(m^{3}\\right)$.\nThể tích của phần không gian hình nón là: $V_{3}=\\frac{1}{3} \\pi\\left(\\frac{3}{2}\\right)^{2}=\\frac{3}{4} \\pi\\left(m^{3}\\right)$.\nThể tích phần không gian bên trong tháp nước bằng: $V=V_{1}+V_{2}+V_{3}=\\frac{15}{2} \\pi\\left(\\mathrm{m}^{3}\\right)$."
+    },
+    {
+        "ID": "Math_42_40",
+        "Image_Question": "Math_42/image014.png",
+        "Question": "Câu 40: Cho hàm số $y=f(x)$ có bảng biến thiên như sau:\nGiá trị lớn nhất của hàm số $g(x)=f(2 \\sin x-1)$ bằng\nA. 1054 .\nB. -242 .\nC. 1 .\nD. 30 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đặt $t=2 \\sin x-1 \\Rightarrow t \\in[-3 ; 1]$.\n$g(x)=f(2 \\sin x-1)=f(t)$ với $t \\in[-3 ; 1]$.\nTừ bảng biến thiên suy ra Giá trị lớn nhất của hàm số $g(x)=f(2 \\sin x-1)$ bằng 1054 ."
+    },
+    {
+        "ID": "Math_42_41",
+        "Image_Question": "",
+        "Question": "Câu 41: Cho hàm số $y=x^{4}-2(m-2) x^{2}+3-m$ với $m$ là tham số. Khi $m=m_{0}$ thì đồ thị hàm số đã cho có ba điểm cực trị tạo thành một tam giác nhận gốc tọa độ $O$ làm trực tâm. Giá trị $m_{0}$ thuộc khoảng nào dưới đây?\nA. $(2 ; 5)$.\nB. $(3 ; 7)$.\nC. $(-2 ; 2)$.\nD. $(-5 ;-2)$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Ta có $y^{\\prime}=4 x^{3}-4(m-2) x=4 x\\left(x^{2}-m+2\\right)$.\n$y^{\\prime}=0 \\Leftrightarrow\\left[\\begin{array}{c}x=0 \\\\ x^{2}=m-2\\end{array}\\right.$.\nHàm số có ba điểm cực trị $\\Leftrightarrow m>2$.\nTọa độ ba điểm cực trị là $A(0 ; 3-m), B\\left(\\sqrt{m-2} ;-m^{2}+3 m-1\\right), C\\left(-\\sqrt{m-2} ;-m^{2}+3 m-1\\right)$.\nDo tam giác $A B C$ cân tại $A$ và $B, C$ đối xứng qua $O y$ nên $O$ là trực tâm của tam giác $A B C$\nkhi và chỉ khí $\\overrightarrow{O B} \\cdot \\overrightarrow{A C}=0 \\Leftrightarrow(m-2)\\left(m^{3}-5 m^{2}+7 m-3\\right)=0 \\Rightarrow\\left[\\begin{array}{l}m=1 \\\\ m=2 \\\\ m=3\\end{array}\\right.$.\nVậy nghiệm $m=3 \\in(2 ; 5)$."
+    },
+    {
+        "ID": "Math_42_42",
+        "Image_Question": "",
+        "Question": "Câu 42: Có bao nhiêu giá trị nguyên của tham số $m$ để phương trình $4^{x}-(m+1) \\cdot 2^{x}+2 m-2=0$ có hai nghiệm phân biệt $x_{1}, x_{2}$ thỏa mãn $x_{1} x_{2}+x_{1}+x_{2} \\leq 2$ ?\nA. 1 .\nB. 3 .\nC. 2 .\nD. 0 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đặt $t=2^{x}, t>0$.\nPhương trình có dạng $t^{2}-(m+1) t+2 m-2=0 \\Leftrightarrow\\left[\\begin{array}{c}t=2 \\\\ t=m-1\\end{array}\\right.$\nĐể phương trình ban đầu có hai nghiệm phân biệt thì $\\left\\{\\begin{array}{l}m-1>0 \\\\ m-1 \\neq 2\\end{array} \\Leftrightarrow\\left\\{\\begin{array}{l}m>1 \\\\ m \\neq 3\\end{array}\\right.\\right.$.\nKhi đó $x_{1}=1 ; x_{2}=\\log _{2}(m-1)$\n$x_{1} x_{2}+x_{1}+x_{2} \\leq 2 \\Leftrightarrow 1 . \\log _{2}(m-2)+1+\\log _{2}(m-2) \\leq 2 \\Leftrightarrow \\log _{2}(m-2) \\leq \\frac{1}{2} \\Leftrightarrow m \\leq 2+\\sqrt{2}$. Kết hợp ta được $1<m \\leq 2+\\sqrt{2} ; m \\neq 3$.\n$m \\in \\mathbb{Z} \\Rightarrow m=2$."
+    },
+    {
+        "ID": "Math_42_43",
+        "Image_Question": "",
+        "Question": "Câu 43: Cho cấp số cộng $\\left(u_{n}\\right)$ có tất cả các số hạng đều dương và $9\\left(u_{1}+u_{2}+\\ldots+u_{2050}\\right)=4\\left(u_{1}+u_{2}+\\ldots+u_{3075}\\right)$. Giá trị nhỏ nhất của biểu thức $P=\\log _{3}^{2} u_{14}+\\log _{3}^{2} u_{41}-\\log _{3}^{2} u_{122}$ bằng\nA. 3 .\nB. 1 .\nC. -4 .\nD. -2 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $9\\left(u_{1}+u_{2}+\\ldots+u_{2050}\\right)=4\\left(u_{1}+u_{2}+\\ldots+u_{3075}\\right) \\Leftrightarrow 9 S_{2050}=4 S_{3075}$\n$\\Leftrightarrow \\frac{9.2050\\left(u_{1}+u_{2050}\\right)}{2}=\\frac{4.3075\\left(u_{1}+u_{3075}\\right)}{2} \\Leftrightarrow 2 u_{1}+2049 d=\\frac{2}{3}\\left(2 u_{1}+3074 d\\right)$\n$\\Leftrightarrow 6 u_{1}+6147 d=4 u_{1}+6148 d \\Leftrightarrow d=2 u_{1}$\nSuy ra $\\left\\{\\begin{array}{l}u_{14}=u_{1}+13 d=27 u_{1} \\\\ u_{41}=u_{1}+40 d=81 u_{1} \\\\ u_{122}=u_{1}+121 d=243 u_{1}\\end{array}\\right.$\nVậy $P=\\log _{3}^{2} u_{14}+\\log _{3}^{2} u_{41}-\\log _{3}^{2} u_{122}=\\log _{3}^{2}\\left(27 u_{1}\\right)+\\log _{3}^{2}\\left(81 u_{1}\\right)-\\log _{3}^{2}\\left(243 u_{1}\\right)$\n$$\n=\\left(3+\\log _{3} u_{1}\\right)^{2}+\\left(4+\\log _{3} u_{1}\\right)^{2}-\\left(5+\\log _{3} u_{1}\\right)^{2}=\\log _{3}^{2} u_{1}+4 \\log _{3} u_{1}=\\left(\\log _{3} u_{1}+2\\right)^{2}-4 \\geq-4 .\n$$\nSuy ra $\\min P=-4$ khi $\\log _{3} u_{1}=-2 \\Leftrightarrow\\left\\{\\begin{array}{l}u_{1}=\\frac{1}{9} \\\\ d=\\frac{2}{9}\\end{array}\\right.$."
+    },
+    {
+        "ID": "Math_42_44",
+        "Image_Question": "",
+        "Question": "Câu 44: Người ta dựng trên mặt đất bằng phằng một chiếc lều từ một tấm bạt hình chữ nhật có chiều dài $12 \\mathrm{~m}$ và chiều rộng $6 \\mathrm{~m}$ bằng cách: Gập đôi tấm bạt lại theo đoạn nối trung điểm hai cạnh là chiều rộng của tấm bạt sao cho hai mép chiều dài còn lại của tấm bạt sát đất và cách nhau $x(m)$, hai đầu hồi của lều được thiết kế cửa ra, vào và có thể khép kín (tham khảo hình vẽ dưới đây). Thể tich không gian phia trong lều lón nhất bằng bao nhiêu?\nA. $64 \\mathrm{~m}^{3}$.\nB. $52 \\mathrm{~m}^{3}$.\nC. $54 \\mathrm{~m}^{3}$.\nD. $72 \\mathrm{~m}^{3}$.",
+        "Choice": "C",
+        "Image_Answer": "Math_42/image015.png",
+        "Explanation": "Xét hình lăng trụ đứng $A B C \\cdot A^{\\prime} B^{\\prime} C^{\\prime}$ có đáy là tam giác cân với hai cạnh bên có độ dài bằng $3 \\mathrm{~m}$, chiều cao bằng $12 \\mathrm{~m}$.\nGọi $H$ là trung điểm $B C$ thì $A H \\perp B C, A H=\\sqrt{3^{2}-\\left(\\frac{x}{2}\\right)^{2}}=\\frac{\\sqrt{36-x^{2}}}{2}$.\nDo đó diên tích tam giác $A B C$ là $S_{A B C}=\\frac{1}{2} A H \\cdot B C=\\frac{x \\sqrt{36-x^{2}}}{4}$.\nSuy ra thể tích của lều là $V=12 \\cdot \\frac{x \\sqrt{36-x^{2}}}{4}=3 x \\cdot \\sqrt{36-x^{2}}$.\nĐể không gian phía trong lều lớn nhất thì $V_{\\max }$.\nTa có $V=3 x \\cdot \\sqrt{36-x^{2}} \\leq 3 \\cdot \\frac{x^{2}+36-x^{2}}{2}=54\\left(m^{3}\\right)$ vói mọi $x \\in(0 ; 6)$.\nDấu \" =\" xảy ra khi $x=\\sqrt{36-x^{2}} \\Leftrightarrow x=3 \\sqrt{2}$."
+    },
+    {
+        "ID": "Math_42_45",
+        "Image_Question": "",
+        "Question": "Câu 45: Cho lăng trụ đứng $A B C \\cdot A^{\\prime} B^{\\prime} C^{\\prime}$ có đáy $A B C$ là tam giác đều cạnh $a$ và $A A^{\\prime}=2 a$. Gọi $M$ là trung điểm của $C C^{\\prime}$. Khoảng cách từ điểm $M$ đến mặt phẳng $\\left(A^{\\prime} B C\\right)$ bằng\nA. $\\frac{2 \\sqrt{57} a}{19}$\nB. $\\frac{a \\sqrt{5}}{5}$.\nC. $\\frac{\\sqrt{57} a}{19}$.\nD. $\\frac{2 \\sqrt{5} a}{5}$.",
+        "Choice": "C",
+        "Image_Answer": "Math_42/image016.png",
+        "Explanation": "Ta có: $d_{\\left(M ;\\left(A^{\\prime} B C\\right)\\right)}=\\frac{1}{2} d_{\\left(C^{\\prime} ;\\left(A^{\\prime} B C\\right)\\right)}=\\frac{1}{2} d_{\\left(A ;\\left(A^{\\prime} B C\\right)\\right)}$.\nKẻ $A I \\perp B C$ và $A H \\perp A^{\\prime} I$. Từ đó suy ra $A H \\perp\\left(A^{\\prime} B C\\right)$. Tính $A H=\\frac{A A^{\\prime} \\cdot A I}{\\sqrt{A A^{\\prime 2}+A I^{2}}}=\\frac{2 \\sqrt{57} a}{19}$.\nVậy $d_{\\left(M ;\\left(A^{\\prime} B C\\right)\\right)}=\\frac{1}{2} d_{\\left(A ;\\left(A^{\\prime} B C\\right)\\right)}=\\frac{1}{2} A H=\\frac{\\sqrt{57} a}{19}$."
+    },
+    {
+        "ID": "Math_42_46",
+        "Image_Question": "Math_42/image017.png",
+        "Question": "Câu 46: Cho hàm số $y=f(x)$ có đạo hàm trên $\\mathbb{R}$ và có bảng biến thiên như sau:\nTổng các giá trị nguyên của tham số $m$ để phương trình $2^{f(x)+\\frac{4}{f(x)}}+\\log _{2}\\left(f^{2}(x)-4 f(x)+5\\right)=m$ có đúng hai nghiệm phân biệt bằng\nA. 83 .\nB. 34 .\nC. 50 .\nD. 67 .",
+        "Choice": "C",
+        "Image_Answer": "Math_42/image018.png",
+        "Explanation": "Ta có: $f^{2}(x)-4 f(x)+5>0, \\forall x$.\nĐặt $t=f(x)$, vì $1 \\leq f(x) \\leq 4 \\rightarrow 1 \\leq t \\leq 4$.\nXét hàm số $g(t)=2^{t+\\frac{4}{t}}+\\log _{2}\\left(t^{2}-4 t+5\\right) \\rightarrow g^{\\prime}(t)=\\left(1-\\frac{4}{t^{2}}\\right) 2^{t+\\frac{4}{t}} \\cdot \\ln 2+\\frac{2 t-4}{\\left(t^{2}-4 t+5\\right) \\ln 2}$.\nCho $g^{\\prime}(t)=0 \\Rightarrow t=2$.\nBảng biến thiên của hàm số $g(t)$ trên đoạn $[1 ; 4]$\nBiện luận tham số $m \\in \\mathbb{Z}$\n$+m=16 \\rightarrow g(t)$ có 1 nghiệm $t=2 \\rightarrow f(x)$ có 2 nghiệm phân biệt.\n$+m=33 \\rightarrow g(t)$ có 1 nghiệm $t=1$ và 1 nghiệm $3<t<4 \\rightarrow f(x)$ có 3 nghiệm phân biệt.\n$+16<m<33 \\rightarrow g(t)$ có 2 nghiệm $1<t<3 \\rightarrow f(x)$ có 6 nghiệm phân biệt.\n$+33<m<34,3 \\rightarrow g(t)$ có 1 nghiệm $3<t<4 \\rightarrow f(x)$ có 2 nghiệm phân biệt.\nVậy $m=16$ và $m=34$ thỏa điều kiện bài toán. Từ đó $\\sum m=16+34=50$."
+    },
+    {
+        "ID": "Math_42_47",
+        "Image_Question": "Math_42/image019.png",
+        "Question": "Câu 47: Cho hàm số bậc bốn $y=f(x)$ có đồ thị $f^{\\prime}(x)$ như hînh vẽ.\nBất phương trình $f(2 \\sin x)+\\cos 2 x<m+1$ nghiệm đúng với mọi $x \\in(0 ; \\pi)$ khi và chi khi\nA. $m>f(1)-\\frac{1}{2}$.\nB. $m \\geq f(1)-\\frac{1}{2}$.\nC. $m \\geq f(0)$.\nD. $m>f(1)+\\frac{1}{2}$.",
+        "Choice": "A",
+        "Image_Answer": "Math_42/image020.png, Math_42/image021.png",
+        "Explanation": "$f(2 \\sin x)+\\cos 2 x<m+1 \\Leftrightarrow f(2 \\sin x)+1-2 \\sin ^{2} x<m+1 \\Leftrightarrow f(2 \\sin x)-\\frac{(2 \\sin x)^{2}}{2}<m$.\nĐặt $t=\\sin 2 x,(0<t \\leq 2)$ ta được $f(t)-\\frac{t^{2}}{2}<m \\cdot(0<t \\leq 2)$.\nĐặt $h(t)=f(t)-\\frac{t^{2}}{2} \\Rightarrow h^{\\prime}(t)=f^{\\prime}(t)-t$.\nDựa vào đồ thị hàm số sau\nTa có bảng biến thiên\nĐể bất phương trình $f(t)-\\frac{t^{2}}{2}<m$ đúng với mọi $0<t \\leq 2 \\Rightarrow m>f(1)-\\frac{1}{2}$.."
+    },
+    {
+        "ID": "Math_42_48",
+        "Image_Question": "Math_42/image022.png",
+        "Question": "Câu 48: Cho hàm số $y=f(x)$ xác định trên $\\mathbb{R}$. Hàm số $g(x)=f^{\\prime}(2 x+3)+2$ có đồ thị là một parabol\n$(P)$ nhur hình vẽ.\nHàm số $y=f(x)$ nghịch biến trên khoảng nào đưới đây?\nA. $(5 ; 9)$.\nB. $(-\\infty ; 9)$.\nC. $(1 ; 6)$.\nD. $(1 ; 2)$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Giả sử $g(x)=f^{\\prime}(2 x+3)+2=a x^{2}+b x+c,(a \\neq 0)$.\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_05_31_c5d7fe2259d9be1d9496g-17(2)}\n\\end{center}\nDo đó\n$g(x)=f^{\\prime}(2 x+3)=3 x^{2}-12 x+9=\\frac{3}{4}\\left[(2 x+3)^{2}-14(2 x+3)+45\\right] \\Rightarrow f^{\\prime}(x)=\\frac{3}{4}\\left(x^{2}-14 x+45\\right)$.\nĐể hàm sô nghịch biến điều kiện là $f^{\\prime}(x)<0 \\Leftrightarrow x^{2}-14 x+45<0 \\Leftrightarrow 5<x<9$."
+    },
+    {
+        "ID": "Math_42_49",
+        "Image_Question": "Math_42/image023.png",
+        "Question": "Câu 49: Cho hàm số bậc bốn $y=f(x)$ có đồ thị hàm số $y=f^{\\prime}(x)$ như hình vẽ.\nSố điểm cực trị của hàm số $y=h(x)=2 f(|3-x|)+2023$ là\nA. 3 .\nB. 4 .\nC. 7 .\nD. 5 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Số điểm cực trị của hàm số $y=h(x)=2 f(|3-x|)+2023$ bằng số điểm cực trị của thàm số $y=f(|x|)$. Mà $f(x)$ có hai điểm cực trị dương nên $y=f(|x|)$ có 5 điểm cực trị."
+    },
+    {
+        "ID": "Math_42_50",
+        "Image_Question": "",
+        "Question": "Câu 50: Cho tứ diện đều $S . A B C$ cạnh 2 , có $D$ là điểm thuộc cạnh $A B$ sao cho $B D=2 A D, I$ là trung điểm của $S D$. Một đường thẳng $d$ thay đổi qua $I$ cắt các cạnh $S A, S B$ lần lượt tại $M$ và $N$. Khi $d$ thay đổi, thể tích khối chóp $S . M N C$ có giá trị nhỏ nhất là\nA. $\\frac{\\sqrt{3}}{8}$.\nB. $\\frac{\\sqrt{3}}{6}$.\nC. $\\frac{4 \\sqrt{3}}{27}$.\nD. $\\frac{4 \\sqrt{2}}{27}$.",
+        "Choice": "D",
+        "Image_Answer": "Math_42/image024.png",
+        "Explanation": "$$\nS_{S M N}=S_{S M I}+S_{S N I}=\\frac{S M}{S A} \\frac{S I}{S D} S_{S A D}+\\frac{S N}{S B} \\frac{S I}{S D} S_{S B D}=\\frac{S_{S A B}}{6} \\frac{S M}{S A}+\\frac{S_{S A B}}{3} \\frac{S N}{S B}=\\frac{\\sqrt{3}}{12} S M+\\frac{\\sqrt{3}}{6} S N\n$$\nTa có $S_{S M N}=\\frac{1}{2} S M \\cdot S N \\sin \\widehat{A S M}=\\frac{\\sqrt{3}}{4} S M \\cdot S N=6 \\sqrt{3} \\cdot \\frac{\\sqrt{3}}{12} S M \\cdot \\frac{\\sqrt{3}}{6} S N$.\nÁp dụng bất đẳng thức $A m-\\operatorname{gm} S_{S M N} \\leq 6 \\sqrt{3} \\frac{\\left(\\frac{\\sqrt{3}}{12} S M+\\frac{\\sqrt{3}}{6} S N\\right)^{2}}{4}=\\frac{3 \\sqrt{3}}{2} S_{S M N}^{2} \\Rightarrow S_{S M N} \\geq \\frac{2 \\sqrt{3}}{9}$.\nMặc khác tứ diện $S . A B C$ đều nên:\n$$\n\\begin{aligned}\n& d(C,(S M N))=d(C,(S A B))=d(S,(A B C))=\\sqrt{S A^{2}-A H^{2}}=\\sqrt{S A^{2}-\\left(\\frac{2}{3} \\frac{A B \\sqrt{3}}{2}\\right)^{2}}=\\frac{2 \\sqrt{6}}{3} \\\\\n& \\Rightarrow V_{S . C M N}=V_{C . S M N}=\\frac{1}{3} d(C,(S M N)) \\cdot S_{S M N} \\geq \\frac{1}{3} \\cdot \\frac{2 \\sqrt{6}}{3} \\cdot \\frac{2 \\sqrt{3}}{9}=\\frac{4 \\sqrt{2}}{27} .\n\\end{aligned}\n$$"
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Bio_27_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Quần thể giao phối ngẫu nhiên nào sau đây có tần số kiểu gen không thay đổi qua các thế hệ từ $P$ sang $F_{1}$ ?\nA. P: $30 \\%$ AA : $50 \\%$ Aa : $20 \\%$ aa.\nB. P: $100 \\%$ aa.\nC. P: $100 \\%$ Aa.\nD. P: $50 \\%$ AA : $50 \\%$ aа.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Quần thể $\\mathrm{P}: 100 \\%$ aa sẽ không thay đổi cấu trúc di truyền từ $\\mathrm{P} \\rightarrow \\mathrm{F}_{1}$.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Tuổi sinh thái là\nA. thời gian sống thực tế của cá thể.\nB. thời gian sống có thể đạt tới của một cá thể.\nC. tuổi thọ trung bình của loài.\nD. tuổi bình quân của quần thể.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tuổi sinh thái là thời gian sống thực tế của cá thể.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Một số cây sống gần nhau có hiện tượng liền rễ. Vì thế, nước và muối khoáng do rễ của cây này hút vào có khả năng dẫn truyền sang cây khác thông qua phần rễ liền nhau. Đây là biểu hiện của mối quan hệ\nA. cạnh tranh.\nB. kí sinh.\nC. ức chế - cảm nhiễm.\nD. hỗ trợ.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Đây là biểu hiện của mối quan hệ hỗ trợ.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Trong các mức cấu trúc siêu hiển vi của NST điển hình ở sinh vật nhân thực, mức cấu trúc nào sau đây có đường kính $30 \\mathrm{~nm}$ ?\nA. Sợi chất nhiễm sắc.\nB. Sợi cơ bản.\nC. Sợi siêu xoắn.\nD. Crômatit.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Sợi nhiễm sắc có đường kính $30 \\mathrm{~nm}$.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Thành tựu nào sau đây là ứng dụng của công nghệ tế bào?\nA. Giống lúa lùn $\\mathrm{IR}_{22 \\text {. }}^{2}$.\nB. Cừu Đôly.\nC. Giống lúa \"gạo vàng\".\nD. Dâu tằm tam bội.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "A: Chọn lọc nguồn biến dị tổ hợp.\nB: Công nghệ tế bào.\nC: Công nghệ gen.\nD: Gây đột biến.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Trong cơ chế điều hòa hoạt động của opêron Lac ở vi khuẩn E. coli, quy định tổng hợp các enzim tham gia vào các phản ứng phân giải đường lactôzo là vai trò của\nA. vùng khởi động.\nB. các gen cấu trúc.\nC. gen điều hòa.\nD. vùng vận hành.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Trong cơ chế điều hòa hoạt động của opêron Lac ở vi khuẩn E. coli, quy định tổng hợp các enzim tham gia vào các phản ứng phân giải đường lactôzơ là vai trò của các gen cấu trúc.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Động vật nào sau đây có hệ tuần hoàn đơn?\nA. Lưỡng cur.\nB. Thú.\nC. Cá.\nD. Chim.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cá có hệ tuần hoàn đơn, các động vật còn lại có hệ tuần hoàn kép.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Khoảng giá trị của các nhân tố sinh thái gây ức chế cho hoạt động sinh lí của sinh vật được gọi là\nA. ổ sinh thái.\nB. khoảng thuận lợi.\nC. giới hạn sinh thái.\nD. khoảng chống chịu.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Khoảng giá trị của các nhân tố sinh thái gây ức chế cho hoạt động sinh lí của sinh vật được gọi là khoảng chống chịu.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Nếu kết quả của phép lai thuận và lai nghịch khác nhau, đời con luôn có kiểu hình giống mẹ thì gen quy định tính trạng đang nghiên cứu nằm ở\nA. NST Y.\nB. NST X.\nC. NST thường.\nD. ngoài nhân.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Nếu kết quả của phép lai thuận và lai nghịch khác nhau, đời con luôn có kiểu hình giống mẹ thì gen quy định tính trạng đang nghiên cứu nằm ở ngoài nhân.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Phép lai P: ♀XAXa × ♂ XaY tạo ra F1. Theo lí thuyết, F1 không có loại kiểu gen nào sau đây?\nA. $\\mathrm{X}^{\\mathrm{A}} \\mathrm{Y}$.\nB. $X^{\\mathrm{A}} X^{\\mathrm{A}}$.\nC. $\\mathrm{X}^{\\mathrm{a}} \\mathrm{Y}$.\nD. $X^{\\mathrm{A}} X^{\\mathrm{a}}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "\\& $\\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}} \\times \\oint^{\\lambda} \\mathrm{X}^{\\mathrm{a}} \\mathrm{Y} \\rightarrow 1 \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}: 1 \\mathrm{X}^{\\mathrm{A}} \\mathrm{Y}: 1 \\mathrm{X}^{\\mathrm{a}} \\mathrm{X}^{\\mathrm{a}}: 1 \\mathrm{X}^{\\mathrm{a}} \\mathrm{Y}$\nVậy không thể tạo kiểu gen $\\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{A}}$.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Bước nào sau đây không có trong phương pháp lai và phân tích con lai của Menđen?\nA. Xử lí mẫu vật bằng tác nhân đột biến.\nB. Lai các dòng thuần chủng khác nhau về một hoặc nhiều tính trạng.\nC. Tạo các dòng thuần chủng bằng cách cho cây tự thụ phấn.\nD. Sử dụng toán xác suất để phân tích kết quả lai.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Xử lí mẫu vật bằng tác nhân đột biến không có trong phương pháp nghiên cứu của Menđen.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Trong tế bào thực vật, bào quan nào sau đây thực hiện quá trình hô hấp?\nA. Ribôxôm.\nB. Ti thể.\nC. Lục lạp.\nD. Không bào.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ribosome: Tham gia dịch mã tổng hợp protein.\nTi thể: hô hấp\nLục lạp: quang hợp\nKhông bào: dự trữ các chất.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Đơn phân cấu tạo nên phân tử ADN là gì?\nA. Axit amin.\nB. Glixêrol.\nC. Nuclêôxôm.\nD. Nuclêôtit.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "$\\mathrm{ADN}$ được cấu tạo theo nguyên tắc đa phân, đơn phân là các nucleotide.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Nhân tố nào sau đây cung cấp nguồn biến dị sơ cấp cho quá trình tiến hoá?\nA. Đột biến.\nB. Chọn lọc tự nhiên.\nC. Giao phối không ngẫu nhiên.\nD. Các yếu tố ngẫu nhiên.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đột biến cung cấp nguồn biến dị sơ cấp cho quá trình tiến hoá.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Trong lịch sử phát triển của sinh giới, loài người (H. sapiens) xuất hiện ở đại nào?\nA. Nguyên sinh.\nB. Cổ sinh.\nC. Tân sinh.\nD. Trung sinh.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong lịch sử phát triển của sinh giới, loài người (H. sapiens) xuất hiện ở đại Tân sinh.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Phiên mã là quá trình tổng hợp\nA. ADN.\nB. ARN.\nC. prôtêin.\nD. lipit.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Phiên mã là quá trình tổng hợp $\\mathrm{ARN}$.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Theo thuyết tiến hoá hiện đại, hiện tượng trao đổi các cá thể hoặc các giao tử giữa các quần thể cùng loài được gọi là\nA. giao phối không ngẫu nhiên.\nB. di - nhập gen.\nC. đột biến.\nD. chọn lọc tự nhiên.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Theo thuyết tiến hoá hiện đại, hiện tượng trao đổi các cá thể hoặc các giao tử giữa các quần thể cùng loài được gọi là di - nhập gen.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Sự tương đồng về cấu trúc giữa chi trước của mèo và tay người là bằng chứng tiến hoá nào sau đây?\nA. Bằng chứng trực tiếp.\nB. Bằng chứng giải phẫu so sánh.\nC. Bằng chứng sinh học phân tử.\nD. Bằng chứng tế bào học.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chọn B."
+    },
+    {
+        "ID": "Bio_27_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Ở tằm, gen quy định màu sắc trứng nằm trên NST X không có alen trên NST Y, alen A quy định trứng màu xám; alen a quy định trứng màu trắng. Dựa vào màu sắc trứng, phép lai nào sau đây có thể sớm xác định giới tính của tằm con?\nA. $X^{\\mathrm{A}} Y \\times X^{\\mathrm{a}} X^{\\mathrm{a}}$.\nB. $X^{\\mathrm{A}} Y \\times X^{\\mathrm{A}} X^{\\mathrm{A}}$.\nC. $\\mathrm{X}^{\\mathrm{a}} \\mathrm{Y} \\times \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}$.\nD. $\\mathrm{X}^{\\mathrm{a}} \\mathrm{Y} \\times \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{A}}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phép lai $\\mathrm{A}$ có thể phân biệt được con đực và con cái ở giai đoạn trứng:\n$\\mathrm{X}^{\\mathrm{a}} \\mathrm{X}^{\\mathrm{a}} \\times \\mathrm{X}^{\\mathrm{A}} \\mathrm{Y} \\rightarrow \\mathrm{X}^{\\mathrm{A}} \\mathrm{X}^{\\mathrm{a}}: \\mathrm{X}^{\\mathrm{a}} \\mathrm{Y}$\n$\\rightarrow$ trứng màu trắng là con đực, trứng màu xám là con cái.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Ở ruồi giấm, khi lai 2 dòng thuần chủng ruồi thân xám, cánh dài với ruồi thân đen, cánh cụt tạo ra $F_{1} 100 \\%$ ruồi thân xám, cánh dài. Lai phân tích ruồi đực $\\mathrm{F}_{1}$ tạo ra $\\mathrm{F}_{2}$ có tỉ lệ 1 ruồi thân xám, cánh dài : 1 ruồi thân đen, cánh cụt. Theo lí thuyết, các tính trạng màu sắc thân và hình dạng cánh chịu sự chi phối của quy luật di truyền\nA. liên kết với giới tính.\nB. tương tác bổ sung.\nC. phân li độc lập.\nD. liên kết gen hoàn toàn.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Lai phân tích cho tỉ lệ 1:1 không đề cập tới giới tính $\\rightarrow$ gen trên NST thường, không có tương tác gen.\n$\\rightarrow$ Có thể là liên kết hoàn toàn: $P: \\frac{A B}{A B} \\times \\frac{a b}{a b} \\rightarrow F_{1}: \\frac{A B}{a b} \\times \\frac{a b}{a b} \\rightarrow F_{a}: 1 \\frac{A B}{a b}: 1 \\frac{a b}{a b}$\nChọn D"
+    },
+    {
+        "ID": "Bio_27_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Khi nói về các đặc trưng cơ bản của quần thể sinh vật, phát biểu nào sau đây đúng?\nA. Trong điều kiện môi trường bị giới hạn, quần thể tăng trưởng theo tiềm năng sinh học.\nB. Cấu trúc tuổi của quần thể thay đổi không phụ thuộc vào điều kiện sống của môi trường.\nC. Mật độ cá thể của mỗi quần thể ổn định, không thay đổi theo mùa, theo năm.\nD. Sự phân bố cá thể có ảnh hưởng tới khả năng khai thác nguồn sống trong môi trường.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "A sai, trong điều kiện môi trường bị giới hạn, quần thể tăng trưởng theo đường cong hình chũ $\\mathrm{S}$, bị giới hạn bởi các yếu tố.\nB sai, cấu trúc tuổi của quần thể phụ thuộc vào vào điều kiện sống của môi trường.\nC sai, mật độ phụ thuộc vào số lượng cá thể và diện tích phân bố, thay đổi theo mùa, theo năm.\nD đúng.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Khi nói về kích thước của quần thể sinh vật, phát biểu nào sau đây đúng?\nA. Kích thước của quần thể ổn định, không phụ thuộc vào điều kiện môi trường.\nB. Kích thước của quần thể là khoảng không gian mà các cá thể của quần thể sinh sống.\nC. Kích thước quần thể có ảnh hưởng đến mức sinh sản và mức tử vong của quần thể.\nD. Nếu kích thước quần thể đạt mức tối đa thì các cá thể trong quần thể thường tăng cường hỗ trợ nhau.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "A sai, kích thước của quần thể phụ thuộc vào điều kiện môi trường.\nB sai, kích thước của quần thể là số lượng cá thể.\n$C$ đúng.\nD sai. Nếu kích thước quần thể đạt mức tối đa thì các cá thể trong quần thể sẽ cạnh tranh với nhau gay gắt.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_23",
+        "Image_Question": "Bio_27/Bio_27_23.jpeg",
+        "Question": "Câu 23:  Cho hình vẽ mô tả thí nghiệm như sau:\nThí nghiệm này nhằm phát hiện\nA. quang hợp hấp thụ $\\mathrm{CO}_{2}$.\nB. hô hấp thải khí $\\mathrm{CO}_{2}$.\nC. sự hấp thụ $\\mathrm{O}_{2}$ trong hô hấp.\nD. hô hấp tỏa nhiệt.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hạt nảy mầm sẽ hô hấp mạnh, quá trình hô hấp tạo ra khí $\\mathrm{CO}_{2}$ và nhiệt lượng, hấp thụ khí oxy.\nKhí $\\mathrm{CO}_{2}$ tạo ra được vôi sút hấp thụ, hạt hút khí $\\mathrm{O}_{2}$ làm cho giọt nước màu di chuyển về phía bên trái.\nThí nghiệm này nhằm phát hiện sự hấp thụ $\\mathrm{O}_{2}$ trong hô hấp.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Nuôi cấy hạt phấn của cây có kiểu gen AabbDd thành các dòng đơn bội, sau đó lưỡng bội hóa tạo thành các dòng lưỡng bội thuần chủng. Số dòng thuần chủng tối đa có thể tạo ra là\nA. 2 .\nB. 8.\nC. 4 .\nD. 6 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Số loại hạt phấn của cây AabbDd là $4 \\rightarrow$ khi lưỡng bội hoá thu được tối đa 4 dòng thuần.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Đặc trưng nào dưới đây là đặc trưng cơ bản của quần xã?\nA. Tỉ lệ giới tính.\nB. Nhóm tuổi.\nC. Thành phần loài.\nD. Mật độ cá thể.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Thành phần loài là đặc trưng cơ bản của quần xã.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Xét quá trình sinh tinh của cơ thể có kiểu gen $\\frac{A b}{a B} X^{D} Y$. Biết trong quá trình giảm phân ở một số tế bào, cặp NST thường không phân li trong giảm phân 1, các quá trình khác diễn ra bình thường. Loại giao tử nào sau đây không được tạo ra ở cơ thể này?\nA. $\\underline{A B} \\underline{a B} X^{D}$.\nB. $\\underline{A b} \\underline{A b} X^{\\mathrm{D}}$.\nC. $\\underline{A b} \\underline{a B} Y$.\nD. $\\underline{A B} \\underline{a b} Y$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Xét 2 trường hợp:\n\\begin{itemize}\n\\item $\\mathrm{TH}_{1}$ : Có HVG\n\\end{itemize}\nGiao tử tạo ra là: $(\\mathrm{AB} \\mathrm{Ab}: \\mathrm{aB} \\mathrm{ab}: \\mathrm{O})\\left(\\mathrm{X}^{\\mathrm{D}}: \\mathrm{Y}\\right)$ hoặc $(\\mathrm{AB} \\mathrm{ab}: \\mathrm{Ab} \\mathrm{aB}: \\mathrm{O})\\left(\\mathrm{X}^{\\mathrm{D}}: \\mathrm{Y}\\right)$\n$\\mathrm{TH}_{2}$ : Không có $\\mathrm{HVG}$\nGiao tử tạo ra là: $(\\mathrm{Ab} \\mathrm{aB}: \\mathrm{O})\\left(\\mathrm{X}^{\\mathrm{D}}: \\mathrm{Y}\\right) \\rightarrow$ Không thể tạo $\\underline{\\mathrm{Ab}} \\underline{\\mathrm{Ab}} \\mathrm{X}^{\\mathrm{D}}$.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Phân tử ARN chỉ chứa 3 loại nuclêôtit A, U, G được tổng hợp từ một gen. Các bộ ba nào sau đây có thể có trên mạch bổ sung của gen này?\nA. 5'ATG3', 5'AGG3', 5'ATA3'.\nB. 5'AUG3', 5'AGG3', 5'AUA3'.\nC. 5'AUU3', 5'AAX3', 5'AUA3'.\nD. 3'ATX5', 3'AXX5', 3'XTX5'.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trên $A R N$ chỉ có $A, U, G \\rightarrow$ trên mạch mã gốc chỉ có: $T, A, X \\rightarrow$ trên mạch gốc của gen chỉ có $A, T, G \\rightarrow$ Không có $\\mathrm{X}, \\mathrm{U}$.\n$\\rightarrow 5^{\\prime}$ ATG3', 5' AGG3', 5'ATA3'.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_28",
+        "Image_Question": "Bio_27/Bio_27_28.jpeg",
+        "Question": "Câu 28:  Sơ đồ sau đây mô tả quá trình nào đang diễn ra?\nA. Dịch mã.\nB. Phiên mã.\nC. Nhân đôi ADN.\nD. Điều hòa hoạt động của gen.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Quá trình trên xảy ra trên 2 mạch của $\\mathrm{ADN} \\rightarrow$ đây là quá trình nhân đôi $\\mathrm{ADN}$.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Tập hợp sinh vật nào sau đây là quần thể sinh vật?\nA. Tập hợp chim ở rừng Pù Mát.\nB. Tập hợp bướm ở rừng Cúc Phương.\nC. Tập hợp cỏ ở quảng trường Hồ Chí Minh.\nD. Tập hợp cá trắm đen ở hồ Cửa Nam.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Tập hợp cá trắm đen ở hồ Cửa Nam là một quần thể sinh vật.\nCác tập hợp khác gồm nhiều cá thể khác loài.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Đột biến nào sau đây không làm thay đổi trình tự gen trên NST?\nA. Lệch bội.\nB. Chuyển đoạn.\nC. Mất đoạn.\nD. Đảo đoạn.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Đột biến lệch bội chỉ làm thay đổi số lượng NST mà không làm thay đổi trình tự gen trên NST.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Khi nói về ổ sinh thái, có bao nhiêu phát biểu sau đây đúng?\nI. Các loài có ổ sinh thái về độ ẩm trùng nhau một phần vẫn có thể cùng sống trong một sinh cảnh.\nII. Ổ sinh thái của mỗi loài khác với nơi ở của chúng.\nIII. Kích thước thức ăn, hình thức bắt mồi,... của mỗi loài tạo nên các ổ sinh thái về dinh dưỡng.\nIV. Các loài cùng sống trong một sinh cảnh chắc chắn có ổ sinh thái về nhiệt độ trùng nhau hoàn toàn.\nA. 4.\nB. 1.\nC. 3 .\nD. 2 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "I đúng, nhưng 2 loài này sẽ có cạnh tranh với nhau.\nII đúng, ổ sinh thái là không gian sinh thái còn nơi ở là địa điểm cư trú của chúng.\n\\section{III đúng.}\nIV sai, các loài cùng sống trong một sinh cảnh có giới hạn nhiệt độ khác nhau.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_32",
+        "Image_Question": "Bio_27/Bio_27_32.jpeg",
+        "Question": "Câu 32:  Theo dõi sự di truyền tính trạng hói đầu ở một đại gia đình, người ta lập được sơ đồ phả hệ sau:\nBiết tính trạng hói đầu do gen trội $\\mathrm{H}$ nằm trên NST thường quy định, kiểu gen HH quy định hói đầu, hh quy định không hói đầu, Hh quy định hói đầu ở nam và không hói đầu ở nữ. Theo lí thuyết, có tối đa bao nhiêu người trong phả hệ trên mang kiểu gen dị hợp về tính trạng này?\nA. 6 .\nB. 5 .\nC. 7 .\nD. 8 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Những người phụ nữ bị hói đầu có kiểu gen $\\mathrm{HH}$ : 3\nNhững người đàn ông không bị hói có kiểu gen hh: 1,4,9\nTa có thể xác định kiểu gen của người 7 : $\\mathrm{Hh}$\nNhững người còn lại có thể có kiểu gen dị hợp.\n$\\rightarrow$ Có tối đa 8 người.\nChọn D"
+    },
+    {
+        "ID": "Bio_27_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Trên tro tàn núi lửa xuất hiện quần xã tiên phong. Quần xã này sinh sống và phát triển làm tăng độ ẩm và làm giàu thêm nguồn dinh dưỡng hữu cơ, tạo thuận lợi cho cỏ thay thế. Theo thời gian, sau cỏ là trảng cây thân thảo, thân gỗ và cuối cùng là rừng nguyên sinh. Theo lí thuyết, khi nói về quá trình này, có bao nhiêu phát biểu đúng?\nI. Đây là quá trình diễn thế sinh thái.\nII. Song song với sự biến đổi của quần xã là sự biến đổi của môi trường.\nIII. Độ đa dạng sinh học giảm dần trong quá trình biến đổi này.\nIV. Sự cạnh tranh giữa các loài trong quần xã là nguyên nhân duy nhất gây ra quá trình biến đổi này.\nA. 2 .\nB. 4 .\nC. 1 .\nD. 3 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\section{I đúng.}\n\\section{II đúng.}\nIII sai, đây là diễn thế nguyên sinh khởi đầu từ một môi trường chưa có sinh vật, kết thúc sẽ hình thành một quần xã ổn định, độ đa dạng sinh học cao.\nIV sai, nguyên nhân của quá trình này là tác động của nhân tố bên ngoài (khí hậu, thiên tai) hoặc do sự cạnh tranh gay gắt giữa các loài trong quần xã (nhân tố bên trong).\nChọn A"
+    },
+    {
+        "ID": "Bio_27_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Trong nhân tế bào, xét gen có 2 alen, alen A có 339 guanin, alen a có 400 guanin. Cho hai cá thể đều có kiểu gen Aa lai với nhau, đời con $\\mathrm{F}_{1}$ xuất hiện cơ thể đột biến có 1078 xitôzin ở gen được xét. Dạng đột biến làm xuất hiện cơ thể trên có thể là\nA. đảo đoạn.\nB. đột biến gen.\nC. tam bội.\nD. mất đoạn.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ta có $: 1078=400+399 \\times 2 \\rightarrow$ cơ thể có kiểu gen: AAa $\\rightarrow$ đột biến tam bội.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Đo chỉ số đường huyết khi đói của một người, thu được kết quả thể hiện qua đồ thị sau:\nA. Ở thời điểm 20h tuyến tụy tăng tiết insulin.\nB. Người này bị bệnh tiểu đường.\nC. Ở thời điểm 14h, tuyến tụy tăng tiết glucagôn.\nD. Người này cần tăng cường ăn nhiều thức ăn đường bột.\n\\begin{center}\n\\begin{tabular}{|l|c|}\n\\hline\n$\\begin{array}{l}\\text { Đường huyết } \\\\ \\text { khi đói }\\end{array}$ & $\\begin{array}{c}\\text { Chỉ số đo được } \\\\ \\text { (mmol/1) }\\end{array}$ \\\\\n\\hline\nBình thường & $4.0-$ dưới 5.6 \\\\\n\\hline\n$\\begin{array}{l}\\text { Tiền tiểu } \\\\ \\text { dường }\\end{array}$ & $5.6-6.9$ \\\\\n\\hline\nTiểu đường & $\\geq 7.0$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "A đúng, vì khi đó lượng đường trong máu cao hơn mức trung bình nên tuyến tụy sẽ tiết insulin.\nB sai, lượng đường trong máu của người này $<7 \\mathrm{~mm} \\mathrm{~mol} / \\mathrm{l}$ nên không bị bệnh tiểu đường.\nC sai, vì khi đó lượng đường trong máu cao hơn mức trung bình nên tuyến tụy sẽ tiết insulin.\nD sai, do lượng đường trong máu của người này bình thường nên không nên ăn nhiều thức ăn đường bột, có thể gây bệnh tiểu đường.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Theo thuyết tiến hóa hiện đại, trong các phát biểu sau về quá trình hình thành loài mới, có bao nhiêu phát biểu đúng?\nI. Hình thành loài mới có thể xảy ra trong cùng khu vực địa lí hoặc khác khu vực địa lí.\nII. Đột biến đảo đoạn có thể góp phần tạo nên loài mới.\nIII. Lai xa và đa bội hóa có thể tạo ra loài mới mang bộ NST song nhị bội.\nIV. Quá trình hình thành loài có thể chịu sự tác động của các yếu tố ngẫu nhiên.\nA. 2.\nB. 4 .\nC. 1 .\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Cả 4 phát biểu trên đều đúng về quá trình hình thành loài.\nChọn B"
+    },
+    {
+        "ID": "Bio_27_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Khảo sát ở 4 quần thể A, B, C, D của một loài sinh vật thu được kết quả như sau:\n\\begin{center}\n\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nQuần thề & A & B & C & D \\\\\n\\hline\nDiện tich khu phân bố (ha) & 100 & 120 & 80 & 90 \\\\\n\\hline\nMật độ (cá thể/ha) & 22 & 25 & 26 & 21 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nTheo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Quần thể $\\mathrm{D}$ có kích thước lớn nhất.\nII. Kích thước của quần thể $\\mathrm{A}$ lớn hơn kích thước của quần thể $\\mathrm{C}$.\nIII. Nếu kích thước của quần thể $\\mathrm{B}$ tăng $20 \\% /$ năm thì sau 1 năm mật độ cá thể của quần thể này là 30 cá thể/ha.\nIV. Theo lí thuyết, mức độ cạnh tranh giữa các cá thể ở quần thể D là lớn nhất.\nA. 2 .\nB. 4 .\nC. 1 .\nD. 3 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nQuần thể & A & B & C & D \\\\\n\\hline\nDiện tích khu phân bố (ha) & 100 & 120 & 80 & 90 \\\\\n\\hline\nMật độ (cá thể/ha) & 22 & 25 & 26 & 21 \\\\\n\\hline\nTổng số cá thể (kích thước) & 2200 & 3000 & 2080 & 1890 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nI sai, quần thể $\\mathrm{D}$ có kích thước nhỏ nhất.\nII đúng. Kích thước của quần thể $\\mathrm{A}$ lớn hơn kích thước của quần thể $\\mathrm{C}$.\nIII đúng. Nếu kích thước của quần thể $\\mathrm{B}$ tăng $20 \\% \\rightarrow$ sau 1 năm, kích thước là: $3000 \\times 120 \\%=3600$ cá thể.\nMật độ của quần thể $\\mathrm{B}$ là: $3600: 1200=30$ cá thể/ha.\nIV sai, mật độ cá thể của quần thể $\\mathrm{D}$ nhỏ nhất $\\rightarrow$ các cá thể ít cạnh tranh với nhau nhất.\nChọn A"
+    },
+    {
+        "ID": "Bio_27_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Nghiên cứu sự thay đổi thành phần kiểu gen của 1 quần thể qua 5 thế hệ liên tiếp, thu được kết quả như sau:\n\\begin{center}\n\\begin{tabular}{|c|c|c|c|}\n\\hline\nThế hệ & Kiểu gen $\\mathrm{AA}$ & Kiểu gen $\\mathrm{Aa}$ & Kiểu gen aa \\\\\n\\hline\n$\\mathrm{F}_{1}$ & 0,04 & 0,32 & 0,64 \\\\\n\\hline\n$\\mathrm{F}_{2}$ & 0,04 & 0,32 & 0,64 \\\\\n\\hline\n$\\mathrm{F}_{3}$ & 0,5 & 0,4 & 0,1 \\\\\n\\hline\n$\\mathrm{F}_{4}$ & 0,6 & 0,2 & 0,2 \\\\\n\\hline\n$\\mathrm{F}_{5}$ & 0,65 & 0,1 & 0,25 \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nTheo lí thuyết, có bao nhiêu kết luận sau đây đúng?\nI. Ở thế hệ $\\mathrm{F}_{1}$, quần thể có thể không chịu sự tác động của các nhân tố tiến hóa.\nII. Từ thế hệ $\\mathrm{F}_{2}$ sang $\\mathrm{F}_{3}$, quần thể có thể chịu tác động của các yếu tố ngẫu nhiên.\nIII. Ở thế hệ $\\mathrm{F}_{5}$, tần số tương đối của alen $\\mathrm{A}$ là 0,7 và alen a là 0,3 .\nIV. Chọn lọc tự nhiên tác động từ $\\mathrm{F}_{3}$ sang $\\mathrm{F}_{4}$ theo hướng loại bỏ kiểu hình lặn.\nA. 1 .\nB. 4 .\nC. 3 .\nD. 2 .",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline\nThế hệ & Kiểu gen $\\mathrm{AA}$ & Kiểu gen $\\mathrm{Aa}$ & Kiểu gen aa & Tần số alen \\\\\n\\hline\n$\\mathrm{F}_{1}$ & 0,04 & 0,32 & 0,64 & $\\mathrm{~A}=0,2 ; \\mathrm{a}=0,8$ \\\\\n\\hline\n$\\mathrm{F}_{2}$ & 0,04 & 0,32 & 0,64 & $\\mathrm{~A}=0,2 ; \\mathrm{a}=0,8$ \\\\\n\\hline\n$\\mathrm{F}_{3}$ & 0,5 & 0,4 & 0,1 & $\\mathrm{~A}=0,7 ; \\mathrm{a}=0,3$ \\\\\n\\hline\n$\\mathrm{F}_{4}$ & 0,6 & 0,2 & 0,2 & $\\mathrm{~A}=0,7 ; \\mathrm{a}=0,3$ \\\\\n\\hline\n$\\mathrm{F}_{5}$ & 0,65 & 0,1 & 0,25 & $\\mathrm{~A}=0,7 ; \\mathrm{a}=0,3$ \\\\\n\\hline\n\\end{tabular}\n\\end{center}\nTa thấy ở $\\mathrm{F}_{1}, \\mathrm{~F}_{1}$ tần số alen không đổi và đạt cân bằng di truyền.\nTừ $F_{3}$ tần số alen thay đổi mạnh $\\rightarrow$ các yếu tố ngẫu nhiên.\nTừ $F_{3} \\rightarrow F_{5}$, tần số alen không đổi, tỉ lệ đồng hợp tăng, dị hợp giảm $\\rightarrow$ Giao phối không ngẫu nhiên.\nXét các phát biểu:\nI đúng, vì thành phần kiểu gen không thay đổi qua các thế hệ.\nII đúng, vì tần số alen thay đổi đột ngột.\n\\section{III đúng.}\nIV sai, nhân tố tiến hóa ở đây là giao phối không ngẫu nhiên.\nChọn C"
+    },
+    {
+        "ID": "Bio_27_39",
+        "Image_Question": "Bio_27/Bio_27_39.jpeg",
+        "Question": "Câu 39:  Trong quá trình nhân đôi ở 1 dòng vi khuẩn gốc, một đoạn trên vùng mã hóa của gen xảy ra đột biến điểm dạng thay thế tạo ra các alen mới. Kết quả đã hình thành quần thể vi khuẩn có 3 dòng với trình tự nuclêôtit trên đoạn tương ứng như sau:\nBiết rằng: axit amin Ala được mã hóa bởi các côđon: 5'GXU3', 5'GXX3', 5'GXA3' và 5'GXG3'; axit amin Trp được mã hóa bởi côđon 5'UGG3'; axit amin Lys được mã hóa bởi côđon 5'AAA3' và 5'AAG3'. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\nI. Ở cả 3 dòng, nếu cặp nuclêôtit số 3 xảy ra đột biến thay thế thì không ảnh hưởng đến trình tự axit amin trong chuỗi pôlipeptit tương ứng của mỗi dòng.\nII. Trình tự axit amin trong chuỗi pôlipeptit tương ứng của dòng 3 và dòng 2 giống nhau.\nIII. Đột biến thay thế ở cặp nuclêôtit số 9 của dòng 1 có thể làm xuất hiện bộ ba kết thúc sớm.\nIV. Thứ tự đột biến của các dòng có thể là: Dòng $2 \\rightarrow$ Dòng $3 \\rightarrow$ Dòng 1 .\nA. 2 .\nB. 4.\nC. 1 .\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Thay $\\mathrm{T}$ bằng $\\mathrm{U}$ ở mạch bổ sung, ta có trình tự các codon trên $\\mathrm{mARN}$ :\nDòng 1: GXU - AUG - UGG $\\rightarrow$ trình tự axit amin Ala - Met - Trp.\nDòng 2: GXU - AAG - XGG $\\rightarrow$ trình tự axit amin Ala - Lys - Arg.\nDòng 3: GXU - AUG - XGG $\\rightarrow$ trình tự axit amin Ala - Met - Arg.\nI đúng, nếu cặp nucleotit số 3 bị đột biến thành nucleotit loại nào thì codon đó đều mã hóa Ala $\\rightarrow$ không ảnh hưởng đến trình tự axit amin.\nII sai.\nIII đúng, nếu đột biến làm codon UGG $\\rightarrow \\mathrm{UAG}$ (bộ ba kết thúc).\n\\section{IV đúng.}\nChọn D"
+    },
+    {
+        "ID": "Bio_27_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Chó săn mồi gốc Canađa Labrador Retrievers có tính trạng màu lông do 2 cặp gen (Aa, Bb) phân li độc lập quy định; kiểu gen có cả 2 loại alen trội quy định kiểu hình lông đen; kiểu gen chỉ có 1 loại alen trội $\\mathrm{A}$ quy định kiểu hình lông vàng; các loại kiểu gen còn lại quy định kiểu hình lông nâu.\nPhép lai (P): ổ lông vàng + lông nâu, thu được $\\mathrm{F}_{1}$. Theo lí thuyết, có bao nhiêu dự đoán sau đây về phép lai này là đúng?\nI. $F_{1}$ có thể thu được tối đa 3 loại kiểu hình.\nII. Ở thế hệ (P), có tối đa 6 trường hợp có sơ đồ lai phù hợp.\nIII. Thế hệ $\\mathrm{F}_{1}$ luôn thu được tỉ lệ kiểu hình $100 \\%$ con lông nâu.\nIV. Nếu $\\mathrm{F}_{1}$ xuất hiện kiểu hình lông nâu thì cá thể lông vàng ở (P) không thuần chủng.\nA. 4 .\nB. 1 .\nC. 2 .\nD. 3 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "A-B-: đen; A-bb: vàng; aa--: nâu.\nP: đ̧ lông vàng $q$ lông nâu: A-bb $\\times$ aa--\nXét các phát biểu.\nI đúng, nếu $\\mathrm{P}$ có kiểu gen $\\mathrm{Aabb} \\times \\mathrm{aaBb} \\rightarrow 1 \\mathrm{AaBb}: 1 \\mathrm{Aabb}: 1 \\mathrm{aaBb}: 1 \\mathrm{aabb} \\rightarrow 1$ đen: 1 vàng : 2 nâu.\nII đúng, vì con lông vàng có 2 kiểu gen $(\\mathrm{AAbb} ; \\mathrm{Aabb}) \\times$ con lông nâu có 3 kiểu gen ( $\\mathrm{aaBB}$; $a \\mathrm{aBb}$; $a a b b)$.\nIII sai. Nếu $P$ có kiểu gen $A a b b \\times a a B b \\rightarrow 1 \\mathrm{AaBb}: 1 \\mathrm{Aabb}: 1 \\mathrm{aaBb}: 1 \\mathrm{aabb} \\rightarrow 1$ đen: 1 vàng : 2 nâu.\nIV đúng, nếu con vàng $\\mathrm{P}$ thuần chủng thì đời con luôn có $\\mathrm{A} \\rightarrow$ không thể có con lông nâu.\nChọn D."
+    }
+]

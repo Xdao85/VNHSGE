@@ -1,0 +1,322 @@
+[
+    {
+        "ID": "Phy_28_1",
+        "Image_Question": "",
+        "Question": "Câu 1:  Khi nói về sóng cơ, phát biểu nào sau đây sai?\nA. sóng cơ lan truyền được trong chất khí.\nB. sóng cơ lan truyền được trong chất rắn.\nC. sóng cơ lan truyền được trong chân không.\nD. sóng cơ lan truyền được trong chất lỏng.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Phát biểu sai khi nói về sóng cơ là: Sóng cơ lan truyền được trong chân không.\nChọn C"
+    },
+    {
+        "ID": "Phy_28_2",
+        "Image_Question": "",
+        "Question": "Câu 2:  Trong khung dây kín xuất hiện dòng điện cảm ứng khi\nA. từ thông qua khung biến thiên.\nB. có từ thông qua nó.\nC. đặt nó trong một từ trường đều.\nD. điện trường qua khung biển thiên.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Trong khung dây kín xuất hiện dòng điện cảm ứng khi từ thông qua khung biến thiên.\nChọn A"
+    },
+    {
+        "ID": "Phy_28_3",
+        "Image_Question": "",
+        "Question": "Câu 3:  Khi xảy ra hiện tượng cộng hưởng cơ thì vật tiếp tục dao động\nA. với tần số bằng tần số dao động riêng.\nB. mà không chịu ngoại lực tác dụng.\nC. với tần số lớn hơn tần số dao động riêng.\nD. với tần số nhỏ hơn tần số dao động.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Khi xảy ra hiện tượng cộng hưởng cơ thì vật tiếp tục dao động với tần số bằng tần số dao động riêng.\nChọn A"
+    },
+    {
+        "ID": "Phy_28_4",
+        "Image_Question": "",
+        "Question": "Câu 4:  Phát biểu nào sau đây đúng? Trong từ trường, cảm ứng từ tại một điểm\nA. ngược hướng với lực từ.\nB. ngược hướng với đường sức từ.\nC. nằm theo hướng của lực từ.\nD. nằm theo hướng của đường sức từ.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Trong từ trường, cảm ứng từ tại một điểm nằm theo hướng của đường sức từ.\nChọn D"
+    },
+    {
+        "ID": "Phy_28_5",
+        "Image_Question": "",
+        "Question": "Câu 5:  Một con lắc lò xo gồm lò xo khối lượng không đáng kể, độ cứng $\\mathrm{k}$ và một hòn bi khối lượng $\\mathrm{m}$ gắn vào đầu lò xo, đầu kia của lò xo được treo vào một điểm cố định. Kích thích cho con lắc dao động điều hòa theo phương thẳng đứng. Chu kì dao động của con lắc là\nA. $\\frac{1}{2 \\pi \\sqrt{\\frac{m}{k}}}$.\nB. $\\frac{1}{2 \\pi \\sqrt{\\frac{k}{m}}}$.\nC. $2 \\pi \\sqrt{\\frac{k}{m}}$.\nD. $2 \\pi \\sqrt{\\frac{m}{k}}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Chu kì dao động của con lắc là: $T=2 \\pi \\sqrt{\\frac{m}{k}}$\nChọn D"
+    },
+    {
+        "ID": "Phy_28_6",
+        "Image_Question": "",
+        "Question": "Câu 6:  Trong dao động điều hòa của một vật thì tập hợp ba đại lượng nào sau đây là không đổi theo thời gian?\nA. biên độ; tần số; gia tốc.\nB. động năng, tần số; lực.\nC. biên độ; tần số; năng lượng toàn phần.\nD. lực; vận tốc; năng lượng toàn phần.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Trong dao động điều hòa của một vật thì tập hợp ba đại lượng không đổi theo thời gian là: biên độ; tần số; năng lượng toàn phần.\nChọn C"
+    },
+    {
+        "ID": "Phy_28_7",
+        "Image_Question": "",
+        "Question": "Câu 7:  Một sóng cơ hình sin, biên độ $\\mathrm{A}$ lan truyền qua hai điểm $\\mathrm{M}$ và $\\mathrm{N}$ trên cùng một phương truyền sóng. Quan sát dao động của hai phần từ này thì thấy rằng khi phần từ $\\mathrm{M}$ có $\\mathrm{li}$ độ $u_{M}$ thì phần tử $\\mathrm{N}$ đi qua vị trí có li độ $u_{N}$ với $u_{M}=-u_{N}$. Vị trí cân bằng của $\\mathrm{M}$ và $\\mathrm{N}$ có thể cách nhau một khoảng là\nA. ba phần tư bước sóng.\nB. một phần tư bước sóng.\nC. một bước sóng.\nD. một nửa bước sóng.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Khi $\\mathrm{M}$ có li độ $u_{M}$ thì $\\mathrm{N}$ có $u_{N}=-u_{M} \\rightarrow \\mathrm{M}$ và $\\mathrm{N}$ dao động ngược pha.\n$\\Rightarrow \\Delta \\varphi=\\frac{2 \\pi d}{\\lambda}=(2 k+1) \\pi \\Rightarrow d=(2 k+1) \\frac{\\lambda}{2}$\n$\\rightarrow \\mathrm{VTCB}$ của $\\mathrm{M}$ và $\\mathrm{N}$ có thể cách nhau một khoảng là $\\frac{\\lambda}{2}$ (ứng với $\\mathrm{k}=0$ ).\nChọn D"
+    },
+    {
+        "ID": "Phy_28_8",
+        "Image_Question": "",
+        "Question": "Câu 8:  Phát biểu nào sau đây là đúng khi nói về sóng cơ?\nA. Bước sóng là khoảng cách giữa hai điểm trên cùng một phương truyền sóng mà dao động tại hai điểm đó cùng pha.\nB. Sóng cơ truyền trong chất rắn luôn là sóng dọc.\nC. Bước sóng là khoảng cách giữa hai điểm gần nhau nhất trên cùng một phương truyền sóng mà dao động tại hai điểm đó cùng pha.\nD. Sóng cơ truyền trong chất lỏng luôn là sóng ngang.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Bước sóng là khoảng cách giữa hai điểm gần nhau nhất trên cùng một phương truyền sóng mà dao động tại hai điểm đó cùng pha.\nChọn C"
+    },
+    {
+        "ID": "Phy_28_9",
+        "Image_Question": "",
+        "Question": "Câu 9:  Để khảo sát giao thoa sóng cơ, người ta bố trí trên mặt nước nằm ngang hai nguồn kết hợp $S_{1}$ và $S_{2}$. Hai nguồn này dao động điều hòa theo phương thẳng đứng, cùng pha. Xem biên độ sóng không thay đổi trong quá trình truyền sóng. Các điểm thuộc mặt nước và nằm trên đường trung trực của đoạn $S_{1} S_{2}$ sẽ\nA. không dao động.\nB. dao động với biên độ cực đại.\nC. dao động với biên độ bằng nửa biên độ cực đại.\nD. dao động với biên độ cực tiểu.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Các điểm thuộc mặt nước và nằm trên đường trung trực của đoạn $S_{1} S_{2}$ có $d_{2}=d_{1}$\n$\\Rightarrow A_{M}=2 A \\cdot\\left|\\cos \\frac{\\pi \\cdot 0}{\\lambda}\\right|=2 A$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_10",
+        "Image_Question": "",
+        "Question": "Câu 10:  Cho hai dây dẫn thẳng, dài, đặt song song trong cùng một mặt phẳng như hình vẽ. Trong hai dây dẫn có hai dòng điện cùng chiều\n(1) chạy qua. Gọi $\\mathrm{M}$ là điểm mà tại đó cảm ứng từ tổng hợp bằng 0 . $\\mathrm{M}$ chỉ có thể nằm tại vùng\nA. cả ba vị trí trên.\nB. (1).\nC. (2).\nD. (3).\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-02}\n\\end{center}",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Cảm ứng từ tổng hợp tại $\\mathrm{M}: \\overrightarrow{B_{M}}=\\overrightarrow{B_{1 M}}+\\overrightarrow{B_{2 M}}$\nĐể $B_{M}=0 \\Rightarrow \\overrightarrow{B_{1 M}} \\uparrow \\downarrow \\overrightarrow{B_{2 M}}$\nÁp dụng quy tắc nắm tay phải $\\rightarrow \\mathrm{M}$ nằm trong vùng (2)\nChọn C"
+    },
+    {
+        "ID": "Phy_28_11",
+        "Image_Question": "",
+        "Question": "Câu 11:  Chiều dòng điện cảm ứng trong vòng dây khi nhìn vào mặt trên trong trường hợp cho nam châm rơi thẳng đứng xuyên qua tâm vòng dây giữ cố định như hình vẽ là\nA. không có dòng điện cảm ứng trong vòng dây.\nB. dòng điện cảm ứng cùng kim đồng hồ.\nC. lúc đầu dòng điện ngược kim đồng hồ, khi nam châm xuyên qua đổi chiều cùng kim đồng hồ.\nD. lúc đầu dòng điện cùng kim đồng hồ, khi nam châm xuyên qua đổi chiều\n\\includegraphics[max width=\\textwidth, center]{2023_06_06_67b1069170b539dca735g-02(1)}\nngược kim đồng hồ.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cảm ứng từ $\\vec{B}$ sinh ra bởi nam cham có chiều hướng lên.\n\\begin{itemize}\n\\item Khi nam châm lại gần vòng dây thì từ thông qua vòng dây tăng. Do đó véctơ cảm ứng từ $\\overrightarrow{B_{c}}$ do dòng điện cảm ứng sinh ra phải chống lại việc từ thông tăng, tức là ngược chiều cảm ứng từ ban đầu $\\rightarrow \\vec{B}_{c}$ hướng xuống. Áp dụng quy tắc nắm tay phải xác định được $i_{c u}$ cùng chiều kim đồng hồ.\n\\item Sau đó nam châm ra xa vòng dây, làm tương tự ta xác định được $i_{c u}$ ngược chiều kim đồng hồ. \\href{http://TuyenSinh247.com}{TuyenSinh247.com}\n\\end{itemize}\nChọn D."
+    },
+    {
+        "ID": "Phy_28_12",
+        "Image_Question": "",
+        "Question": "Câu 12:  Hai dao động điều hòa cùng phương, có phương trình $x_{1}=A \\cos \\left(\\omega t+\\frac{\\pi}{3}\\right)$ và $x_{2}=A \\cos \\left(\\omega t-\\frac{2 \\pi}{3}\\right)$ là hai dao động\nA. cùng pha.\nB. ngược pha.\nC. lệch pha $\\frac{\\pi}{3}$.\nD. lệch pha $\\frac{\\pi}{2}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": ":\nĐộ lệch pha của hai dao động là:\n$$\n\\Delta \\varphi=\\varphi_{1}-\\varphi_{2}=\\frac{\\pi}{3}-\\left(-\\frac{2 \\pi}{3}\\right)=\\pi\n$$\n$\\rightarrow$ Hai dao động ngược pha.\nChọn B."
+    },
+    {
+        "ID": "Phy_28_13",
+        "Image_Question": "",
+        "Question": "Câu 13:  Một vật dao động điều hòa tắt dần. Cứ sau mỗi chu kì biên độ dao động giảm 3\\%. Hỏi sau n chu kì cơ năng còn lại bao nhiêu \\%?\nA. $(0,97)^{2+n} \\cdot 100 \\%$.\nB. $(0,97)^{n} \\cdot 100 \\%$.\nC. $(0,97)^{2 n} \\cdot 100 \\%$.\nD. $(0,97 \\cdot n) \\cdot 100 \\%$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": ":\nSau mỗi chu kì biên độ dao động giảm $3 \\% \\rightarrow$ Sau mỗi chu kì biên độ còn lại bằng $97 \\%$ biên độ trước đó. Gọi $A$ là biên độ dao động ban đầu của vật.\nTa có: $\\left\\{\\begin{array}{l}A_{1}=0,97 A \\\\ A_{2}=0,97 A_{1}=0,97^{2} A \\\\ \\cdots \\ldots . \\\\ A_{n}=0,97^{n} . A\\end{array}\\right.$\nPhần trăm cơ năng còn lại sau $\\mathrm{n}$ chu kì:\n$$\n\\begin{aligned}\n& \\frac{W_{n}}{W} \\cdot 100 \\%=\\frac{\\frac{1}{2} m \\omega^{2} A_{n}^{2}}{\\frac{1}{2} m \\omega^{2} A^{2}} \\cdot 100 \\%=\\left(\\frac{A_{n}}{A}\\right)^{2} \\cdot 100 \\% \\\\\n& \\Rightarrow \\frac{W_{n}}{W} \\cdot 100 \\%=\\left(\\frac{0,97^{n} A}{A}\\right)^{2} \\cdot 100 \\%=0,97^{2 n} \\cdot A\n\\end{aligned}\n$$\nChọn C."
+    },
+    {
+        "ID": "Phy_28_14",
+        "Image_Question": "",
+        "Question": "Câu 14:  Một sóng cơ truyền trên một sợi dây rất dài với tốc độ $1 \\mathrm{~m} / \\mathrm{s}$ và chu kì $0,5 \\mathrm{~s}$. Sóng cơ này có bước sóng là\nA. $150 \\mathrm{~cm}$.\nB. $100 \\mathrm{~cm}$.\nC. $50 \\mathrm{~cm}$.\nD. $25 \\mathrm{~cm}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": ":\nSóng cơ này có bước sóng là:\nTruy cộp trang https:// \\href{http://tuyensinh247.com}{tuyensinh247.com} để học\nToán - Li - Hóa - Sinh - Uăn - Anh - Sù - Địa - Tin - GDCD tất nhất!\n10 $\\lambda=v T=1.0,5=0,5 m=50 \\mathrm{~cm}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_15",
+        "Image_Question": "",
+        "Question": "Câu 15:  Cho dòng điện cường độ $1 \\mathrm{~A}$ chạy trong dây dẫn thẳng dài vô hạn. Cảm ứng từ tại những điểm cách dây $10 \\mathrm{~cm}$ có độ lớn\nA. $5.10^{-6} T$.\nB. $2 \\cdot 10^{-5} T$.\nC. $0,5 \\cdot 10^{-6} \\mathrm{~T}$.\nD. $2 \\cdot 10^{-6} T$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Cảm ứng từ tại những điểm cách dây $10 \\mathrm{~cm}$ có độ lớn là:\n$B=2 \\cdot 10^{-7} \\cdot \\frac{I}{r}=2 \\cdot 10^{-7} \\cdot \\frac{1}{0,1}=2 \\cdot 10^{-6} \\mathrm{~T}$\nChọn D"
+    },
+    {
+        "ID": "Phy_28_16",
+        "Image_Question": "",
+        "Question": "Câu 16:  Lực từ do từ trường đều $B=4 \\cdot 10^{-3} T$ tác dụng lên dòng điện $\\mathrm{I}=5 \\mathrm{~A}$, dài $l=20 \\mathrm{~cm}$, đặt hợp với từ trường góc $150^{\\circ}$ có độ lớn là\nA. $2 \\cdot 10^{-3} N$.\nB. $5.10^{-1} N$.\nC. $\\pi \\cdot 10^{-4} N$.\nD. $2 \\pi \\cdot 10^{-4} \\mathrm{~N}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Lực từ tác dụng lên dòng điện có độ lớn là:\n$$\nF=\\text { B.I.l.sin } \\alpha=4 \\cdot 10^{-3} \\cdot 5 \\cdot 0,2 \\cdot \\sin 150^{\\circ}=2 \\cdot 10^{-3} \\mathrm{~N}\n$$\nChọn A"
+    },
+    {
+        "ID": "Phy_28_17",
+        "Image_Question": "",
+        "Question": "Câu 17:  Cho một sóng ngang có phương trình sóng là $u=8 . \\cos 2 \\pi\\left(\\frac{t}{0,2}-\\frac{x}{40}\\right) \\mathrm{mm}$, trong đó $\\mathrm{x}$ tính bằng $\\mathrm{cm}, \\mathrm{t}$ tính bằng $\\mathrm{s}$. Tốc độ truyền sóng là:\nA. $\\mathrm{v}=2 \\mathrm{~m} / \\mathrm{s}$.\nB. $\\mathrm{v}=10 \\mathrm{~m} / \\mathrm{s}$.\nC. $\\mathrm{v}=1 \\mathrm{~m} / \\mathrm{s}$.\nD. $\\mathrm{v}=20 \\mathrm{~m} / \\mathrm{s}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Phương trình sóng:\n$u=8 \\cdot \\cos 2 \\pi\\left(\\frac{t}{0,2}-\\frac{x}{40}\\right)=8 . \\cos \\left(10 \\pi t-\\frac{\\pi x}{20}\\right) \\mathrm{mm}$\nĐồng nhất phương trình sóng bài cho với phương trình sóng tổng quát ta có:\n$\\left\\{\\begin{array}{l}\\omega=10 \\pi \\\\ \\frac{\\pi x}{20}=\\frac{2 \\pi x}{\\lambda}\\end{array} \\Rightarrow\\left\\{\\begin{array}{l}T=\\frac{2 \\pi}{\\omega}=0,2 \\mathrm{~s} \\\\ \\lambda=40 \\mathrm{~cm}\\end{array}\\right.\\right.$\nTốc độ truyền sóng là:\n$v=\\frac{\\lambda}{T}=\\frac{40}{0,2}=200 \\mathrm{~cm} / \\mathrm{s}=2 \\mathrm{~m} / \\mathrm{s}$\nChọn A"
+    },
+    {
+        "ID": "Phy_28_18",
+        "Image_Question": "",
+        "Question": "Câu 18:  Sóng dừng hình thành trên một sợi dây đàn hồi với tần số $f_{1}$ thì thu được 1 bó sóng. Nếu sử dụng nguồn có tần số $f_{2}=4 f_{1}$ thì số bó sóng thu được là\nA. 3 .\nB. 2.\nC. 1 .\nD. 4 .",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Khi sóng dừng hình thành trên sợi dây đàn hồi thì:\n$l=k \\cdot \\frac{\\lambda}{2}=k \\cdot \\frac{v}{2 f} \\Rightarrow \\frac{k}{f}=\\frac{2 l}{v}=$ const $\\Rightarrow k \\sim f$\n$f_{2}=4 f_{1} \\Rightarrow k_{2}=4 k_{1}=4$\n$\\rightarrow$ Số bó sóng thu được là 4 .\nChọn D"
+    },
+    {
+        "ID": "Phy_28_19",
+        "Image_Question": "",
+        "Question": "Câu 19:  Một chất điểm dao động điều hòa dọc theo trục Ox với phương trình $x=5 \\cdot \\cos (2 \\pi t)(\\mathrm{cm})$. Quãng đường đi được của chất điểm trong 5 chu kì dao động là\nA. $50 \\mathrm{~cm}$.\nB. $200 \\mathrm{~cm}$.\nC. $150 \\mathrm{~cm}$.\nD. $100 \\mathrm{~cm}$.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Phương trình: $x=5 \\cdot \\cos (2 \\pi t)(\\mathrm{cm}) \\Rightarrow A=5 \\mathrm{~cm}$\nQuãng đường chất điểm đi được trong 5 chu kì dao động là:\n$S=5.4 A=5.4 .5=100 \\mathrm{~cm}$\nChọn D"
+    },
+    {
+        "ID": "Phy_28_20",
+        "Image_Question": "",
+        "Question": "Câu 20:  Một vật dao động điều hòa trên đoạn thẳng quỹ đạo dài $20 \\mathrm{~cm}$. Quãng đường nhỏ nhất vật đi được trong $0,5 \\mathrm{~s}$ là $10 \\mathrm{~cm}$. Tốc độ lớn nhất của vật trong quá trình dao động xấp xỉ bằng:\nA. $40,7 \\mathrm{~cm} / \\mathrm{s}$.\nB. $41,9 \\mathrm{~cm} / \\mathrm{s}$.\nC. $35,0 \\mathrm{~cm} / \\mathrm{s}$.\nD. $30,5 \\mathrm{~cm} / \\mathrm{s}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Chiều dài quỹ đạo: $L=2 A=20 \\mathrm{~cm} \\Rightarrow A=10 \\mathrm{~cm}$\nQuãng đường nhỏ nhất vật đi được trong $0,5 \\mathrm{~s}$ là $10 \\mathrm{~cm}$. Biểu diễn trên VTLG:\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-13}\n\\end{center}\nGóc quét tương ứng: $\\alpha=\\frac{\\pi}{3}+\\frac{\\pi}{3}=\\frac{2 \\pi}{3}$\nLại có: $\\alpha=\\omega . \\Delta t \\Rightarrow \\omega=\\frac{\\alpha}{\\Delta t}=\\frac{\\frac{2 \\pi}{3}}{0,5}=\\frac{4 \\pi}{3} \\mathrm{rad} / \\mathrm{s}$\nTốc độ cực đại của vật:\n$v_{\\max }=\\omega A=\\frac{4 \\pi}{3} \\cdot 10=\\frac{40 \\pi}{3} \\mathrm{~cm} / \\mathrm{s} \\approx 41,9 \\mathrm{~cm} / \\mathrm{s}$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_21",
+        "Image_Question": "",
+        "Question": "Câu 21:  Một chất điểm dao động điều hòa theo phương trình $x=4 \\cdot \\cos \\frac{2 \\pi}{3} t(\\mathrm{x}$ tính bằng $\\mathrm{cm}$; $\\mathrm{t}$ tính bằng $\\mathrm{s})$. Kể từ $\\mathrm{t}=0$, chất điểm đi qua vị trí có li độ $x=-2 \\mathrm{~cm}$ lần thứ 2011 tại thời điểm\nA. 3016s.\nB. 6030 s.\nC. 3015s.\nD. $6031 \\mathrm{~s}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Chu kì: $T=\\frac{2 \\pi}{\\omega}=\\frac{2 \\pi}{\\frac{2 \\pi}{3}}=3$ s\nThời điểm ban đầu $\\mathrm{t}=0$ vật có $\\mathrm{x}=4 \\mathrm{~cm}$\nTrong 1 chu kì vật qua vị trí $x=-2 \\mathrm{~cm}$ hai lần. Vậy sau 1005 T vật qua vị trí $x=-2 \\mathrm{~cm} 2010$ lần.\nĐể vật qua vị trí $x=-2 c m$ lần thứ 2011 cần khoảng thời gian $\\Delta t$ với: $\\Delta t=\\frac{\\Delta \\varphi}{\\omega}$\nBiểu diễn trên VTLG ta có:\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-13(1)}\n\\end{center}\nTừ VTLG ta xác định được: $\\Delta \\varphi=\\frac{\\pi}{2}+\\frac{\\pi}{6}=\\frac{2 \\pi}{3} \\Rightarrow \\Delta t=\\frac{\\Delta \\varphi}{\\omega}=\\frac{\\frac{2 \\pi}{3}}{\\frac{2 \\pi}{3}}=1 \\mathrm{~s}$\n$\\rightarrow$ Thời điểm chất điểm đi qua vị trí $x=-2 \\mathrm{~cm}$ lần thứ 2011 vào thời điểm:\n$t=1005 . T+\\Delta t=1005.3+1=3016 \\mathrm{~s}$\nChọn A"
+    },
+    {
+        "ID": "Phy_28_22",
+        "Image_Question": "",
+        "Question": "Câu 22:  Một sóng cơ lan truyền trên mặt nước với bước sóng $\\lambda=12 \\mathrm{~cm}$. Hai điểm $\\mathrm{M}, \\mathrm{N}$ trên bề mặt chất lỏng trên có vị trí cân bằng cách nhau một khoảng $\\mathrm{d}=5 \\mathrm{~cm}$ sẽ dao động lệch pha nhau một góc\nA. $\\frac{3 \\pi}{4}$.\nB. $2 \\pi$.\nC. $\\frac{5 \\pi}{6}$.\nD. $\\frac{2 \\pi}{3}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Hai điểm $\\mathrm{M}, \\mathrm{N}$ dao động lệch pha nhau một góc:\n$\\Delta \\varphi=\\frac{2 \\pi d}{\\lambda}=\\frac{2 \\pi .5}{12}=\\frac{5 \\pi}{6}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_23",
+        "Image_Question": "",
+        "Question": "Câu 23:  Một chất điểm dao động điều hòa có vận tốc cực đại tại hai thời điểm liên tiếp là $t_{1}=2,15 \\mathrm{~s}$ và $t_{2}=2,75 \\mathrm{~s}$. Tính từ thời điểm ban đầu $\\left(t_{0}=0 \\mathrm{~s}\\right)$ đến thời điểm $t_{2}$ chất điểm đã đi qua vị trí có gia tốc cực đại là:\nA. 6 lần.\nB. 4 lần.\nC. 3 lần.\nD. 5 lần.",
+        "Choice": "D",
+        "Image_Answer": "",
+        "Explanation": "Vận tốc đạt giá trị cực đại khi qua VTCB theo chiều dương.\n$\\Rightarrow T=t_{2}-t_{1}=2,75-2,15=0,6 \\mathrm{~s}$\nTần số góc: $\\omega=\\frac{2 \\pi}{T}=\\frac{2 \\pi}{0,6}=\\frac{10 \\pi}{3} \\mathrm{rad} / \\mathrm{s}$\nGóc quét được tính từ $t_{0}=0 \\rightarrow t_{2}=2,75 \\mathrm{~s}$ là:\n$\\alpha=\\omega \\cdot\\left(t_{2}-t_{0}\\right)=\\frac{10 \\pi}{3} \\cdot(2,75-0)=\\frac{55 \\pi}{6}=8 \\pi+\\pi+\\frac{\\pi}{6}$\nChất điểm có giá trị gia tốc cực đại tại biên âm.\n$\\rightarrow$ Từ $t_{0}=0 \\rightarrow t_{2}=2,75 \\mathrm{~s}$ vật qua biên âm 5 lần $\\rightarrow$ vật qua vị trí có gia tốc cực đại 5 lần.\nChọn D"
+    },
+    {
+        "ID": "Phy_28_24",
+        "Image_Question": "",
+        "Question": "Câu 24:  Một đoạn dây dài $l=50 \\mathrm{~cm}$ mang dòng điện cường độ $\\mathrm{I}=4 \\mathrm{~A}$ được đặt trong từ trường đều có cảm ứng từ $\\mathrm{B}=0,1 \\mathrm{~T}$, sao cho đoạn dây dẫn vuông góc với đường sức từ. Độ lớn lực từ tác dụng lên đoạn dây dẫn bằng:\nA. $0,4 \\mathrm{~N}$.\nB. $0,2 \\mathrm{~N}$.\nC. $0.3 \\mathrm{~N}$.\nD. $0,5 \\mathrm{~N}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Ta có: $l=50 \\mathrm{~cm}=0,5 \\mathrm{~m} ; I=4 A ; B=0,1 T$ Độ lớn lực từ tác dụng lên dây dẫn bằng:\n$$\nF=\\text { B.I.l.sin } \\alpha=0,1.4 \\cdot 0,5 \\cdot \\sin 90^{\\circ}=0,2 N\n$$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_25",
+        "Image_Question": "",
+        "Question": "Câu 25:  Hai dao động điều hòa cùng phương, cùng tần số có phương trình $x_{1}=A_{1} \\cos \\left(\\omega t-\\frac{\\pi}{6}\\right) \\mathrm{cm}$ và $x_{2}=A_{2} \\cos (\\omega t-\\pi) \\mathrm{cm}$. Dao động tổng hợp có phương trình $x=6 \\cos (\\omega t+\\varphi) \\mathrm{cm}$ . Để biên độ $A_{2}$ có giá trị cực đại thì $A_{1}$ có giá trị\nA. $6 \\sqrt{3} \\mathrm{~cm}$.\nB. $18 \\sqrt{3} \\mathrm{~cm}$.\nC. $15 \\sqrt{3} \\mathrm{~cm}$.\nD. $7 \\mathrm{~cm}$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-15}\n\\end{center}\nÁp dụng định lí hàm số sin ta có:\n$\\frac{A_{2}}{\\sin \\alpha}=\\frac{A}{\\sin \\frac{\\pi}{6}} \\Rightarrow A_{2}=\\frac{A \\cdot \\sin \\alpha}{\\sin \\frac{\\pi}{6}}$\n$\\Rightarrow A_{2 \\max } \\Leftrightarrow(\\sin \\alpha)_{\\max }=1 \\Rightarrow \\alpha=90^{\\circ}$\nKhi đó: $A_{2 \\max }=\\frac{A}{\\sin \\frac{\\pi}{6}}=\\frac{6}{\\frac{1}{2}}=12 \\mathrm{~cm}$\nTam giác $O A A_{2}$ vuông tại $A$, nên ta có:\n$$\nA_{1}^{2}+A^{2}=A_{2}^{2} \\Rightarrow A_{1}=\\sqrt{A_{2}^{2}-A}=\\sqrt{12^{2}-6^{2}}=6 \\sqrt{3} \\mathrm{~cm}\n$$\nChọn A"
+    },
+    {
+        "ID": "Phy_28_26",
+        "Image_Question": "",
+        "Question": "Câu 26:  Vật nhỏ có khối lượng 200g trong một con lắc lò xo dao động điều hòa với chu kì $\\mathrm{T}$ và biên độ $4 \\mathrm{~cm}$. Biết trong một chu kì, khoảng thời gian để vật nhỏ có độ lớn gia tốc không nhỏ hơn $500 \\sqrt{2} \\mathrm{~cm} / \\mathrm{s}^{2}$ là $\\frac{T}{2}$. Độ cứng của lò xo là.\nA. $40 \\mathrm{~N} / \\mathrm{m}$.\nB. $30 \\mathrm{~N} / \\mathrm{m}$.\nC. $50 \\mathrm{~N} / \\mathrm{m}$.\nD. $20 \\mathrm{~N} / \\mathrm{m}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Góc quét được trong thời gian $\\frac{T}{2}$ là:\n$\\alpha=\\omega \\cdot \\Delta t=\\frac{2 \\pi}{T} \\cdot \\frac{T}{2}=\\pi$\nBiểu diễn trên VTLG:\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-16}\n\\end{center}\nTừ VTLG ta có: $4 \\beta=\\pi \\Rightarrow \\beta=\\frac{\\pi}{4} \\Rightarrow \\alpha=\\frac{\\pi}{4}$\nXét tam giác $\\mathrm{IOH}$ có: $O H=O I \\cdot \\cos \\alpha$\n$\\Rightarrow 500 \\sqrt{2}=\\omega^{2} \\cdot 4 \\cdot \\cos \\frac{\\pi}{4} \\Rightarrow \\omega^{2}=250$\nĐộ cứng của lò xo là:\n$k=m \\omega^{2}=0,2.250=50 \\mathrm{~N} / \\mathrm{m}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_27",
+        "Image_Question": "",
+        "Question": "Câu 27:  Một con lắc lò xo treo thẳng đứng tại một nơi có gia tốc rơi tự do $\\mathrm{g}=10 \\mathrm{~m} / \\mathrm{s}^{2}$, có độ cứng của lò xo $\\mathrm{k}=50 \\mathrm{~N} / \\mathrm{m}$. Khi vật dao động thì lực kéo cực đại và lực nén cực đại của lò xo lên giá treo lần lượt là $4 \\mathrm{~N}$ và $2 \\mathrm{~N}$. Vận tốc cực đại của vật là\nA. $40 \\sqrt{5} \\mathrm{~cm} / \\mathrm{s}$.\nB. $60 \\sqrt{5} \\mathrm{~cm} / \\mathrm{s}$.\nC. $30 \\sqrt{5} \\mathrm{~cm} / \\mathrm{s}$.\nD. $50 \\sqrt{5} \\mathrm{~cm} / \\mathrm{s}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Lực kéo cực đại và lực nén cực đại của lò xo lên giá treo lần lượt là:\n$\\left\\{\\begin{array}{l}F_{k \\max }=k \\cdot\\left(A+\\Delta l_{0}\\right) \\\\ F_{n \\max }=k \\cdot\\left(A-\\Delta l_{0}\\right)\\end{array} \\Rightarrow\\left\\{\\begin{array}{l}4=50 \\cdot\\left(A+\\Delta l_{0}\\right) \\\\ 2=50 \\cdot\\left(A-\\Delta l_{0}\\right)\\end{array} \\Rightarrow\\left\\{\\begin{array}{l}A=0,06 m \\\\ \\Delta l_{0}=0,02 m\\end{array}\\right.\\right.\\right.$\nTần số góc của con lắc là:\n$\\omega=\\sqrt{\\frac{g}{\\Delta l_{0}}}=\\sqrt{\\frac{10}{0,02}}=10 \\sqrt{5} \\mathrm{rad} / \\mathrm{s}$\nVận tốc cực đại của vật là:\n$v_{\\max }=\\omega A=10 \\sqrt{5} .0,06=0,6 \\sqrt{5} \\mathrm{~m} / \\mathrm{s}=60 \\sqrt{5} \\mathrm{~cm} / \\mathrm{s}$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_28",
+        "Image_Question": "",
+        "Question": "Câu 28:  Tính cảm ứng từ tại tâm của hai vòng tròn dây dẫn đồng tâm, bán kính một vòng là $R_{1}=8 \\mathrm{~cm}$, vòng kia là $R_{2}=16 \\mathrm{~cm}$, trong mỗi vòng dây đều có dòng điện cường độ $\\mathrm{I}=10 \\mathrm{~A}$ chạy qua. Biết hai vòng dây nằm trong hai mặt phẳng vuông góc với nhau.\nA. $3,9 \\cdot 10^{-5} T$.\nB. $8,8.10^{-5} T$.\nC. $6,8.10^{-5} T$.\nD. $7,6 \\cdot 10^{-5} T$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-17}\n\\end{center}\nCảm ứng từ tổng hợp tại tâm của hai vòng tròn: $\\vec{B}=\\overrightarrow{B_{1}}+\\overrightarrow{B_{2}}$\nTa có: $\\left\\{\\begin{array}{l}B_{1}=2 \\pi \\cdot 10^{-7} \\cdot \\frac{I_{1}}{R_{1}}=2 \\pi \\cdot 10^{-7} \\cdot \\frac{10}{0,08}=2,5 \\pi \\cdot 10^{-5} \\mathrm{~T} \\\\ B_{2}=2 \\pi \\cdot 10^{-7} \\cdot \\frac{I_{2}}{R_{2}}=2 \\pi \\cdot 10^{-7} \\cdot \\frac{10}{0,16}=1,25 \\pi \\cdot 10^{-5} \\mathrm{~T}\\end{array}\\right.$\nVì $\\overrightarrow{B_{1}} \\perp \\overrightarrow{B_{2}} \\Rightarrow B=\\sqrt{B_{1}^{2}+B_{2}^{2}}$\n$\\Rightarrow B=\\sqrt{\\left(2,5 \\pi \\cdot 10^{-5}\\right)^{2}+\\left(1,25 \\pi \\cdot 10^{-5}\\right)^{2}} \\approx 8,8 \\cdot 10^{-5} T$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_29",
+        "Image_Question": "",
+        "Question": "Câu 29:  Trong thí nghiệm về sóng dừng, trên một sợi dây đàn hồi dài 1,2m với hai đầu cố định, người ta quan sát thấy ngoài hai đầu dây cố định còn có hai điểm khác trên dây không dao động. Biết khoảng thời gian giữa hai lần liên tiếp sợi dây duỗi thẳng là $0,05 \\mathrm{~s}$. Tốc độ truyền sóng trên dây là\nA. $16 \\mathrm{~m} / \\mathrm{s}$.\nB. $12 \\mathrm{~m} / \\mathrm{s}$.\nC. $8 \\mathrm{~m} / \\mathrm{s}$.\nD. $4 \\mathrm{~m} / \\mathrm{s}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Ngoài hai đầu dây cố định còn có hai điểm khác trên dây không dao động $\\rightarrow$ trên dây có 4 nút sóng\n$\\Rightarrow k=4-1=3$\nLại có: $l=\\frac{k \\lambda}{2} \\Rightarrow 1,2=3 \\cdot \\frac{\\lambda}{2} \\Rightarrow \\lambda=0,8 m$\nKhoảng thời gian giữa hai lần liên tiếp sợi dây duỗi thẳng:\n$\\Delta t=\\frac{T}{2}=0,05 \\mathrm{~s} \\Rightarrow T=0,1 s$\nTốc độ truyền sóng trên dây là: $v=\\frac{\\lambda}{T}=\\frac{0,8}{0,1}=8 \\mathrm{~m} / \\mathrm{s}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_30",
+        "Image_Question": "",
+        "Question": "Câu 30:  Một con lắc lò xo có độ cứng $\\mathrm{k}=10 \\mathrm{~N} / \\mathrm{m}$, khối lượng vật nặng $\\mathrm{m}=100 \\mathrm{~g}$, dao động trên mặt phẳng ngang, được thả nhẹ từ vị trí lò xo giãn $6 \\mathrm{~cm}$. Hệ số ma sát trượt giữa con lắc và mặt phẳng bằng $\\mu=0,2$. Thời gian chuyển động thẳng của vật $\\mathrm{m}$ từ lúc ban đầu đến vị trí lò xo không biến dạng là:\nA. $\\frac{\\pi}{15} s$.\nB. $\\frac{\\pi}{30} s$.\nC. $\\frac{\\pi}{20} s$.\nD. $\\frac{\\pi}{25 \\sqrt{5}} S$.",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Tần số góc của con lắc là:\n$\\omega=\\sqrt{\\frac{k}{m}}=\\sqrt{\\frac{10}{0,1}}=10 \\mathrm{rad} / \\mathrm{s}$\nVật được thả nhẹ từ vị trí lò xo giãn $6 \\mathrm{~cm} \\rightarrow A_{0}=6 \\mathrm{~cm}$\nCó lực ma sát giữa con lắc và mặt phẳng nên VTCB dịch 1 đoạn:\n$O O^{\\prime}=\\frac{\\mu \\mathrm{mg}}{k}=\\frac{0,2 \\cdot 0,1 \\cdot 10}{10}=0,02 \\mathrm{~m}=2 \\mathrm{~cm}$\nBiên độ dao động của vật trong nửa chu kì đầu là:\n$A=A_{0}-O O^{\\prime}=6-2=4 \\mathrm{~cm}$\nTrong nửa chu kì đầu tiên đối vị trí cân bằng tạm $\\mathrm{O}$ ' thì vị trí lò xo không biến dạng có li độ $x=-2 \\mathrm{~cm}$.\nBiểu diễn trên VTLG ta có:\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-18}\n\\end{center}\nTừ VTLG xác định được góc quét: $\\alpha=\\frac{\\pi}{2}+\\frac{\\pi}{6}=\\frac{2 \\pi}{3}$\nThời gian chuyển động thẳng của vật $\\mathrm{m}$ từ lúc ban đầu đến vị trí lò xo không biến dạng là:\n$\\Delta t=\\frac{\\alpha}{\\omega}=\\frac{\\frac{2 \\pi}{3}}{10}=\\frac{\\pi}{15} \\mathrm{~s}$\nChọn A"
+    },
+    {
+        "ID": "Phy_28_31",
+        "Image_Question": "",
+        "Question": "Câu 31:  Khung dây kim loại phẳng có diện tích $S=50 \\mathrm{~cm}^{2}$, có $\\mathrm{N}=100$ vòng dây quay đều với tốc độ 50 vòng/giây quanh trục vuông góc với đường sức của từ trường đều $\\mathrm{B}=0,1 \\mathrm{~T}$. Chọn gốc thời gian $\\mathrm{t}=$ 0 là lúc pháp tuyến của khung dây có chiều trùng với chiều của vecto cảm ứng từ. Biểu thức từ thông qua khung dây là\nA. $\\Phi=500 \\sin (100 \\pi t)(W b)$.\nB. $\\Phi=0,05 \\sin (100 \\pi t)(W b)$.\nC. $\\Phi=500 \\cos (100 \\pi t)(W b)$.\nD. $\\Phi=0,05 \\cos (100 \\pi t)(W b)$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Từ thông cực đại qua khung dây là:\n$$\n\\Phi_{0}=\\text { N.B.S }=100 \\cdot 0,1 \\cdot 50 \\cdot 10^{-4}=0,05 \\mathrm{~Wb}\n$$\nTần số góc của khung dây là:\n$\\omega=2 \\pi f=2 \\pi .50=100 \\pi(\\mathrm{rad} / \\mathrm{s})$\nGốc thời gian $\\mathrm{t}=0$ là lúc pháp tuyến của khung có chiều trùng với chiều của vecto cảm ứng từ\n$\\rightarrow \\varphi=(\\vec{B} ; \\vec{n})=0$\n$\\Rightarrow \\Phi=0,05 \\cos (100 \\pi t)(W b)$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_32",
+        "Image_Question": "",
+        "Question": "Câu 32:  Một con lắc đơn gồm một vật nhỏ được treo vào đầu dưới của một sợi dây không dãn, đầu trên của sợi dây được buộc cố định. Bỏ qua ma sát và lực cản của không khi. Kéo con lắc lệch khỏi phương thẳng đứng một góc 0,1 rad rồi thả nhẹ. Tỉ số giữa độ lớn gia tốc của vật tại vị trí biên và độ lớn gia tốc tại vị trí cân bằng bằng:\nA. $\\infty$.\nB. 10 .\nC. 0,1.\nD. 0 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Tại biên có $\\alpha=\\alpha_{0}$\n\\end{itemize}\n$\\Rightarrow\\left\\{\\begin{array}{l}a_{h t}=0 \\\\ a_{t t}=g \\cdot \\sin \\alpha_{0}\\end{array} \\Rightarrow a_{b}=g \\cdot \\sin \\alpha_{0}\\right.$\n\\begin{itemize}\n\\item Tại VTCB có $\\alpha=0$\n\\end{itemize}\n$\\Rightarrow\\left\\{\\begin{array}{l}a_{h t}=2 g \\cdot\\left(1-\\cos \\alpha_{0}\\right) \\\\ a_{t t}=0\\end{array} \\Rightarrow a_{c b}=2 g \\cdot\\left(1-\\cos \\alpha_{0}\\right)\\right.$\nTỉ số độ lớn gia tốc của vật tại vị trí biên và độ lớn gia tốc tại VTCB:\n$\\frac{a_{b}}{a_{c b}}=\\frac{g \\cdot \\sin \\alpha_{0}}{2 g \\cdot\\left(1-\\cos \\alpha_{0}\\right)}=\\frac{\\sin 0,1}{2 \\cdot(1-\\cos 0,1)} \\approx 10$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_33",
+        "Image_Question": "",
+        "Question": "Câu 33:  Một khung dây tròn gồm 24 vòng dây, mỗi vòng dây có dòng điện chạy qua. Theo tính toán thấy cảm ứng từ ở tâm khung bằng $6,3 \\cdot 10^{-5} T$. Nhưng khi đo thì thấy cảm ứng từ ở tâm bằng $4,2.10^{-5} \\mathrm{~T}$ , kiểm tra lại thấy có một số vòng dây bị quấn nhầm chiều ngược chiều với đa số các vòng trong khung. Hỏi có bao nhiêu số vòng dây bị quấn nhầm:\nA. 4 .\nB. 2 .\nC. 3 .\nD. 5 .",
+        "Choice": "A",
+        "Image_Answer": "",
+        "Explanation": "Theo tính toán cảm ứng từ ở tâm do $\\mathrm{N}$ vòng dây sinh ra:\n$$\nB=2 \\pi \\cdot 10^{-7} \\cdot \\frac{N \\cdot I}{R}=6,3 \\cdot 10^{-5} T\n$$\nGiả sử có $n$ vòng dây bị quấn ngược.\nTừ trường của $\\mathrm{n}$ vòng quấn ngược sẽ khử bởi từ trường của $\\mathrm{n}$ vòng còn lại, vì vậy khi có $\\mathrm{n}$ vòng quấn ngược thì xem như khung dây bị mất $2 \\mathrm{n}$ vòng. Ta có:\n$$\n\\begin{aligned}\n& B^{\\prime}=2 \\pi \\cdot 10^{-7} \\cdot \\frac{(N-2 n) I}{R}=4,2 \\cdot 10^{-5} T \\\\\n& \\Rightarrow \\frac{B}{B^{\\prime}}=\\frac{N}{N-2 n} \\\\\n& \\Rightarrow \\frac{24}{24-2 n}=\\frac{6,3 \\cdot 10^{-5}}{4,2 \\cdot 10^{-5}}=\\frac{3}{2} \\Rightarrow n=4\n\\end{aligned}\n$$\nChọn A"
+    },
+    {
+        "ID": "Phy_28_34",
+        "Image_Question": "",
+        "Question": "Câu 34:  Con lắc lò xo đặt nằm ngang, gồm vật nặng có khối lượng $\\mathrm{m}=500 \\mathrm{~g}$ và một lò xo nhẹ có độ cứng $\\mathrm{k}=100 \\mathrm{~N} / \\mathrm{m}$ dao động điều hòa. Trong quá trình dao động chiều dài của lò xo biến thiên từ $22 \\mathrm{~cm}$ đến $30 \\mathrm{~cm}$. Khi vật ở đúng vị trí lò xo ngắn nhất người ta đặt nhẹ nhàng một vật có khối lượng m' = $\\mathrm{m}$ lên vật m. Cơ năng của hệ trước và sau khi đặt vật là:\nA. $0,08 J-0,16 J$.\nB. $0,08 \\mathrm{~J}-0,08 \\mathrm{~J}$.\nC. $0,08 J-0,32 J$.\nD. $80 J-160 J$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Biên độ dao động của vật:\n$$\nA=\\frac{l_{\\max }-l_{\\min }}{2}=\\frac{30-22}{2}=4 \\mathrm{~cm}\n$$\nCơ năng của hệ trước và sau khi đặt vật:\n$W_{t r}=W_{s}=\\frac{1}{2} k A^{2}=\\frac{1}{2} \\cdot 100 \\cdot 0,04^{2}=0,08 \\mathrm{~J}$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_35",
+        "Image_Question": "",
+        "Question": "Câu 35:  Một sợi dây dẫn có hai đầu $\\mathrm{AB}$ cố định. Cho dòng điện xoay chiều có tần số $\\mathrm{f}$ chạy qua. Biết sợi dây căng vuông góc với các đường cảm ứng từ của một từ trường đều, sợi dây có chiều dài $0,5 \\mathrm{~m}$, vận tốc truyền sóng trên dây là $10 \\mathrm{~m} / \\mathrm{s}$. Khi cho tần số của dòng điện thay đổi $40 \\mathrm{~Hz}<f<60 \\mathrm{~Hz}$ thì trên dây có thể tạo ra sóng dừng với số bụng sóng trên dây là\nA. 6 .\nB. 5 .\nC. 4 .\nD. 3 .",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Dòng điện xoay chiều khiến cho dây chịu tác dụng của lực từ và dây dao động theo phương vuông góc với đường sức từ với tần số $\\mathrm{f}$.\nSóng dừng trên dây với hai đầu cố định, ta có: $l=k \\cdot \\frac{\\lambda}{2}=k \\cdot \\frac{v}{2 f} \\Rightarrow f=\\frac{k v}{2 l}=\\frac{k \\cdot 10}{2 \\cdot 0,5}=10 k$\nMà $40 \\mathrm{~Hz}<f<60 \\mathrm{~Hz}$\n$\\Rightarrow 40<10 k<60 \\Rightarrow 4<k<6 \\Rightarrow k=5$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_36",
+        "Image_Question": "",
+        "Question": "Câu 36:  Một con lắc lò xo ở phương thẳng đứng dao động điều hòa theo phương trình $x=6 \\cos \\left(\\omega t-\\frac{2 \\pi}{3}\\right) \\mathrm{cm}$. Gốc tọa độ là vị trí cân bằng của vật, chiều dương hướng xuống. Trong quá trình dao động tỷ số giữa giá trị cực đại và cực tiểu của lực đàn hồi xuất hiện ở lò xo là $\\frac{5}{2}$. Lấy $g=\\pi^{2}=10 \\mathrm{~m} / \\mathrm{s}^{2}$. Biết khối lượng của vật nặng là $\\mathrm{m}=280 \\mathrm{~g}$, tại thời điểm $\\mathrm{t}=0$, lực đàn hồi của lò xo có độ lớn nào sau đây:\nA. $1,6 \\mathrm{~N}$.\nB. $2,2 \\mathrm{~N}$.\nC. $1,2 \\mathrm{~N}$.\nD. $3,2 \\mathrm{~N}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Tỉ số giữa giá trị cực đại và cực tiểu của lực đàn hồi:\n$\\frac{F_{\\text {dhmax }}}{F_{\\text {dhmin }}}=\\frac{k \\cdot\\left(\\Delta l_{0}+A\\right)}{k \\cdot\\left(\\Delta l_{0}-A\\right)} \\Rightarrow \\frac{5}{2}=\\frac{\\Delta l_{0}+6}{\\Delta l_{0}-6}$\n$\\Rightarrow \\Delta l_{0}=14 \\mathrm{~cm}=0,14 \\mathrm{~m}$\nTần số góc của con lắc là:\n$\\omega=\\sqrt{\\frac{g}{\\Delta l_{0}}}=\\sqrt{\\frac{10}{0,14}}=\\frac{10 \\sqrt{35}}{7} \\mathrm{rad} / \\mathrm{s}$\nĐộ cứng của lò xo là:\n$k=m \\omega^{2}=0,28 .\\left(\\frac{10 \\sqrt{35}}{7}\\right)^{2}=20 \\mathrm{~N} / \\mathrm{m}$\nTại $\\mathbf{t}=0$ vật có li độ là:\n$x=6 \\cos \\left(\\omega .0-\\frac{2 \\pi}{3}\\right)=-3 \\mathrm{~cm}=-0,03 \\mathrm{~m}$\nĐộ lớn lực đàn hồi của lò xo tại $\\mathrm{t}=0$ là:\n$F_{d h}=k \\cdot\\left|\\Delta l_{0}+x\\right|=20 \\cdot|0,14+(-0,03)|=2,2 N$\nChọn B"
+    },
+    {
+        "ID": "Phy_28_37",
+        "Image_Question": "",
+        "Question": "Câu 37:  Giao thoa sóng ở mặt nước với hai nguồn kết hợp đặt tại $\\mathrm{A}$ và $\\mathrm{B}$. Hai nguồn dao động điều hòa theo phương thẳng đứng, cùng pha và cùng tần số $10 \\mathrm{~Hz}$. Biết $\\mathrm{AB}=20 \\mathrm{~cm}$, tốc độ truyền sóng ở mặt nước là $0,3 \\mathrm{~m} / \\mathrm{s}$. Ở mặt nước, $\\mathrm{O}$ là trung điểm của $\\mathrm{AB}$, gọi $\\mathrm{Ox}$ là đường thẳng hợp với $\\mathrm{AB}$ một góc $60^{\\circ}$. $\\mathrm{M}$ là điểm trên $\\mathrm{Ox}$ mà phần tử vật chất tại $\\mathrm{M}$ dao động với biên độ cực đại ( $\\mathrm{M}$ không trùng với $\\mathrm{O})$. Khoảng cách ngắn nhất từ $\\mathrm{M}$ đến $\\mathrm{O}$ là\nA. $2,69 \\mathrm{~cm}$.\nB. $1,72 \\mathrm{~cm}$.\nC. $3,11 \\mathrm{~cm}$.\nD. $1,49 \\mathrm{~cm}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Bước sóng: $\\lambda=\\frac{v}{f}=\\frac{0,3}{10}=0,03 \\mathrm{~m}=3 \\mathrm{~cm}$\nĐể $\\mathrm{M}$ là cực đại và gần $\\mathrm{O}$ nhất thì $\\mathrm{M}$ nằm trên dãy cực đại ứng với $\\mathrm{k}=1$.\nCó: $O A=O B=\\frac{A B}{2}=10 \\mathrm{~cm}$\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-22}\n\\end{center}\nÁp dụng định lí hàm cos ta có:\n$\\left\\{\\begin{array}{l}d_{1}^{2}=d^{2}+10^{2}-2 \\cdot 10 \\cdot d \\cdot \\cos 120^{\\circ} \\\\ d_{2}^{2}=d^{2}+10^{2}-2 \\cdot 10 \\cdot d \\cdot \\cos 60^{\\circ}\\end{array}\\right.$\nLại có: $d_{1}-d_{2}=\\lambda=3 \\mathrm{~cm}$\n$\\Rightarrow \\sqrt{d^{2}+10^{2}-2 \\cdot 10 \\cdot d \\cdot \\cos 120^{0}}-\\sqrt{d^{2}+10^{2}-2 \\cdot 10 \\cdot d \\cdot \\cos 60^{0}}=3$\n$\\Rightarrow d=3,11 \\mathrm{~cm}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_38",
+        "Image_Question": "",
+        "Question": "Câu 38:  Một con lắc lò xo độ cứng $\\mathrm{k}=20 \\mathrm{~N} / \\mathrm{m}$, được treo trên trần một thang máy. Khi thang máy đứng yên thì con lắc được kích thích dao động điều hòa theo phương thẳng đứng với chu kì $0,4 \\mathrm{~s}$, biên độ $5 \\mathrm{~cm}$. Vừa lúc quả cầu của con lắc đang đi qua vị trí lò xo không biến dạng theo chiều từ trên xuống thì thang máy chuyển động nhanh dần đều đi lên với gia tốc có độ lớn $5 \\mathrm{~m} / \\mathrm{s}^{2}$. Lấy $\\mathrm{g}=10 \\mathrm{~m} / \\mathrm{s}^{2}$ và $\\pi^{2}=10$. Sau đó con lắc dao động với cơ năng là\nA. 0,55J.\nB. $0,022 \\mathrm{~J}$.\nC. 0,045J.\nD. 0,32J.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "\\begin{itemize}\n\\item Khi thang máy đứng yên, ta có:\n\\end{itemize}\n$\\left\\{\\begin{array}{l}\\omega=\\frac{2 \\pi}{T}=\\frac{2 \\pi}{0,4}=5 \\pi(\\mathrm{rad} / \\mathrm{s}) \\\\ \\Delta l_{0}=\\frac{g}{\\omega^{2}}=\\frac{\\pi^{2}}{(5 \\pi)^{2}}=0,04 \\mathrm{~m}\\end{array}\\right.$\nChọn gốc tọa độ tại VTCB, chiều dương hướng lên.\nVị trí lò xo biến dạng có: $x=\\Delta l_{0}$\nVận tốc của quả cầu con lắc khi đi qua vị trí lò xo không biến dạng:\n$v=\\omega \\sqrt{A^{2}-x^{2}}=\\omega \\sqrt{A^{2}-\\Delta l_{0}^{2}}$\n$\\Rightarrow v=5 \\pi \\sqrt{0,05^{2}-0,04^{2}}=0,15 \\pi(\\mathrm{m} / \\mathrm{s})$ * Khi thang máy chuyển động thì $g^{\\prime}=g+a$, vị trí cân bằng của con bị dịch xuống dưới một đoạn bằng:\n$O O^{\\prime}=\\Delta l=\\frac{m(g+a)}{k}-\\frac{m g}{k}=\\frac{m a}{k}=\\frac{a}{\\omega^{2}}=\\frac{5}{(5 \\pi)^{2}} \\approx 0,02 m$\nTại vị trí lò xo không biến dạng có li độ:\n$x^{\\prime}=O O^{\\prime}+\\Delta l_{0}=0,02+0,04=0,06 \\mathrm{~m}$\nBiên độ dao động mới:\n$A^{\\prime}=x^{\\prime 2}+\\frac{v^{2}}{\\omega^{2}} \\Rightarrow A^{\\prime 2}=0,06^{2}+\\frac{(0,15 \\pi)^{2}}{(5 \\pi)^{2}}=4,5 \\cdot 10^{-3}\\left(\\mathrm{~m}^{2}\\right)$\nCon lắc dao động với cơ năng:\n$W=\\frac{1}{2} k A^{\\prime 2}=\\frac{1}{2} \\cdot 20 \\cdot 4,5 \\cdot 10^{-3}=0,045 \\mathrm{~J}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_39",
+        "Image_Question": "",
+        "Question": "Câu 39:  Hai con lắc đơn giống hệt nhau mà các vật nhỏ mang điện tích như nhau, được treo ở một nơi trên mặt đất. Trong mỗi vùng không gian chứa mỗi con lắc có một điện trường đều. Hai điện trường này có cùng cường độ nhưng các đường sức hợp với nhau một góc $90^{\\circ}$. Giữ hai con lắc ở vị trí các dây treo có phương thẳng đứng rồi thả nhẹ cho chúng dao động điều hòa trong cùng một mặt phẳng với biên độ góc $8^{0}$ và có chu kì tương ứng là $T_{1}$ và $T_{2}=T_{1}+0,25 \\mathrm{~s}$. Giá trị của $T_{2}$ là\nA. 1,28s.\nB. $1,64 \\mathrm{~s}$.\nC. 0,76s.\nD. $1,97 \\mathrm{~s}$.",
+        "Choice": "C",
+        "Image_Answer": "",
+        "Explanation": "Gọi $g_{1}$ và $g_{2}$ là gia tốc của hai con lắc khi chịu tác dụng của ngoại lực.\nGọi $a_{1}$ và $a_{2}$ là gia tốc do lực điện tác dụng lên con lắc 1 và 2 .\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-23}\n\\end{center}\nCó $a_{1}=a_{2}$ vì hai con lắc giống nhau đặt trong cùng điện trường đều: $a_{1}=a_{2}=\\frac{|q| E}{m}$\nHai con lắc cùng biên độ nên $\\overrightarrow{g_{1} \\uparrow \\uparrow} \\overrightarrow{g_{2}}$\nCó $T_{2}>T_{1} \\Rightarrow g_{2}<g_{1}$ Xét tam giác $A B C$ có: $\\left\\{\\begin{array}{l}q_{1}=q_{2} \\\\ \\overrightarrow{a_{1}} \\perp \\overrightarrow{a_{2}}\\end{array} \\Rightarrow \\triangle A B C\\right.$ vuông cân.\nTam giác OAC có: $O B A=37^{\\circ} \\Rightarrow \\frac{g_{2}}{\\sin 37}=\\frac{a_{2}}{\\sin 8}(1)$\nTam giác OAC có: $\\frac{g_{1}}{\\sin 127}=\\frac{a_{1}}{\\sin 8}(2)$\nTừ (1) và (2) suy ra: $\\frac{g_{1}}{\\sin 127}=\\frac{g_{2}}{\\sin 37} \\Rightarrow \\frac{g_{1}}{g_{2}}=\\frac{\\sin 127}{\\sin 37}$\nMà: $\\left\\{\\begin{array}{l}\\frac{T_{2}}{T_{1}}=\\sqrt{\\frac{g_{1}}{g_{2}}}=\\sqrt{\\frac{\\sin 127}{\\sin 37}} \\Rightarrow T_{1}=T_{2} \\cdot \\sqrt{\\frac{\\sin 37}{\\sin 127}} \\\\ T_{2}=T_{1}+0,1 s\\end{array}\\right.$\n$\\Rightarrow T_{2}=T_{2} \\sqrt{\\frac{\\sin 37}{\\sin 127}}+0,1 \\Rightarrow T_{2}=0,76 \\mathrm{~s}$\nChọn C"
+    },
+    {
+        "ID": "Phy_28_40",
+        "Image_Question": "",
+        "Question": "Câu 40:  Một nguồn phát sóng dao động điều hòa tạo ra sóng tròn đồng tâm $\\mathrm{O}$ truyền trên mặt chất lỏng. Khoảng cách ngắn nhất giữa hai đỉnh sóng là $4 \\mathrm{~cm}$. Hai điểm $\\mathrm{M}$ và $\\mathrm{N}$ thuộc mặt chất lỏng mà phần tử chất lỏng tại đó dao động cùng pha với phần tử chất lỏng tại $\\mathrm{O}$. Không kể phần tử chất lỏng tại $\\mathrm{O}$, số phần tử chất lỏng dao động cùng pha với phần tử chất lỏng tại $\\mathrm{O}$ trên đoạn thẳng $\\mathrm{MO}$ là 6 , trên đoạn thẳng $\\mathrm{NO}$ là 4 và trên đoạn thẳng $\\mathrm{MN}$ là 3 . Khoảng cách $\\mathrm{MN}$ lớn nhất có giá trị gần nhất nào sau đây?\nA. $21 \\mathrm{~cm}$.\nB. $19 \\mathrm{~cm}$.\nC. $26 \\mathrm{~cm}$.\nD. $40 \\mathrm{~cm}$.",
+        "Choice": "B",
+        "Image_Answer": "",
+        "Explanation": "Khoảng cách ngắn nhất giữa hai đỉnh sóng chính bằng 1 bước sóng: $\\lambda=4 \\mathrm{~cm}$\nHai điểm dao động cùng pha cách nhau khoảng: $d=k \\lambda$\n$\\mathrm{M}, \\mathrm{N}$ dao động cùng pha với $\\mathrm{O}$.\nSố phần tử dao động cùng pha với $\\mathrm{O}$ trên đoạn $\\mathrm{MO}$ (không kể $\\mathrm{O}$ ) là $6 \\Rightarrow M O=6 \\lambda$\nSố phần tử dao động cùng pha với $\\mathrm{O}$ trên đoạn $\\mathrm{NO}$ (không kể $\\mathrm{O}$ ) là $6 \\Rightarrow N O=4 \\lambda$\n\\begin{center}\n\\includegraphics[max width=\\textwidth]{2023_06_06_67b1069170b539dca735g-24}\n\\end{center}\nKẻ $\\mathrm{OH} \\perp \\mathrm{MN} \\Rightarrow \\mathrm{OH}<4 \\lambda \\Rightarrow$ trên đoạn $\\mathrm{MN}$ sẽ có 4 điểm cùng pha với $\\mathrm{O}$ (ba điểm trên đoạn $\\mathrm{MH}$ và 1 điểm tại $\\mathrm{N}$ )\nVậy để trên $\\mathrm{MN}$ chỉ có 3 điểm cùng pha với $\\mathrm{O}$ mà $\\mathrm{MN}$ lớn nhất thì $\\mathrm{N}$ phải trùng $\\mathrm{H} \\Rightarrow N O \\perp M N$\n$\\Rightarrow M N=\\sqrt{O M^{2}-O N^{2}}=\\sqrt{(6 \\lambda)^{2}-(4 \\lambda)^{2}}=\\sqrt{24^{2}-16^{2}} \\approx 18 \\mathrm{~cm}$\nChọn B"
+    }
+]

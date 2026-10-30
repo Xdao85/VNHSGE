@@ -24,7 +24,8 @@ the [GPT-4 Report](https://openai.com/research/gpt-4)
 ![alt text](https://github.com/Xdao85/VNHSGE/blob/main/Figures/VNHSGE_other_dataset.png?raw=true)
 
 ## Latest News
-> * Full dataset will be uploaded soon!
+> * [10/30/2026] English completed: 32 more exams (30 train, 2 test) from the book *45 đề thi thử Tiếng Anh THPT Quốc gia 2023* — English now has 50 exams / 2,500 questions.
+> * [10/30/2026] Train and test sets were uploaded for mathematics, English, physics, chemistry and biology (Word and JSON formats, with images). See [Dataset/NOTES.md](Dataset/NOTES.md) for the splits and every manual correction.
 > * [7/20/2023] Full VNHSGE geography dataset was uploaded (200, 200, 1600 questions for eval, test, train sets);
 > * [7/19/2023] Full VNHSGE civic education dataset was uploaded (200, 200, 1600 questions for eval, test, train sets);
 > * [7/19/2023] Full VNHSGE history dataset was uploaded (200, 200, 1600 questions for eval, test, train sets);
@@ -33,7 +34,7 @@ the [GPT-4 Report](https://openai.com/research/gpt-4)
 <!--- We will update evaluation set including 30 essay on literature and 1700 multiple choice questions one other subjects [5/30/2023] -->
 <!-- SETUP -->
 ## Dataset structure
-VNHSGE dataset covers nice subjects including 300 essays on Literature and 19,000 multiple choice questions on other subjects. 
+VNHSGE dataset covers nine subjects including 300 essays on Literature and 19,000 multiple choice questions on other subjects. 
 
 Subject | Type | Number of questions per exam | Number of exams | Question Total 
 | :---: | :---: | :---: | :---: | :---:
@@ -47,6 +48,25 @@ History | Multiple choice | 40 | 50 | 2000
 Geography | Multiple choice | 40 | 50 | 2000
 Civic Education | Multiple choice | 40 | 50 | 2000
 
+
+### Released so far
+
+Number of exams (questions) currently available in `Dataset/VNHSGE-V`:
+
+Subject | eval | test | train
+| :--- | :---: | :---: | :---:
+Mathematics | 5 (250) | 5 (250) | 41 (2050)
+Literature | 5 (30 essay items) | – | –
+English | 5 (250) | 5 (250) | 40 (2000)
+Physics | 5 (200) | 5 (200) | 40 (1600)
+Chemistry | 5 (200) | 5 (200) | 40 (1587)
+Biology | 5 (200) | 5 (200) | 40 (1590)
+History | 5 (200) | 5 (200) | 40 (1600)
+Geography | 5 (200) | 5 (200) | 40 (1600)
+Civic Education | 5 (200) | 5 (197) | 40 (1600)
+
+The `eval` set contains the official exams of 2019–2023. Literature test/train sets are not released yet.
+
 Dataset folder
 
     VNHSGE
@@ -59,13 +79,23 @@ Dataset folder
     │    │   │     ├── ..........                # 
     │    │   │     ├── Civic Education           # VNHSGE civic education dataset
     │    │   ├── test                            # test set
+    │    │   │     ├── Mathematics               #
+    │    │   │     │   ├── MET_Math_OE_2019_101.json
+    │    │   │     │   ├── MET_Math_OE_2019_101  # Image folder
+    │    │   │     ├── ..........                #
     │    │   ├── train                           # train set
+    │    │   │     ├── Mathematics               #
+    │    │   │     │   ├── Math_1.json           #
+    │    │   │     │   ├── Math_1                # Image folder
+    │    │   │     ├── ..........                #
     │    └── Word format                         # Word folder                            
     │    │   ├── eval                   
     │    │   │     ├── Mathematics               # VNHSGE mathematics dataset
     │    │   │     │   ├── MET_Math_IE_2023.docx # Word file 
     │    │   │     ├── ..........                # 
     │    │   │     ├── Civic Education           # VNHSGE civic education dataset
+    │    │   ├── test                            # same layout as JSON format
+    │    │   ├── train                           # same layout as JSON format
     ├── VNHSGE-E                                 # English versions
 
 
